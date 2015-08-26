@@ -2,28 +2,602 @@
   *   PostCSS Plugin List
   *
   *   A consolidated list of PostCSS Plugins
-  *   for the community to share.
+  *   for the community to share/export/use
   *
   *   Feel free to add and make changes!
   *
   *   Schema:  {
-  *     "name"       : "name-of-plugin",
-  *     "description": "It gives your CSS superpowers",
-  *     "url"        : "http://cool-plugin-link.com"
+  *     name       : "name-of-plugin",
+  *     url        : "http://cool-plugin-link.com",
+  *     description: "It gives your CSS superpowers"
   *   }
   *
   */
 
-var PostCSSPlugins = {
+var PostCSSPlugins = [
 
+  {
+    "name": "atcss",
+    "url": "https://github.com/morishitter/atcss",
+    "description": "Plugin pack that transforms your CSS according to special annotation comments."
+  }, {
+    "name": "cssnano",
+    "url": "https://github.com/ben-eb/cssnano",
+    "description": "Plugin pack that optimizes CSS size for use in production."
+  }, {
+    "name": "cssnext",
+    "url": "https://github.com/cssnext/cssnext/",
+    "description": "Plugin pack that allows you to use future CSS features today."
+  }, {
+    "name": "precss",
+    "url": "https://github.com/jonathantneal/precss",
+    "description": "Plugin pack that allows you to use Sass-like CSS."
+  }, {
+    "name": "rucksack",
+    "url": "https://github.com/simplaio/rucksack",
+    "description": "Plugin pack to speeds up CSS development with new features and shortcuts."
+  }, {
+    "name": "stylelint",
+    "url": "https://github.com/stylelint/stylelint",
+    "description": "Plugin pack that lints your stylesheets."
+  }, {
+    "name": "postcss-all-property",
+    "url": "https://github.com/maximkoretskiy/postcss-all-property",
+    "description": "supports all: initial to clean inherit styles."
+  }, {
+    "name": "postcss-color-function",
+    "url": "https://github.com/postcss/postcss-color-function",
+    "description": "Supports functions to transform colors."
+  }, {
+    "name": "postcss-color-gray",
+    "url": "https://github.com/postcss/postcss-color-gray",
+    "description": "Supports the gray() function."
+  }, {
+    "name": "postcss-color-hex-alpha",
+    "url": "https://github.com/postcss/postcss-color-hex-alpha",
+    "description": "Supports #rrggbbaa and #rgba notation."
+  }, {
+    "name": "postcss-color-hwb",
+    "url": "https://github.com/postcss/postcss-color-hwb",
+    "description": "Transforms hwb() to widely compatible rgb()."
+  }, {
+    "name": "postcss-color-rebeccapurple",
+    "url": "https://github.com/postcss/postcss-color-rebeccapurple",
+    "description": "Supports the rebeccapurple color."
+  }, {
+    "name": "postcss-conic-gradient",
+    "url": "https://github.com/jonathantneal/postcss-conic-gradient",
+    "description": "Supports the conic-gradient background."
+  }, {
+    "name": "postcss-custom-media",
+    "url": "https://github.com/postcss/postcss-custom-media",
+    "description": "Supports custom aliases for media queries."
+  }, {
+    "name": "postcss-custom-properties",
+    "url": "https://github.com/postcss/postcss-custom-properties",
+    "description": "Supports variables, using syntax from the W3C Custom Properties."
+  }, {
+    "name": "postcss-custom-selectors",
+    "url": "https://github.com/postcss/postcss-custom-selectors",
+    "description": "Adds custom aliases for selectors."
+  }, {
+    "name": "postcss-extend",
+    "url": "https://github.com/travco/postcss-extend",
+    "description": "Supports spec-approximate @extend for rules and placeholders, recursively."
+  }, {
+    "name": "postcss-font-variant",
+    "url": "https://github.com/postcss/postcss-font-variant",
+    "description": "Transpiles human-readable font-variant to more widely supported CSS."
+  }, {
+    "name": "postcss-host",
+    "url": "https://github.com/vitkarpov/postcss-host",
+    "description": "Makes the Shadow DOM :host selector work properly with pseudo-classes."
+  }, {
+    "name": "postcss-media-minmax",
+    "url": "https://github.com/postcss/postcss-media-minmax",
+    "description": "Adds <= and => statements to media queries."
+  }, {
+    "name": "postcss-pseudo-class-any-link",
+    "url": "https://github.com/jonathantneal/postcss-pseudo-class-any-link",
+    "description": "Adds :any-link pseudo-class."
+  }, {
+    "name": "postcss-selector-not",
+    "url": "https://github.com/postcss/postcss-selector-not",
+    "description": "Transforms CSS4 :not() to CSS3 :not()"
+  }, {
+    "name": "mq4-hover-shim",
+    "url": "https://github.com/twbs/mq4-hover-shim",
+    "description": "Supports the @media(hover) feature."
+  }, {
+    "name": "postcss-color-rgba-fallback",
+    "url": "https://github.com/postcss/postcss-color-rgba-fallback",
+    "description": "Transforms rgba() to hexadecimal."
+  }, {
+    "name": "postcss-epub",
+    "url": "https://github.com/Rycochet/postcss-epub",
+    "description": "Adds the -epub- prefix to relevant properties."
+  }, {
+    "name": "postcss-opacity",
+    "url": "https://github.com/iamvdo/postcss-opacity",
+    "description": "Adds opacity filter for IE8."
+  }, {
+    "name": "postcss-pseudoelements",
+    "url": "https://github.com/axa-ch/postcss-pseudoelements",
+    "description": "Convert :: selectors into : selectors for IE 8 compatibility."
+  }, {
+    "name": "postcss-vmin",
+    "url": "https://github.com/iamvdo/postcss-vmin",
+    "description": "Generates vm fallback for vmin unit in IE9."
+  }, {
+    "name": "postcss-will-change",
+    "url": "https://github.com/postcss/postcss-will-change",
+    "description": "Inserts 3D hack before will-change property."
+  }, {
+    "name": "autoprefixer",
+    "url": "https://github.com/postcss/autoprefixer",
+    "description": "Adds vendor prefixes for you, using data from Can I Use."
+  }, {
+    "name": "cssgrace",
+    "url": "https://github.com/cssdream/cssgrace",
+    "description": "Provides various helpers and transpiles CSS 3 for IE and other old browsers."
+  }, {
+    "name": "pixrem",
+    "url": "https://github.com/robwierzbowski/node-pixrem",
+    "description": "Generates pixel fallbacks for rem units."
+  }, {
+    "name": "postcss-bem",
+    "url": "https://github.com/ileri/postcss-bem",
+    "description": "Adds at-rules for BEM and SUIT style classes."
+  }, {
+    "name": "postcss-conditionals",
+    "url": "https://github.com/andyjansson/postcss-conditionals",
+    "description": "Adds @if statements."
+  }, {
+    "name": "postcss-css-variables",
+    "url": "https://github.com/MadLittleMods/postcss-css-variables",
+    "description": "Supports variables for selectors, and at-rules using W3C similar syntax."
+  }, {
+    "name": "postcss-define-property",
+    "url": "https://github.com/daleeidd/postcss-define-property",
+    "description": "To define properties shortcut."
+  }, {
+    "name": "postcss-each",
+    "url": "https://github.com/outpunk/postcss-each",
+    "description": "Adds @each statement."
+  }, {
+    "name": "postcss-for",
+    "url": "https://github.com/antyakushev/postcss-for",
+    "description": "Adds @for loops."
+  }, {
+    "name": "postcss-functions",
+    "url": "https://github.com/andyjansson/postcss-functions",
+    "description": "enables exposure of JavaScript functions."
+  }, {
+    "name": "postcss-local-constants",
+    "url": "https://github.com/macropodhq/postcss-local-constants",
+    "description": "Adds support for localized constants."
+  }, {
+    "name": "postcss-match",
+    "url": "https://github.com/rtsao/postcss-match",
+    "description": "adds @match for Rust-style pattern matching."
+  }, {
+    "name": "postcss-map",
+    "url": "https://github.com/pascalduez/postcss-map",
+    "description": "Enables configuration maps."
+  }, {
+    "name": "postcss-mixins",
+    "url": "https://github.com/postcss/postcss-mixins",
+    "description": "Enables mixins more powerful than Sass', defined within stylesheets or in JS."
+  }, {
+    "name": "postcss-media-variables",
+    "url": "https://github.com/WolfgangKluge/postcss-media-variables",
+    "description": "Adds support for var() and calc() in @media rules."
+  }, {
+    "name": "postcss-modular-scale",
+    "url": "https://github.com/kristoferjoseph/postcss-modular-scale",
+    "description": "Adds a modular scale ms() function."
+  }, {
+    "name": "postcss-nested",
+    "url": "https://github.com/postcss/postcss-nested",
+    "description": "Unwraps nested rules."
+  }, {
+    "name": "postcss-nested-props",
+    "url": "https://github.com/jedmao/postcss-nested-props",
+    "description": "Unwraps nested properties."
+  }, {
+    "name": "postcss-pseudo-class-enter",
+    "url": "https://github.com/jonathantneal/postcss-pseudo-class-enter",
+    "description": "Transforms :enter into :hover and :focus."
+  }, {
+    "name": "postcss-quantity-queries",
+    "url": "https://github.com/pascalduez/postcss-quantity-queries",
+    "description": "Enables quantity queries."
+  }, {
+    "name": "postcss-sassy-mixins",
+    "url": "https://github.com/andyjansson/postcss-sassy-mixins",
+    "description": "Enables mixins with Sass keywords."
+  }, {
+    "name": "postcss-simple-extend",
+    "url": "https://github.com/davidtheclark/postcss-simple-extend",
+    "description": "Lightweight extending of silent classes, like Sass' @extend."
+  }, {
+    "name": "postcss-simple-vars",
+    "url": "https://github.com/postcss/postcss-simple-vars",
+    "description": "Supports for Sass-style variables."
+  }, {
+    "name": "postcss-strip-units",
+    "url": "https://github.com/whitneyit/postcss-strip-units",
+    "description": "Strips units off of property values."
+  }, {
+    "name": "postcss-vertical-rhythm",
+    "url": "https://github.com/markgoodyear/postcss-vertical-rhythm",
+    "description": "Adds a vertical rhythm unit based on font-size and line-height."
+  }, {
+    "name": "csstyle",
+    "url": "https://github.com/geddski/csstyle",
+    "description": "Adds components workflow to your styles."
+  }, {
+    "name": "postcss-gtk",
+    "url": "https://github.com/1j01/postcss-gtk",
+    "description": "Processes GTK+ CSS into browser CSS."
+  }, {
+    "name": "postcss-ase-colors",
+    "url": "https://github.com/dfernandez79/postcss-ase-colors",
+    "description": "replaces color names with values read from an ASE palette file."
+  }, {
+    "name": "postcss-brand-colors",
+    "url": "https://github.com/postcss/postcss-brand-colors",
+    "description": "Inserts company brand colors in the brand-colors module."
+  }, {
+    "name": "postcss-color-alpha",
+    "url": "https://github.com/avanes/postcss-color-alpha",
+    "description": "Transforms #hex.a, black(alpha) and white(alpha) to rgba()."
+  }, {
+    "name": "postcss-color-hcl",
+    "url": "https://github.com/devgru/postcss-color-hcl",
+    "description": "Transforms hcl(H, C, L) and hcl(H, C, L, alpha) to #rgb and #rgba."
+  }, {
+    "name": "postcss-color-hexa",
+    "url": "https://github.com/nicksheffield/postcss-color-hexa",
+    "description": "Transforms hexa(hex, alpha) into rgba() format."
+  }, {
+    "name": "postcss-color-mix",
+    "url": "https://github.com/iamstarkov/postcss-color-mix",
+    "description": "Mixes two colors together."
+  }, {
+    "name": "postcss-color-palette",
+    "url": "https://github.com/zaim/postcss-color-palette",
+    "description": "Transforms CSS 2 color keywords to a custom palette."
+  }, {
+    "name": "postcss-color-pantone",
+    "url": "https://github.com/longdog/postcss-color-pantone",
+    "description": "Transforms pantone color to RGB."
+  }, {
+    "name": "postcss-color-scale",
+    "url": "https://github.com/kristoferjoseph/postcss-color-scale",
+    "description": "Adds a color scale cs() function."
+  }, {
+    "name": "postcss-color-short",
+    "url": "https://github.com/andrepolischuk/postcss-color-short",
+    "description": "adds shorthand color declarations."
+  }, {
+    "name": "postcss-colorblind",
+    "url": "https://github.com/btholt/postcss-colorblind",
+    "description": "Transforms colors using filters to simulate colorblindness."
+  }, {
+    "name": "postcss-hexrgba",
+    "url": "https://github.com/seaneking/postcss-hexrgba",
+    "description": "Adds shorthand hex rgba(hex, alpha) method."
+  }, {
+    "name": "postcss-rgb-plz",
+    "url": "https://github.com/himynameisdave/postcss-rgb-plz",
+    "description": "converts 3 or 6 digit hex values to rgb"
+  }, {
+    "name": "postcss-assets",
+    "url": "https://github.com/borodean/postcss-assets",
+    "description": "Allows you to simplify URLs, insert image dimensions, and inline files."
+  }, {
+    "name": "postcss-at2x",
+    "url": "https://github.com/simonsmith/postcss-at2x",
+    "description": "Handles retina background images via use of at-2x keyword."
+  }, {
+    "name": "postcss-data-packer",
+    "url": "https://github.com/Ser-Gen/postcss-data-packer",
+    "description": "Moves embedded Base64 data to a separate file."
+  }, {
+    "name": "postcss-image-set",
+    "url": "https://github.com/alex499/postcss-image-set",
+    "description": "Adds background-image with first image for image-set()."
+  }, {
+    "name": "postcss-font-pack",
+    "url": "https://github.com/jedmao/postcss-font-pack",
+    "description": "Simplifies font declarations and validates they match configured font packs."
+  }, {
+    "name": "postcss-fontpath",
+    "url": "https://github.com/seaneking/postcss-fontpath",
+    "description": "Adds font links for different browsers."
+  }, {
+    "name": "postcss-sprites",
+    "url": "https://github.com/2createStudio/postcss-sprites",
+    "description": "Generates CSS sprites from stylesheets."
+  }, {
+    "name": "postcss-svg",
+    "url": "https://github.com/Pavliko/postcss-svg",
+    "description": "Insert inline SVG to CSS and allows to manage it colors."
+  }, {
+    "name": "postcss-svg-fallback",
+    "url": "https://github.com/justim/postcss-svg-fallback",
+    "description": "Converts SVG in your CSS to PNG files for IE 8."
+  }, {
+    "name": "postcss-svgo",
+    "url": "https://github.com/ben-eb/postcss-svgo",
+    "description": "Processes inline SVG through SVGO."
+  }, {
+    "name": "postcss-url",
+    "url": "https://github.com/postcss/postcss-url",
+    "description": "Rebases or inlines url()s."
+  }, {
+    "name": "postcss-urlrev",
+    "url": "https://github.com/yuezk/postcss-urlrev",
+    "description": "adds MD5 hash strings to url()s."
+  }, {
+    "name": "webpcss",
+    "url": "https://github.com/lexich/webpcss",
+    "description": "Adds URLs for WebP images for browsers that support WebP."
+  }, {
+    "name": "postcss-urlrev",
+    "url": "https://github.com/yuezk/postcss-urlrev",
+    "description": "Adds md5 hash strings to url()s."
+  }, {
+    "name": "postcss-grid",
+    "url": "https://github.com/andyjansson/postcss-grid",
+    "description": "Adds a semantic grid system."
+  }, {
+    "name": "postcss-neat",
+    "url": "https://github.com/jo-asakura/postcss-neat",
+    "description": "A semantic and fluid grid framework."
+  }, {
+    "name": "lost",
+    "url": "https://github.com/corysimmons/lost",
+    "description": "Feature-rich calc() grid system by Jeet author."
+  }, {
+    "name": "postcss-calc",
+    "url": "https://github.com/postcss/postcss-calc",
+    "description": "Reduces calc() to values (when expressions involve the same units)."
+  }, {
+    "name": "postcss-import",
+    "url": "https://github.com/postcss/postcss-import",
+    "description": "Inlines the stylesheets referred to by @import rules."
+  }, {
+    "name": "postcss-single-charset",
+    "url": "https://github.com/hail2u/postcss-single-charset",
+    "description": " ensures that there is one and only one @charset rule at the top of file."
+  }, {
+    "name": "postcss-zindex",
+    "url": "https://github.com/ben-eb/postcss-zindex",
+    "description": "Rebases positive z-index values."
+  }, {
+    "name": "css-byebye",
+    "url": "https://github.com/AoDev/css-byebye",
+    "description": "Removes the CSS rules that you don't want."
+  }, {
+    "name": "css-mqpacker",
+    "url": "https://github.com/hail2u/node-css-mqpacker",
+    "description": "Joins matching CSS media queries into a single statement."
+  }, {
+    "name": "stylehacks",
+    "url": "https://github.com/ben-eb/stylehacks",
+    "description": "Removes CSS hacks based on browser support."
+  }, {
+    "name": "postcss-alias",
+    "url": "https://github.com/seaneking/postcss-alias",
+    "description": "Creates shorter aliases for properties."
+  }, {
+    "name": "postcss-all-link-colors",
+    "url": "https://github.com/jedmao/postcss-all-link-colors",
+    "description": "Insert colors for link-related pseudo-classes."
+  }, {
+    "name": "postcss-border",
+    "url": "https://github.com/andrepolischuk/postcss-border",
+    "description": "Adds shorthand for width and color of all borders in border property."
+  }, {
+    "name": "postcss-center",
+    "url": "https://github.com/jedmao/postcss-center",
+    "description": "centers elements"
+  }, {
+    "name": "postcss-circle",
+    "url": "https://github.com/jedmao/postcss-circle",
+    "description": "Inserts a circle with color."
+  }, {
+    "name": "postcss-clearfix",
+    "url": "https://github.com/seaneking/postcss-clearfix",
+    "description": "Adds fix and fix-legacy properties to the clear declaration."
+  }, {
+    "name": "postcss-crip",
+    "url": "https://github.com/johnie/postcss-crip",
+    "description": "Shorthand properties for Crips that are too lazy to write."
+  }, {
+    "name": "postcss-default-unit",
+    "url": "https://github.com/antyakushev/postcss-default-unit",
+    "description": "Adds default unit to numeric CSS properties."
+  }, {
+    "name": "postcss-easings",
+    "url": "https://github.com/postcss/postcss-easings",
+    "description": "Replaces easing names from easings.net with cubic-bezier() functions."
+  }, {
+    "name": "postcss-filter",
+    "url": "https://github.com/alanev/postcss-filter",
+    "description": "adds shorthand for black and white filter."
+  }, {
+    "name": "postcss-focus",
+    "url": "https://github.com/postcss/postcss-focus",
+    "description": "Adds :focus selector to every :hover."
+  }, {
+    "name": "postcss-generate-preset",
+    "url": "https://github.com/simonsmith/postcss-generate-preset",
+    "description": "Allows quick generation of rules. Useful for creating repetitive utilities."
+  }, {
+    "name": "postcss-input-style",
+    "url": "https://github.com/seaneking/postcss-input-style",
+    "description": "adds new pseudo-elements for cross-browser styling of inputs."
+  }, {
+    "name": "postcss-position",
+    "url": "https://github.com/seaneking/postcss-position",
+    "description": "Adds shorthand declarations for position attributes."
+  }, {
+    "name": "postcss-property-lookup",
+    "url": "https://github.com/simonsmith/postcss-property-lookup",
+    "description": "Allows referencing property values without a variable."
+  }, {
+    "name": "postcss-responsive-type",
+    "url": "https://github.com/seaneking/postcss-responsive-type",
+    "description": "Changes font-size depending on screen size."
+  }, {
+    "name": "postcss-short",
+    "url": "https://github.com/jonathantneal/postcss-short",
+    "description": "Adds and extends numerous shorthand properties."
+  }, {
+    "name": "postcss-size",
+    "url": "https://github.com/postcss/postcss-size",
+    "description": "Adds a size shortcut that sets width and height with one declaration."
+  }, {
+    "name": "postcss-transform-shortcut",
+    "url": "https://github.com/jonathantneal/postcss-transform-shortcut",
+    "description": "Allows shorthand transform properties in CSS."
+  }, {
+    "name": "postcss-triangle",
+    "url": "https://github.com/jedmao/postcss-triangle",
+    "description": "creates a triangle"
+  }, {
+    "name": "postcss-verthorz",
+    "url": "https://github.com/davidhemphill/postcss-verthorz",
+    "description": "Adds vertical and horizontal spacing declarations."
+  }, {
+    "name": "postcss-font-magician",
+    "url": "https://github.com/jonathantneal/postcss-font-magician",
+    "description": "generates all the @font-face rules needed in CSS."
+  }, {
+    "name": "postcss-class-prefix",
+    "url": "https://github.com/thompsongl/postcss-class-prefix",
+    "description": "Adds a prefix/namespace to class selectors."
+  }, {
+    "name": "postcss-fakeid",
+    "url": "https://github.com/pathsofdesign/postcss-fakeid",
+    "description": "Transforms #foo IDs to attribute selectors [id='foo']."
+  }, {
+    "name": "postcss-flexboxfixer",
+    "url": "https://github.com/hallvors/postcss-flexboxfixer",
+    "description": "Unprefixes -webkit- only flexbox in legacy CSS."
+  }, {
+    "name": "postcss-gradientfixer",
+    "url": "https://github.com/hallvors/postcss-gradientfixer",
+    "description": "Unprefixes -webkit- only gradients in legacy CSS."
+  }, {
+    "name": "postcss-increase-specificity",
+    "url": "https://github.com/MadLittleMods/postcss-increase-specificity",
+    "description": "increases the specificity of your selectors."
+  }, {
+    "name": "postcss-mq-keyframes",
+    "url": "https://github.com/TCotton/postcss-mq-keyframes",
+    "description": "Moves any animation keyframes in media queries to the end of the file."
+  }, {
+    "name": "postcss-pseudo-elements-content",
+    "url": "https://github.com/omgovich/postcss-pseudo-elements-content",
+    "description": "Automatically adds content: '' to :before and :after."
+  }, {
+    "name": "postcss-pxtorem",
+    "url": "https://github.com/cuth/postcss-pxtorem",
+    "description": "Converts pixel units to rem."
+  }, {
+    "name": "postcss-remove-prefixes",
+    "url": "https://github.com/johnotander/postcss-remove-prefixes",
+    "description": "removes vendor prefixes."
+  }, {
+    "name": "postcss-style-guide",
+    "url": "https://github.com/morishitter/postcss-style-guide",
+    "description": "Generates a style guide automatically."
+  }, {
+    "name": "postcss-scopify",
+    "url": "https://github.com/pazams/postcss-scopify",
+    "description": "Adds a user input scope to each selector."
+  }, {
+    "name": "cssfmt",
+    "url": "https://github.com/morishitter/cssfmt",
+    "description": "formats CSS source code automatically inspired by Gofmt."
+  }, {
+    "name": "perfectionist",
+    "url": "https://github.com/ben-eb/perfectionist",
+    "description": "Formats poorly written CSS and renders a 'pretty' result."
+  }, {
+    "name": "rtlcss",
+    "url": "https://github.com/MohammadYounes/rtlcss",
+    "description": "Mirrors styles for right-to-left locales."
+  }, {
+    "name": "postcss-bem-linter",
+    "url": "https://github.com/necolas/postcss-bem-linter",
+    "description": "Lints CSS for conformance to SUIT CSS methodology."
+  }, {
+    "name": "postcss-cssstats",
+    "url": "https://github.com/cssstats/postcss-cssstats",
+    "description": "Returns an object with CSS statistics."
+  }, {
+    "name": "css2modernizr",
+    "url": "https://github.com/vovanbo/css2modernizr",
+    "description": "Creates a Modernizr config file that requires only the tests that your CSS uses."
+  }, {
+    "name": "doiuse",
+    "url": "https://github.com/anandthakker/doiuse",
+    "description": "Lints CSS for browser support, using data from Can I Use."
+  }, {
+    "name": "immutable-css",
+    "url": "https://github.com/johnotander/immutable-css",
+    "description": "Lints CSS for class mutations."
+  }, {
+    "name": "list-selectors",
+    "url": "https://github.com/davidtheclark/list-selectors",
+    "description": "Lists and categorizes the selectors used in your CSS, for code review."
+  }, {
+    "name": "postcss-selector-source",
+    "url": "https://github.com/a-axton/postcss-selector-source",
+    "description": "Displays the original line and column position of your CSS selectors and declarations from your pre-processed files."
+  }, {
+    "name": "postcss-browser-reporter",
+    "url": "https://github.com/postcss/postcss-browser-reporter",
+    "description": "Displays warning messages from other plugins right in your browser."
+  }, {
+    "name": "postcss-reporter",
+    "url": "https://github.com/postcss/postcss-reporter",
+    "description": "Logs warnings and other messages from other plugins in the console."
+  }, {
+    "name": "postcss-australian-stylesheets",
+    "url": "https://github.com/dp-lewis/postcss-australian-stylesheets",
+    "description": "Australian Style Sheets."
+  }, {
+    "name": "postcss-canadian-stylesheets",
+    "url": "https://github.com/chancancode/postcss-canadian-stylesheets",
+    "description": "Canadian Style Sheets."
+  }, {
+    "name": "postcss-german-stylesheets",
+    "url": "https://github.com/timche/postcss-german-stylesheets",
+    "description": "German Style Sheets."
+  }, {
+    "name": "postcss-imperial",
+    "url": "https://github.com/cbas/postcss-imperial",
+    "description": "adds CSS support for Imperial and US customary units of length."
+  }, {
+    "name": "postcss-russian-units",
+    "url": "https://github.com/Semigradsky/postcss-russian-units",
+    "description": "adds CSS support for russian units of length."
+  }, {
+    "name": "postcss-pointer",
+    "url": "https://github.com/markgoodyear/postcss-pointer",
+    "description": "Replaces pointer: cursor with cursor: pointer."
+  }, {
+    "name": "postcss-spiffing",
+    "url": "https://github.com/HashanP/postcss-spiffing",
+    "description": "Lets you use British English in your CSS."
+  }
 
-
-
-
-
-
-
-
-};
+];
 
 module.exports = PostCSSPlugins;
