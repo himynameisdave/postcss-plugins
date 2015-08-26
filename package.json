@@ -1,0 +1,21 @@
+{
+  "name": "postcss-plugins",
+  "version": "1.0.0",
+  "description": "A consolidated list of PostCSS plugins in an ready-to-use format.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/himynameisdave/postcss-plugins.git"
+  },
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "css"
+  ],
+  "author": "Dave Lunny",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/himynameisdave/postcss-plugins/issues"
+  },
+  "homepage": "https://github.com/himynameisdave/postcss-plugins#readme"
+}
