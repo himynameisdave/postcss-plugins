@@ -399,11 +399,6 @@
   "description": "Rebases or inlines url()s.",
   "category": ""
 }, {
-  "name": "postcss-urlrev",
-  "url": "https://github.com/yuezk/postcss-urlrev",
-  "description": "adds MD5 hash strings to url()s.",
-  "category": ""
-}, {
   "name": "webpcss",
   "url": "https://github.com/lexich/webpcss",
   "description": "Adds URLs for WebP images for browsers that support WebP.",
