@@ -1,3 +1,6 @@
+## v1.1.2
+Adds postcss-currency
+
 ## v1.1.1
 Removes duplicate of urlrev
 

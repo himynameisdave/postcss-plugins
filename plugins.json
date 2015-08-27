@@ -574,4 +574,8 @@
   "name": "postcss-spiffing",
   "url": "https://github.com/HashanP/postcss-spiffing",
   "description": "Lets you use British English in your CSS."
+},  {
+  "name": "postcss-currency",
+  "url": "https://github.com/talgautb/postcss-currency",
+  "description": "replaces the name of currency with symbols."
 }]
