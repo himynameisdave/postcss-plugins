@@ -1,5 +1,8 @@
 ## v1.2.0
-Adds "category" so that it will work on [postcss.parts](http://postcss.parts)
+Adds tags to each plugin
+
+## v1.1.2
+Adds postcss-currency
 
 ## v1.1.1
 Removes duplicate of urlrev

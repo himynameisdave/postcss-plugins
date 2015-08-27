@@ -10,7 +10,10 @@
   "keywords": [
     "postcss",
     "postcss-plugin",
-    "css"
+    "css",
+    "list",
+    "library",
+    "plugins"
   ],
   "author": "Dave Lunny",
   "license": "MIT",
