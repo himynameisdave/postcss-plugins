@@ -1,6 +1,9 @@
 ## v1.2.0
 Adds tags to each plugin
 
+## v1.1.3
+Changes "postcss-all-property" to "postcss-initial"
+
 ## v1.1.2
 Adds postcss-currency
 

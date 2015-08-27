@@ -2,96 +2,96 @@
   "name": "atcss",
   "url": "https://github.com/morishitter/atcss",
   "description": "Plugin pack that transforms your CSS according to special annotation comments.",
-  "tags": [  ]
+  "tags": [ "pack" ]
 }, {
   "name": "cssnano",
   "url": "https://github.com/ben-eb/cssnano",
   "description": "Plugin pack that optimizes CSS size for use in production.",
-  "tags": [  ]
+  "tags": [ "pack" ]
 }, {
   "name": "cssnext",
   "url": "https://github.com/cssnext/cssnext/",
   "description": "Plugin pack that allows you to use future CSS features today.",
-  "tags": [  ]
+  "tags": [ "pack", "future" ]
 }, {
   "name": "precss",
   "url": "https://github.com/jonathantneal/precss",
   "description": "Plugin pack that allows you to use Sass-like CSS.",
-  "tags": [  ]
+  "tags": [ "pack", "sass" ]
 }, {
   "name": "rucksack",
   "url": "https://github.com/simplaio/rucksack",
   "description": "Plugin pack to speeds up CSS development with new features and shortcuts.",
-  "tags": [  ]
+  "tags": [ "pack", "future" ]
 }, {
   "name": "stylelint",
   "url": "https://github.com/stylelint/stylelint",
   "description": "Plugin pack that lints your stylesheets.",
-  "tags": [  ]
-}, {
-  "name": "postcss-all-property",
-  "url": "https://github.com/maximkoretskiy/postcss-all-property",
-  "description": "supports all: initial to clean inherit styles.",
-  "tags": [  ]
+  "tags": [ "pack", "debug" ]
 }, {
   "name": "postcss-color-function",
   "url": "https://github.com/postcss/postcss-color-function",
   "description": "Supports functions to transform colors.",
-  "tags": [  ]
+  "tags": [ "future", "color" ]
 }, {
   "name": "postcss-color-gray",
   "url": "https://github.com/postcss/postcss-color-gray",
   "description": "Supports the gray() function.",
-  "tags": [  ]
+  "tags": [ "future", "color" ]
 }, {
   "name": "postcss-color-hex-alpha",
   "url": "https://github.com/postcss/postcss-color-hex-alpha",
   "description": "Supports #rrggbbaa and #rgba notation.",
-  "tags": [  ]
+  "tags": [ "future", "color" ]
 }, {
   "name": "postcss-color-hwb",
   "url": "https://github.com/postcss/postcss-color-hwb",
   "description": "Transforms hwb() to widely compatible rgb().",
-  "tags": [  ]
+  "tags": [ "future", "color" ]
 }, {
   "name": "postcss-color-rebeccapurple",
   "url": "https://github.com/postcss/postcss-color-rebeccapurple",
   "description": "Supports the rebeccapurple color.",
-  "tags": [  ]
+  "tags": [ "future", "color" ]
 }, {
   "name": "postcss-conic-gradient",
   "url": "https://github.com/jonathantneal/postcss-conic-gradient",
   "description": "Supports the conic-gradient background.",
-  "tags": [  ]
+  "tags": [ "future", "color" ]
 }, {
   "name": "postcss-custom-media",
   "url": "https://github.com/postcss/postcss-custom-media",
   "description": "Supports custom aliases for media queries.",
-  "tags": [  ]
+  "tags": [ "future", "media-queries" ]
 }, {
   "name": "postcss-custom-properties",
   "url": "https://github.com/postcss/postcss-custom-properties",
   "description": "Supports variables, using syntax from the W3C Custom Properties.",
-  "tags": [  ]
+  "tags": [ "future" ]
 }, {
   "name": "postcss-custom-selectors",
   "url": "https://github.com/postcss/postcss-custom-selectors",
   "description": "Adds custom aliases for selectors.",
-  "tags": [  ]
+  "tags": [ "future" ]
 }, {
   "name": "postcss-extend",
   "url": "https://github.com/travco/postcss-extend",
   "description": "Supports spec-approximate @extend for rules and placeholders, recursively.",
-  "tags": [  ]
+  "tags": [ "future" ]
 }, {
   "name": "postcss-font-variant",
   "url": "https://github.com/postcss/postcss-font-variant",
   "description": "Transpiles human-readable font-variant to more widely supported CSS.",
-  "tags": [  ]
+  "tags": [ "future", "font" ]
 }, {
   "name": "postcss-host",
   "url": "https://github.com/vitkarpov/postcss-host",
   "description": "Makes the Shadow DOM :host selector work properly with pseudo-classes.",
+  "tags": [ "future" ]
+}, {
+  "name": "postcss-initial",
+  "url": "https://github.com/maximkoretskiy/postcss-initial",
+  "description": "supports `initial` keyword and `all: initial` to clean inherit styles.",
   "tags": [  ]
 }, {
   "name": "postcss-media-minmax",

@@ -1,4 +1,4 @@
-## PostCSS Plugin List
+## PostCSS Plugin List [![npm version](https://badge.fury.io/js/postcss-plugins.svg)](http://badge.fury.io/js/postcss-plugins)
 
 A consolidated list of [PostCSS](https://github.com/postcss/postcss) plugins in an ready-to-use package.
 
