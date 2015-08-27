@@ -23,9 +23,9 @@
   "url": "https://github.com/stylelint/stylelint",
   "description": "Plugin pack that lints your stylesheets."
 }, {
-  "name": "postcss-all-property",
-  "url": "https://github.com/maximkoretskiy/postcss-all-property",
-  "description": "supports all: initial to clean inherit styles."
+  "name": "postcss-initial",
+  "url": "https://github.com/maximkoretskiy/postcss-initial",
+  "description": "supports `initial` keyword and `all: initial` to clean inherit styles."
 }, {
   "name": "postcss-color-function",
   "url": "https://github.com/postcss/postcss-color-function",
