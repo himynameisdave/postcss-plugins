@@ -4,7 +4,7 @@ A consolidated list of [PostCSS](https://github.com/postcss/postcss) plugins in 
 
 ### Purpose
 
-There are [over a hundred wonderful developers](https://github.com/postcss/postcss/graphs/contributors) contributing to building PostCSS as well as plugins and tools built on top of it. The running list of plugins grows quickly, and is used in many places, such as being listed in the [PostCSS readme](https://github.com/postcss/postcss#plugins) and on the searchable [postcss.parts](http://postcss.parts) built by [**@mxstbr**](https://github.com/mxstbr). These are great resources for developers to find plugins, but they can sometimes be out of sync/incomplete.
+There are [over a hundred wonderful developers](https://github.com/postcss/postcss/graphs/contributors) contributing to building PostCSS as well as plugins and tools built on top of it. The running list of plugins grows quickly, and is used in many places, such on the [PostCSS readme](https://github.com/postcss/postcss#plugins) and on the searchable [postcss.parts](http://postcss.parts) built by [**@mxstbr**](https://github.com/mxstbr). These are great resources for developers to find plugins, but they can sometimes be out of sync/incomplete.
 
 The purpose of this is to be as clear and concise as possible, and provide a consolidated package for developers who need an up-to-date list of PostCSS plugins.
 
