@@ -1,3 +1,6 @@
+## v1.2.0
+Adds "category" so that it will work on [postcss.parts](http://postcss.parts)
+
 ## v1.1.0
 Moves the entire dataset off to it's own JSON file, updates readme, etc.
 
