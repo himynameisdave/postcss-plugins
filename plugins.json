@@ -47,6 +47,10 @@
   "url": "https://github.com/postcss/postcss-color-rebeccapurple",
   "description": "Supports the rebeccapurple color."
 }, {
+  "name": "postcss-colors-only",
+  "url": "https://github.com/rsanchez/postcss-colors-only",
+  "description": "Removes all rules except those which contain one or more colors."
+}, {
   "name": "postcss-conic-gradient",
   "url": "https://github.com/jonathantneal/postcss-conic-gradient",
   "description": "Supports the conic-gradient background."
