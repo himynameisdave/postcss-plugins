@@ -578,4 +578,8 @@
   "name": "postcss-currency",
   "url": "https://github.com/talgautb/postcss-currency",
   "description": "replaces the name of currency with symbols."
+},  {
+  "name": "postcss-simple-grid",
+  "url": "https://github.com/admdh/postcss-simple-grid",
+  "description": "create grid with one line."
 }]
