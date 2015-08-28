@@ -54,6 +54,11 @@
   "description": "Supports the rebeccapurple color.",
   "tags": [ "future", "color" ]
 }, {
+  "name": "postcss-colors-only",
+  "url": "https://github.com/rsanchez/postcss-colors-only",
+  "description": "Removes all rules except those which contain one or more colors.",
+  "tags": [  ]
+}, {
   "name": "postcss-conic-gradient",
   "url": "https://github.com/jonathantneal/postcss-conic-gradient",
   "description": "Supports the conic-gradient background.",
@@ -722,5 +727,10 @@
   "name": "postcss-currency",
   "url": "https://github.com/talgautb/postcss-currency",
   "description": "replaces the name of currency with symbols.",
+  "tags": [  ]
+},  {
+  "name": "postcss-simple-grid",
+  "url": "https://github.com/admdh/postcss-simple-grid",
+  "description": "create grid with one line.",
   "tags": [  ]
 }]
