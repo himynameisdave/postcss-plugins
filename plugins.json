@@ -590,4 +590,8 @@
   "name": "postcss-autoreset",
   "url": "https://github.com/maximkoretskiy/postcss-autoreset",
   "description": "automatically adds reset styles."
+},  {
+  "name": "postcss-currency",
+  "url": "https://github.com/talgautb/postcss-currency",
+  "description": "replaces name of currency with symbols."
 }]
