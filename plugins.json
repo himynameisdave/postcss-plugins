@@ -586,4 +586,8 @@
   "name": "postcss-simple-grid",
   "url": "https://github.com/admdh/postcss-simple-grid",
   "description": "create grid with one line."
+},  {
+  "name": "postcss-autoreset",
+  "url": "https://github.com/maximkoretskiy/postcss-autoreset",
+  "description": "automatically adds reset styles."
 }]

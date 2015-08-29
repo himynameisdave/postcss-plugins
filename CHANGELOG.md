@@ -1,3 +1,6 @@
+## v1.1.5
+Adds "postcss-autoreset"
+
 ## v1.1.4
 Adds "postcss-colors-only";
 Adds "postcss-simple-grid";
