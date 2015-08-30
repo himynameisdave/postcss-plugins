@@ -7,9 +7,10 @@
   *   Feel free to add and make changes!
   *
   *   Schema:  {
-  *     name       : "name-of-plugin",
-  *     url        : "http://cool-plugin-link.com",
-  *     description: "It gives your CSS superpowers"
+  *     name        : "name-of-plugin",
+  *     url         : "http://cool-plugin-link.com",
+  *     description : "It gives your CSS superpowers",
+  *     tags        : [ 'colors', 'grids', 'lions', tigers', 'bears' ]
   *   }
   *
   */

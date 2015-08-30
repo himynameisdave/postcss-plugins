@@ -35,9 +35,10 @@ All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](ht
 
 1. [Fork this repo](https://github.com/himynameisdave/postcss-plugins#fork-destination-box)
 2. Edit [this JSON file](https://github.com/himynameisdave/postcss-plugins/blob/master/plugins.json) by adding your plugin with the following information:
-  + **`name`** - name of your plugin, usually begins with `postcss-`
-  + **`url`** - GitHub url for your plugin
-  + **`description`** - a small description for your plugin
+  + **`name`** - *string* - name of your plugin, usually begins with `postcss-`
+  + **`url`** - *string* - GitHub url for your plugin
+  + **`description`** - *string* - a small description for your plugin
+  + **`tags`** - *array* - an array of descriptive tags for your plugin
 3. Submit your pull request & [chill out](http://i.imgur.com/dZzkNc7.gif).
 
 ---
