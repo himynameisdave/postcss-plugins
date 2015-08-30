@@ -738,4 +738,9 @@
   "url": "https://github.com/maximkoretskiy/postcss-autoreset",
   "description": "automatically adds reset styles.",
   "tags": [ "fallbacks" ]
+},  {
+  "name": "postcss-inline-comment",
+  "url": "https://github.com/moczolaszlo/postcss-inline-comment",
+  "description": "Plugin to use inline comments in CSS rules.",
+  "tags": [ "extensions" ]
 }]
