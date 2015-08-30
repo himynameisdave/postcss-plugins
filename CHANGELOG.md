@@ -1,4 +1,7 @@
-## v1.2.0 *(Aug 30th/2015)*
+### v1.2.1 *(Aug 30th/2015)*
+Adds postcss-inline-comment
+
+## v1.2.0 *(Aug 29th/2015)*
 Adds tags to each plugin;
 
 ### v1.1.5
