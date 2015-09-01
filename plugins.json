@@ -743,4 +743,9 @@
   "url": "https://github.com/moczolaszlo/postcss-inline-comment",
   "description": "Plugin to use inline comments in CSS rules.",
   "tags": [ "extensions" ]
-}]
+}, {
+  "name": "postcss-mqwidth-to-class",
+  "url": "https://github.com/notacouch/postcss-mqwidth-to-class",
+  "description": "plugin converts min/max-width media queries to classes, for IE8 support",
+  "tags": [ "media-queries", "fallbacks" ]
+  }]
