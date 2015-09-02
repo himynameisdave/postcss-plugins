@@ -748,4 +748,9 @@
   "url": "https://github.com/notacouch/postcss-mqwidth-to-class",
   "description": "plugin converts min/max-width media queries to classes, for IE8 support",
   "tags": [ "media-queries", "fallbacks" ]
-  }]
+}, {
+  "name": "postcss-swedish-stylesheets",
+  "url": "https://github.com/johnie/postcss-swedish-stylesheets",
+  "description": "plugin for writing Swedish Style Sheets.",
+  "tags": [ "fun" ]
+}]

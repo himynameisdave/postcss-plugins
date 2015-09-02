@@ -1,3 +1,6 @@
+### v1.2.3 *(Sept 2ns/2015)*
+Adds [`postcss-swedish-stylesheets`](https://github.com/johnie/postcss-swedish-stylesheets)
+
 ### v1.2.2 *(Sept 1st/2015)*
 Adds [`postcss-mqwidth-to-class`](https://github.com/notacouch/postcss-mqwidth-to-class)
 
