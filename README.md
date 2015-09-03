@@ -38,7 +38,7 @@ All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](ht
   + **`name`** - *string* - name of your plugin, usually begins with `postcss-`
   + **`url`** - *string* - GitHub url for your plugin
   + **`description`** - *string* - a small description for your plugin
-  + **`tags`** - *array* - an array of descriptive tags for your plugin. Please see the [tags list](https://github.com/himynameisdave/postcss-plugins/blob/master/tags.md#plugin-tags-list) for a list of valid tags and their meaning.
+  + **`tags`** - *array* - an array of descriptive tags for your plugin. Please see the [tags list](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/tags.md#plugin-tags-list) for a list of valid tags and their meaning.
 3. Submit your pull request & [chill out](http://i.imgur.com/dZzkNc7.gif).
 
 ---

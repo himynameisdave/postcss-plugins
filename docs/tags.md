@@ -1,4 +1,4 @@
-### Plugin Tags List
+### Tags List
 
 I am maintaining a list of tags so that things remain sane:
 
