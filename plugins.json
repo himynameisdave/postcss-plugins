@@ -1393,5 +1393,23 @@
       "fun"
     ],
     "author": "johnie"
+  },
+  {
+    "name": "postcss-flexbugs-fixes",
+    "url": "https://github.com/luisrudge/postcss-flexbugs-fixes",
+    "description": "fixes to some of known flexbox bugs",
+    "tags": [
+      "analysis"
+    ],
+    "author": "luisrudge"
+  },
+  {
+    "name": "postcss-round-subpixels",
+    "url": "https://github.com/himynameisdave/postcss-round-subpixels",
+    "description": "plugin that rounds sub-pixel values to the nearest full pixel.",
+    "tags": [
+      "fallbacks"
+    ],
+    "author": "himynameisdave"
   }
 ]

@@ -27,7 +27,7 @@ plugins.forEach( function( plugin ){
 
 ```
 
-### Submitting A New Plugin
+### Submit
 
 All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](https://github.com/postcss/postcss/blob/master/docs/guidelines/plugin.md) (yes you will write some tests, and yes, you will like it :smile:).
 
@@ -39,8 +39,13 @@ All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](ht
   + **`url`** - *string* - GitHub url for your plugin
   + **`description`** - *string* - a small description for your plugin
   + **`tags`** - *array* - an array of descriptive tags for your plugin. Please see the [tags list](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/tags.md#plugin-tags-list) for a list of valid tags and their meaning.
-  + **`author`** - *string* - your GitHub username
-3. Submit your pull request & [chill out](http://i.imgur.com/dZzkNc7.gif).
+  + **`author`** - *string* - your GitHub username. Optional because the next step will do this for you.
+3. Run `npm run update-authors` to update the [list of authors](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md).
+4. Submit your pull request & [chill out](http://i.imgur.com/dZzkNc7.gif).
+
+### Changes
+
+See the [changelog](https://github.com/himynameisdave/postcss-plugins/blob/master/CHANGELOG.md) for a list of releases & updates.
 
 ---
 
