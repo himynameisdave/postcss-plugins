@@ -4,7 +4,7 @@ A consolidated list of [PostCSS](https://github.com/postcss/postcss) plugins in 
 
 ### Purpose
 
-There are [over a hundred wonderful developers](https://github.com/postcss/postcss/graphs/contributors) contributing to building PostCSS as well as plugins and tools built on top of it. The running list of plugins grows quickly, and is used in many places, such on the [PostCSS readme](https://github.com/postcss/postcss#plugins) and on the searchable [postcss.parts](http://postcss.parts) built by [**@mxstbr**](https://github.com/mxstbr). These are great resources for developers to find plugins, but they can sometimes be out of sync/incomplete.
+There are [over a hundred wonderful developers](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md) building amazing PostCSS plugins. The running list of plugins grows quickly, and is used in many places, such on the [PostCSS readme](https://github.com/postcss/postcss#plugins) and on the searchable [postcss.parts](http://postcss.parts) built by [**@mxstbr**](https://github.com/mxstbr). These are great resources for developers to find plugins, but they can sometimes be out of sync/incomplete.
 
 The purpose of this is to be as clear and concise as possible, and provide a consolidated package for developers who need an up-to-date list of PostCSS plugins.
 
@@ -38,7 +38,7 @@ All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](ht
   + **`name`** - *string* - name of your plugin, usually begins with `postcss-`
   + **`url`** - *string* - GitHub url for your plugin
   + **`description`** - *string* - a small description for your plugin
-  + **`tags`** - *array* - an array of descriptive tags for your plugin. Please see the [tags list](https://github.com/himynameisdave/postcss-plugins/blob/master/tags.md#plugin-tags-list) for a list of valid tags and their meaning.
+  + **`tags`** - *array* - an array of descriptive tags for your plugin. Please see the [tags list](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/tags.md#plugin-tags-list) for a list of valid tags and their meaning.
 3. Submit your pull request & [chill out](http://i.imgur.com/dZzkNc7.gif).
 
 ---
