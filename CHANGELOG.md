@@ -1,4 +1,9 @@
-### v1.2.3 *(Sept 2ns/2015)*
+## v1.3.0 *(Sept 3rd/2015)*
+Adds Authors
+Adds docs folder
+Adds scripts
+
+### v1.2.3 *(Sept 2nd/2015)*
 Adds [`postcss-swedish-stylesheets`](https://github.com/johnie/postcss-swedish-stylesheets)
 
 ### v1.2.2 *(Sept 1st/2015)*
