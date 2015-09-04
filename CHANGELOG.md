@@ -1,3 +1,7 @@
+### v1.3.2
+> *(Sept 4th/2015)*
+- Adds [`postcss-lolcat-stylesheets`](https://github.com/sandralundgren/postcss-lolcat-stylesheets)
+
 ### v1.3.1
 > *(Sept 3rd/2015)*
 - Adds [`postcss-flexbugs-fixes`](https://github.com/luisrudge/postcss-flexbugs-fixes)

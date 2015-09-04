@@ -160,4 +160,5 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [`postcss-swedish-stylesheets`](https://github.com/johnie/postcss-swedish-stylesheets)  |  [johnie](https://github.com/johnie)
 [`postcss-flexbugs-fixes`](https://github.com/luisrudge/postcss-flexbugs-fixes)  |  [luisrudge](https://github.com/luisrudge)
 [`postcss-round-subpixels`](https://github.com/himynameisdave/postcss-round-subpixels)  |  [himynameisdave](https://github.com/himynameisdave)
+[`postcss-lolcat-stylesheets`](https://github.com/sandralundgren/postcss-lolcat-stylesheets)  |  [sandralundgren](https://github.com/sandralundgren)
 <!-- END -->
