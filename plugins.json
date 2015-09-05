@@ -1420,5 +1420,14 @@
       "fun"
     ],
     "author": "sandralundgren"
+  },
+  {
+    "name": "postcss-unmq",
+    "url": "https://github.com/jonathantneal/postcss-unmq",
+    "description": " removes media queries while preserving desktop rules for IE≤8.",
+    "tags": [
+      "media-queries", "fallbacks"
+    ],
+    "author": "jonathantneal"
   }
 ]

@@ -1,3 +1,7 @@
+### v1.3.3
+> *(Sept 5th/2015)*
+- Adds [`postcss-unmq`](https://github.com/jonathantneal/postcss-unmq)
+
 ### v1.3.2
 > *(Sept 4th/2015)*
 - Adds [`postcss-lolcat-stylesheets`](https://github.com/sandralundgren/postcss-lolcat-stylesheets)
