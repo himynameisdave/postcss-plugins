@@ -1,3 +1,7 @@
+### v1.3.4
+> *(Sept 8th/2015)*
+- Adds [`postcss-selector-matches`](https://github.com/postcss/postcss-selector-matches)
+
 ### v1.3.3
 > *(Sept 5th/2015)*
 - Adds [`postcss-unmq`](https://github.com/jonathantneal/postcss-unmq)

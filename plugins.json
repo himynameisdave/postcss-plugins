@@ -1424,10 +1424,20 @@
   {
     "name": "postcss-unmq",
     "url": "https://github.com/jonathantneal/postcss-unmq",
-    "description": " removes media queries while preserving desktop rules for IE≤8.",
+    "description": "removes media queries while preserving desktop rules for IE≤8.",
     "tags": [
-      "media-queries", "fallbacks"
+      "media-queries",
+      "fallbacks"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-selector-matches",
+    "url": "https://github.com/postcss/postcss-selector-matches",
+    "description": "transforms CSS4 `:matches()` to more compatible CSS.",
+    "tags": [
+      "future"
+    ],
+    "author": "postcss"
   }
 ]
