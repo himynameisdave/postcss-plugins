@@ -162,4 +162,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [`postcss-round-subpixels`](https://github.com/himynameisdave/postcss-round-subpixels)  |  [himynameisdave](https://github.com/himynameisdave)
 [`postcss-lolcat-stylesheets`](https://github.com/sandralundgren/postcss-lolcat-stylesheets)  |  [sandralundgren](https://github.com/sandralundgren)
 [`postcss-unmq`](https://github.com/jonathantneal/postcss-unmq)  |  [jonathantneal](https://github.com/jonathantneal)
+[`postcss-selector-matches`](https://github.com/postcss/postcss-selector-matches)  |  [postcss](https://github.com/postcss)
+[`postcss-pseudo-content-insert`](https://github.com/liquidlight/postcss-pseudo-content-insert)  |  [liquidlight](https://github.com/liquidlight)
 <!-- END -->

@@ -1439,5 +1439,20 @@
       "future"
     ],
     "author": "postcss"
+  },
+  {
+    "name": "postcss-pseudo-content-insert",
+    "url": "https://github.com/liquidlight/postcss-pseudo-content-insert",
+    "description": "PostCSS plugin inserts an empty content block into your :before and :after pseudo elements if it is missing",
+    "tags": [
+      "postcss",
+      "css",
+      "postcss-plugin",
+      "pseudo",
+      "before",
+      "after",
+      "content"
+    ],
+    "author": "liquidlight"
   }
 ]
