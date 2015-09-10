@@ -1,3 +1,7 @@
+### v1.3.5
+> *(Sept 10th/2015)*
+- Adds [`postcss-pseudo-content-insert`](https://github.com/liquidlight/postcss-pseudo-content-insert)
+
 ### v1.3.4
 > *(Sept 8th/2015)*
 - Adds [`postcss-selector-matches`](https://github.com/postcss/postcss-selector-matches)
