@@ -164,4 +164,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [`postcss-unmq`](https://github.com/jonathantneal/postcss-unmq)  |  [jonathantneal](https://github.com/jonathantneal)
 [`postcss-selector-matches`](https://github.com/postcss/postcss-selector-matches)  |  [postcss](https://github.com/postcss)
 [`postcss-pseudo-content-insert`](https://github.com/liquidlight/postcss-pseudo-content-insert)  |  [liquidlight](https://github.com/liquidlight)
+[`postcss-partial-import`](https://github.com/jonathantneal/postcss-partial-import)  |  [jonathantneal](https://github.com/jonathantneal)
+[`postcss-copy-assets`](https://github.com/shutterstock/postcss-copy-assets)  |  [shutterstock](https://github.com/shutterstock)
+[`postcss-write-svg`](https://github.com/jonathantneal/postcss-write-svg)  |  [jonathantneal](https://github.com/jonathantneal)
+[`postcss-alias-atrules`](https://github.com/maximkoretskiy/postcss-alias-atrules)  |  [maximkoretskiy](https://github.com/maximkoretskiy)
+[`postcss-russian-stylesheets`](https://github.com/Semigradsky/postcss-russian-stylesheets)  |  [Semigradsky](https://github.com/Semigradsky)
 <!-- END -->

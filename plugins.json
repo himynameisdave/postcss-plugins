@@ -1443,11 +1443,57 @@
   {
     "name": "postcss-pseudo-content-insert",
     "url": "https://github.com/liquidlight/postcss-pseudo-content-insert",
-    "description": "PostCSS plugin inserts an empty content block into your :before and :after pseudo elements if it is missing",
+    "description": "PostCSS plugin inserts an empty content block into your :before and :after pseudo elements if it is missing.",
     "tags": [
       "optimizations",
       "other"
     ],
     "author": "liquidlight"
+  },
+  {
+    "name": "postcss-partial-import",
+    "url": "https://github.com/jonathantneal/postcss-partial-import",
+    "description": "inlines standard imports and Sass-like partials.",
+    "tags": [
+      "optimizations"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-copy-assets",
+    "url": "https://github.com/shutterstock/postcss-copy-assets",
+    "description": "copies assets referenced by relative `url()`s into a build directory.",
+    "tags": [
+      "images",
+      "fonts"
+    ],
+    "author": "shutterstock"
+  },
+  {
+    "name": "postcss-write-svg",
+    "url": "https://github.com/jonathantneal/postcss-write-svg",
+    "description": "write inline SVGs in CSS.",
+    "tags": [
+      "grids"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-alias-atrules",
+    "url": "https://github.com/maximkoretskiy/postcss-alias-atrules",
+    "description": "creates shorter aliases for at-rules.",
+    "tags": [
+      "shortcuts"
+    ],
+    "author": "maximkoretskiy"
+  },
+  {
+    "name": "postcss-russian-stylesheets",
+    "url": "https://github.com/Semigradsky/postcss-russian-stylesheets",
+    "description": "Russian style sheets.",
+    "tags": [
+      "fun"
+    ],
+    "author": "Semigradsky"
   }
 ]

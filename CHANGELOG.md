@@ -1,3 +1,11 @@
+### v1.3.6
+> *(Sept 15th/2015)*
+- Adds [`postcss-partial-import`](https://github.com/jonathantneal/postcss-partial-import)
+- Adds [`postcss-copy-assets`](https://github.com/shutterstock/postcss-copy-assets)
+- Adds [`postcss-write-svg`](https://github.com/jonathantneal/postcss-write-svg)
+- Adds [`postcss-alias-atrules`](https://github.com/maximkoretskiy/postcss-alias-atrules)
+- Adds [`postcss-russian-stylesheets`](https://github.com/Semigradsky/postcss-russian-stylesheets)
+
 ### v1.3.5
 > *(Sept 10th/2015)*
 - Adds [`postcss-pseudo-content-insert`](https://github.com/liquidlight/postcss-pseudo-content-insert)
