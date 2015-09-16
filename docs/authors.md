@@ -169,4 +169,5 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [`postcss-write-svg`](https://github.com/jonathantneal/postcss-write-svg)  |  [jonathantneal](https://github.com/jonathantneal)
 [`postcss-alias-atrules`](https://github.com/maximkoretskiy/postcss-alias-atrules)  |  [maximkoretskiy](https://github.com/maximkoretskiy)
 [`postcss-russian-stylesheets`](https://github.com/Semigradsky/postcss-russian-stylesheets)  |  [Semigradsky](https://github.com/Semigradsky)
+[`postcss-nested-vars`](https://github.com/jedmao/postcss-nested-vars)  |  [jedmao](https://github.com/jedmao)
 <!-- END -->

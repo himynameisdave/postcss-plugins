@@ -1495,5 +1495,15 @@
       "fun"
     ],
     "author": "Semigradsky"
+  },
+  {
+    "name": "postcss-nested-vars",
+    "url": "https://github.com/jedmao/postcss-nested-vars",
+    "description": "supports nested Sass-style variables.",
+    "tags": [
+      "extensions",
+      "sass"
+    ],
+    "author": "jedmao"
   }
 ]

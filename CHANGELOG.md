@@ -1,3 +1,7 @@
+### v1.3.7
+> *(Sept 16th/2015)*
+- Adds [`postcss-nested-vars`](https://github.com/jedmao/postcss-nested-vars)
+
 ### v1.3.6
 > *(Sept 15th/2015)*
 - Adds [`postcss-partial-import`](https://github.com/jonathantneal/postcss-partial-import)
