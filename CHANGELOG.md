@@ -1,3 +1,7 @@
+### v1.3.9
+> *(Sept 17th/2015)*
+- Authors script and list are ordered by most plugins written
+
 ### v1.3.8
 > *(Sept 16th/2015)*
 - Updates the `updates-authors` script & authors table
