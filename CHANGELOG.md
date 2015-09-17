@@ -1,3 +1,7 @@
+### v1.3.8
+> *(Sept 16th/2015)*
+- Updates the `updates-authors` script & authors table
+
 ### v1.3.7
 > *(Sept 16th/2015)*
 - Adds [`postcss-nested-vars`](https://github.com/jedmao/postcss-nested-vars)
