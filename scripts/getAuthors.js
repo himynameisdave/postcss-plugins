@@ -34,21 +34,6 @@ var GetAuthors = function(){
             author.plugins.push(plugin);
         });
       },
-      generateAuthorsTable = function( authList ){
-        var authTable = "<!-- START -->\n**Author**  |   **Plugin(s)**\n---|---\n";
-
-        authList.forEach( function( auth ){
-          authTable += "["+auth.name+"](https://github.com/"+auth.name+")";
-          if( auth.plugins.length === 1 ){
-            authTable += "  |  [`"+auth.plugins[0].name+"`]("+auth.plugins[0].url+")\n"
-          }else{
-            auth.plugins.forEach(function(plug){
-              authTable += "   |   [`"+plug.name+"`]("+plug.url+")\n";
-            });
-          }
-        });
-        return authTable;
-      },
       //  will be passed to the Array.sort method
       sortAuthors = function( a, b ){
         if( a.authorOf() < b.authorOf() ){

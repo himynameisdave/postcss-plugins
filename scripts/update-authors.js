@@ -32,6 +32,7 @@
       };
 
 //  CLEANUP PLUGINS:
+//  THIS SHOULD BE ITS OWN THING
       var newPlugins = plugins.map(function(plug){
         var withAuth = plug;
             withAuth.author = plug.url.split("/")[3];
