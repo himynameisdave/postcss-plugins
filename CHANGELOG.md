@@ -1,3 +1,7 @@
+### v1.4.2
+> *(Sep 19th/2015)*
+- Adds [`postcss-axis`](https://github.com/kinday/postcss-axis)
+
 ### v1.4.1
 > *(Sep 18th/2015)*
 - Adds [`postcss-image-inliner`](https://github.com/bezoerb/postcss-image-inliner)

@@ -1514,5 +1514,14 @@
       "images"
     ],
     "author": "bezoerb"
+  },
+  {
+    "name": "postcss-axis",
+    "description": "that adds shorthands for opposite properties",
+    "url": "https://github.com/kinday/postcss-axis",
+    "tags": [
+      "shortcuts"
+    ],
+    "author": "kinday"
   }
 ]
