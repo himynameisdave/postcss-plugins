@@ -72,12 +72,17 @@
       console.log( chalk.green("   - "+tag) );
     });
 
+    //  sets the author here
+    var newPlug = answers;
+        newPlug.author = newPlug.url.split("/")[3];
+
      // push the new plugin right on there because it's formatted 👌👌👌
-    plugins.push( answers )
+    plugins.push( newPlug )
     //  write the plugins.json
     fs.writeFile( "plugins.json", JSON.stringify( plugins, null, 2 ), function(err){
       if(err) throw err;
-      console.log("Plugins list has sucessfully been updated!");
+      console.log("Added the new plugin to plugins.json!");
+      require("./versionBump.js")(answers);
     });
 
   });

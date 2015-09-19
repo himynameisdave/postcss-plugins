@@ -23,7 +23,7 @@
   "homepage": "https://github.com/himynameisdave/postcss-plugins#readme",
   "scripts": {
     "update-authors": "node scripts/updateAuthors.js",
-    "add": "node scripts/addNewPlugin.js && node scripts/updateAuthors.js && node scripts/versionBump.js && git add ."
+    "add": "node scripts/addNewPlugin.js && node scripts/updateAuthors.js && git add ."
   },
   "devDependencies": {
     "chalk": "^1.1.1",
