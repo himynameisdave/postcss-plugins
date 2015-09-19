@@ -1,6 +1,10 @@
 ## PostCSS Plugin List [![npm version](https://badge.fury.io/js/postcss-plugins.svg)](http://badge.fury.io/js/postcss-plugins) [![Join the chat at https://gitter.im/himynameisdave/postcss-plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/himynameisdave/postcss-plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
-A consolidated list of [PostCSS](https://github.com/postcss/postcss) plugins in an ready-to-use package.
+The "officially unofficial" consolidated list of [PostCSS](https://github.com/postcss/postcss) plugins in a ready-to-use package.
+
+<img align="right" width="375" height="375"
+     title="Philosopher’s stone, logo of PostCSS"
+     src="http://postcss.github.io/postcss/logo.svg">
 
 ### Purpose
 

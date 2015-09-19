@@ -1505,5 +1505,14 @@
       "sass"
     ],
     "author": "jedmao"
+  },
+  {
+    "name": "postcss-image-inliner",
+    "description": "to inline local/remote images.",
+    "url": "https://github.com/bezoerb/postcss-image-inliner",
+    "tags": [
+      "images"
+    ],
+    "author": "bezoerb"
   }
 ]

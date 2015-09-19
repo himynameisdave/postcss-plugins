@@ -1,3 +1,7 @@
+### v1.4.1
+> *(Sep 18th/2015)*
+- Adds [`postcss-image-inliner`](https://github.com/bezoerb/postcss-image-inliner)
+
 ## v1.4.0
 > *(Sep 18th/2015)*
 - Updates all the scripts so that users can easily add a plugin without hassle
