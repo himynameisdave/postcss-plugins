@@ -107,7 +107,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [travco](https://github.com/travco)  |  [`postcss-extend`](https://github.com/travco/postcss-extend)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
-[undefined](https://github.com/undefined)  |  [`postcss-axis`](https://github.com/kinday/postcss-axis)
+[kinday](https://github.com/kinday)  |  [`postcss-axis`](https://github.com/kinday/postcss-axis)
 [twbs](https://github.com/twbs)  |  [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)
 [whitneyit](https://github.com/whitneyit)  |  [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)
 [Rycochet](https://github.com/Rycochet)  |  [`postcss-epub`](https://github.com/Rycochet/postcss-epub)
