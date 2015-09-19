@@ -39,7 +39,7 @@
       //  write the plugins.json
       fs.writeFile( "plugins.json", JSON.stringify( newPlugins, null, 2 ), function(err){
         if(err) throw err;
-        console.log("Plugins list has sucessfully been updated!");
+        console.log("Authors updated in plugins.json");
       });
 
 //  CLEANUP

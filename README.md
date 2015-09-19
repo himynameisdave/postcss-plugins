@@ -2,7 +2,7 @@
 
 The "officially unofficial" consolidated list of [PostCSS](https://github.com/postcss/postcss) plugins in a ready-to-use package.
 
-<img align="right" width="375" height="375"
+<img align="right" width="100" height="100"
      title="Philosopher’s stone, logo of PostCSS"
      src="http://postcss.github.io/postcss/logo.svg">
 
