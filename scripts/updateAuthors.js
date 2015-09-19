@@ -1,10 +1,6 @@
-//  UPDATE AUTHORS
-//
-//  Meant initially as a one-off script to take care of
-//  adding the author property to each plugin
-//  (because fuck doing that myself)
-
-
+/**
+ * Updates the authors in plugins.json && docs/authors
+ */
 (function(){
 
   var fs        = require("fs"),
@@ -12,7 +8,7 @@
       plugins   = require("../plugins.json"),
       start     = authorsMD.indexOf("<!-- START -->"),
       end       = authorsMD.indexOf("<!-- END -->"),
-      authors = require("./getAuthors")(),
+      authors   = require("./getAuthors")(),
 
       generateAuthorsTable = function( authList ){
         var authTable = "<!-- START -->\n**Author**  |   **Plugin(s)**\n---|---\n";

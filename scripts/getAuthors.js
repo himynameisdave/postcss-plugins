@@ -1,7 +1,6 @@
-
-
-  //  exports
-
+/**
+ * Exports the authors list, sorted by most plugins written to least
+ */
 var GetAuthors = function(){
 
   var fs        = require("fs"),

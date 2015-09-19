@@ -1,11 +1,12 @@
-
 /**
- *    Prompts a user for a bunch of new info
+ * Adds a new plugin to plugin.json, based on user prompts
  */
 (function(){
 
-  var inquirer   = require("inquirer"),
+  var fs         = require("fs"),
+      inquirer   = require("inquirer"),
       chalk      = require("chalk"),
+      plugins    = require("../plugins.json"),
       banner     = require("./banner.js"),
       tags       = require("./tags.js")(),
       tagChoices = tags.getTags().map(function(tag){
@@ -58,7 +59,7 @@
 //  START DA SCRIPT
 
   //  1. Hello
-  console.log("Let's add a new postcss plugin!");
+  console.log( banner );
 
   //  2. Da Questions
   inquirer.prompt( questions, function(answers){
@@ -70,6 +71,15 @@
     answers.tags.forEach(function( tag ){
       console.log( chalk.green("   - "+tag) );
     });
+
+     // push the new plugin right on there because it's formatted 👌👌👌
+    plugins.push( answers )
+    //  write the plugins.json
+    fs.writeFile( "plugins.json", JSON.stringify( plugins, null, 2 ), function(err){
+      if(err) throw err;
+      console.log("Plugins list has sucessfully been updated!");
+    });
+
   });
 
 })();
