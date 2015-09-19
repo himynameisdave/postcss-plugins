@@ -11,7 +11,7 @@ var banner = chalk.red("    _____________    \n"+
              " \\   / |     | \\   / \n"+
              "  \\ /__|\\___/|__\\ /  \n"+
              "   \\_____________/   \n\n"+
-             "  /|\\ \n   |\n   |  Crappy PostCSS Logo\n\n");
-    banner += chalk.blue("Let's add your shiny new PostCSS plugin!\nJust answer some a few quick questions:")
+             "    /|\\ \n     |\n     |  Crappy PostCSS Logo\n\n");
+    banner += chalk.blue("Let's add your shiny new PostCSS plugin!\nJust answer a few quick questions:")
 
 module.exports = banner;
