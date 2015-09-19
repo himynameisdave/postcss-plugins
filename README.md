@@ -27,25 +27,23 @@ plugins.forEach( function( plugin ){
 
 ```
 
-### Submit
+### Submiting A Plugin
 
 All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](https://github.com/postcss/postcss/blob/master/docs/guidelines/plugin.md) (yes you will write some tests, and yes, you will like it :smile:).
 
 **Steps**:
 
 1. [Fork this repo](https://github.com/himynameisdave/postcss-plugins#fork-destination-box)
-2. Edit [this JSON file](https://github.com/himynameisdave/postcss-plugins/blob/master/plugins.json) by adding your plugin with the following information:
-  + **`name`** - *string* - name of your plugin, usually begins with `postcss-`
-  + **`url`** - *string* - GitHub url for your plugin
-  + **`description`** - *string* - a small description for your plugin
-  + **`tags`** - *array* - an array of descriptive tags for your plugin. Please see the [tags list](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/tags.md#plugin-tags-list) for a list of valid tags and their meaning.
-  + **`author`** - *string* - your GitHub username. Optional because the next step will do this for you.
-3. Run `npm run update-authors` to update the [list of authors](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md).
-4. Submit your pull request & [chill out](http://i.imgur.com/dZzkNc7.gif).
+2. Run `npm i` to quickly install the dependencies that the [scripts](https://github.com/himynameisdave/postcss-plugins/tree/master/scripts) rely on.
+3. Run `npm run add`. You will then be prompted for info about your plugin:
+    ![plugin adding is cool dot gif.com.thebomb.org.net.parts.jpg](http://i.imgur.com/BnXByh8.gif)
+4. Commit & push your changes.
+5. Submit your pull request.
+6. [Chill out](http://i.imgur.com/dZzkNc7.gif).
 
 ### Changes
 
-See the [changelog](https://github.com/himynameisdave/postcss-plugins/blob/master/CHANGELOG.md) for a list of releases & updates.
+See the [changelog](https://github.com/himynameisdave/postcss-plugins/blob/master/CHANGELOG.md) for a list of releases, changes & updates.
 
 ---
 

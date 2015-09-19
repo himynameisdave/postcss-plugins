@@ -1,3 +1,7 @@
+## v1.4.0
+> *(Sep 18th/2015)*
+- Updates all the scripts so that users can easily add a plugin without hassle
+
 ### v1.3.9
 > *(Sept 17th/2015)*
 - Authors script and list are ordered by most plugins written
