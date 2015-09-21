@@ -1474,7 +1474,7 @@
     "url": "https://github.com/jonathantneal/postcss-write-svg",
     "description": "write inline SVGs in CSS.",
     "tags": [
-      "grids"
+      "svg"
     ],
     "author": "jonathantneal"
   },
@@ -1523,5 +1523,41 @@
       "shortcuts"
     ],
     "author": "kinday"
+  },
+  {
+    "name": "postcss-atroot",
+    "description": " to place rules directly at the root node.",
+    "url": "https://github.com/OEvgeny/postcss-atroot",
+    "tags": [
+      "extensions"
+    ],
+    "author": "OEvgeny"
+  },
+  {
+    "name": "postcss-instagram",
+    "description": " for adding Instagram filters to your photos.",
+    "url": "https://github.com/azat-io/postcss-instagram",
+    "tags": [
+      "images"
+    ],
+    "author": "azat-io"
+  },
+  {
+    "name": "postcss-responsive-images",
+    "description": " making responsive images.",
+    "url": "https://github.com/azat-io/postcss-responsive-images",
+    "tags": [
+      "images"
+    ],
+    "author": "azat-io"
+  },
+  {
+    "name": "postcss-tatar-stylesheets",
+    "description": "Tatar Style Sheets",
+    "url": "https://github.com/azat-io/postcss-tatar-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "author": "azat-io"
   }
 ]

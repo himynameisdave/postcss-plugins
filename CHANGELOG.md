@@ -1,3 +1,10 @@
+### v1.4.3
+> *(Sep 21st/2015)*
+- Adds [`postcss-atroot`](https://github.com/OEvgeny/postcss-atroot)
+- Adds [`postcss-instagram`](https://github.com/azat-io/postcss-instagram)
+- Adds [`postcss-responsive-images`](https://github.com/azat-io/postcss-responsive-images)
+- Adds [`postcss-tatar-stylesheets`](https://github.com/azat-io/postcss-tatar-stylesheets)
+
 ### v1.4.2
 > *(Sep 19th/2015)*
 - Adds [`postcss-axis`](https://github.com/kinday/postcss-axis)
