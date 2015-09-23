@@ -1,3 +1,7 @@
+### v1.4.4
+> *(Sep 24th/2015)*
+- Adds [`colorguard`](https://github.com/SlexAxton/css-colorguard)
+
 ### v1.4.3
 > *(Sep 21st/2015)*
 - Adds [`postcss-atroot`](https://github.com/OEvgeny/postcss-atroot)
