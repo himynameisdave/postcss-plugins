@@ -1006,11 +1006,11 @@
     "author": "seaneking"
   },
   {
-    "name": "postcss-short",
+    "name": "short",
     "url": "https://github.com/jonathantneal/postcss-short",
     "description": "Adds and extends numerous shorthand properties.",
     "tags": [
-      "shortcuts"
+      "packs"
     ],
     "author": "jonathantneal"
   },
