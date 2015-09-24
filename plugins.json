@@ -1559,5 +1559,14 @@
       "fun"
     ],
     "author": "azat-io"
+  },
+  {
+    "name": "colorguard",
+    "description": " that helps maintain a consistent color palette.",
+    "url": "https://github.com/SlexAxton/css-colorguard",
+    "tags": [
+      "color"
+    ],
+    "author": "SlexAxton"
   }
 ]
