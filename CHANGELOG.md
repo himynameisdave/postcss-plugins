@@ -1,3 +1,23 @@
+### v1.4.5
+> *(Sep 25th/2015)*
+- Adds [`postcss-colormin`](https://github.com/ben-eb/postcss-colormin)
+- Adds [`postcss-convert-values`](https://github.com/ben-eb/postcss-convert-values)
+- Adds [`postcss-discard-comments`](https://github.com/ben-eb/postcss-discard-comments)
+- Adds [`postcss-discard-duplicates`](https://github.com/ben-eb/postcss-discard-duplicates)
+- Adds [`postcss-discard-empty`](https://github.com/ben-eb/postcss-discard-empty)
+- Adds [`postcss-discard-unused`](https://github.com/ben-eb/postcss-discard-unused)
+- Adds [`postcss-filter-plugins`](https://github.com/postcss/postcss-filter-plugins)
+- Adds [`postcss-merge-idents`](https://github.com/ben-eb/postcss-merge-idents)
+- Adds [`postcss-merge-longhand`](https://github.com/ben-eb/postcss-merge-longhand)
+- Adds [`postcss-merge-rules`](https://github.com/ben-eb/postcss-merge-rules)
+- Adds [`postcss-minify-font-values`](https://github.com/TrySound/postcss-minify-font-values)
+- Adds [`postcss-minify-selectors`](https://github.com/ben-eb/postcss-minify-selectors)
+- Adds [`postcss-normalize-charset`](https://github.com/TrySound/postcss-normalize-charset)
+- Adds [`postcss-normalize-url`](https://github.com/ben-eb/postcss-normalize-url)
+- Adds [`postcss-ordered-values`](https://github.com/ben-eb/postcss-ordered-values)
+- Adds [`postcss-reduce-idents`](https://github.com/ben-eb/postcss-reduce-idents)
+- Adds [`postcss-unique-selectors`](https://github.com/ben-eb/postcss-unique-selectors)
+
 ### v1.4.4
 > *(Sep 24th/2015)*
 - Adds [`colorguard`](https://github.com/SlexAxton/css-colorguard)
