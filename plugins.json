@@ -13,7 +13,8 @@
     "url": "https://github.com/ben-eb/cssnano",
     "description": "Plugin pack that optimizes CSS size for use in production.",
     "tags": [
-      "pack"
+      "pack",
+      "optimizations"
     ],
     "author": "ben-eb"
   },
@@ -288,6 +289,12 @@
     "description": "Adds vendor prefixes for you, using data from Can I Use.",
     "tags": [
       "fallbacks"
+    ],
+    "packs": [
+      "atcss",
+      "cssnano",
+      "cssnext",
+      "rucksack"
     ],
     "author": "postcss"
   },
@@ -736,7 +743,11 @@
     "url": "https://github.com/ben-eb/postcss-svgo",
     "description": "Processes inline SVG through SVGO.",
     "tags": [
-      "svg"
+      "svg",
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
     ],
     "author": "ben-eb"
   },
@@ -801,6 +812,10 @@
     "tags": [
       "optimizations"
     ],
+    "packs": [
+      "cssnano",
+      "cssnext"
+    ],
     "author": "postcss"
   },
   {
@@ -827,6 +842,9 @@
     "description": "Rebases positive z-index values.",
     "tags": [
       "optimizations"
+    ],
+    "packs": [
+      "cssnano"
     ],
     "author": "ben-eb"
   },
@@ -1568,5 +1586,210 @@
       "color"
     ],
     "author": "SlexAxton"
+  },
+  {
+    "name": "postcss-unique-selectors",
+    "description": " that ensures that CSS selectors contain no duplicates.",
+    "url": "https://github.com/ben-eb/postcss-unique-selectors",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-reduce-idents",
+    "description": " that reduces custom identifiers.",
+    "url": "https://github.com/ben-eb/postcss-reduce-idents",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-ordered-values",
+    "description": " that ensures a consistent ordering of values.",
+    "url": "https://github.com/ben-eb/postcss-ordered-values",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-normalize-url",
+    "description": " that normalizes URLs.",
+    "url": "https://github.com/ben-eb/postcss-normalize-url",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-normalize-charset",
+    "description": " that adds/removes charset definitions, depending on the file's encoding.",
+    "url": "https://github.com/TrySound/postcss-normalize-charset",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "TrySound"
+  },
+  {
+    "name": "postcss-minify-selectors",
+    "description": " that minifies CSS selectors.",
+    "url": "https://github.com/ben-eb/postcss-minify-selectors",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-minify-font-values",
+    "description": " that minifies font declarations.",
+    "url": "https://github.com/TrySound/postcss-minify-font-values",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "TrySound"
+  },
+  {
+    "name": "postcss-merge-rules",
+    "description": " that merges CSS rules together.",
+    "url": "https://github.com/ben-eb/postcss-merge-rules",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-merge-longhand",
+    "description": " that merges longhand properties into shorthand.",
+    "url": "https://github.com/ben-eb/postcss-merge-longhand",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-merge-idents",
+    "description": " that merges keyframe & counter style identifiers.",
+    "url": "https://github.com/ben-eb/postcss-merge-idents",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-filter-plugins",
+    "description": " that excludes/warns on duplicated plugins.",
+    "url": "https://github.com/postcss/postcss-filter-plugins",
+    "tags": [
+      "other"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "postcss"
+  },
+  {
+    "name": "postcss-discard-unused",
+    "description": " that removes unused counter styles, keyframes & fonts.",
+    "url": "https://github.com/ben-eb/postcss-discard-unused",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-discard-empty",
+    "description": " that removes empty rules and values.",
+    "url": "https://github.com/ben-eb/postcss-discard-empty",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-discard-duplicates",
+    "description": " that removes duplicate rules.",
+    "url": "https://github.com/ben-eb/postcss-discard-duplicates",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-discard-comments",
+    "description": " that removes comments from your CSS.",
+    "url": "https://github.com/ben-eb/postcss-discard-comments",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-convert-values",
+    "description": " that converts similar values, e.g. ms to s.",
+    "url": "https://github.com/ben-eb/postcss-convert-values",
+    "tags": [
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
+  },
+  {
+    "name": "postcss-colormin",
+    "description": " that minifies color values.",
+    "url": "https://github.com/ben-eb/postcss-colormin",
+    "tags": [
+      "color",
+      "optimizations"
+    ],
+    "packs": [
+      "cssnano"
+    ],
+    "author": "ben-eb"
   }
 ]
