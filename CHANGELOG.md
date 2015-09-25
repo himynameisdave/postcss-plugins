@@ -1,5 +1,6 @@
-### v1.4.5
+## v1.5.0
 > *(Sep 25th/2015)*
+- Adds "packs" property to the plugins.json
 - Adds [`postcss-colormin`](https://github.com/ben-eb/postcss-colormin)
 - Adds [`postcss-convert-values`](https://github.com/ben-eb/postcss-convert-values)
 - Adds [`postcss-discard-comments`](https://github.com/ben-eb/postcss-discard-comments)
