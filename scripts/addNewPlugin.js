@@ -21,6 +21,15 @@
             if( providedName.length < 1 ){
               return "Please provide an actual name for your plugin."
             }
+
+            var exists = plugins.filter(function( plugin ){
+              return plugin.name === providedName;
+            }).length;
+
+            if( exists ) {
+              return "This plugin has already been added to the list.";
+            }
+
             if( providedName.indexOf("postcss-") === -1 ){
               console.log( chalk.red("\nFYI: Plugin names usually start with 'postcss-' so they can easily be found on NPM.") );
             }
