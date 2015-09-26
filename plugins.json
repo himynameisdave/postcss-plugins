@@ -1791,5 +1791,14 @@
       "cssnano"
     ],
     "author": "ben-eb"
+  },
+  {
+    "name": "postcss-for-variables",
+    "description": "adds support custom property in at-rules `@for` loops",
+    "url": "https://github.com/GitScrum/postcss-for-variables",
+    "tags": [
+      "extensions"
+    ],
+    "author": "GitScrum"
   }
 ]

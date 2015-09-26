@@ -1,3 +1,7 @@
+### v1.5.1
+> *(Sep 26th/2015)*
+- Adds [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)
+
 ## v1.5.0
 > *(Sep 25th/2015)*
 - Adds "packs" property to the plugins.json
