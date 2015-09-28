@@ -1800,5 +1800,15 @@
       "extensions"
     ],
     "author": "GitScrum"
+  },
+  {
+    "name": "postcss-color-yiq",
+    "description": " that sets foreground colors using the YIQ color space.",
+    "url": "https://github.com/ben-eb/postcss-color-yiq",
+    "tags": [
+      "color",
+      "extensions"
+    ],
+    "author": "ben-eb"
   }
 ]

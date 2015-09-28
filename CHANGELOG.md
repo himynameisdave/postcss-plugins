@@ -1,3 +1,7 @@
+### v1.5.2
+> *(Sep 26th/2015)*
+- Adds [`postcss-color-yiq`](https://github.com/ben-eb/postcss-color-yiq)
+
 ### v1.5.1
 > *(Sep 26th/2015)*
 - Adds [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)

@@ -52,6 +52,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |   [`postcss-discard-comments`](https://github.com/ben-eb/postcss-discard-comments)
    |   [`postcss-convert-values`](https://github.com/ben-eb/postcss-convert-values)
    |   [`postcss-colormin`](https://github.com/ben-eb/postcss-colormin)
+   |   [`postcss-color-yiq`](https://github.com/ben-eb/postcss-color-yiq)
 [jonathantneal](https://github.com/jonathantneal)   |   [`precss`](https://github.com/jonathantneal/precss)
    |   [`postcss-conic-gradient`](https://github.com/jonathantneal/postcss-conic-gradient)
    |   [`postcss-pseudo-class-any-link`](https://github.com/jonathantneal/postcss-pseudo-class-any-link)
