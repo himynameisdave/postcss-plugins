@@ -1810,5 +1810,14 @@
       "extensions"
     ],
     "author": "ben-eb"
+  },
+  {
+    "name": "postcss-reverse-media",
+    "description": "reverse/Invert media query parameters.",
+    "url": "https://github.com/MadLittleMods/postcss-reverse-media",
+    "tags": [
+      "extensions"
+    ],
+    "author": "MadLittleMods"
   }
 ]

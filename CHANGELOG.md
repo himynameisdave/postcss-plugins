@@ -1,3 +1,7 @@
+### v1.5.3
+> *(Sep 27th/2015)*
+- Adds [`postcss-reverse-media`](https://github.com/MadLittleMods/postcss-reverse-media)
+
 ### v1.5.2
 > *(Sep 26th/2015)*
 - Adds [`postcss-color-yiq`](https://github.com/ben-eb/postcss-color-yiq)
