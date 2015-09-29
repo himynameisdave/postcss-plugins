@@ -1028,7 +1028,7 @@
     "url": "https://github.com/jonathantneal/postcss-short",
     "description": "Adds and extends numerous shorthand properties.",
     "tags": [
-      "packs"
+      "pack"
     ],
     "author": "jonathantneal"
   },
@@ -1819,5 +1819,82 @@
       "extensions"
     ],
     "author": "MadLittleMods"
+  },
+  {
+    "name": "postcss-short-spacing",
+    "description": "Extends `margin` and `padding` properties to optionally omit edges with an asterisk `*`.",
+    "url": "https://github.com/jonathantneal/postcss-short-spacing",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "packs": [
+      "postcss-short"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-short-size",
+    "description": "Creates `size` property that sets `width` and `height`.",
+    "url": "https://github.com/jonathantneal/postcss-short-size",
+    "tags": [
+      "shortcuts"
+    ],
+    "packs": [
+      "postcss-short"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-short-text",
+    "description": "Creates `text` property that sets various text-related properties.",
+    "url": "https://github.com/jonathantneal/postcss-short-text",
+    "tags": [
+      "shortcuts"
+    ],
+    "packs": [
+      "postcss-short"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-short-position",
+    "description": "Extends `position` property to optionally set `top`, `right`, `bottom`, and `left`.",
+    "url": "https://github.com/jonathantneal/postcss-short-position",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "packs": [
+      "postcss-short"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-short-font-size",
+    "description": "Extends `font-size` to set `line-height` with a second value.",
+    "url": "https://github.com/jonathantneal/postcss-short-font-size",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "packs": [
+      "postcss-short"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-short-color",
+    "description": "Extends `color` to set `background-color` with a second value.",
+    "url": "https://github.com/jonathantneal/postcss-short-color",
+    "tags": [
+      "color",
+      "extensions",
+      "shortcuts"
+    ],
+    "packs": [
+      "postcss-short"
+    ],
+    "author": "jonathantneal"
   }
 ]
