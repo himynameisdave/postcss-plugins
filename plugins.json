@@ -1896,5 +1896,16 @@
       "postcss-short"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-nesting",
+    "description": "Nest one style rule inside another, following the CSS Nesting Module Level 3 specification.",
+    "url": "https://github.com/jonathantneal/postcss-nesting",
+    "tags": [
+      "extensions",
+      "future",
+      "media-queries"
+    ],
+    "author": "jonathantneal"
   }
 ]
