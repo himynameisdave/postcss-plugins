@@ -1,3 +1,12 @@
+### v1.5.4
+> *(Sep 29th/2015)*
+- Adds [`postcss-short-color`](https://github.com/jonathantneal/postcss-short-color)
+- Adds [`postcss-short-font-size`](https://github.com/jonathantneal/postcss-short-font-size)
+- Adds [`postcss-short-position`](https://github.com/jonathantneal/postcss-short-position)
+- Adds [`postcss-short-size`](https://github.com/jonathantneal/postcss-short-size)
+- Adds [`postcss-short-spacing`](https://github.com/jonathantneal/postcss-short-spacing)
+- Adds [`postcss-short-text`](https://github.com/jonathantneal/postcss-short-text)
+
 ### v1.5.3
 > *(Sep 27th/2015)*
 - Adds [`postcss-reverse-media`](https://github.com/MadLittleMods/postcss-reverse-media)
