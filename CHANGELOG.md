@@ -1,3 +1,7 @@
+### v1.5.5
+> *(Sep 29th/2015)*
+- Adds [`postcss-nesting`](https://github.com/jonathantneal/postcss-nesting)
+
 ### v1.5.4
 > *(Sep 29th/2015)*
 - Adds [`postcss-short-color`](https://github.com/jonathantneal/postcss-short-color)
