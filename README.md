@@ -8,7 +8,7 @@ The "officially unofficial" consolidated list of [PostCSS](https://github.com/po
 
 ### Purpose
 
-There are [over a hundred wonderful developers](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md) building amazing PostCSS plugins. The running list of plugins grows quickly, and is used in many places. One such place is on the searchable [postcss.parts](http://postcss.parts) built by [**@mxstbr**](https://github.com/mxstbr). Another is in the [PostCSS Alfred Workflow](https://github.com/chrisopedia/alfred-postcss-workflow) created by [**chrisopedia**](https://github.com/chrisopedia). These are great resources for developers to find and use plugins, and this list helps keep them all up to date.
+There are [over a hundred wonderful developers](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md) building amazing PostCSS plugins. The running list of plugins grows quickly, and is used in many places. One such place is on the searchable [postcss.parts](http://postcss.parts) built by [**@mxstbr**](https://github.com/mxstbr). Another is in the [PostCSS Alfred Workflow](https://github.com/chrisopedia/alfred-postcss-workflow) created by [**@chrisopedia**](https://github.com/chrisopedia). These are great resources for developers to find and use plugins, and this list helps keep them all up to date.
 
 The goal is to be as consise and clear as possible while still offering a lot of data about each plugin to developers.
 
