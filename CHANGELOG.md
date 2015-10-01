@@ -1,6 +1,7 @@
 ### v1.5.6
 > *(Oct 1st/2015)*
 - Adds [`postcss-short-border`](https://github.com/jonathantneal/postcss-short-border)
+- Adds [`postcss-prefix-selector`](https://github.com/jonathanong/postcss-prefix-selector)
 
 ### v1.5.5
 > *(Sep 29th/2015)*

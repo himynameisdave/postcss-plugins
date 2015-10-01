@@ -135,7 +135,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [travco](https://github.com/travco)  |  [`postcss-extend`](https://github.com/travco/postcss-extend)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
-[GitScrum](https://github.com/GitScrum)  |  [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)
+[jonathanong](https://github.com/jonathanong)  |  [`postcss-prefix-selector`](https://github.com/jonathanong/postcss-prefix-selector)
 [twbs](https://github.com/twbs)  |  [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)
 [whitneyit](https://github.com/whitneyit)  |  [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)
 [Rycochet](https://github.com/Rycochet)  |  [`postcss-epub`](https://github.com/Rycochet/postcss-epub)
@@ -202,5 +202,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [macropodhq](https://github.com/macropodhq)  |  [`postcss-local-constants`](https://github.com/macropodhq/postcss-local-constants)
 [SlexAxton](https://github.com/SlexAxton)  |  [`colorguard`](https://github.com/SlexAxton/css-colorguard)
 [rtsao](https://github.com/rtsao)  |  [`postcss-match`](https://github.com/rtsao/postcss-match)
+[GitScrum](https://github.com/GitScrum)  |  [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)
 [alex499](https://github.com/alex499)  |  [`postcss-image-set`](https://github.com/alex499/postcss-image-set)
 <!-- END -->
