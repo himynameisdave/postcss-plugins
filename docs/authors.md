@@ -70,6 +70,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |   [`postcss-short-font-size`](https://github.com/jonathantneal/postcss-short-font-size)
    |   [`postcss-short-color`](https://github.com/jonathantneal/postcss-short-color)
    |   [`postcss-nesting`](https://github.com/jonathantneal/postcss-nesting)
+   |   [`postcss-short-border`](https://github.com/jonathantneal/postcss-short-border)
 [jedmao](https://github.com/jedmao)   |   [`postcss-nested-props`](https://github.com/jedmao/postcss-nested-props)
    |   [`postcss-font-pack`](https://github.com/jedmao/postcss-font-pack)
    |   [`postcss-all-link-colors`](https://github.com/jedmao/postcss-all-link-colors)

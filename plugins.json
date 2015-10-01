@@ -1907,5 +1907,15 @@
       "media-queries"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-short-border",
+    "description": "Creatively define multiple edges on border properties in CSS",
+    "url": "https://github.com/jonathantneal/postcss-short-border",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "author": "jonathantneal"
   }
 ]
