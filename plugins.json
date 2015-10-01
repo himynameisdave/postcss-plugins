@@ -1907,5 +1907,14 @@
       "media-queries"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-prefix-selector",
+    "description": "that prefixes every rule with a selector.",
+    "url": "https://github.com/jonathanong/postcss-prefix-selector",
+    "tags": [
+      "other"
+    ],
+    "author": "jonathanong"
   }
 ]
