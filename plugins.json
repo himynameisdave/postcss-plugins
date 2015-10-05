@@ -263,6 +263,9 @@
     "tags": [
       "fallbacks"
     ],
+    "packs": [
+      "oldie"
+    ],
     "author": "axa-ch"
   },
   {
@@ -313,6 +316,9 @@
     "description": "Generates pixel fallbacks for rem units.",
     "tags": [
       "fallbacks"
+    ],
+    "packs": [
+      "oldie"
     ],
     "author": "robwierzbowski"
   },
@@ -814,7 +820,8 @@
     ],
     "packs": [
       "cssnano",
-      "cssnext"
+      "cssnext",
+      "oldie"
     ],
     "author": "postcss"
   },
@@ -1447,6 +1454,9 @@
       "media-queries",
       "fallbacks"
     ],
+    "packs": [
+      "oldie"
+    ],
     "author": "jonathantneal"
   },
   {
@@ -1917,7 +1927,8 @@
       "shortcuts"
     ],
     "author": "jonathantneal"
-  },{
+  },
+  {
     "name": "postcss-prefix-selector",
     "description": "that prefixes every rule with a selector.",
     "url": "https://github.com/jonathanong/postcss-prefix-selector",
@@ -1925,5 +1936,63 @@
       "other"
     ],
     "author": "jonathanong"
+  },
+  {
+    "name": "postcss-unroot",
+    "description": "Swap :root with html in CSS selectors",
+    "url": "https://github.com/jonathantneal/postcss-unroot",
+    "tags": [
+      "fallbacks"
+    ],
+    "packs": [
+      "oldie"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-unnot",
+    "description": "Remove selectors with `:not` in CSS",
+    "url": "https://github.com/jonathantneal/postcss-unnot",
+    "tags": [
+      "fallbacks"
+    ],
+    "packs": [
+      "oldie"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-unopacity",
+    "description": "Replace opacity properties with older IE compatible filter properties",
+    "url": "https://github.com/jonathantneal/postcss-unopacity",
+    "tags": [
+      "fallbacks"
+    ],
+    "packs": [
+      "oldie"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-unnth",
+    "description": "Replace :nth-child selectors with :first-child+ selectors",
+    "url": "https://github.com/jonathantneal/postcss-unnth",
+    "tags": [
+      "fallbacks"
+    ],
+    "packs": [
+      "oldie"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "oldie",
+    "description": "Convert modern CSS into Internet Explorer 8 compatible styles",
+    "url": "https://github.com/jonathantneal/oldie",
+    "tags": [
+      "fallbacks",
+      "pack"
+    ],
+    "author": "jonathantneal"
   }
 ]
