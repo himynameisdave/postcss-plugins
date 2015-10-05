@@ -1,3 +1,11 @@
+### v1.5.7
+> *(Oct 4th/2015)*
+- Adds [`oldie`](https://github.com/jonathantneal/oldie)
+- Adds [`postcss-unopacity`](https://github.com/jonathantneal/postcss-unopacity)
+- Adds [`postcss-unnot`](https://github.com/jonathantneal/postcss-unnot)
+- Adds [`postcss-unroot`](https://github.com/jonathantneal/postcss-unroot)
+- Adds [`postcss-unnth`](https://github.com/jonathantneal/postcss-unnth)
+
 ### v1.5.6
 > *(Oct 1st/2015)*
 - Adds [`postcss-short-border`](https://github.com/jonathantneal/postcss-short-border)
