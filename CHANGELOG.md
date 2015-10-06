@@ -1,3 +1,7 @@
+### v1.5.8
+> *(Oct 6th/2015)*
+- Adds [`postcss-shorthand-expand`](https://github.com/johnotander/postcss-shorthand-expand)
+
 ### v1.5.7
 > *(Oct 4th/2015)*
 - Adds [`oldie`](https://github.com/jonathantneal/oldie)

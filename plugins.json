@@ -1994,5 +1994,14 @@
       "pack"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-shorthand-expand",
+    "description": "expands shorthand properties.",
+    "url": "https://github.com/johnotander/postcss-shorthand-expand",
+    "tags": [
+      "other"
+    ],
+    "author": "johnotander"
   }
 ]
