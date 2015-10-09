@@ -2003,5 +2003,15 @@
       "other"
     ],
     "author": "johnotander"
+  },
+  {
+    "name": "postcss-input-range",
+    "description": "Style input[type=\"range\"] with unprefixed pseudo-classes",
+    "url": "https://github.com/jonathantneal/postcss-input-range",
+    "tags": [
+      "fallbacks",
+      "future"
+    ],
+    "author": "jonathantneal"
   }
 ]

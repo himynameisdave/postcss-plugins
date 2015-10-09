@@ -1,3 +1,7 @@
+### v1.5.9
+> *(Oct 9th/2015)*
+- Adds [`postcss-input-range`](https://github.com/jonathantneal/postcss-input-range)
+
 ### v1.5.8
 > *(Oct 6th/2015)*
 - Adds [`postcss-shorthand-expand`](https://github.com/johnotander/postcss-shorthand-expand)

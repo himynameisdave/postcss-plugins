@@ -56,6 +56,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |   [`postcss-unopacity`](https://github.com/jonathantneal/postcss-unopacity)
    |   [`postcss-unnth`](https://github.com/jonathantneal/postcss-unnth)
    |   [`oldie`](https://github.com/jonathantneal/oldie)
+   |   [`postcss-input-range`](https://github.com/jonathantneal/postcss-input-range)
 [ben-eb](https://github.com/ben-eb)   |   [`cssnano`](https://github.com/ben-eb/cssnano)
    |   [`postcss-svgo`](https://github.com/ben-eb/postcss-svgo)
    |   [`postcss-zindex`](https://github.com/ben-eb/postcss-zindex)
