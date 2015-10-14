@@ -1,3 +1,7 @@
+### v1.5.10
+> *(Oct 8th/2015)*
+- Adds [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)
+
 ### v1.5.9
 > *(Oct 7th/2015)*
 - Adds [`postcss-copy`](https://github.com/geut/postcss-copy)
