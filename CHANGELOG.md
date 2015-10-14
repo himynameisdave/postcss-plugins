@@ -1,3 +1,7 @@
+### v1.5.9
+> *(Oct 7th/2015)*
+- Adds [`postcss-copy`](https://github.com/geut/postcss-copy)
+
 ### v1.5.8
 > *(Oct 6th/2015)*
 - Adds [`postcss-shorthand-expand`](https://github.com/johnotander/postcss-shorthand-expand)
