@@ -2031,5 +2031,14 @@
       "future"
     ],
     "author": "jonathantneal"
+  },{
+    "name": "postcss-logical-props",
+    "description": "that transforms CSS logical properties into vanilla CSS in either ltr or rtl versions",
+    "url": "https://github.com/bmds/postcss-logical-props",
+    "tags": [
+      "fallbacks",
+      "future"
+    ],
+    "author": "bmds"
   }
 ]
