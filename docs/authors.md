@@ -142,6 +142,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
 [geut](https://github.com/geut)  |  [`postcss-copy`](https://github.com/geut/postcss-copy)
+[makotot](https://github.com/makotot)  |  [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)
 [twbs](https://github.com/twbs)  |  [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)
 [whitneyit](https://github.com/whitneyit)  |  [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)
 [Rycochet](https://github.com/Rycochet)  |  [`postcss-epub`](https://github.com/Rycochet/postcss-epub)
