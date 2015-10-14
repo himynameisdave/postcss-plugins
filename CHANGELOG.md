@@ -1,6 +1,7 @@
 ### v1.5.10
-> *(Oct 8th/2015)*
+> *(Oct 13th/2015)*
 - Adds [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)
+- Adds [`postcss-input-range`](https://github.com/jonathantneal/postcss-input-range)
 
 ### v1.5.9
 > *(Oct 7th/2015)*

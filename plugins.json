@@ -2003,8 +2003,7 @@
       "other"
     ],
     "author": "johnotander"
-  },
-  {
+  },{
     "name": "postcss-copy",
     "description": "copy all assets referenced in CSS files (using the Async API) to a custom destination folder and updating the URLs.",
     "url": "https://github.com/geut/postcss-copy",
@@ -2023,5 +2022,14 @@
       "other"
     ],
     "author": "makotot"
+  },{
+    "name": "postcss-input-range",
+    "description": "Style input[type=\"range\"] with unprefixed pseudo-classes",
+    "url": "https://github.com/jonathantneal/postcss-input-range",
+    "tags": [
+      "fallbacks",
+      "future"
+    ],
+    "author": "jonathantneal"
   }
 ]
