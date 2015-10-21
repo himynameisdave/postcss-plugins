@@ -2046,7 +2046,7 @@
     "author": "bmds"
   },
   {
-    "name": "Postcss-position-alt",
+    "name": "postcss-position-alt",
     "description": "that adds shorthand to position declarations.",
     "url": "https://github.com/sylvainbaronnet/postcss-position-alt",
     "tags": [
