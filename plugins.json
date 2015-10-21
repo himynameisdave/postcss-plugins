@@ -2003,7 +2003,8 @@
       "other"
     ],
     "author": "johnotander"
-  },{
+  },
+  {
     "name": "postcss-copy",
     "description": "copy all assets referenced in CSS files (using the Async API) to a custom destination folder and updating the URLs.",
     "url": "https://github.com/geut/postcss-copy",
@@ -2014,7 +2015,8 @@
       "other"
     ],
     "author": "geut"
-  },{
+  },
+  {
     "name": "postcss-line-height-px-to-unitless",
     "description": "convert a line-height value with px to a unitless value.",
     "url": "https://github.com/makotot/postcss-line-height-px-to-unitless",
@@ -2022,7 +2024,8 @@
       "other"
     ],
     "author": "makotot"
-  },{
+  },
+  {
     "name": "postcss-input-range",
     "description": "Style input[type=\"range\"] with unprefixed pseudo-classes",
     "url": "https://github.com/jonathantneal/postcss-input-range",
@@ -2031,7 +2034,8 @@
       "future"
     ],
     "author": "jonathantneal"
-  },{
+  },
+  {
     "name": "postcss-logical-props",
     "description": "that transforms CSS logical properties into vanilla CSS in either ltr or rtl versions",
     "url": "https://github.com/bmds/postcss-logical-props",
@@ -2040,5 +2044,14 @@
       "future"
     ],
     "author": "bmds"
+  },
+  {
+    "name": "Postcss-position-alt",
+    "description": "that adds shorthand to position declarations.",
+    "url": "https://github.com/sylvainbaronnet/postcss-position-alt",
+    "tags": [
+      "shortcuts"
+    ],
+    "author": "sylvainbaronnet"
   }
 ]

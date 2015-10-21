@@ -1,4 +1,8 @@
 ### v1.5.10
+> *(Oct 18th/2015)*
+- Adds [`Postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)
+
+### v1.5.10
 > *(Oct 13th/2015)*
 - Adds [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)
 - Adds [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)
