@@ -1,5 +1,5 @@
-### v1.5.10
-> *(Oct 18th/2015)*
+### v1.5.11
+> *(Oct 20th/2015)*
 - Adds [`Postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)
 
 ### v1.5.10
