@@ -2053,5 +2053,16 @@
       "shortcuts"
     ],
     "author": "sylvainbaronnet"
+  },
+  {
+    "name": "postcss-contrast",
+    "description": "to change text color depending on background color contrast.",
+    "url": "https://github.com/stephenway/postcss-contrast",
+    "tags": [
+      "color",
+      "extensions",
+      "optimizations"
+    ],
+    "author": "stephenway"
   }
 ]
