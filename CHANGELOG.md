@@ -1,3 +1,7 @@
+### v1.5.13
+> *(Oct 22nd/2015)*
+- Adds [`postcss-select`](https://github.com/johnotander/postcss-select)
+
 ### v1.5.12
 > *(Oct 21st/2015)*
 - Adds [`postcss-contrast`](https://github.com/stephenway/postcss-contrast)

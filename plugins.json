@@ -2064,5 +2064,14 @@
       "optimizations"
     ],
     "author": "stephenway"
+  },
+  {
+    "name": "postcss-select",
+    "description": "filter CSS based on a given list of selectors",
+    "url": "https://github.com/johnotander/postcss-select",
+    "tags": [
+      "other"
+    ],
+    "author": "johnotander"
   }
 ]
