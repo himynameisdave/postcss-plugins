@@ -2073,5 +2073,24 @@
       "other"
     ],
     "author": "johnotander"
+  },
+  {
+    "name": "postcss-assets-rebase",
+    "description": "rebases assets from url()",
+    "url": "https://github.com/devex-web-frontend/postcss-assets-rebase",
+    "tags": [
+      "images"
+    ],
+    "author": "devex-web-frontend"
+  },
+  {
+    "name": "postcss-regexp-detect",
+    "description": "search for regexp in css declarations",
+    "url": "https://github.com/devex-web-frontend/postcss-regexp-detect",
+    "tags": [
+      "analysis",
+      "other"
+    ],
+    "author": "devex-web-frontend"
   }
 ]

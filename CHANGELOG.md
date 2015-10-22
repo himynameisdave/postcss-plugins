@@ -1,3 +1,8 @@
+### v1.5.14
+> *(Oct 22nd/2015)*
+- Adds [`postcss-regexp-detect`](https://github.com/devex-web-frontend/postcss-regexp-detect)
+- Adds [`postcss-assets-rebase`](https://github.com/devex-web-frontend/postcss-assets-rebase)
+
 ### v1.5.13
 > *(Oct 22nd/2015)*
 - Adds [`postcss-select`](https://github.com/johnotander/postcss-select)
