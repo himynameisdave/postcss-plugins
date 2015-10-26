@@ -1,3 +1,7 @@
+### v1.5.15
+> *(Oct 26th/2015)*
+- Adds [`postcss-layout`](https://github.com/arccoza/postcss-layout)
+
 ### v1.5.14
 > *(Oct 22nd/2015)*
 - Adds [`postcss-regexp-detect`](https://github.com/devex-web-frontend/postcss-regexp-detect)
