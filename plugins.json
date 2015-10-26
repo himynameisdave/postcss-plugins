@@ -2092,5 +2092,15 @@
       "other"
     ],
     "author": "devex-web-frontend"
+  },
+  {
+    "name": "postcss-layout",
+    "description": "Plugin for some common CSS layout patterns and a Grid system.",
+    "url": "https://github.com/arccoza/postcss-layout",
+    "tags": [
+      "extensions",
+      "grids"
+    ],
+    "author": "arccoza"
   }
 ]
