@@ -2102,5 +2102,14 @@
       "grids"
     ],
     "author": "arccoza"
+  },
+  {
+    "name": "postcss-spanish-stylesheets",
+    "description": "for writing Spanish Stylesheets",
+    "url": "https://github.com/ismamz/postcss-spanish-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "author": "ismamz"
   }
 ]

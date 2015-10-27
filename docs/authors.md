@@ -144,7 +144,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |   [`postcss-border`](https://github.com/andrepolischuk/postcss-border)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
-[arccoza](https://github.com/arccoza)  |  [`postcss-layout`](https://github.com/arccoza/postcss-layout)
+[ismamz](https://github.com/ismamz)  |  [`postcss-spanish-stylesheets`](https://github.com/ismamz/postcss-spanish-stylesheets)
 [twbs](https://github.com/twbs)  |  [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)
 [whitneyit](https://github.com/whitneyit)  |  [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)
 [Rycochet](https://github.com/Rycochet)  |  [`postcss-epub`](https://github.com/Rycochet/postcss-epub)
@@ -219,5 +219,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [sylvainbaronnet](https://github.com/sylvainbaronnet)  |  [`postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)
 [stephenway](https://github.com/stephenway)  |  [`postcss-contrast`](https://github.com/stephenway/postcss-contrast)
 [travco](https://github.com/travco)  |  [`postcss-extend`](https://github.com/travco/postcss-extend)
+[arccoza](https://github.com/arccoza)  |  [`postcss-layout`](https://github.com/arccoza/postcss-layout)
 [lexich](https://github.com/lexich)  |  [`webpcss`](https://github.com/lexich/webpcss)
 <!-- END -->
