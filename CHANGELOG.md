@@ -1,3 +1,8 @@
+### v1.5.16
+> *(Oct 27th/2015)*
+- Adds [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)
+- Adds [`postcss-spanish-stylesheets`](https://github.com/ismamz/postcss-spanish-stylesheets)
+
 ### v1.5.15
 > *(Oct 26th/2015)*
 - Adds [`postcss-layout`](https://github.com/arccoza/postcss-layout)

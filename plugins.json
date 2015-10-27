@@ -2102,5 +2102,24 @@
       "grids"
     ],
     "author": "arccoza"
+  },
+  {
+    "name": "postcss-spanish-stylesheets",
+    "description": "Spanish Style Sheets.",
+    "url": "https://github.com/ismamz/postcss-spanish-stylesheets",
+    "tags": [
+      "fun",
+      "other"
+    ],
+    "author": "ismamz"
+  },
+  {
+    "name": "postcss-rgba-hex",
+    "description": "converts rgba values to hex analogues",
+    "url": "https://github.com/XOP/postcss-rgba-hex",
+    "tags": [
+      "color"
+    ],
+    "author": "XOP"
   }
 ]
