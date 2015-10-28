@@ -1,3 +1,7 @@
+### v1.5.17
+> *(Oct 28th/2015)*
+- Adds [`postcss-time-machine`](https://github.com/jonathantneal/postcss-time-machine)
+
 ### v1.5.16
 > *(Oct 27th/2015)*
 - Adds [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)
