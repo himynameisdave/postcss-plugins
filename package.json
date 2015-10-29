@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/himynameisdave/postcss-plugins.git"
   },
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "keywords": [
     "postcss",
     "postcss-plugin",

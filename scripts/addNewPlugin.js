@@ -65,6 +65,24 @@
       ];
 
 
+  var promptForNewPlugin = funciton( answers ){
+
+
+
+  },
+  //  simply handles logging "heres your plugin"
+  addingWhatBanner = function(a){
+    console.log( chalk.yellow("Adding a postcss plugin with the following properties:") );
+    console.log( chalk.cyan("name:\n   ")+chalk.green(a.name) );
+    console.log( chalk.cyan("description:\n    ")+chalk.green(a.description) );
+    console.log( chalk.cyan("url:\n   ")+chalk.green(a.url) );
+    console.log( chalk.cyan("tags:") );
+    a.tags.forEach(function( tag ){
+      console.log( chalk.green("   - "+tag) );
+    });
+  };
+
+
 //  START DA SCRIPT
 
   //  1. Hello
@@ -72,14 +90,7 @@
 
   //  2. Da Questions
   inquirer.prompt( questions, function(answers){
-    console.log( chalk.yellow("Adding a postcss plugin with the following properties:") );
-    console.log( chalk.cyan("name:\n   ")+chalk.green(answers.name) );
-    console.log( chalk.cyan("description:\n    ")+chalk.green(answers.description) );
-    console.log( chalk.cyan("url:\n   ")+chalk.green(answers.url) );
-    console.log( chalk.cyan("tags:") );
-    answers.tags.forEach(function( tag ){
-      console.log( chalk.green("   - "+tag) );
-    });
+    addingWhatBanner(answers);
 
     //  sets the author here
     var newPlug = answers;
@@ -93,6 +104,8 @@
       console.log("Added the new plugin to plugins.json!");
       require("./versionBump.js")(answers);
     });
+
+
 
   });
 
