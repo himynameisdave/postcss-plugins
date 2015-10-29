@@ -1,3 +1,7 @@
+### v1.5.19
+> *(Oct 29th/2015)*
+- Adds [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)
+
 ### v1.5.18
 > *(Oct 29th/2015)*
 - Adds [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)

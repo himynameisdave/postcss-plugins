@@ -2141,5 +2141,14 @@
       "fun"
     ],
     "author": "bameda"
+  },
+  {
+    "name": "postcss-shades-of-gray",
+    "description": "helps keeping grayscale colors consistent to a gray palette.",
+    "url": "https://github.com/laureanoarcanio/postcss-shades-of-gray",
+    "tags": [
+      "color"
+    ],
+    "author": "laureanoarcanio"
   }
 ]
