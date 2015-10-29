@@ -1,3 +1,7 @@
+### v1.5.18
+> *(Oct 29th/2015)*
+- Adds [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)
+
 ### v1.5.17
 > *(Oct 28th/2015)*
 - Adds [`postcss-time-machine`](https://github.com/jonathantneal/postcss-time-machine)

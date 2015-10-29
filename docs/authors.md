@@ -145,7 +145,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |   [`postcss-border`](https://github.com/andrepolischuk/postcss-border)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
-[XOP](https://github.com/XOP)  |  [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)
+[bameda](https://github.com/bameda)  |  [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)
 [twbs](https://github.com/twbs)  |  [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)
 [whitneyit](https://github.com/whitneyit)  |  [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)
 [Rycochet](https://github.com/Rycochet)  |  [`postcss-epub`](https://github.com/Rycochet/postcss-epub)
@@ -222,5 +222,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [travco](https://github.com/travco)  |  [`postcss-extend`](https://github.com/travco/postcss-extend)
 [arccoza](https://github.com/arccoza)  |  [`postcss-layout`](https://github.com/arccoza/postcss-layout)
 [ismamz](https://github.com/ismamz)  |  [`postcss-spanish-stylesheets`](https://github.com/ismamz/postcss-spanish-stylesheets)
+[XOP](https://github.com/XOP)  |  [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)
 [yuezk](https://github.com/yuezk)  |  [`postcss-urlrev`](https://github.com/yuezk/postcss-urlrev)
 <!-- END -->

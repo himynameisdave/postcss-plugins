@@ -2132,5 +2132,14 @@
       "fun"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-andalusian-stylesheets",
+    "description": "Andalusian Style Sheets, Olé!.",
+    "url": "https://github.com/bameda/postcss-andalusian-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "author": "bameda"
   }
 ]
