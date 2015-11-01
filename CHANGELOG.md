@@ -1,3 +1,7 @@
+### v1.5.20
+> *(Nov 1st/2015)*
+- Adds [`postcss-import-url`](https://github.com/unlight/postcss-import-url)
+
 ### v1.5.19
 > *(Oct 29th/2015)*
 - Adds [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)
