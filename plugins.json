@@ -2159,5 +2159,15 @@
       "optimizations"
     ],
     "author": "unlight"
+  },
+  {
+    "name": "mdcss",
+    "description": "Easily create and maintain style guides using CSS comments.",
+    "url": "https://github.com/jonathantneal/mdcss",
+    "tags": [
+      "analysis",
+      "other"
+    ],
+    "author": "jonathantneal"
   }
 ]
