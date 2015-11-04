@@ -1,3 +1,7 @@
+### v1.5.22
+> *(Nov 4th/2015)*
+- Adds [`level4`](https://github.com/stephenway/level4)
+
 ### v1.5.21
 > *(Nov 3rd/2015)*
 - Adds [`mdcss`](https://github.com/jonathantneal/mdcss)
