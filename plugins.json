@@ -2169,5 +2169,14 @@
       "other"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-svg-fragments",
+    "description": "Use SVG fragments in CSS URLs.",
+    "url": "https://github.com/jonathantneal/postcss-svg-fragments",
+    "tags": [
+      "svg"
+    ],
+    "author": "jonathantneal"
   }
 ]
