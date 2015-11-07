@@ -2169,5 +2169,16 @@
       "other"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-infrared-filter",
+    "description": "An infrared photography filter for CSS",
+    "url": "https://github.com/jonathantneal/postcss-infrared-filter",
+    "tags": [
+      "color",
+      "extensions",
+      "images"
+    ],
+    "author": "jonathantneal"
   }
 ]
