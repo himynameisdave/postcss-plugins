@@ -1,3 +1,7 @@
+### v1.5.22
+> *(Nov 7th/2015)*
+- Adds [`postcss-infrared-filter`](https://github.com/jonathantneal/postcss-infrared-filter)
+
 ### v1.5.21
 > *(Nov 3rd/2015)*
 - Adds [`mdcss`](https://github.com/jonathantneal/mdcss)
