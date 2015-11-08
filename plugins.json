@@ -2169,5 +2169,62 @@
       "other"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "level4",
+    "description": "Use W3C CSS Level 4 Modules with PostCSS",
+    "url": "https://github.com/stephenway/level4",
+    "tags": [
+      "future"
+    ],
+    "author": "stephenway"
+  },
+  {
+    "name": "postcss-svg-fragments",
+    "description": "Use SVG fragments in CSS URLs.",
+    "url": "https://github.com/jonathantneal/postcss-svg-fragments",
+    "tags": [
+      "svg"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-ifrared-filter",
+    "description": "an infrared photography filter for CSS",
+    "url": "https://github.com/jonathantneal/postcss-infrared-filter",
+    "tags": [
+      "color",
+      "extensions",
+      "images"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-raw",
+    "description": "output nodes inside the @raw at-rule, untouched by other plugins in the plugin stack.",
+    "url": "https://github.com/MadLittleMods/postcss-raw",
+    "tags": [
+      "other"
+    ],
+    "author": "MadLittleMods"
+  },
+  {
+    "name": "postcss-reference",
+    "description": "for referencing selectors' rules from CSS files and defined rulesets.",
+    "url": "https://github.com/dehuszar/postcss-reference",
+    "tags": [
+      "other"
+    ],
+    "author": "dehuszar"
+  },
+  {
+    "name": "postcss-logical-properties",
+    "description": "to transform start/end properties to left/right depending on LTR or RTL writing directions of the document",
+    "url": "https://github.com/ahmadalfy/postcss-logical-properties",
+    "tags": [
+      "extensions",
+      "other"
+    ],
+    "author": "ahmadalfy"
   }
 ]

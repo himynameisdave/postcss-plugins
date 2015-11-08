@@ -1,3 +1,12 @@
+### v1.5.22
+> *(Nov 7th/2015)*
+- Adds [`level4`](https://github.com/stephenway/level4)
+- Adds [`postcss-svg-fragments`](https://github.com/jonathantneal/postcss-svg-fragments)
+- Adds [`postcss-ifrared-filter`](https://github.com/jonathantneal/postcss-infrared-filter)
+- Adds [`postcss-raw`](https://github.com/MadLittleMods/postcss-raw)
+- Adds [`postcss-reference`](https://github.com/dehuszar/postcss-reference)
+- Adds [`postcss-logical-properties`](https://github.com/ahmadalfy/postcss-logical-properties)
+
 ### v1.5.21
 > *(Nov 3rd/2015)*
 - Adds [`mdcss`](https://github.com/jonathantneal/mdcss)
