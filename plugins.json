@@ -2226,5 +2226,14 @@
       "other"
     ],
     "author": "ahmadalfy"
+  },
+  {
+    "name": "postcss-filter-gradient",
+    "description": "adds gradient filter for the old IE.",
+    "url": "https://github.com/yuezk/postcss-filter-gradient",
+    "tags": [
+      "fallbacks"
+    ],
+    "author": "yuezk"
   }
 ]

@@ -1,3 +1,7 @@
+### v1.5.23
+> *(Nov 14th/2015)*
+- Adds [`postcss-filter-gradient`](https://github.com/yuezk/postcss-filter-gradient)
+
 ### v1.5.22
 > *(Nov 7th/2015)*
 - Adds [`level4`](https://github.com/stephenway/level4)
