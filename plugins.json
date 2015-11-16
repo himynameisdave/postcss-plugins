@@ -2235,5 +2235,15 @@
       "fallbacks"
     ],
     "author": "yuezk"
+  },
+  {
+    "name": "postcss-short-data",
+    "description": "Write shorthand data attribute selectors in CSS.",
+    "url": "https://github.com/jonathantneal/postcss-short-data",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "author": "jonathantneal"
   }
 ]
