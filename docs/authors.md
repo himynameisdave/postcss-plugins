@@ -34,6 +34,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |   [`postcss-svg-fragments`](https://github.com/jonathantneal/postcss-svg-fragments)
    |   [`postcss-ifrared-filter`](https://github.com/jonathantneal/postcss-infrared-filter)
    |   [`postcss-short-data`](https://github.com/jonathantneal/postcss-short-data)
+   |   [`postcss-space-start-attrs`](https://github.com/jonathantneal/postcss-space-start-attrs)
 [postcss](https://github.com/postcss)   |   [`postcss-color-function`](https://github.com/postcss/postcss-color-function)
    |   [`postcss-color-gray`](https://github.com/postcss/postcss-color-gray)
    |   [`postcss-color-hex-alpha`](https://github.com/postcss/postcss-color-hex-alpha)

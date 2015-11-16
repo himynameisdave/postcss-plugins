@@ -2245,5 +2245,15 @@
       "shortcuts"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-space-start-attrs",
+    "description": "Target attributes beginning with a certain value in a space separated list.",
+    "url": "https://github.com/jonathantneal/postcss-space-start-attrs",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "author": "jonathantneal"
   }
 ]
