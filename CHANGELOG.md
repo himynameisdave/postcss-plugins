@@ -1,3 +1,8 @@
+### v1.5.24
+> *(Nov 16th/2015)*
+- Adds [`postcss-short-data`](https://github.com/jonathantneal/postcss-short-data)
+- Adds [`postcss-space-start-attrs`](https://github.com/jonathantneal/postcss-space-start-attrs)
+
 ### v1.5.23
 > *(Nov 14th/2015)*
 - Adds [`postcss-filter-gradient`](https://github.com/yuezk/postcss-filter-gradient)

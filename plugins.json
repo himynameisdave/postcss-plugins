@@ -2235,5 +2235,25 @@
       "fallbacks"
     ],
     "author": "yuezk"
+  },
+  {
+    "name": "postcss-short-data",
+    "description": "Write shorthand data attribute selectors in CSS.",
+    "url": "https://github.com/jonathantneal/postcss-short-data",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-space-start-attrs",
+    "description": "Target attributes beginning with a certain value in a space separated list.",
+    "url": "https://github.com/jonathantneal/postcss-space-start-attrs",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "author": "jonathantneal"
   }
 ]
