@@ -1,3 +1,7 @@
+### v1.5.25
+> *(Nov 17th/2015)*
+- Adds [`postcss-apply`](https://github.com/pascalduez/postcss-apply)
+
 ### v1.5.24
 > *(Nov 16th/2015)*
 - Adds [`postcss-short-data`](https://github.com/jonathantneal/postcss-short-data)

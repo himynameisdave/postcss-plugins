@@ -2255,5 +2255,14 @@
       "shortcuts"
     ],
     "author": "jonathantneal"
+  },
+  {
+    "name": "postcss-apply",
+    "description": "Enables custom properties sets references",
+    "url": "https://github.com/pascalduez/postcss-apply",
+    "tags": [
+      "future"
+    ],
+    "author": "pascalduez"
   }
 ]
