@@ -1223,7 +1223,7 @@
       "analysis",
       "debug"
     ],
-    "author": "necolas"
+    "author": "postcss"
   },
   {
     "name": "postcss-cssstats",
@@ -2264,5 +2264,33 @@
       "future"
     ],
     "author": "pascalduez"
+  },
+  {
+    "name": "postcss-cachebuster",
+    "description": "adds version parameter to images and fonts",
+    "url": "https://github.com/glebmachine/postcss-cachebuster",
+    "tags": [
+      "optimizations",
+      "other"
+    ],
+    "author": "glebmachine"
+  },
+  {
+    "name": "postcss-hidden",
+    "description": "allows easy ways to hide things.",
+    "url": "https://github.com/lukelarsen/postcss-hidden",
+    "tags": [
+      "other"
+    ],
+    "author": "lukelarsen"
+  },
+  {
+    "name": "css-property-sorter",
+    "description": "sorts CSS properties fast and automatically in a certain order.",
+    "url": "https://github.com/Siilwyn/css-property-sorter",
+    "tags": [
+      "other"
+    ],
+    "author": "Siilwyn"
   }
 ]

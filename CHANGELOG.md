@@ -1,3 +1,9 @@
+### v1.5.26
+> *(Nov 23rd/2015)*
+- Adds [`css-property-sorter`](https://github.com/Siilwyn/css-property-sorter)
+- Adds [`postcss-cachebuster`](https://github.com/glebmachine/postcss-cachebuster)
+- Adds [`postcss-hidden`](https://github.com/lukelarsen/postcss-hidden)
+
 ### v1.5.25
 > *(Nov 17th/2015)*
 - Adds [`postcss-apply`](https://github.com/pascalduez/postcss-apply)
