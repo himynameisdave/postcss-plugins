@@ -386,8 +386,8 @@
     "author": "andyjansson"
   },
   {
-    "name": "postcss-local-constants",
-    "url": "https://github.com/macropodhq/postcss-local-constants",
+    "name": "postcss-constants",
+    "url": "https://github.com/macropodhq/postcss-constants",
     "description": "Adds support for localized constants.",
     "tags": [
       "extensions"
@@ -1216,8 +1216,8 @@
     "author": "MohammadYounes"
   },
   {
-    "name": "postcss-bem-linter",
-    "url": "https://github.com/necolas/postcss-bem-linter",
+    "name": "bem-linter",
+    "url": "https://github.com/postcss/bem-linter",
     "description": "Lints CSS for conformance to SUIT CSS methodology.",
     "tags": [
       "analysis",
