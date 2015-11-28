@@ -2292,5 +2292,32 @@
       "other"
     ],
     "author": "Siilwyn"
+  },
+  {
+    "name": "postcss-modules",
+    "description": "allows to use CSS Modules everywhere.",
+    "url": "https://github.com/outpunk/postcss-modules",
+    "tags": [
+      "other"
+    ],
+    "author": "outpunk"
+  },
+  {
+    "name": "postcss-animation",
+    "description": "PostCSS plugin that adds `@keyframes` from animate.css.",
+    "url": "https://github.com/zhouwenbin/postcss-animation",
+    "tags": [
+      "shortcuts"
+    ],
+    "author": "zhouwenbin"
+  },
+  {
+    "name": "postcss-chinese-stylesheets",
+    "description": "Chinese Style Sheets.",
+    "url": "https://github.com/zhouwenbin/postcss-chinese-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "author": "zhouwenbin"
   }
 ]

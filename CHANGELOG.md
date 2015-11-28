@@ -1,3 +1,9 @@
+### v1.5.27
+> *(Nov 28th/2015)*
+- Adds [`postcss-chinese-stylesheets`](https://github.com/zhouwenbin/postcss-chinese-stylesheets)
+- Adds [`postcss-animation`](https://github.com/zhouwenbin/postcss-animation)
+- Adds [`postcss-modules`](https://github.com/outpunk/postcss-modules)
+
 ### v1.5.26
 > *(Nov 23rd/2015)*
 - Adds [`css-property-sorter`](https://github.com/Siilwyn/css-property-sorter)
