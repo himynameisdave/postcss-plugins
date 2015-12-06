@@ -1,3 +1,7 @@
+### v1.5.28
+> *(Dec 6th/2015)*
+- Adds [`postcss-at-rules-variables`](https://github.com/GitScrum/postcss-at-rules-variables.git)
+
 ### v1.5.27
 > *(Nov 28th/2015)*
 - Adds [`postcss-chinese-stylesheets`](https://github.com/zhouwenbin/postcss-chinese-stylesheets)
