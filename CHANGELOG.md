@@ -1,3 +1,7 @@
+### v1.5.28
+> *(Dec 8th/2015)*
+- Adds [`postcss-border-radius`](https://github.com/jakelazaroff/postcss-border-radius)
+
 ### v1.5.27
 > *(Nov 28th/2015)*
 - Adds [`postcss-chinese-stylesheets`](https://github.com/zhouwenbin/postcss-chinese-stylesheets)

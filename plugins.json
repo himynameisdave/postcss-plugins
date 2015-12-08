@@ -2319,5 +2319,14 @@
       "fun"
     ],
     "author": "zhouwenbin"
+  },
+  {
+    "name": "postcss-border-radius",
+    "description": "for border-radius shorthand",
+    "url": "https://github.com/jakelazaroff/postcss-border-radius",
+    "tags": [
+      "shortcuts"
+    ],
+    "author": "jakelazaroff"
   }
 ]
