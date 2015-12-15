@@ -1,3 +1,7 @@
+### v1.5.28
+> *(Dec 15th/2015)*
+- Adds [`postcss-base64`](https://github.com/jelmerdemaat/postcss-base64)
+
 ### v1.5.27
 > *(Nov 28th/2015)*
 - Adds [`postcss-chinese-stylesheets`](https://github.com/zhouwenbin/postcss-chinese-stylesheets)

@@ -2319,5 +2319,15 @@
       "fun"
     ],
     "author": "zhouwenbin"
+  },
+  {
+    "name": "postcss-base64",
+    "description": "base64 encodes urls or values inside `url()` functions.",
+    "url": "https://github.com/jelmerdemaat/postcss-base64",
+    "tags": [
+      "images",
+      "svg"
+    ],
+    "author": "jelmerdemaat"
   }
 ]
