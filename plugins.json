@@ -1156,6 +1156,7 @@
     "url": "https://github.com/cuth/postcss-pxtorem",
     "description": "Converts pixel units to rem.",
     "tags": [
+      "fonts",
       "other"
     ],
     "author": "cuth"
