@@ -2319,5 +2319,17 @@
       "fun"
     ],
     "author": "zhouwenbin"
+  },
+  {
+    "name": "postcss-inline-svg",
+    "description": "Inline SVG and customize styles",
+    "url": "https://github.com/TrySound/postcss-inline-svg",
+    "tags": [
+      "color",
+      "images",
+      "optimizations",
+      "svg"
+    ],
+    "author": "TrySound"
   }
 ]
