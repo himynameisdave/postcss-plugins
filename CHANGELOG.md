@@ -1,7 +1,8 @@
 ### v1.5.28
-> *(Dec 6th/2015)*
+> *(Dec 8th/2015)*
 - Adds [`postcss-inline-svg`](https://github.com/TrySound/postcss-inline-svg)
 - Adds [`postcss-at-rules-variables`](https://github.com/GitScrum/postcss-at-rules-variables.git)
+- Adds [`postcss-border-radius`](https://github.com/jakelazaroff/postcss-border-radius)
 
 ### v1.5.27
 > *(Nov 28th/2015)*
