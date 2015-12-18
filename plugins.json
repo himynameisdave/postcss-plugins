@@ -2331,5 +2331,14 @@
       "svg"
     ],
     "author": "TrySound"
+  },
+  {
+    "name": "postcss-at-rules-variables",
+    "description": "Postcss plugin to Custom Properties in at-rules @each, @for, @if, @else and more...",
+    "url": "https://github.com/GitScrum/postcss-at-rules-variables.git",
+    "tags": [
+      "extensions"
+    ],
+    "author": "GitScrum"
   }
 ]
