@@ -726,15 +726,6 @@
     "author": "2createStudio"
   },
   {
-    "name": "postcss-svg",
-    "url": "https://github.com/Pavliko/postcss-svg",
-    "description": "Insert inline SVG to CSS and allows to manage it colors.",
-    "tags": [
-      "svg"
-    ],
-    "author": "Pavliko"
-  },
-  {
     "name": "postcss-svg-fallback",
     "url": "https://github.com/justim/postcss-svg-fallback",
     "description": "Converts SVG in your CSS to PNG files for IE 8.",
@@ -2350,5 +2341,69 @@
       "shortcuts"
     ],
     "author": "jakelazaroff"
+  },
+  {
+    "name": "postcss-base64",
+    "description": "base64 encodes urls or values inside `url()` functions.",
+    "url": "https://github.com/jelmerdemaat/postcss-base64",
+    "tags": [
+      "images",
+      "svg"
+    ],
+    "author": "jelmerdemaat"
+  },
+  {
+    "name": "postcss-czech-stylesheets",
+    "description": "Czech Style Sheets.",
+    "url": "https://github.com/HoBi/postcss-czech-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "author": "HoBi"
+  },
+  {
+    "name": "postcss-trolling",
+    "description": "Trolling stylesheets",
+    "url": "https://github.com/juanfran/postcss-trolling",
+    "tags": [
+      "fun"
+    ],
+    "author": "juanfran"
+  },
+  {
+    "name": "postcss-namespace",
+    "description": "prefix a namespace to a selector.",
+    "url": "https://github.com/totora0155/postcss-namespace",
+    "tags": [
+      "extensions"
+    ],
+    "author": "totora0155"
+  },
+  {
+    "name": "postcss-sorting",
+    "description": "sort rules content with specified order.",
+    "url": "https://github.com/hudochenkov/postcss-sorting",
+    "tags": [
+      "other"
+    ],
+    "author": "hudochenkov"
+  },
+  {
+    "name": "postcss-easysprites",
+    "description": "combine images to sprites, based on their image.png`#hash` and aspect ratio (`@2x`).",
+    "url": "https://github.com/glebmachine/postcss-easysprites",
+    "tags": [
+      "images"
+    ],
+    "author": "glebmachine"
+  },
+  {
+    "name": "postcss-selector-prefixer",
+    "description": "adds a prefix to css selectors.",
+    "url": "https://github.com/ronnyamarante/postcss-selector-prefixer",
+    "tags": [
+      "other"
+    ],
+    "author": "ronnyamarante"
   }
 ]

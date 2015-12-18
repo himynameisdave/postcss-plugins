@@ -1,8 +1,15 @@
 ### v1.5.28
-> *(Dec 8th/2015)*
+> *(Dec 17th/2015)*
 - Adds [`postcss-inline-svg`](https://github.com/TrySound/postcss-inline-svg)
 - Adds [`postcss-at-rules-variables`](https://github.com/GitScrum/postcss-at-rules-variables.git)
 - Adds [`postcss-border-radius`](https://github.com/jakelazaroff/postcss-border-radius)
+- Adds [`postcss-base64`](https://github.com/jelmerdemaat/postcss-base64)
+- Adds [`postcss-czech-stylesheets`](https://github.com/HoBi/postcss-czech-stylesheets)
+- Adds [`postcss-trolling`](https://github.com/juanfran/postcss-trolling)
+- Adds [`postcss-namespace`](https://github.com/totora0155/postcss-namespace)
+- Adds [`postcss-sorting`](https://github.com/hudochenkov/postcss-sorting)
+- Adds [`postcss-easysprites`](https://github.com/glebmachine/postcss-easysprites)
+- Adds [`postcss-selector-prefixer`](https://github.com/ronnyamarante/postcss-selector-prefixer)
 
 ### v1.5.27
 > *(Nov 28th/2015)*
