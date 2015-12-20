@@ -1,3 +1,7 @@
+### v1.5.29
+> *(Dec 20th/2015)*
+- Adds [`postcss-cyspriter`](https://github.com/Code-Y/postcss-cyspriter)
+
 ### v1.5.28
 > *(Dec 17th/2015)*
 - Adds [`postcss-inline-svg`](https://github.com/TrySound/postcss-inline-svg)

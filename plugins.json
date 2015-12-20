@@ -2405,5 +2405,14 @@
       "other"
     ],
     "author": "ronnyamarante"
+  },
+  {
+    "name": "postcss-cyspriter",
+    "description": "PostCSS Plugin for Working With Sprites",
+    "url": "https://github.com/Code-Y/postcss-cyspriter",
+    "tags": [
+      "images"
+    ],
+    "author": "Code-Y"
   }
 ]
