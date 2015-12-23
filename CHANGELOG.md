@@ -1,3 +1,15 @@
+### v1.6.1
+> *(Dec 23rd/2015)*
+- Adds [`asd`](https://github.com/sajd/askjdh)
+
+### v1.6.1
+> *(Dec 23th/2015)*
+- Fixes the authors table
+
+## v1.6.0
+> *(Dec 22th/2015)*
+- Adds GitHub MetaData: Stars
+
 ### v1.5.29
 > *(Dec 20th/2015)*
 - Adds [`postcss-cyspriter`](https://github.com/Code-Y/postcss-cyspriter)
