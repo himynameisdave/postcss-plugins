@@ -2662,5 +2662,15 @@
     ],
     "author": "Code-Y",
     "stars": 4
+  },
+  {
+    "name": "postcss-pseudo-classes",
+    "description": "to add in companion classes where pseudo-selectors are used (useful for testing).",
+    "url": "https://github.com/giuseppeg/postcss-pseudo-classes",
+    "tags": [
+      "debug",
+      "other"
+    ],
+    "author": "giuseppeg"
   }
 ]
