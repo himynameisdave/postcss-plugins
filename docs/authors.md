@@ -225,7 +225,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
 [SlexAxton](https://github.com/SlexAxton)  |  [`colorguard`](https://github.com/SlexAxton/css-colorguard)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
-[sajd](https://github.com/sajd)  |  [`asd`](https://github.com/sajd/askjdh)
+[giuseppeg](https://github.com/giuseppeg)  |  [`postcss-pseudo-classes`](https://github.com/giuseppeg/postcss-pseudo-classes)
 [jonathanong](https://github.com/jonathanong)  |  [`postcss-prefix-selector`](https://github.com/jonathanong/postcss-prefix-selector)
 [geut](https://github.com/geut)  |  [`postcss-copy`](https://github.com/geut/postcss-copy)
 [makotot](https://github.com/makotot)  |  [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)

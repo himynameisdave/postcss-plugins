@@ -1,3 +1,7 @@
+### v1.6.2
+> *(Dec 29th/2015)*
+- Adds [`postcss-pseudo-classes`](https://github.com/giuseppeg/postcss-pseudo-classes)
+
 ### v1.6.1
 > *(Dec 23rd/2015)*
 - Adds [`asd`](https://github.com/sajd/askjdh)
