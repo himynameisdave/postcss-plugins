@@ -10,7 +10,7 @@ let   completed = 0;
 //    Require dependencies
 const gh = require("octonode"),
       fs = require("fs"),
-      writePlugins = require("./write-plugins"),
+      writePlugins = require("./utils/write-plugins"),
 //    This is a personal GH API token that has been added to .gitignore. Get your own damn token!
       token = require("../token.json").token,
       client = gh.client(token),

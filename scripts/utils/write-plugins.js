@@ -8,8 +8,7 @@ module.exports = (pluginsPath, plugins) => {
   return new Promise( (res, rej) => {
     fs.writeFile( pluginsPath, JSON.stringify(plugins, null, 2), (e) =>{
       if(e) rej(e);
-      console.log("Updated the "+pluginsPath+" file");
-      res(plugins);
+      res("Updated the "+pluginsPath+" file");
     });
   });
 };
