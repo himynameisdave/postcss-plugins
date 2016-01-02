@@ -1,7 +1,9 @@
-"use strict";
 /**
- *   Responsible for going in and updating the Stargazer numbers in the plugins
- */
+*   Responsible for going in and updating the Stargazer numbers in the plugins
+*/
+"use strict";
+(() => {
+
 //    Get the plugin list
 let   plugins = require("../plugins.json");
 let   completed = 0;
@@ -56,3 +58,5 @@ const gh = require("octonode"),
              console.log("Failed to find this repo: ", e);
            });
       });
+
+})();
