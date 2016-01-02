@@ -10,7 +10,7 @@ The "officially unofficial" consolidated list of [PostCSS](https://github.com/po
 
 There are [over a hundred wonderful developers](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md) building amazing PostCSS plugins. The running list of plugins grows quickly, and is used in many places. One such place is on the searchable [postcss.parts](http://postcss.parts) built by [**@mxstbr**](https://github.com/mxstbr). Another is in the [PostCSS Alfred Workflow](https://github.com/chrisopedia/alfred-postcss-workflow) created by [**@chrisopedia**](https://github.com/chrisopedia). These are great resources for developers to find and use plugins, and this list helps keep them all up to date.
 
-The goal is to be as consise and clear as possible while still offering a lot of data about each plugin to developers.
+The goal is to be as concise and clear as possible while still offering a lot of data about each plugin to developers.
 
 
 ### Install
@@ -23,16 +23,17 @@ npm i postcss-plugins
 
 ```javascript
 
-var plugins = require('postcss-plugins');
+//  require the plugins like you would any other file.
+const plugins = require('postcss-plugins');
 
-//  Sample usage: print the name of every plugin in the dataset
-plugins.forEach( function( plugin ){
+
+plugins.forEach( plugin => {
   console.log(plugin.name);
 });
 
 ```
 
-### Submiting A Plugin
+### Submitting A Plugin
 
 All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](https://github.com/postcss/postcss/blob/master/docs/guidelines/plugin.md) (yes you will write some tests, and yes, you will like it :smile:).
 
