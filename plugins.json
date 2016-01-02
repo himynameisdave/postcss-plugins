@@ -18,7 +18,7 @@
       "optimizations"
     ],
     "author": "ben-eb",
-    "stars": 674
+    "stars": 698
   },
   {
     "name": "cssnext",
@@ -29,7 +29,7 @@
       "future"
     ],
     "author": "cssnext",
-    "stars": 2223
+    "stars": 2274
   },
   {
     "name": "precss",
@@ -40,7 +40,7 @@
       "sass"
     ],
     "author": "jonathantneal",
-    "stars": 297
+    "stars": 311
   },
   {
     "name": "rucksack",
@@ -51,7 +51,7 @@
       "future"
     ],
     "author": "simplaio",
-    "stars": 1013
+    "stars": 1109
   },
   {
     "name": "stylelint",
@@ -62,7 +62,7 @@
       "debug"
     ],
     "author": "stylelint",
-    "stars": 555
+    "stars": 563
   },
   {
     "name": "postcss-color-function",
@@ -73,7 +73,7 @@
       "color"
     ],
     "author": "postcss",
-    "stars": 32
+    "stars": 33
   },
   {
     "name": "postcss-color-gray",
@@ -115,7 +115,7 @@
       "color"
     ],
     "author": "postcss",
-    "stars": 16
+    "stars": 17
   },
   {
     "name": "postcss-colors-only",
@@ -147,7 +147,7 @@
       "media-queries"
     ],
     "author": "postcss",
-    "stars": 48
+    "stars": 49
   },
   {
     "name": "postcss-custom-properties",
@@ -167,7 +167,7 @@
       "future"
     ],
     "author": "postcss",
-    "stars": 62
+    "stars": 63
   },
   {
     "name": "postcss-extend",
@@ -177,7 +177,7 @@
       "future"
     ],
     "author": "travco",
-    "stars": 29
+    "stars": 30
   },
   {
     "name": "postcss-font-variant",
@@ -208,7 +208,7 @@
       "future"
     ],
     "author": "maximkoretskiy",
-    "stars": 39
+    "stars": 40
   },
   {
     "name": "postcss-media-minmax",
@@ -218,7 +218,7 @@
       "media-queries"
     ],
     "author": "postcss",
-    "stars": 52
+    "stars": 53
   },
   {
     "name": "postcss-pseudo-class-any-link",
@@ -228,7 +228,7 @@
       "future"
     ],
     "author": "jonathantneal",
-    "stars": 7
+    "stars": 8
   },
   {
     "name": "postcss-selector-not",
@@ -249,7 +249,7 @@
       "media-queries"
     ],
     "author": "twbs",
-    "stars": 40
+    "stars": 42
   },
   {
     "name": "postcss-color-rgba-fallback",
@@ -260,7 +260,7 @@
       "fallbacks"
     ],
     "author": "postcss",
-    "stars": 23
+    "stars": 25
   },
   {
     "name": "postcss-epub",
@@ -271,7 +271,7 @@
       "media-queries"
     ],
     "author": "Rycochet",
-    "stars": 15
+    "stars": 16
   },
   {
     "name": "postcss-opacity",
@@ -304,7 +304,7 @@
       "fallbacks"
     ],
     "author": "iamvdo",
-    "stars": 12
+    "stars": 11
   },
   {
     "name": "postcss-will-change",
@@ -330,7 +330,7 @@
       "rucksack"
     ],
     "author": "postcss",
-    "stars": 8327
+    "stars": 8425
   },
   {
     "name": "cssgrace",
@@ -340,7 +340,7 @@
       "fallbacks"
     ],
     "author": "cssdream",
-    "stars": 476
+    "stars": 479
   },
   {
     "name": "pixrem",
@@ -353,7 +353,7 @@
       "oldie"
     ],
     "author": "robwierzbowski",
-    "stars": 106
+    "stars": 108
   },
   {
     "name": "postcss-bem",
@@ -363,7 +363,7 @@
       "extensions"
     ],
     "author": "ileri",
-    "stars": 66
+    "stars": 70
   },
   {
     "name": "postcss-conditionals",
@@ -403,7 +403,7 @@
       "extensions"
     ],
     "author": "outpunk",
-    "stars": 26
+    "stars": 27
   },
   {
     "name": "postcss-for",
@@ -413,7 +413,7 @@
       "extensions"
     ],
     "author": "antyakushev",
-    "stars": 19
+    "stars": 20
   },
   {
     "name": "postcss-functions",
@@ -433,7 +433,7 @@
       "extensions"
     ],
     "author": "macropodhq",
-    "stars": 37
+    "stars": 38
   },
   {
     "name": "postcss-match",
@@ -485,7 +485,7 @@
       "extensions"
     ],
     "author": "kristoferjoseph",
-    "stars": 26
+    "stars": 29
   },
   {
     "name": "postcss-nested",
@@ -496,7 +496,7 @@
       "sass"
     ],
     "author": "postcss",
-    "stars": 140
+    "stars": 143
   },
   {
     "name": "postcss-nested-props",
@@ -527,7 +527,7 @@
       "sass"
     ],
     "author": "pascalduez",
-    "stars": 65
+    "stars": 66
   },
   {
     "name": "postcss-sassy-mixins",
@@ -560,7 +560,7 @@
       "sass"
     ],
     "author": "postcss",
-    "stars": 67
+    "stars": 69
   },
   {
     "name": "postcss-strip-units",
@@ -580,7 +580,7 @@
       "extensions"
     ],
     "author": "markgoodyear",
-    "stars": 34
+    "stars": 35
   },
   {
     "name": "csstyle",
@@ -590,7 +590,7 @@
       "extensions"
     ],
     "author": "geddski",
-    "stars": 899
+    "stars": 903
   },
   {
     "name": "postcss-gtk",
@@ -630,7 +630,7 @@
       "color"
     ],
     "author": "avanes",
-    "stars": 9
+    "stars": 10
   },
   {
     "name": "postcss-color-hcl",
@@ -710,7 +710,7 @@
       "color"
     ],
     "author": "btholt",
-    "stars": 135
+    "stars": 137
   },
   {
     "name": "postcss-hexrgba",
@@ -740,7 +740,7 @@
       "images"
     ],
     "author": "borodean",
-    "stars": 160
+    "stars": 161
   },
   {
     "name": "postcss-at2x",
@@ -770,7 +770,7 @@
       "images"
     ],
     "author": "alex499",
-    "stars": 14
+    "stars": 15
   },
   {
     "name": "postcss-font-pack",
@@ -780,7 +780,7 @@
       "fonts"
     ],
     "author": "jedmao",
-    "stars": 8
+    "stars": 9
   },
   {
     "name": "postcss-fontpath",
@@ -790,7 +790,7 @@
       "fonts"
     ],
     "author": "seaneking",
-    "stars": 21
+    "stars": 23
   },
   {
     "name": "postcss-sprites",
@@ -800,7 +800,7 @@
       "images"
     ],
     "author": "2createStudio",
-    "stars": 54
+    "stars": 55
   },
   {
     "name": "postcss-svg-fallback",
@@ -811,7 +811,7 @@
       "images"
     ],
     "author": "justim",
-    "stars": 22
+    "stars": 24
   },
   {
     "name": "postcss-svgo",
@@ -825,7 +825,7 @@
       "cssnano"
     ],
     "author": "ben-eb",
-    "stars": 25
+    "stars": 26
   },
   {
     "name": "postcss-url",
@@ -865,7 +865,7 @@
       "grids"
     ],
     "author": "andyjansson",
-    "stars": 29
+    "stars": 30
   },
   {
     "name": "postcss-neat",
@@ -875,7 +875,7 @@
       "grids"
     ],
     "author": "jo-asakura",
-    "stars": 55
+    "stars": 54
   },
   {
     "name": "lost",
@@ -885,7 +885,7 @@
       "grids"
     ],
     "author": "corysimmons",
-    "stars": 2122
+    "stars": 2
   },
   {
     "name": "postcss-calc",
@@ -900,7 +900,7 @@
       "oldie"
     ],
     "author": "postcss",
-    "stars": 26
+    "stars": 27
   },
   {
     "name": "postcss-import",
@@ -910,7 +910,7 @@
       "optimizations"
     ],
     "author": "postcss",
-    "stars": 135
+    "stars": 143
   },
   {
     "name": "postcss-single-charset",
@@ -933,7 +933,7 @@
       "cssnano"
     ],
     "author": "ben-eb",
-    "stars": 37
+    "stars": 38
   },
   {
     "name": "css-byebye",
@@ -954,7 +954,7 @@
       "media-queries"
     ],
     "author": "hail2u",
-    "stars": 129
+    "stars": 130
   },
   {
     "name": "stylehacks",
@@ -1006,7 +1006,7 @@
       "shortcuts"
     ],
     "author": "jedmao",
-    "stars": 18
+    "stars": 19
   },
   {
     "name": "postcss-circle",
@@ -1016,7 +1016,7 @@
       "shortcuts"
     ],
     "author": "jedmao",
-    "stars": 7
+    "stars": 8
   },
   {
     "name": "postcss-clearfix",
@@ -1026,7 +1026,7 @@
       "shortcuts"
     ],
     "author": "seaneking",
-    "stars": 27
+    "stars": 28
   },
   {
     "name": "postcss-crip",
@@ -1046,7 +1046,7 @@
       "shortcuts"
     ],
     "author": "antyakushev",
-    "stars": 4
+    "stars": 3
   },
   {
     "name": "postcss-easings",
@@ -1117,7 +1117,7 @@
       "shortcuts"
     ],
     "author": "simonsmith",
-    "stars": 31
+    "stars": 30
   },
   {
     "name": "postcss-responsive-type",
@@ -1127,7 +1127,7 @@
       "shortcuts"
     ],
     "author": "seaneking",
-    "stars": 95
+    "stars": 97
   },
   {
     "name": "short",
@@ -1137,7 +1137,7 @@
       "pack"
     ],
     "author": "jonathantneal",
-    "stars": 39
+    "stars": 40
   },
   {
     "name": "postcss-size",
@@ -1167,7 +1167,7 @@
       "shortcuts"
     ],
     "author": "jedmao",
-    "stars": 24
+    "stars": 26
   },
   {
     "name": "postcss-verthorz",
@@ -1188,7 +1188,7 @@
       "fonts"
     ],
     "author": "jonathantneal",
-    "stars": 329
+    "stars": 334
   },
   {
     "name": "postcss-class-prefix",
@@ -1272,7 +1272,7 @@
       "other"
     ],
     "author": "cuth",
-    "stars": 45
+    "stars": 46
   },
   {
     "name": "postcss-remove-prefixes",
@@ -1293,7 +1293,7 @@
       "other"
     ],
     "author": "morishitter",
-    "stars": 243
+    "stars": 258
   },
   {
     "name": "postcss-scopify",
@@ -1313,7 +1313,7 @@
       "other"
     ],
     "author": "morishitter",
-    "stars": 835
+    "stars": 837
   },
   {
     "name": "perfectionist",
@@ -1333,7 +1333,7 @@
       "other"
     ],
     "author": "MohammadYounes",
-    "stars": 354
+    "stars": 366
   },
   {
     "name": "bem-linter",
@@ -1344,7 +1344,7 @@
       "debug"
     ],
     "author": "postcss",
-    "stars": 165
+    "stars": 170
   },
   {
     "name": "postcss-cssstats",
@@ -1354,7 +1354,7 @@
       "analysis"
     ],
     "author": "cssstats",
-    "stars": 6
+    "stars": 7
   },
   {
     "name": "css2modernizr",
@@ -1375,7 +1375,7 @@
       "debug"
     ],
     "author": "anandthakker",
-    "stars": 198
+    "stars": 207
   },
   {
     "name": "immutable-css",
@@ -1386,7 +1386,7 @@
       "debug"
     ],
     "author": "johnotander",
-    "stars": 154
+    "stars": 157
   },
   {
     "name": "list-selectors",
@@ -1417,7 +1417,7 @@
       "other"
     ],
     "author": "postcss",
-    "stars": 28
+    "stars": 29
   },
   {
     "name": "postcss-reporter",
@@ -1437,7 +1437,7 @@
       "fun"
     ],
     "author": "dp-lewis",
-    "stars": 42
+    "stars": 43
   },
   {
     "name": "postcss-canadian-stylesheets",
@@ -1447,7 +1447,7 @@
       "fun"
     ],
     "author": "chancancode",
-    "stars": 18
+    "stars": 19
   },
   {
     "name": "postcss-german-stylesheets",
@@ -1477,7 +1477,7 @@
       "fun"
     ],
     "author": "Semigradsky",
-    "stars": 30
+    "stars": 31
   },
   {
     "name": "postcss-pointer",
@@ -1508,7 +1508,7 @@
       "fun"
     ],
     "author": "talgautb",
-    "stars": 9
+    "stars": 10
   },
   {
     "name": "postcss-simple-grid",
@@ -1518,7 +1518,7 @@
       "grids"
     ],
     "author": "admdh",
-    "stars": 7
+    "stars": 8
   },
   {
     "name": "postcss-autoreset",
@@ -1528,7 +1528,7 @@
       "fallbacks"
     ],
     "author": "maximkoretskiy",
-    "stars": 35
+    "stars": 37
   },
   {
     "name": "postcss-inline-comment",
@@ -1538,7 +1538,7 @@
       "extensions"
     ],
     "author": "moczolaszlo",
-    "stars": 11
+    "stars": 10
   },
   {
     "name": "postcss-mqwidth-to-class",
@@ -1569,7 +1569,7 @@
       "analysis"
     ],
     "author": "luisrudge",
-    "stars": 58
+    "stars": 60
   },
   {
     "name": "postcss-round-subpixels",
@@ -1589,7 +1589,7 @@
       "fun"
     ],
     "author": "sandralundgren",
-    "stars": 6
+    "stars": 7
   },
   {
     "name": "postcss-unmq",
@@ -1603,7 +1603,7 @@
       "oldie"
     ],
     "author": "jonathantneal",
-    "stars": 12
+    "stars": 16
   },
   {
     "name": "postcss-selector-matches",
@@ -1634,7 +1634,7 @@
       "optimizations"
     ],
     "author": "jonathantneal",
-    "stars": 10
+    "stars": 12
   },
   {
     "name": "postcss-copy-assets",
@@ -1655,7 +1655,7 @@
       "svg"
     ],
     "author": "jonathantneal",
-    "stars": 410
+    "stars": 412
   },
   {
     "name": "postcss-alias-atrules",
@@ -1675,7 +1675,7 @@
       "fun"
     ],
     "author": "Semigradsky",
-    "stars": 33
+    "stars": 35
   },
   {
     "name": "postcss-nested-vars",
@@ -1706,7 +1706,7 @@
       "shortcuts"
     ],
     "author": "kinday",
-    "stars": 2
+    "stars": 3
   },
   {
     "name": "postcss-atroot",
@@ -1756,7 +1756,7 @@
       "color"
     ],
     "author": "SlexAxton",
-    "stars": 2023
+    "stars": 2028
   },
   {
     "name": "postcss-unique-selectors",
@@ -1860,7 +1860,7 @@
       "cssnano"
     ],
     "author": "ben-eb",
-    "stars": 17
+    "stars": 19
   },
   {
     "name": "postcss-merge-longhand",
@@ -1899,7 +1899,7 @@
       "cssnano"
     ],
     "author": "postcss",
-    "stars": 6
+    "stars": 7
   },
   {
     "name": "postcss-discard-unused",
@@ -1951,7 +1951,7 @@
       "cssnano"
     ],
     "author": "ben-eb",
-    "stars": 20
+    "stars": 21
   },
   {
     "name": "postcss-convert-values",
@@ -2104,7 +2104,7 @@
       "media-queries"
     ],
     "author": "jonathantneal",
-    "stars": 45
+    "stars": 47
   },
   {
     "name": "postcss-short-border",
@@ -2307,7 +2307,7 @@
       "grids"
     ],
     "author": "arccoza",
-    "stars": 1
+    "stars": 3
   },
   {
     "name": "postcss-spanish-stylesheets",
@@ -2340,7 +2340,7 @@
       "fun"
     ],
     "author": "jonathantneal",
-    "stars": 106
+    "stars": 107
   },
   {
     "name": "postcss-andalusian-stylesheets",
@@ -2350,7 +2350,7 @@
       "fun"
     ],
     "author": "bameda",
-    "stars": 50
+    "stars": 51
   },
   {
     "name": "postcss-shades-of-gray",
@@ -2381,7 +2381,7 @@
       "other"
     ],
     "author": "jonathantneal",
-    "stars": 427
+    "stars": 430
   },
   {
     "name": "level4",
@@ -2391,7 +2391,7 @@
       "future"
     ],
     "author": "stephenway",
-    "stars": 5
+    "stars": 7
   },
   {
     "name": "postcss-svg-fragments",
@@ -2401,7 +2401,7 @@
       "svg"
     ],
     "author": "jonathantneal",
-    "stars": 5
+    "stars": 18
   },
   {
     "name": "postcss-ifrared-filter",
@@ -2433,7 +2433,7 @@
       "other"
     ],
     "author": "dehuszar",
-    "stars": 6
+    "stars": 9
   },
   {
     "name": "postcss-logical-properties",
@@ -2517,7 +2517,7 @@
       "other"
     ],
     "author": "Siilwyn",
-    "stars": 43
+    "stars": 45
   },
   {
     "name": "postcss-modules",
@@ -2527,7 +2527,7 @@
       "other"
     ],
     "author": "outpunk",
-    "stars": 77
+    "stars": 116
   },
   {
     "name": "postcss-animation",
@@ -2537,7 +2537,7 @@
       "shortcuts"
     ],
     "author": "zhouwenbin",
-    "stars": 32
+    "stars": 33
   },
   {
     "name": "postcss-chinese-stylesheets",
@@ -2560,7 +2560,7 @@
       "svg"
     ],
     "author": "TrySound",
-    "stars": 46
+    "stars": 48
   },
   {
     "name": "postcss-at-rules-variables",
@@ -2601,7 +2601,7 @@
       "fun"
     ],
     "author": "HoBi",
-    "stars": 20
+    "stars": 21
   },
   {
     "name": "postcss-trolling",
@@ -2611,7 +2611,7 @@
       "fun"
     ],
     "author": "juanfran",
-    "stars": 64
+    "stars": 65
   },
   {
     "name": "postcss-namespace",
@@ -2631,7 +2631,7 @@
       "other"
     ],
     "author": "hudochenkov",
-    "stars": 23
+    "stars": 35
   },
   {
     "name": "postcss-easysprites",
@@ -2641,7 +2641,7 @@
       "images"
     ],
     "author": "glebmachine",
-    "stars": 13
+    "stars": 14
   },
   {
     "name": "postcss-selector-prefixer",
