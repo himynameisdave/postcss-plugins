@@ -1,6 +1,6 @@
 {
   "name": "postcss-plugins",
-  "version": "1.6.1",
+  "version": "1.7.0",
   "description": "A consolidated list of PostCSS plugins in an ready-to-use format.",
   "main": "index.js",
   "repository": {
@@ -25,8 +25,10 @@
   },
   "homepage": "https://github.com/himynameisdave/postcss-plugins#readme",
   "scripts": {
-    "update-authors": "node scripts/updateAuthors.js",
-    "add": "node scripts/addNewPlugin.js && node scripts/updateAuthors.js && git add ."
+    "add": "npm run add-new-plugin && npm run update-authors && npm run update-gh-stars",
+    "add-new-plugin": "node scripts/add-new-plugin.js",
+    "update-authors": "node scripts/update-authors.js",
+    "update-gh-stars": "node scripts/update-gh-stars.js"
   },
   "devDependencies": {
     "chalk": "^1.1.1",

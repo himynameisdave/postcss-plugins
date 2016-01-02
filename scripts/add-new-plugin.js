@@ -16,7 +16,6 @@
         banner         = require("./data/banner"),
         newPlugPrompts = require("./utils/new-plug-prompts"),
         writePlugins   = require("./utils/write-plugins"),
-        updateAuthors  = require("./update-authors"),
         newPlugins     = [],
         doPrompts      = (done) => {
           return newPlugPrompts( (answers) => {
