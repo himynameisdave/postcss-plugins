@@ -2672,5 +2672,59 @@
       "other"
     ],
     "author": "giuseppeg"
+  },
+  {
+    "name": "postcss-current-selector",
+    "description": "to get current selector in declaration.",
+    "url": "https://github.com/komlev/postcss-current-selector",
+    "author": "komlev",
+    "tags": [
+      "extensions"
+    ]
+  },
+  {
+    "name": "postcss-hash-classname",
+    "description": "append hash string to your css class name.",
+    "url": "https://github.com/ctxhou/postcss-hash-classname",
+    "author": "ctxhou",
+    "tags": [
+      "fallbacks"
+    ]
+  },
+  {
+    "name": "postcss-pseudo-class-any-button",
+    "description": "adds `:any-button` pseudo-class",
+    "url": "https://github.com/andrepolischuk/postcss-pseudo-class-any-button",
+    "author": "andrepolischuk",
+    "tags": [
+      "extensions"
+    ]
+  },
+  {
+    "name": "postcss-flexibility",
+    "description": "adds `-js-` prefix for [`Flexibility polyfill`].",
+    "url": "https://github.com/7rulnik/postcss-flexibility",
+    "author": "7rulnik",
+    "tags": [
+      "extensions"
+    ]
+  },
+  {
+    "name": "postcss-filter-mq",
+    "description": "Filter all matching or non-matching media queries.",
+    "url": "https://github.com/simeydotme/postcss-filter-mq",
+    "author": "simeydotme",
+    "tags": [
+      "optimizations"
+    ]
+  },
+  {
+    "name": "postcss-remove-root",
+    "description": "removes all instances of `:root` from a stylesheet.",
+    "url": "https://github.com/cbracco/postcss-remove-root",
+    "author": "cbracco",
+    "tags": [
+      "optimizations"
+    ]
   }
 ]
