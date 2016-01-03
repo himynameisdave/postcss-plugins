@@ -29,7 +29,7 @@
       "future"
     ],
     "author": "cssnext",
-    "stars": 2274
+    "stars": 2276
   },
   {
     "name": "precss",
@@ -51,7 +51,7 @@
       "future"
     ],
     "author": "simplaio",
-    "stars": 1109
+    "stars": 1112
   },
   {
     "name": "stylelint",
@@ -73,7 +73,7 @@
       "color"
     ],
     "author": "postcss",
-    "stars": 33
+    "stars": 34
   },
   {
     "name": "postcss-color-gray",
@@ -330,7 +330,7 @@
       "rucksack"
     ],
     "author": "postcss",
-    "stars": 8425
+    "stars": 8427
   },
   {
     "name": "cssgrace",
@@ -1127,7 +1127,7 @@
       "shortcuts"
     ],
     "author": "seaneking",
-    "stars": 97
+    "stars": 98
   },
   {
     "name": "short",
@@ -1333,7 +1333,7 @@
       "other"
     ],
     "author": "MohammadYounes",
-    "stars": 366
+    "stars": 367
   },
   {
     "name": "bem-linter",
@@ -1417,7 +1417,7 @@
       "other"
     ],
     "author": "postcss",
-    "stars": 29
+    "stars": 30
   },
   {
     "name": "postcss-reporter",
@@ -1427,7 +1427,7 @@
       "other"
     ],
     "author": "postcss",
-    "stars": 29
+    "stars": 30
   },
   {
     "name": "postcss-australian-stylesheets",
@@ -1899,7 +1899,7 @@
       "cssnano"
     ],
     "author": "postcss",
-    "stars": 7
+    "stars": 8
   },
   {
     "name": "postcss-discard-unused",
@@ -2401,7 +2401,7 @@
       "svg"
     ],
     "author": "jonathantneal",
-    "stars": 18
+    "stars": 19
   },
   {
     "name": "postcss-ifrared-filter",
@@ -2662,5 +2662,76 @@
     ],
     "author": "Code-Y",
     "stars": 4
+  },
+  {
+    "name": "postcss-pseudo-classes",
+    "description": "to add in companion classes where pseudo-selectors are used (useful for testing).",
+    "url": "https://github.com/giuseppeg/postcss-pseudo-classes",
+    "tags": [
+      "debug",
+      "other"
+    ],
+    "author": "giuseppeg",
+    "stars": 3
+  },
+  {
+    "name": "postcss-current-selector",
+    "description": "to get current selector in declaration.",
+    "url": "https://github.com/komlev/postcss-current-selector",
+    "author": "komlev",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 1
+  },
+  {
+    "name": "postcss-hash-classname",
+    "description": "append hash string to your css class name.",
+    "url": "https://github.com/ctxhou/postcss-hash-classname",
+    "author": "ctxhou",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 17
+  },
+  {
+    "name": "postcss-pseudo-class-any-button",
+    "description": "adds `:any-button` pseudo-class",
+    "url": "https://github.com/andrepolischuk/postcss-pseudo-class-any-button",
+    "author": "andrepolischuk",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 2
+  },
+  {
+    "name": "postcss-flexibility",
+    "description": "adds `-js-` prefix for [`Flexibility polyfill`].",
+    "url": "https://github.com/7rulnik/postcss-flexibility",
+    "author": "7rulnik",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 23
+  },
+  {
+    "name": "postcss-filter-mq",
+    "description": "Filter all matching or non-matching media queries.",
+    "url": "https://github.com/simeydotme/postcss-filter-mq",
+    "author": "simeydotme",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 3
+  },
+  {
+    "name": "postcss-remove-root",
+    "description": "removes all instances of `:root` from a stylesheet.",
+    "url": "https://github.com/cbracco/postcss-remove-root",
+    "author": "cbracco",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
