@@ -2,7 +2,6 @@
 > *(Jan 2nd/2016)*
 - Code cleanup/ES6ify/promises etc.
 - Adds ability to add multiple plugins [#18](https://github.com/himynameisdave/postcss-plugins/issues/18)
-- 
 
 ### v1.6.1
 > *(Dec 23th/2015)*
