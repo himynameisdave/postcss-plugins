@@ -25,18 +25,15 @@
   },
   "homepage": "https://github.com/himynameisdave/postcss-plugins#readme",
   "scripts": {
-    "add": "npm run add-new-plugin && npm run update-authors && npm run update-gh-stars",
+    "add": "npm run add-new-plugin && npm run update-authors",
     "add-new-plugin": "node scripts/add-new-plugin.js",
     "update-authors": "node scripts/update-authors.js",
     "update-gh-stars": "node scripts/update-gh-stars.js"
   },
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^1.1.1",
     "inquirer": "^0.10.0",
     "moment": "^2.10.6",
-    "shelljs": "^0.5.3"
-  },
-  "dependencies": {
     "octonode": "^0.7.4"
   }
 }

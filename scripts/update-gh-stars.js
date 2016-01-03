@@ -51,7 +51,9 @@ const gh = require("octonode"),
                   .then((msg)=>{
                     console.log("\n"+msg+"\n");
                   })
-                  .catch(console.warn)
+                  .catch((e)=>{
+                    console.warn("\n"+e);
+                  });
               }
            })
            .catch((e)=>{
