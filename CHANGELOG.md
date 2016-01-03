@@ -1,3 +1,7 @@
+### v1.7.1
+> *(Jan 2nd/2016)*
+- Adds [`postcss-pseudo-classes`](https://github.com/giuseppeg/postcss-pseudo-classes)
+
 ## v1.7.0
 > *(Jan 2nd/2016)*
 - Code cleanup/ES6ify/promises etc.
