@@ -1,6 +1,12 @@
 ### v1.7.1
 > *(Jan 2nd/2016)*
 - Adds [`postcss-pseudo-classes`](https://github.com/giuseppeg/postcss-pseudo-classes)
+- Adds [`postcss-current-selector`](https://github.com/komlev/postcss-current-selector)
+- Adds [`postcss-hash-classname`](https://github.com/ctxhou/postcss-hash-classname)
+- Adds [`postcss-pseudo-class-any-button`](https://github.com/andrepolischuk/postcss-pseudo-class-any-button)
+- Adds [`https://github.com/7rulnik/postcss-flexibility`](https://github.com/7rulnik/postcss-flexibility)
+- Adds [`postcss-filter-mq`](https://github.com/simeydotme/postcss-filter-mq)
+- Adds [`postcss-remove-root`](https://github.com/cbracco/postcss-remove-root)
 
 ## v1.7.0
 > *(Jan 2nd/2016)*
