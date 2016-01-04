@@ -1,3 +1,7 @@
+### v1.7.2
+> *(Jan 4nd/2016)*
+- Adds [`cq-prolyfill`](https://github.com/ausi/cq-prolyfill)
+
 ### v1.7.1
 > *(Jan 2nd/2016)*
 - Adds [`postcss-pseudo-classes`](https://github.com/giuseppeg/postcss-pseudo-classes)
