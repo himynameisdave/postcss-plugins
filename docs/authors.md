@@ -227,6 +227,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [SlexAxton](https://github.com/SlexAxton)  |  [`colorguard`](https://github.com/SlexAxton/css-colorguard)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [cbracco](https://github.com/cbracco)  |  [`postcss-remove-root`](https://github.com/cbracco/postcss-remove-root)
+[ausi](https://github.com/ausi)  |  [`cq-prolyfill`](https://github.com/ausi/cq-prolyfill)
 [jonathanong](https://github.com/jonathanong)  |  [`postcss-prefix-selector`](https://github.com/jonathanong/postcss-prefix-selector)
 [geut](https://github.com/geut)  |  [`postcss-copy`](https://github.com/geut/postcss-copy)
 [makotot](https://github.com/makotot)  |  [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)
