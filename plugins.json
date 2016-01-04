@@ -2733,5 +2733,17 @@
       "optimizations"
     ],
     "stars": 0
+  },
+  {
+    "name": "cq-prolyfill",
+    "description": "Adds support for CSS container queries (aka element query) like `:container(width > 100px)`.",
+    "url": "https://github.com/ausi/cq-prolyfill",
+    "author": "ausi",
+    "tags": [
+      "extensions",
+      "future",
+      "media-queries"
+    ],
+    "stars": 96
   }
 ]
