@@ -1,5 +1,9 @@
+### v1.7.3
+> *(Jan 7th/2016)*
+- Adds [`postcss-flexbox`](https://github.com/archana-s/postcss-flexbox)
+
 ### v1.7.2
-> *(Jan 4nd/2016)*
+> *(Jan 4th/2016)*
 - Adds [`cq-prolyfill`](https://github.com/ausi/cq-prolyfill)
 
 ### v1.7.1

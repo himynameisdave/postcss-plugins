@@ -2745,5 +2745,14 @@
       "media-queries"
     ],
     "stars": 96
+  },
+  {
+    "name": "postcss-flexbox",
+    "description": "easy way to understand and start using CSS3 Flexbox for layouts.",
+    "url": "https://github.com/archana-s/postcss-flexbox",
+    "author": "archana-s",
+    "tags": [
+      "other"
+    ]
   }
 ]
