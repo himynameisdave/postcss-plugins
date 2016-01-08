@@ -879,8 +879,8 @@
   },
   {
     "name": "lost",
-    "url": "https://github.com/corysimmons/lost",
-    "description": "Feature-rich calc() grid system by Jeet author.",
+    "url": "https://github.com/peterramsing/lost",
+    "description": "Feature-rich calc() grid system.",
     "tags": [
       "grids"
     ],
