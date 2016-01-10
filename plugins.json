@@ -2755,5 +2755,15 @@
       "other"
     ],
     "stars": 16
+  },
+  {
+    "name": "postcss-mq-optimize",
+    "description": " removes invalid media queries or its expressions",
+    "url": "https://github.com/panec/postcss-mq-optimize",
+    "author": "panec",
+    "tags": [
+      "media-queries",
+      "optimizations"
+    ]
   }
 ]
