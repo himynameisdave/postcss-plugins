@@ -2754,5 +2754,14 @@
     "tags": [
       "other"
     ]
+  },
+  {
+    "name": "postcss-flexbox",
+    "description": "that provides an easy to use option for using CSS3 Flexbox layouts.",
+    "url": "https://github.com/archana-s/postcss-flexbox",
+    "author": "archana-s",
+    "tags": [
+      "other"
+    ]
   }
 ]
