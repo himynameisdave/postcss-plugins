@@ -187,7 +187,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [lexich](https://github.com/lexich)  |  [`webpcss`](https://github.com/lexich/webpcss)
 [stylelint](https://github.com/stylelint)  |  [`stylelint`](https://github.com/stylelint/stylelint)
 [jo-asakura](https://github.com/jo-asakura)  |  [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)
-[corysimmons](https://github.com/corysimmons)  |  [`lost`](https://github.com/corysimmons/lost)
+[corysimmons](https://github.com/corysimmons)  |  [`lost`](https://github.com/peterramsing/lost)
 [cssnext](https://github.com/cssnext)  |  [`cssnext`](https://github.com/cssnext/cssnext)
 [AoDev](https://github.com/AoDev)  |  [`css-byebye`](https://github.com/AoDev/css-byebye)
 [daleeidd](https://github.com/daleeidd)  |  [`postcss-define-property`](https://github.com/daleeidd/postcss-define-property)
