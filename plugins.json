@@ -2766,5 +2766,23 @@
       "optimizations"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-calc-function",
+    "description": "to resolve the CSS calc function",
+    "url": "https://github.com/colinmeinke/postcss-calc-function",
+    "author": "colinmeinke",
+    "tags": [
+      "future"
+    ]
+  },
+  {
+    "name": "postcss-custom-props",
+    "description": "to enable CSS Custom Properties",
+    "url": "https://github.com/colinmeinke/postcss-custom-props",
+    "author": "colinmeinke",
+    "tags": [
+      "future"
+    ]
   }
 ]
