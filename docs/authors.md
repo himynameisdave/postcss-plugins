@@ -226,7 +226,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
 [SlexAxton](https://github.com/SlexAxton)  |  [`colorguard`](https://github.com/SlexAxton/css-colorguard)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
-[panec](https://github.com/panec)  |  [`postcss-mq-optimize`](https://github.com/panec/postcss-mq-optimize)
+[emero](https://github.com/emero)  |  [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)
 [jonathanong](https://github.com/jonathanong)  |  [`postcss-prefix-selector`](https://github.com/jonathanong/postcss-prefix-selector)
 [geut](https://github.com/geut)  |  [`postcss-copy`](https://github.com/geut/postcss-copy)
 [makotot](https://github.com/makotot)  |  [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)
@@ -262,5 +262,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [cbracco](https://github.com/cbracco)  |  [`postcss-remove-root`](https://github.com/cbracco/postcss-remove-root)
 [ausi](https://github.com/ausi)  |  [`cq-prolyfill`](https://github.com/ausi/cq-prolyfill)
 [archana-s](https://github.com/archana-s)  |  [`postcss-flexbox`](https://github.com/archana-s/postcss-flexbox)
+[panec](https://github.com/panec)  |  [`postcss-mq-optimize`](https://github.com/panec/postcss-mq-optimize)
 [cuth](https://github.com/cuth)  |  [`postcss-pxtorem`](https://github.com/cuth/postcss-pxtorem)
 <!-- END -->

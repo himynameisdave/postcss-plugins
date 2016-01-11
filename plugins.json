@@ -2766,5 +2766,14 @@
       "optimizations"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-polish-stylesheets",
+    "description": "Polish Style Sheets",
+    "url": "https://github.com/emero/postcss-polish-stylesheets",
+    "author": "emero",
+    "tags": [
+      "fun"
+    ]
   }
 ]
