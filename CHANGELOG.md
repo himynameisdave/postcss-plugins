@@ -1,3 +1,7 @@
+### v1.7.4
+> *(Jan 11th/2016)*
+- Adds [`postcss-mq-optimize`](https://github.com/panec/postcss-mq-optimize)
+
 ### v1.7.3
 > *(Jan 7th/2016)*
 - Adds [`postcss-flexbox`](https://github.com/archana-s/postcss-flexbox)
