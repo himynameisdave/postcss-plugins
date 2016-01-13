@@ -1,3 +1,9 @@
+### v1.7.5
+> *(Jan 12th/2016)*
+- Adds [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)
+- Adds [`postcss-calc-function`](https://github.com/colinmeinke/postcss-calc-function)
+- Adds [`postcss-custom-props`](https://github.com/colinmeinke/postcss-custom-props)
+
 ### v1.7.4
 > *(Jan 11th/2016)*
 - Adds [`postcss-mq-optimize`](https://github.com/panec/postcss-mq-optimize)
