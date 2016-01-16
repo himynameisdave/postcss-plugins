@@ -2796,5 +2796,14 @@
       "future"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-filter-stream",
+    "description": "which allows you to blacklist files / folders that you don't want to process with a given PostCSS plugin.",
+    "url": "https://github.com/tsm91/postcss-filter-stream",
+    "author": "tsm91",
+    "tags": [
+      "other"
+    ]
   }
 ]
