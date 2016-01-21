@@ -1,3 +1,8 @@
+### v1.7.6
+> *(Jan 20th/2016)*
+- Adds [`postcss-filter-stream`](https://github.com/tsm91/postcss-filter-stream)
+- Adds [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)
+
 ### v1.7.5
 > *(Jan 12th/2016)*
 - Adds [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)
