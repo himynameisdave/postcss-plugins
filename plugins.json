@@ -2816,5 +2816,14 @@
       "fonts"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-lang-optimizer",
+    "description": "Extract language specific CSS rulesets to their own CSS files to optimize stylesheet delivery.",
+    "url": "https://github.com/linkedin/postcss-lang-optimizer",
+    "author": "chriseppstein",
+    "tags": [
+      "optimizations"
+    ]
   }
 ]

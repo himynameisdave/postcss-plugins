@@ -227,7 +227,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
 [SlexAxton](https://github.com/SlexAxton)  |  [`colorguard`](https://github.com/SlexAxton/css-colorguard)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
-[iahu](https://github.com/iahu)  |  [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)
+[chriseppstein](https://github.com/chriseppstein)  |  [`postcss-lang-optimizer`](https://github.com/linkedin/postcss-lang-optimizer)
 [jonathanong](https://github.com/jonathanong)  |  [`postcss-prefix-selector`](https://github.com/jonathanong/postcss-prefix-selector)
 [geut](https://github.com/geut)  |  [`postcss-copy`](https://github.com/geut/postcss-copy)
 [makotot](https://github.com/makotot)  |  [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)
@@ -267,5 +267,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [emero](https://github.com/emero)  |  [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)
 [geddski](https://github.com/geddski)  |  [`csstyle`](https://github.com/geddski/csstyle)
 [tsm91](https://github.com/tsm91)  |  [`postcss-filter-stream`](https://github.com/tsm91/postcss-filter-stream)
+[iahu](https://github.com/iahu)  |  [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)
 [pazams](https://github.com/pazams)  |  [`postcss-scopify`](https://github.com/pazams/postcss-scopify)
 <!-- END -->
