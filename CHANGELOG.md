@@ -1,3 +1,8 @@
+### v1.7.7
+> *(Jan 22th/2016)*
+- Adds [`postcss-lang-optimizer`](https://github.com/linkedin/postcss-lang-optimizer)
+- Adds [`css-declaration-sorter`](https://github.com/Siilwyn/css-declaration-sorter)
+
 ### v1.7.6
 > *(Jan 20th/2016)*
 - Adds [`postcss-filter-stream`](https://github.com/tsm91/postcss-filter-stream)
