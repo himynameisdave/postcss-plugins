@@ -2825,5 +2825,14 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "css-declaration-sorter",
+    "description": "Sort CSS declarations fast and automatically in a certain order.",
+    "url": "https://github.com/Siilwyn/css-declaration-sorter",
+    "author": "Siilwyn",
+    "tags": [
+      "other"
+    ]
   }
 ]
