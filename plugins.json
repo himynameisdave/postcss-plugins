@@ -2834,5 +2834,14 @@
     "tags": [
       "other"
     ]
+  },
+  {
+    "name": "postcss-speech-bubble",
+    "description": "creates different kinds of speech bubbles and popovers with just a couple of lines of CSS",
+    "url": "https://github.com/archana-s/postcss-speech-bubble",
+    "author": "archana-s",
+    "tags": [
+      "shortcuts"
+    ]
   }
 ]
