@@ -2843,5 +2843,14 @@
     "tags": [
       "shortcuts"
     ]
+  },
+  {
+    "name": "postcss-define-units",
+    "description": "define any custom units",
+    "url": "https://github.com/LestaD/postcss-define-units",
+    "author": "LestaD",
+    "tags": [
+      "extensions"
+    ]
   }
 ]
