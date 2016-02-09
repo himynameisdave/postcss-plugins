@@ -1,3 +1,9 @@
+### v1.7.8
+> *(Feb 8th/2016)*
+- Adds [`postcss-speech-bubble`](https://github.com/archana-s/postcss-speech-bubble)
+- Adds [`postcss-font-awesome`](https://github.com/dan-gamble/postcss-font-awesome)
+- Adds [`postcss-define-units`](https://github.com/LestaD/postcss-define-units)
+
 ### v1.7.7
 > *(Jan 22th/2016)*
 - Adds [`postcss-lang-optimizer`](https://github.com/linkedin/postcss-lang-optimizer)
