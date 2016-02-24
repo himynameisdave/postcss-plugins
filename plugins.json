@@ -2866,5 +2866,14 @@
       "fonts"
     ],
     "stars": 4
+  },
+  {
+    "name": "postcss-rtlcss-combined",
+    "description": "PostCSS plugin that creates a combined LTR/RTL stylesheet. Powered by rtlcss.",
+    "url": "https://github.com/rtsao/postcss-rtlcss-combined",
+    "author": "rtsao",
+    "tags": [
+      "other"
+    ]
   }
 ]
