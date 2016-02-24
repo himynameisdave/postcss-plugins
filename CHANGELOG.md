@@ -1,3 +1,11 @@
+### v1.7.9
+> *(Feb 24th/2016)*
+ - Adds [`postcss-rtlcss-combined`](https://github.com/rtsao/postcss-rtlcss-combined)
+ - Adds [`postcss-if-media`](https://github.com/arccoza/postcss-if-media)
+ - Adds [`postcss-aspect-ratio`](https://github.com/arccoza/postcss-aspect-ratio)
+ - Adds [`postcss-vertical-rhythm-function`](https://github.com/F21/postcss-vertical-rhythm-function)
+ - Adds [`postcss-gradient-transparency-fix`](https://github.com/gilmoreorless/postcss-gradient-transparency-fix)
+
 ### v1.7.8
 > *(Feb 8th/2016)*
 - Adds [`postcss-speech-bubble`](https://github.com/archana-s/postcss-speech-bubble)
