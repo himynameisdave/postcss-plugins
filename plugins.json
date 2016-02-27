@@ -2720,7 +2720,8 @@
     "url": "https://github.com/simeydotme/postcss-filter-mq",
     "author": "simeydotme",
     "tags": [
-      "optimizations"
+      "optimizations",
+      "media-queries"
     ],
     "stars": 3
   },
