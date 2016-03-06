@@ -2930,5 +2930,14 @@
     "tags": [
       "grids"
     ]
+  },
+  {
+    "name": "postcss-clean",
+    "description": "to minify CSS with clean-css",
+    "url": "https://github.com/leodido/postcss-clean",
+    "author": "leodido",
+    "tags": [
+      "optimizations"
+    ]
   }
 ]
