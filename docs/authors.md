@@ -216,7 +216,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
-[lordgiotto](https://github.com/lordgiotto)  |  [`postcss-oldschool-grid`](https://github.com/lordgiotto/postcss-oldschool-grid)
+[leodido](https://github.com/leodido)  |  [`postcss-clean`](https://github.com/leodido/postcss-clean)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
 [admdh](https://github.com/admdh)  |  [`postcss-simple-grid`](https://github.com/admdh/postcss-simple-grid)
@@ -278,5 +278,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [dan-gamble](https://github.com/dan-gamble)  |  [`postcss-font-awesome`](https://github.com/dan-gamble/postcss-font-awesome)
 [F21](https://github.com/F21)  |  [`postcss-vertical-rhythm-function`](https://github.com/F21/postcss-vertical-rhythm-function)
 [gilmoreorless](https://github.com/gilmoreorless)  |  [`postcss-gradient-transparency-fix`](https://github.com/gilmoreorless/postcss-gradient-transparency-fix)
+[lordgiotto](https://github.com/lordgiotto)  |  [`postcss-oldschool-grid`](https://github.com/lordgiotto/postcss-oldschool-grid)
 [vovanbo](https://github.com/vovanbo)  |  [`css2modernizr`](https://github.com/vovanbo/css2modernizr)
 <!-- END -->
