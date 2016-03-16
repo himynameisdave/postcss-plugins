@@ -2939,5 +2939,15 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-csso",
+    "description": "PostCSS plugin to minify CSS using CSSO",
+    "url": "https://github.com/lahmatiy/postcss-csso",
+    "author": "lahmatiy",
+    "tags": [
+      "optimizations",
+      "pack"
+    ]
   }
 ]
