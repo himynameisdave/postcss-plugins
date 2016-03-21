@@ -3,6 +3,7 @@
 - Adds [`postcss-choose-color`](https://github.com/hexpanic/postcss-choose-color)
 - Adds [`postcss-pure-grid`](https://github.com/axvm/postcss-pure-grid)
 - Adds [`postcss-emptymediaqueries`](https://github.com/ride-css/postcss-emptymediaqueries)
+- Adds [`postcss-csso`](https://github.com/lahmatiy/postcss-csso)
 
 ### v1.7.9
 > *(Feb 24th/2016)*
