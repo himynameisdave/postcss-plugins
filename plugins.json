@@ -2940,5 +2940,14 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-choose-color",
+    "description": "Plugin that choose foreground color based on the background brightness",
+    "url": "https://github.com/hexpanic/postcss-choose-color",
+    "author": "hexpanic",
+    "tags": [
+      "color"
+    ]
   }
 ]
