@@ -216,7 +216,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
-[hexpanic](https://github.com/hexpanic)  |  [`postcss-choose-color`](https://github.com/hexpanic/postcss-choose-color)
+[axvm](https://github.com/axvm)  |  [`postcss-pure-grid`](https://github.com/axvm/postcss-pure-grid)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
 [admdh](https://github.com/admdh)  |  [`postcss-simple-grid`](https://github.com/admdh/postcss-simple-grid)
@@ -280,5 +280,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [gilmoreorless](https://github.com/gilmoreorless)  |  [`postcss-gradient-transparency-fix`](https://github.com/gilmoreorless/postcss-gradient-transparency-fix)
 [lordgiotto](https://github.com/lordgiotto)  |  [`postcss-oldschool-grid`](https://github.com/lordgiotto/postcss-oldschool-grid)
 [leodido](https://github.com/leodido)  |  [`postcss-clean`](https://github.com/leodido/postcss-clean)
+[hexpanic](https://github.com/hexpanic)  |  [`postcss-choose-color`](https://github.com/hexpanic/postcss-choose-color)
 [anandthakker](https://github.com/anandthakker)  |  [`doiuse`](https://github.com/anandthakker/doiuse)
 <!-- END -->
