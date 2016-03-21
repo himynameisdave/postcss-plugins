@@ -2958,5 +2958,15 @@
     "tags": [
       "grids"
     ]
+  },
+  {
+    "name": "postcss-emptymediaqueries",
+    "description": "removes empty media queries",
+    "url": "https://github.com/ride-css/postcss-emptymediaqueries",
+    "author": "OctoD",
+    "tags": [
+      "media-queries",
+      "optimizations"
+    ]
   }
 ]
