@@ -216,7 +216,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
-[OctoD](https://github.com/OctoD)  |  [`postcss-emptymediaqueries`](https://github.com/ride-css/postcss-emptymediaqueries)
+[lahmatiy](https://github.com/lahmatiy)  |  [`postcss-csso`](https://github.com/lahmatiy/postcss-csso)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
 [admdh](https://github.com/admdh)  |  [`postcss-simple-grid`](https://github.com/admdh/postcss-simple-grid)
@@ -282,5 +282,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [leodido](https://github.com/leodido)  |  [`postcss-clean`](https://github.com/leodido/postcss-clean)
 [hexpanic](https://github.com/hexpanic)  |  [`postcss-choose-color`](https://github.com/hexpanic/postcss-choose-color)
 [axvm](https://github.com/axvm)  |  [`postcss-pure-grid`](https://github.com/axvm/postcss-pure-grid)
+[OctoD](https://github.com/OctoD)  |  [`postcss-emptymediaqueries`](https://github.com/ride-css/postcss-emptymediaqueries)
 [a-axton](https://github.com/a-axton)  |  [`postcss-selector-source`](https://github.com/a-axton/postcss-selector-source)
 <!-- END -->
