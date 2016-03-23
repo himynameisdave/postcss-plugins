@@ -2984,5 +2984,14 @@
       "pack"
     ],
     "stars": 22
+  },
+  {
+    "name": "postcss-attribute-selector-prefix",
+    "description": "adds a prefix to attribute selectors",
+    "url": "https://github.com/GitScrum/postcss-attribute-selector-prefix",
+    "author": "GitScrum",
+    "tags": [
+      "other"
+    ]
   }
 ]
