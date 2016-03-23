@@ -1,3 +1,7 @@
+### v1.7.11
+> *(Mar 23th/2016)*
+- Adds [`postcss-attribute-selector-prefix`](https://github.com/GitScrum/postcss-attribute-selector-prefix)
+
 ### v1.7.10
 > *(Mar 20th/2016)*
 - Adds [`postcss-choose-color`](https://github.com/hexpanic/postcss-choose-color)
