@@ -2994,5 +2994,25 @@
       "other"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-em-media-query",
+    "description": "PostCSS plugin for transforming min/max-width/height media queries to ems.",
+    "url": "https://github.com/niksy/postcss-em-media-query",
+    "author": "niksy",
+    "tags": [
+      "media-queries",
+      "optimizations"
+    ]
+  },
+  {
+    "name": "postcss-media-query-gap",
+    "description": "PostCSS plugin for applying gap on max-width/height media queries.",
+    "url": "https://github.com/niksy/postcss-media-query-gap",
+    "author": "niksy",
+    "tags": [
+      "media-queries",
+      "optimizations"
+    ]
   }
 ]
