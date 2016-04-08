@@ -3014,5 +3014,15 @@
       "media-queries",
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-theme",
+    "description": "that allows easy theming.",
+    "url": "https://github.com/andywer/postcss-theme",
+    "author": "andywer",
+    "tags": [
+      "extensions",
+      "other"
+    ]
   }
 ]
