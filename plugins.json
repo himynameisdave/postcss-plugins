@@ -3024,5 +3024,14 @@
       "extensions",
       "other"
     ]
+  },
+  {
+    "name": "usedcss",
+    "description": "Extract only styles presented in your HTML files.",
+    "url": "https://github.com/komachi/usedcss",
+    "author": "komachi",
+    "tags": [
+      "optimizations"
+    ]
   }
 ]
