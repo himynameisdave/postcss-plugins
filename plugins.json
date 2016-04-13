@@ -3033,5 +3033,14 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-property-shorthand",
+    "description": " for short definition of user default properties using variables",
+    "url": "https://github.com/alanev/postcss-property-shorthand",
+    "author": "alanev",
+    "tags": [
+      "shortcuts"
+    ]
   }
 ]
