@@ -3042,5 +3042,15 @@
     "tags": [
       "shortcuts"
     ]
+  },
+  {
+    "name": "postcss-get-color",
+    "description": "to get the prominent color from an image with Vibrant.js.",
+    "url": "https://github.com/ismamz/postcss-get-color",
+    "author": "ismamz",
+    "tags": [
+      "color",
+      "images"
+    ]
   }
 ]
