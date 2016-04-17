@@ -3052,5 +3052,15 @@
       "color",
       "images"
     ]
+  },
+  {
+    "name": "postcss-remove-classes",
+    "description": "that removes all instances of class names from your CSS",
+    "url": "https://github.com/jacobp100/postcss-remove-classes/",
+    "author": "jacobp100",
+    "tags": [
+      "analysis",
+      "optimizations"
+    ]
   }
 ]
