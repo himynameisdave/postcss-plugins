@@ -3052,5 +3052,14 @@
       "color",
       "images"
     ]
+  },
+  {
+    "name": "postcss-tipsy",
+    "description": "a simple tooltip css",
+    "url": "https://github.com/dangvanthanh/postcss-tipsy",
+    "author": "dangvanthanh",
+    "tags": [
+      "other"
+    ]
   }
 ]
