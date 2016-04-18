@@ -3062,5 +3062,14 @@
       "analysis",
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-flexbox-unboxer",
+    "description": "that removes display: box from your stylesheets.",
+    "url": "https://github.com/Chapabu/postcss-flexbox-unboxer",
+    "author": "Chapabu",
+    "tags": [
+      "other"
+    ]
   }
 ]

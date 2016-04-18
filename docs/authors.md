@@ -217,8 +217,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [anandthakker](https://github.com/anandthakker)  |  [`doiuse`](https://github.com/anandthakker/doiuse)
 [a-axton](https://github.com/a-axton)  |  [`postcss-selector-source`](https://github.com/a-axton/postcss-selector-source)
 [dp-lewis](https://github.com/dp-lewis)  |  [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)
-[jacobp100](https://github.com/jacobp100)  |  [`postcss-remove-classes`](https://github.com/jacobp100/postcss-remove-classes/)
-[timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
+[chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
+[Chapabu](https://github.com/Chapabu)  |  [`postcss-flexbox-unboxer`](https://github.com/Chapabu/postcss-flexbox-unboxer)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
@@ -291,5 +291,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [zaim](https://github.com/zaim)  |  [`postcss-color-palette`](https://github.com/zaim/postcss-color-palette)
 [andywer](https://github.com/andywer)  |  [`postcss-theme`](https://github.com/andywer/postcss-theme)
 [komachi](https://github.com/komachi)  |  [`usedcss`](https://github.com/komachi/usedcss)
-[chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
+[jacobp100](https://github.com/jacobp100)  |  [`postcss-remove-classes`](https://github.com/jacobp100/postcss-remove-classes/)
+[timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 <!-- END -->
