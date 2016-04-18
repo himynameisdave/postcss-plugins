@@ -3061,5 +3061,14 @@
     "tags": [
       "other"
     ]
+  },
+  {
+    "name": "postcss-longshadow-text",
+    "description": "for long shadow text",
+    "url": "https://github.com/dangvanthanh/postcss-longshadow-text",
+    "author": "dangvanthanh",
+    "tags": [
+      "other"
+    ]
   }
 ]
