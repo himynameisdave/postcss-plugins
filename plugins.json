@@ -3071,5 +3071,14 @@
     "tags": [
       "other"
     ]
+  },
+  {
+    "name": "postcss-pie",
+    "description": "makes IE several of the most useful CSS3 decoration features",
+    "url": "https://github.com/gucong3000/postcss-pie.git",
+    "author": "gucong3000",
+    "tags": [
+      "fallbacks"
+    ]
   }
 ]
