@@ -3071,5 +3071,14 @@
     "tags": [
       "other"
     ]
+  },
+  {
+    "name": "postcss-magic-animations",
+    "description": "PostCSS plugin that adds @keyframes from Magic Animations",
+    "url": "https://github.com/nucliweb/postcss-magic-animations",
+    "author": "nucliweb",
+    "tags": [
+      "shortcuts"
+    ]
   }
 ]
