@@ -292,5 +292,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [andywer](https://github.com/andywer)  |  [`postcss-theme`](https://github.com/andywer/postcss-theme)
 [komachi](https://github.com/komachi)  |  [`usedcss`](https://github.com/komachi/usedcss)
 [jacobp100](https://github.com/jacobp100)  |  [`postcss-remove-classes`](https://github.com/jacobp100/postcss-remove-classes/)
+[gucong3000](https://github.com/gucong3000)  |  [`postcss-pie`](https://github.com/gucong3000/postcss-pie)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 <!-- END -->
