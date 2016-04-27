@@ -3080,5 +3080,14 @@
     "tags": [
       "shortcuts"
     ]
+  },
+  {
+    "name": "postcss-discard-overridden",
+    "description": "PostCSS plugin to discard overridden @keyframes or @counter-style.",
+    "url": "https://github.com/Justineo/postcss-discard-overridden",
+    "author": "Justineo",
+    "tags": [
+      "optimizations"
+    ]
   }
 ]
