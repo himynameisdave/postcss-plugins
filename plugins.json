@@ -3091,9 +3091,9 @@
     ]
   },
   {
-    "name": "postcss-modules-es ",
+    "name": "es-css-modules ",
     "description": "that combines CSS Modules and ES Imports",
-    "url": "https://github.com/jacobp100/postcss-modules-es",
+    "url": "https://github.com/jacobp100/es-css-modules",
     "author": "jacobp100",
     "tags": [
       "analysis",
