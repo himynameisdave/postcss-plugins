@@ -144,7 +144,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [yuezk](https://github.com/yuezk)   |   [`postcss-urlrev`](https://github.com/yuezk/postcss-urlrev)
    |   [`postcss-filter-gradient`](https://github.com/yuezk/postcss-filter-gradient)
 [jacobp100](https://github.com/jacobp100)   |   [`postcss-remove-classes`](https://github.com/jacobp100/postcss-remove-classes/)
-   |   [`postcss-modules-es `](https://github.com/jacobp100/postcss-modules-es)
+   |   [`es-css-modules `](https://github.com/jacobp100/es-css-modules)
 [johnie](https://github.com/johnie)   |   [`postcss-crip`](https://github.com/johnie/postcss-crip)
    |   [`postcss-swedish-stylesheets`](https://github.com/johnie/postcss-swedish-stylesheets)
 [alanev](https://github.com/alanev)   |   [`postcss-filter`](https://github.com/alanev/postcss-filter)
