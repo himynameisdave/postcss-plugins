@@ -295,4 +295,5 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [Chapabu](https://github.com/Chapabu)  |  [`postcss-flexbox-unboxer`](https://github.com/Chapabu/postcss-flexbox-unboxer)
 [nucliweb](https://github.com/nucliweb)  |  [`postcss-magic-animations`](https://github.com/nucliweb/postcss-magic-animations)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
+[aemoe](https://github.com/aemoe)  |  [`postcss-display-inline-block`](https://github.com/aemoe/postcss-display-inline-block)
 <!-- END -->
