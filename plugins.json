@@ -3089,5 +3089,15 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-inline-media",
+    "description": "that allow you to inline media queries in properties",
+    "url": "https://github.com/dimitrinicolas/postcss-inline-media",
+    "author": "dimitrinicolas",
+    "tags": [
+      "media-queries",
+      "shortcuts"
+    ]
   }
 ]
