@@ -3089,5 +3089,15 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-bgimage",
+    "description": "removes background-image properties with url() values or leaves only its. It allows to separate your layouts CSS from the images CSS to boost speed showing of page.",
+    "url": "https://github.com/ahtohbi4/postcss-bgimage",
+    "author": "ahtohbi4",
+    "tags": [
+      "images",
+      "optimizations"
+    ]
   }
 ]
