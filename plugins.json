@@ -3089,5 +3089,14 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "PostCSS High Contrast",
+    "description": "Create high contrast version of your project with ease",
+    "url": "https://github.com/admdh/postcss-high-contrast",
+    "author": "admdh",
+    "tags": [
+      "color"
+    ]
   }
 ]
