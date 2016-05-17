@@ -3089,5 +3089,15 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-invert-keyframes",
+    "description": "that allows for keyframes to be inverted",
+    "url": "https://github.com/jpgorman/postcss-invert-keyframes",
+    "author": "jpgorman",
+    "tags": [
+      "extensions",
+      "fun"
+    ]
   }
 ]
