@@ -3089,5 +3089,16 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-replace-overflow-wrap",
+    "description": "improves browser support for overflow-wrap by replacing it with word-wrap",
+    "url": "https://github.com/MattDiMu/postcss-replace-overflow-wrap",
+    "author": "MattDiMu",
+    "tags": [
+      "fallbacks",
+      "future",
+      "optimizations"
+    ]
   }
 ]
