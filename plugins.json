@@ -3092,7 +3092,7 @@
   },
   {
     "name": "postcss-invert-keyframes",
-    "description": "that allows for keyframes to be inverted",
+    "description": "PostCss plugin that takes a keyframe animation and duplicates it, with a reversed or mirror version. This creates a reverse of the given keyframe animation.",
     "url": "https://github.com/jpgorman/postcss-invert-keyframes",
     "author": "jpgorman",
     "tags": [
