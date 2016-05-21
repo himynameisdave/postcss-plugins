@@ -3103,5 +3103,14 @@
       "other",
       "pack"
     ]
+  },
+  {
+    "name": "postcss-display-inline-blcok",
+    "description": "PostCSS plugin to add display:inline-block hacker for IE8.",
+    "url": "https://github.com/aemoe/postcss-display-inline-block",
+    "author": "aemoe",
+    "tags": [
+      "other"
+    ]
   }
 ]
