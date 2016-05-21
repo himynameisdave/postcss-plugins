@@ -220,7 +220,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [dp-lewis](https://github.com/dp-lewis)  |  [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)
 [chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
-[Justineo](https://github.com/Justineo)  |  [`postcss-discard-overridden`](https://github.com/Justineo/postcss-discard-overridden)
+[ahtohbi4](https://github.com/ahtohbi4)  |  [`postcss-bgimage`](https://github.com/ahtohbi4/postcss-bgimage)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
@@ -295,6 +295,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [longdog](https://github.com/longdog)  |  [`postcss-color-pantone`](https://github.com/longdog/postcss-color-pantone)
 [Chapabu](https://github.com/Chapabu)  |  [`postcss-flexbox-unboxer`](https://github.com/Chapabu/postcss-flexbox-unboxer)
 [nucliweb](https://github.com/nucliweb)  |  [`postcss-magic-animations`](https://github.com/nucliweb/postcss-magic-animations)
+[Justineo](https://github.com/Justineo)  |  [`postcss-discard-overridden`](https://github.com/Justineo/postcss-discard-overridden)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
 [aemoe](https://github.com/aemoe)  |  [`postcss-display-inline-block`](https://github.com/aemoe/postcss-display-inline-block)
 <!-- END -->
