@@ -3141,5 +3141,15 @@
     "tags": [
       "color"
     ]
+  },
+  {
+    "name": "postcss-less-parser",
+    "description": "Parses and evaluates LESS to CSS (using true Less.js)",
+    "url": "https://github.com/Crunch/postcss-less",
+    "author": "Crunch",
+    "tags": [
+      "other",
+      "sass"
+    ]
   }
 ]
