@@ -3161,5 +3161,14 @@
       "extensions",
       "fun"
     ]
+  },
+  {
+    "name": "postcss-responsive-values",
+    "description": "that automatically adds media queries for targetted values.",
+    "url": "https://github.com/troch/postcss-responsive-values",
+    "author": "troch",
+    "tags": [
+      "media-queries"
+    ]
   }
 ]
