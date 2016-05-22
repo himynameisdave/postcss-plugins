@@ -222,7 +222,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
-[Crunch](https://github.com/Crunch)  |  [`postcss-less-parser`](https://github.com/Crunch/postcss-less)
+[jpgorman](https://github.com/jpgorman)  |  [`postcss-invert-keyframes`](https://github.com/jpgorman/postcss-invert-keyframes)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
 [twbs](https://github.com/twbs)  |  [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)
@@ -300,5 +300,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [aemoe](https://github.com/aemoe)  |  [`postcss-display-inline-blcok`](https://github.com/aemoe/postcss-display-inline-block)
 [ahtohbi4](https://github.com/ahtohbi4)  |  [`postcss-bgimage`](https://github.com/ahtohbi4/postcss-bgimage)
 [dimitrinicolas](https://github.com/dimitrinicolas)  |  [`postcss-inline-media`](https://github.com/dimitrinicolas/postcss-inline-media)
+[Crunch](https://github.com/Crunch)  |  [`postcss-less-parser`](https://github.com/Crunch/postcss-less)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 <!-- END -->
