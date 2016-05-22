@@ -3122,5 +3122,17 @@
       "images",
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-fixes",
+    "description": "...pack to fix known browser bugs and implement fallbacks.",
+    "url": "https://github.com/MattDiMu/postcss-fixes",
+    "author": "MattDiMu",
+    "tags": [
+      "fallbacks",
+      "future",
+      "optimizations",
+      "pack"
+    ]
   }
 ]
