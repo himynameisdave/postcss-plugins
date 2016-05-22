@@ -10,6 +10,7 @@
 - Adds [`postcss-invert-keyframes`](https://github.com/jpgorman/postcss-invert-keyframes)
 - Adds [`postcss-responsive-values`](https://github.com/troch/postcss-responsive-values)
 - Adds [`postcss-fixes`](https://github.com/MattDiMu/postcss-fixes)
+- Adds [`postcss-pie`](https://github.com/gucong3000/postcss-pie)
 
 ### v1.7.11
 > *(Mar 23th/2016)*
