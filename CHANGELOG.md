@@ -1,3 +1,16 @@
+## v1.8.0
+> *(May 22nd/2016)*
+- Adds new [`accessibility` tag](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/tags.md).
+- Adds [`es-css-modules`](https://github.com/jacobp100/es-css-modules)
+- Adds [`postcss-display-inline-block`](https://github.com/aemoe/postcss-display-inline-block)
+- Adds [`postcss-bgimage`](https://github.com/ahtohbi4/postcss-bgimage)
+- Adds [`postcss-inline-media`](https://github.com/dimitrinicolas/postcss-inline-media)
+- Adds [`postcss-high-contrast`](https://github.com/admdh/postcss-high-contrast)
+- Adds [`postcss-less`](https://github.com/Crunch/postcss-less)
+- Adds [`postcss-invert-keyframes`](https://github.com/jpgorman/postcss-invert-keyframes)
+- Adds [`postcss-responsive-values`](https://github.com/troch/postcss-responsive-values)
+- Adds [`postcss-fixes`](https://github.com/MattDiMu/postcss-fixes)
+
 ### v1.7.11
 > *(Mar 23th/2016)*
 - Adds [`postcss-attribute-selector-prefix`](https://github.com/GitScrum/postcss-attribute-selector-prefix)
