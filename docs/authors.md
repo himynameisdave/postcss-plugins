@@ -222,7 +222,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
-[troch](https://github.com/troch)  |  [`postcss-responsive-values`](https://github.com/troch/postcss-responsive-values)
+[MattDiMu](https://github.com/MattDiMu)  |  [`postcss-fixes`](https://github.com/MattDiMu/postcss-fixes)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [twbs](https://github.com/twbs)  |  [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)
@@ -302,5 +302,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [dimitrinicolas](https://github.com/dimitrinicolas)  |  [`postcss-inline-media`](https://github.com/dimitrinicolas/postcss-inline-media)
 [Crunch](https://github.com/Crunch)  |  [`postcss-less-parser`](https://github.com/Crunch/postcss-less)
 [jpgorman](https://github.com/jpgorman)  |  [`postcss-invert-keyframes`](https://github.com/jpgorman/postcss-invert-keyframes)
+[troch](https://github.com/troch)  |  [`postcss-responsive-values`](https://github.com/troch/postcss-responsive-values)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
 <!-- END -->
