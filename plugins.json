@@ -3212,5 +3212,16 @@
       "other"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-env-replace",
+    "description": "that will replace Templates with environment-specific content.",
+    "url": "https://github.com/stehefan/postcss-env-replace",
+    "author": "stehefan",
+    "tags": [
+      "extensions",
+      "images",
+      "other"
+    ]
   }
 ]
