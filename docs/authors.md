@@ -305,4 +305,5 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [troch](https://github.com/troch)  |  [`postcss-responsive-values`](https://github.com/troch/postcss-responsive-values)
 [MattDiMu](https://github.com/MattDiMu)  |  [`postcss-fixes`](https://github.com/MattDiMu/postcss-fixes)
 [gucong3000](https://github.com/gucong3000)  |  [`postcss-pie`](https://github.com/gucong3000/postcss-pie)
+[AaronJan](https://github.com/AaronJan)  |  [`postcss-font-grabber`](https://github.com/AaronJan/postcss-font-grabber)
 <!-- END -->
