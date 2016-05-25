@@ -3212,5 +3212,17 @@
       "other"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-unprefix",
+    "description": "Unprefixes vendor prefixes in legacy CSS.",
+    "url": "https://github.com/gucong3000/postcss-unprefix",
+    "author": "gucong3000",
+    "tags": [
+      "fallbacks",
+      "future",
+      "media-queries",
+      "optimizations"
+    ]
   }
 ]
