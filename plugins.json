@@ -3153,6 +3153,7 @@
     "url": "https://github.com/admdh/postcss-high-contrast",
     "author": "admdh",
     "tags": [
+      "accessibility",
       "color"
     ],
     "stars": 26
