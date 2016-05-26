@@ -4,6 +4,9 @@
 module.exports = {
   rawList: [
     {
+      tag:         "accessibility",
+      description: "does something with a11y support"
+    },{
       tag:         "analysis",
       description: "does something to analyze your code"
     },{

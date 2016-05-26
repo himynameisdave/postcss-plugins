@@ -4,6 +4,7 @@ I am maintaining a list of tags so that things remain sane:
 
  **Tag Name**       | **Tag Description**
  -------------------|----------------------
+**`accessibility`** | does something with a11y support
 **`analysis`**      | does something to analyze your code
 **`color`**         | does something with colors
 **`debug`**         | does something like linting/validating/debugging
