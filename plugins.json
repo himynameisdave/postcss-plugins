@@ -3223,5 +3223,15 @@
       "accessibility",
       "fonts"
     ]
+  },
+  {
+    "name": "postcss-inject",
+    "description": "PostCSS Inject is PostCSS plugin that can inject one css file to another.",
+    "url": "https://github.com/admdh/postcss-inject",
+    "author": "admdh",
+    "tags": [
+      "extensions",
+      "other"
+    ]
   }
 ]
