@@ -3091,7 +3091,7 @@
     ]
   },
   {
-    "name": "postcss-less-parser",
+    "name": "postcss-less-engine",
     "description": "Parses and evaluates LESS to CSS (using true Less.js)",
     "url": "https://github.com/Crunch/postcss-less",
     "author": "Crunch",
