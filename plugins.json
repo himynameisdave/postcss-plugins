@@ -3271,5 +3271,23 @@
       "extensions",
       "other"
     ]
+  },
+  {
+    "name": "postcss-tipsy",
+    "description": "a simple tooltip css",
+    "url": "https://github.com/dangvanthanh/postcss-tipsy",
+    "author": "dangvanthanh",
+    "tags": [
+      "other"
+    ]
+  },
+  {
+    "name": "postcss-longshadow-text",
+    "description": "for long shadow text",
+    "url": "https://github.com/dangvanthanh/postcss-longshadow-text",
+    "author": "dangvanthanh",
+    "tags": [
+      "other"
+    ]
   }
 ]
