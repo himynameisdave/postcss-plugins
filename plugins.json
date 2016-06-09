@@ -3153,6 +3153,7 @@
     "url": "https://github.com/admdh/postcss-high-contrast",
     "author": "admdh",
     "tags": [
+      "accessibility",
       "color"
     ],
     "stars": 26
@@ -3250,6 +3251,25 @@
       "future",
       "media-queries",
       "optimizations"
+    ]
+  }, {
+    "name": "postcss-increase-text-sizes",
+    "description": "PostCSS Increase Text Size is a PostCSS plugin that helps automaticaly increase text size and line heights.",
+    "url": "https://github.com/admdh/postcss-increase-text-sizes",
+    "author": "admdh",
+    "tags": [
+      "accessibility",
+      "fonts"
+    ]
+  },
+  {
+    "name": "postcss-inject",
+    "description": "PostCSS Inject is PostCSS plugin that can inject one css file to another.",
+    "url": "https://github.com/admdh/postcss-inject",
+    "author": "admdh",
+    "tags": [
+      "extensions",
+      "other"
     ]
   }
 ]
