@@ -3289,5 +3289,14 @@
     "tags": [
       "other"
     ]
+  },
+  {
+    "name": "postcss-sort-style-rules",
+    "description": "to sort style rules according to selector specificity.",
+    "url": "https://github.com/Justineo/postcss-sort-style-rules",
+    "author": "Justineo",
+    "tags": [
+      "optimizations"
+    ]
   }
 ]
