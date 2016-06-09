@@ -3232,5 +3232,14 @@
     "tags": [
       "shortcuts"
     ]
+  }, {
+    "name": "postcss-font-grabber",
+    "description": "Grab remote font in @font-face, download it and update your CSS.",
+    "url": "https://github.com/AaronJan/postcss-font-grabber",
+    "author": "AaronJan",
+    "tags": [
+      "fonts",
+      "optimizations"
+    ]
   }
 ]
