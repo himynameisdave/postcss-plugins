@@ -1,3 +1,18 @@
+### v1.8.1
+> *(June 8th/2016)*
+- Adds [`postcss-env-replace`](https://github.com/stehefan/postcss-env-replace)
+- Adds [`postcss-border-shortcut`](https://github.com/michelemazzucco/postcss-border-shortcut)
+- Adds [`postcss-env-replace`](https://github.com/stehefan/postcss-env-replace)
+- Adds [`postcss-font-grabber`](https://github.com/AaronJan/postcss-font-grabber)
+- Adds [`postcss-unprefix`](https://github.com/gucong3000/postcss-unprefix)
+- Adds [`postcss-increase-text-sizes`](https://github.com/admdh/postcss-increase-text-sizes)
+- Adds [`postcss-inject`](https://github.com/admdh/postcss-inject)
+- Adds [`postcss-tipsy`](https://github.com/dangvanthanh/postcss-tipsy)
+- Adds [`postcss-longshadow-text`](https://github.com/dangvanthanh/postcss-longshadow-text)
+- Adds [`postcss-sort-style-rules`](https://github.com/Justineo/postcss-sort-style-rules)
+- Adds [`postcss-utilities`](https://github.com/ismamz/postcss-utilities)
+
+
 ## v1.8.0
 > *(May 22nd/2016)*
 - Adds new [`accessibility` tag](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/tags.md).
@@ -75,6 +90,7 @@
 - Adds [`postcss-filter-mq`](https://github.com/simeydotme/postcss-filter-mq)
 - Adds [`postcss-remove-root`](https://github.com/cbracco/postcss-remove-root)
 
+
 ## v1.7.0
 > *(Jan 2nd/2016)*
 - Code cleanup/ES6ify/promises etc.
@@ -83,6 +99,7 @@
 ### v1.6.1
 > *(Dec 23th/2015)*
 - Fixes the authors table
+
 
 ## v1.6.0
 > *(Dec 22th/2015)*
@@ -237,6 +254,7 @@
 > *(Sep 26th/2015)*
 - Adds [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)
 
+
 ## v1.5.0
 > *(Sep 25th/2015)*
 - Adds "packs" property to the plugins.json
@@ -276,6 +294,7 @@
 ### v1.4.1
 > *(Sep 18th/2015)*
 - Adds [`postcss-image-inliner`](https://github.com/bezoerb/postcss-image-inliner)
+
 
 ## v1.4.0
 > *(Sep 18th/2015)*
@@ -322,6 +341,7 @@
 - Adds [`postcss-flexbugs-fixes`](https://github.com/luisrudge/postcss-flexbugs-fixes)
 - Adds [`postcss-round-subpixels`](https://github.com/himynameisdave/postcss-round-subpixels)
 
+
 ## v1.3.0
 > *(Sept 3rd/2015)*
 - Adds Authors,
@@ -339,6 +359,7 @@
 ### v1.2.1
 > *(Aug 30th/2015)*
 - Adds `postcss-inline-comment`
+
 
 ## v1.2.0
 > *(Aug 29th/2015)*
@@ -359,6 +380,7 @@
 
 ### v1.1.1
 - Removes duplicate of `postcss-urlrev`
+
 
 ## v1.1.0
 - Moves the entire dataset off to it's own JSON file; updates readme;

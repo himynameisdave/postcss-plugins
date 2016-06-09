@@ -13,16 +13,16 @@ const fs = require("fs"),
 
 (() => {
 
-    //    1. replace the old..
-    let newAuthorsMD = authorsMD.replace(authorsMD.substr( start, end ), "");
-    //    2. add the new
-    newAuthorsMD += generateAuthorsTable(authorsList);
+  //    1. replace the old..
+  let newAuthorsMD = authorsMD.replace(authorsMD.substr( start, end ), "");
+  //    2. add the new
+  newAuthorsMD += generateAuthorsTable(authorsList);
 
-    //  write the new authors.md file
-    writeAuthors(authorsPath, newAuthorsMD)
-      .then(console.log)
-      .catch((e)=>{
-        console.log("Error updating authors.md!",e);
-      });
+  //  write the new authors.md file
+  writeAuthors(authorsPath, newAuthorsMD)
+    .then(console.log)
+    .catch((e)=>{
+      console.log("Error updating authors.md!",e);
+    });
 
 })();

@@ -117,7 +117,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |   [`postcss-select`](https://github.com/johnotander/postcss-select)
 [ismamz](https://github.com/ismamz)   |   [`postcss-spanish-stylesheets`](https://github.com/ismamz/postcss-spanish-stylesheets)
    |   [`postcss-get-color`](https://github.com/ismamz/postcss-get-color)
-   |   [`utilities`](https://github.com/ismamz/postcss-utilities)
+   |   [`postcss-utilities`](https://github.com/ismamz/postcss-utilities)
 [TrySound](https://github.com/TrySound)   |   [`postcss-normalize-charset`](https://github.com/TrySound/postcss-normalize-charset)
    |   [`postcss-minify-font-values`](https://github.com/TrySound/postcss-minify-font-values)
    |   [`postcss-inline-svg`](https://github.com/TrySound/postcss-inline-svg)
