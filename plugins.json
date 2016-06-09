@@ -3298,5 +3298,16 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "utilities",
+    "description": "that have mixins, shortcuts and helpers to use as @util rules",
+    "url": "https://github.com/ismamz/postcss-utilities",
+    "author": "ismamz",
+    "tags": [
+      "extensions",
+      "pack",
+      "shortcuts"
+    ]
   }
 ]
