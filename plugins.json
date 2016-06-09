@@ -3223,5 +3223,14 @@
       "images",
       "other"
     ]
+  },
+  {
+    "name": "postcss-border-shortcut",
+    "description": "PostCSS plugin for assign default border type if not expressed.",
+    "url": "https://github.com/michelemazzucco/postcss-border-shortcut",
+    "author": "michelemazzucco",
+    "tags": [
+      "shortcuts"
+    ]
   }
 ]
