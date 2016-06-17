@@ -1,3 +1,10 @@
+### v1.8.2
+> *(June 17th/2016)*
+- Adds [`postcss-lh`](https://github.com/jameskolce/postcss-lh)
+- Adds [`postcss-extract-value`](https://github.com/lutien/postcss-extract-value)
+- Adds [`postcss-placehold`](https://github.com/awayken/postcss-placehold)
+- Adds [`postcss-combine-duplicated-selectors`](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors)
+
 ### v1.8.1
 > *(June 8th/2016)*
 - Adds [`postcss-env-replace`](https://github.com/stehefan/postcss-env-replace)
