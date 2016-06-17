@@ -229,7 +229,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
-[ChristianMurphy](https://github.com/ChristianMurphy)  |  [`postcss-combine-duplicated-selectors`](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors)
+[georgeadamson](https://github.com/georgeadamson)  |  [`postcss-merge-selectors`](https://github.com/georgeadamson/postcss-merge-selectors)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
@@ -319,5 +319,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [jameskolce](https://github.com/jameskolce)  |  [`postcss-lh`](https://github.com/jameskolce/postcss-lh)
 [lutien](https://github.com/lutien)  |  [`postcss-extract-value`](https://github.com/lutien/postcss-extract-value)
 [awayken](https://github.com/awayken)  |  [`postcss-placehold`](https://github.com/awayken/postcss-placehold)
+[ChristianMurphy](https://github.com/ChristianMurphy)  |  [`postcss-combine-duplicated-selectors`](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors)
 [sandralundgren](https://github.com/sandralundgren)  |  [`postcss-lolcat-stylesheets`](https://github.com/sandralundgren/postcss-lolcat-stylesheets)
 <!-- END -->
