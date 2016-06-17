@@ -3331,5 +3331,14 @@
     "tags": [
       "extensions"
     ]
+  },
+  {
+    "name": "postcss-extract-value",
+    "description": "to extract values from css properties and put them into variables.",
+    "url": "https://github.com/lutien/postcss-extract-value",
+    "author": "lutien",
+    "tags": [
+      "other"
+    ]
   }
 ]
