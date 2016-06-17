@@ -3349,5 +3349,14 @@
     "tags": [
       "images"
     ]
+  },
+  {
+    "name": "postcss-combine-duplicated-selectors",
+    "description": "that automatically detects and combines duplicated css selectors so you don't have to",
+    "url": "https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors",
+    "author": "ChristianMurphy",
+    "tags": [
+      "optimizations"
+    ]
   }
 ]
