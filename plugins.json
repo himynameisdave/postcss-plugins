@@ -3371,5 +3371,14 @@
     "tags": [
       "optimizations"
     ]
+  },
+  {
+    "name": "postcss-pr",
+    "description": "Transforms px values to rem, using a pr unit",
+    "url": "https://github.com/jameskolce/postcss-pr",
+    "author": "jameskolce",
+    "tags": [
+      "extensions"
+    ]
   }
 ]
