@@ -3380,5 +3380,26 @@
     "tags": [
       "extensions"
     ]
+  },
+  {
+    "name": "postcss-class-patterns",
+    "description": "to match class patterns in a safe way.",
+    "url": "https://github.com/MattDiMu/postcss-class-patterns",
+    "author": "MattDiMu",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ]
+  },
+  {
+    "name": "postcss-nth-child-fix",
+    "description": "to fix a known android bug with nth-child.",
+    "url": "https://github.com/MattDiMu/postcss-nth-child-fix",
+    "author": "MattDiMu",
+    "tags": [
+      "fallbacks",
+      "future",
+      "optimizations"
+    ]
   }
 ]
