@@ -3362,5 +3362,14 @@
       "optimizations"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-merge-selectors",
+    "description": "PostCSS plugin to combine selectors that have identical rules.",
+    "url": "https://github.com/georgeadamson/postcss-merge-selectors",
+    "author": "georgeadamson",
+    "tags": [
+      "optimizations"
+    ]
   }
 ]
