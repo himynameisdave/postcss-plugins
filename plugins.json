@@ -3405,5 +3405,14 @@
       "optimizations"
     ],
     "stars": 4
+  },
+  {
+    "name": "postcss-pe",
+    "description": "Transforms px values to em, using a pe unit",
+    "url": "https://github.com/jameskolce/postcss-pe",
+    "author": "jameskolce",
+    "tags": [
+      "extensions"
+    ]
   }
 ]
