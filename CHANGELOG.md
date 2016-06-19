@@ -1,3 +1,10 @@
+### v1.8.3
+> *(June 19th/2016)*
+- Adds [`postcss-merge-selectors`](https://github.com/georgeadamson/postcss-merge-selectors)
+- Adds [`postcss-pr`](https://github.com/jameskolce/postcss-pr)
+- Adds [`postcss-class-patterns`](https://github.com/MattDiMu/postcss-class-patterns)
+- Adds [`postcss-nth-child-fix`](https://github.com/MattDiMu/postcss-nth-child-fix)
+
 ### v1.8.2
 > *(June 17th/2016)*
 - Adds [`postcss-lh`](https://github.com/jameskolce/postcss-lh)
@@ -19,7 +26,6 @@
 - Adds [`postcss-sort-style-rules`](https://github.com/Justineo/postcss-sort-style-rules)
 - Adds [`postcss-utilities`](https://github.com/ismamz/postcss-utilities)
 
-
 ## v1.8.0
 > *(May 22nd/2016)*
 - Adds new [`accessibility` tag](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/tags.md).
@@ -33,6 +39,7 @@
 - Adds [`postcss-responsive-values`](https://github.com/troch/postcss-responsive-values)
 - Adds [`postcss-fixes`](https://github.com/MattDiMu/postcss-fixes)
 - Adds [`postcss-pie`](https://github.com/gucong3000/postcss-pie)
+
 
 ### v1.7.11
 > *(Mar 23th/2016)*
@@ -97,11 +104,11 @@
 - Adds [`postcss-filter-mq`](https://github.com/simeydotme/postcss-filter-mq)
 - Adds [`postcss-remove-root`](https://github.com/cbracco/postcss-remove-root)
 
-
 ## v1.7.0
 > *(Jan 2nd/2016)*
 - Code cleanup/ES6ify/promises etc.
 - Adds ability to add multiple plugins [#18](https://github.com/himynameisdave/postcss-plugins/issues/18)
+
 
 ### v1.6.1
 > *(Dec 23th/2015)*
@@ -261,7 +268,6 @@
 > *(Sep 26th/2015)*
 - Adds [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)
 
-
 ## v1.5.0
 > *(Sep 25th/2015)*
 - Adds "packs" property to the plugins.json
@@ -283,6 +289,7 @@
 - Adds [`postcss-reduce-idents`](https://github.com/ben-eb/postcss-reduce-idents)
 - Adds [`postcss-unique-selectors`](https://github.com/ben-eb/postcss-unique-selectors)
 
+
 ### v1.4.4
 > *(Sep 24th/2015)*
 - Adds [`colorguard`](https://github.com/SlexAxton/css-colorguard)
@@ -302,10 +309,10 @@
 > *(Sep 18th/2015)*
 - Adds [`postcss-image-inliner`](https://github.com/bezoerb/postcss-image-inliner)
 
-
 ## v1.4.0
 > *(Sep 18th/2015)*
 - Updates all the scripts so that users can easily add a plugin without hassle
+
 
 ### v1.3.9
 > *(Sept 17th/2015)*
@@ -348,12 +355,12 @@
 - Adds [`postcss-flexbugs-fixes`](https://github.com/luisrudge/postcss-flexbugs-fixes)
 - Adds [`postcss-round-subpixels`](https://github.com/himynameisdave/postcss-round-subpixels)
 
-
 ## v1.3.0
 > *(Sept 3rd/2015)*
 - Adds Authors,
 - Adds docs folder,
 - Adds scripts;
+
 
 ### v1.2.3
 > *(Sept 2nd/2015)*
@@ -367,10 +374,10 @@
 > *(Aug 30th/2015)*
 - Adds `postcss-inline-comment`
 
-
 ## v1.2.0
 > *(Aug 29th/2015)*
 - Adds tags to each plugin;
+
 
 ### v1.1.5
 - Adds `postcss-autoreset`
@@ -387,7 +394,6 @@
 
 ### v1.1.1
 - Removes duplicate of `postcss-urlrev`
-
 
 ## v1.1.0
 - Moves the entire dataset off to it's own JSON file; updates readme;
