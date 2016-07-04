@@ -3414,5 +3414,14 @@
     "tags": [
       "fun"
     ]
+  },
+  {
+    "name": "important-shorthand",
+    "description": "that allows you to use shorthand for your !important declarations.",
+    "url": "https://github.com/soul-wish/postcss-important-shorthand",
+    "author": "soul-wish",
+    "tags": [
+      "shortcuts"
+    ]
   }
 ]
