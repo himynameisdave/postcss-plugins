@@ -3414,5 +3414,14 @@
     "tags": [
       "fun"
     ]
+  },
+  {
+    "name": "postcss-esplit",
+    "description": "that splits your CSS exceeding 4095 selectors for IE",
+    "url": "https://github.com/VitaliyR/postcss-esplit",
+    "author": "VitaliyR",
+    "tags": [
+      "fallbacks"
+    ]
   }
 ]
