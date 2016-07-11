@@ -1,13 +1,13 @@
 ### v1.8.3
 > *(June 19th/2016)*
 - Adds [`postcss-merge-selectors`](https://github.com/georgeadamson/postcss-merge-selectors)
-- Adds [`postcss-pr`](https://github.com/jameskolce/postcss-pr)
+- Adds [`postcss-pr`](https://github.com/kolcethompsonco/postcss-pr)
 - Adds [`postcss-class-patterns`](https://github.com/MattDiMu/postcss-class-patterns)
 - Adds [`postcss-nth-child-fix`](https://github.com/MattDiMu/postcss-nth-child-fix)
 
 ### v1.8.2
 > *(June 17th/2016)*
-- Adds [`postcss-lh`](https://github.com/jameskolce/postcss-lh)
+- Adds [`postcss-lh`](https://github.com/kolcethompsonco/postcss-lh)
 - Adds [`postcss-extract-value`](https://github.com/lutien/postcss-extract-value)
 - Adds [`postcss-placehold`](https://github.com/awayken/postcss-placehold)
 - Adds [`postcss-combine-duplicated-selectors`](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors)
