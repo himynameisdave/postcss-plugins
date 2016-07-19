@@ -232,7 +232,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
-[kilian](https://github.com/kilian)  |  [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)
+[rominmx](https://github.com/rominmx)  |  [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
@@ -324,5 +324,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [awayken](https://github.com/awayken)  |  [`postcss-placehold`](https://github.com/awayken/postcss-placehold)
 [ChristianMurphy](https://github.com/ChristianMurphy)  |  [`postcss-combine-duplicated-selectors`](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors)
 [georgeadamson](https://github.com/georgeadamson)  |  [`postcss-merge-selectors`](https://github.com/georgeadamson/postcss-merge-selectors)
+[kilian](https://github.com/kilian)  |  [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)
 [liquidlight](https://github.com/liquidlight)  |  [`postcss-pseudo-content-insert`](https://github.com/liquidlight/postcss-pseudo-content-insert)
 <!-- END -->

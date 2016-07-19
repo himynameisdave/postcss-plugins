@@ -3414,5 +3414,14 @@
     "tags": [
       "fun"
     ]
+  },
+  {
+    "name": "postcss-compact-mq",
+    "description": "that provice compact, intuitive syntax for media queries",
+    "url": "https://github.com/rominmx/postcss-compact-mq",
+    "author": "rominmx",
+    "tags": [
+      "media-queries"
+    ]
   }
 ]
