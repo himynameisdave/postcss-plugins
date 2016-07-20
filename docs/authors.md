@@ -233,6 +233,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
 [soul-wish](https://github.com/soul-wish)  |  [`important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)
+[RyanZim](https://github.com/RyanZim)  |  [`postcss-uncss`](https://github.com/RyanZim/postcss-uncss)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
