@@ -3432,5 +3432,14 @@
     "tags": [
       "fallbacks"
     ]
+  },
+  {
+    "name": "postcss-compact-mq",
+    "description": "that provides compact, intuitive syntax for media queries",
+    "url": "https://github.com/rominmx/postcss-compact-mq",
+    "author": "rominmx",
+    "tags": [
+      "media-queries"
+    ]
   }
 ]

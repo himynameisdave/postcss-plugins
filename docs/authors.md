@@ -232,7 +232,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [chancancode](https://github.com/chancancode)  |  [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)
 [timche](https://github.com/timche)  |  [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)
 [cbas](https://github.com/cbas)  |  [`postcss-imperial`](https://github.com/cbas/postcss-imperial)
-[VitaliyR](https://github.com/VitaliyR)  |  [`postcss-esplit`](https://github.com/VitaliyR/postcss-esplit)
+[rominmx](https://github.com/rominmx)  |  [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)
 [HashanP](https://github.com/HashanP)  |  [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)
 [talgautb](https://github.com/talgautb)  |  [`postcss-currency`](https://github.com/talgautb/postcss-currency)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
@@ -326,5 +326,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [georgeadamson](https://github.com/georgeadamson)  |  [`postcss-merge-selectors`](https://github.com/georgeadamson/postcss-merge-selectors)
 [kilian](https://github.com/kilian)  |  [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)
 [soul-wish](https://github.com/soul-wish)  |  [`important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)
+[VitaliyR](https://github.com/VitaliyR)  |  [`postcss-esplit`](https://github.com/VitaliyR/postcss-esplit)
 [shutterstock](https://github.com/shutterstock)  |  [`postcss-copy-assets`](https://github.com/shutterstock/postcss-copy-assets)
 <!-- END -->
