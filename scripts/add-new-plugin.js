@@ -10,15 +10,18 @@
 'use strict';
 (() => {
 
-  const fs             = require("fs"),
-        pluginsPath    = "plugins.json",
-        plugins        = require('../'+pluginsPath),
-        banner         = require("./data/banner"),
-        newPlugPrompts = require("./utils/new-plug-prompts"),
-        writePlugins   = require("./utils/write-plugins"),
+  const fs             = require('fs'),
+        pluginsPath    = 'plugins.json',
+        plugins        = require(`../${pluginsPath}`),
+        banner         = require('./data/banner'),
+        newPlugPrompts = require('./utils/new-plug-prompts'),
+
+        writePlugins   = require('./utils/write-plugins'),
+        write          = require('./utils/promiseWrite'),
+
         newPlugins     = [],
         doPrompts      = (done) => {
-          return newPlugPrompts( (answers) => {
+          return newPlugPrompts((answers) => {
             newPlugins.push({
               name:         answers.name,
               description:  answers.description,
@@ -43,6 +46,11 @@
   //  2 & 3. Prompt & continue to prompt about new plugins
   doPrompts(() => {
   //  4. Write the new plugins
+
+
+    // write(pluginsPath, JSON.stringify(newPlugins, null, 2));
+
+
     writePlugins(pluginsPath, plugins.concat(newPlugins))
       .then( (msg) => {
         console.log(msg);

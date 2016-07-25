@@ -10,5 +10,5 @@ module.exports = (authorsPath, authorsMD) => {
       if(e) rej(e);
       res("Updated the "+authorsPath+" file");
     });
-  }); 
+  });
 };

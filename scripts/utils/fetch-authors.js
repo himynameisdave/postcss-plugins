@@ -1,4 +1,4 @@
-"use strict";
+ß"use strict";
 
 /**
  *    Returns an array of authors based on the incoming plugins object

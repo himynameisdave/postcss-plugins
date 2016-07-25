@@ -6,7 +6,6 @@
 const inquirer   = require("inquirer"),
       prompts    = require("../data/new-prompts");
 
-
 module.exports = (cb) => {
   inquirer.prompt( prompts, (answers) => {
     if(answers) return cb(answers);
