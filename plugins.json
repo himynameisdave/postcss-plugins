@@ -3325,9 +3325,9 @@
   },
   {
     "name": "postcss-lh",
-    "description": "that adds support for a lh unit based on the line height for vertical rhythm.",
-    "url": "https://github.com/jameskolce/postcss-lh",
-    "author": "jameskolce",
+    "description": "Adds support for a lh unit based on the line height for vertical rhythm.",
+    "url": "https://github.com/kolcethompsonco/postcss-lh",
+    "author": "kolcethompsonco",
     "tags": [
       "extensions"
     ],
@@ -3376,8 +3376,8 @@
   {
     "name": "postcss-pr",
     "description": "Transforms px values to rem, using a pr unit",
-    "url": "https://github.com/jameskolce/postcss-pr",
-    "author": "jameskolce",
+    "url": "https://github.com/kolcethompsonco/postcss-pr",
+    "author": "kolcethompsonco",
     "tags": [
       "extensions"
     ],
