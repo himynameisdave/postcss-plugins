@@ -174,7 +174,9 @@
     "url": "https://github.com/travco/postcss-extend",
     "description": "Supports spec-approximate @extend for rules and placeholders, recursively.",
     "tags": [
-      "future"
+      "future",
+      "extensions",
+      "sass"
     ],
     "author": "travco",
     "stars": 49
@@ -3449,6 +3451,15 @@
     "author": "RyanZim",
     "tags": [
       "optimizations"
+    ]
+  },
+  {
+    "name": "postcss-secmodify",
+    "description": "Allows easy sectional modification of CSS by RegEx or Strings.",
+    "url": "https://github.com/travco/postcss-secmodify",
+    "author": "travco",
+    "tags": [
+      "other"
     ]
   }
 ]
