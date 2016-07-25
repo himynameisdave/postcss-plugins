@@ -57,7 +57,7 @@ const gh = require("octonode"),
               }
            })
            .catch((e)=>{
-             console.log("Failed to find this repo: ", e);
+             console.log("\nFailed to find this repo: ", e);
            });
       });
 

@@ -1,3 +1,11 @@
+### v1.8.4
+- Adds [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)
+- Adds [`postcss-important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)
+- Adds [`postcss-esplit`](https://github.com/VitaliyR/postcss-esplit)
+- Adds [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)
+- Adds [`postcss-uncss`](https://github.com/RyanZim/postcss-uncss)
+- Adds [`postcss-secmodify`](https://github.com/travco/postcss-secmodify)
+
 ### v1.8.3
 > *(June 19th/2016)*
 - Adds [`postcss-merge-selectors`](https://github.com/georgeadamson/postcss-merge-selectors)
