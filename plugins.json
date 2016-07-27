@@ -3457,5 +3457,14 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-shared-options",
+    "description": "plugin share variables between different css files with scope",
+    "url": "https://github.com/lexich/postcss-shared-options",
+    "author": "lexich",
+    "tags": [
+      "extensions"
+    ]
   }
 ]
