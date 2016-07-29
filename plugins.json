@@ -3457,5 +3457,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-randomcolor",
+    "description": "supports function to use random colors",
+    "url": "https://github.com/alanev/postcss-randomcolor",
+    "author": "alanev",
+    "tags": [
+      "color",
+      "fun"
+    ]
   }
 ]
