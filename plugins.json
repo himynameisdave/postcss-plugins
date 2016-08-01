@@ -3457,5 +3457,14 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-grouper",
+    "description": "A plugin that groups selectors together",
+    "url": "https://github.com/maraisr/postcss-grouper.git",
+    "author": "maraisr",
+    "tags": [
+      "optimizations"
+    ]
   }
 ]
