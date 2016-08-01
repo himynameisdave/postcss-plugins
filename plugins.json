@@ -3457,5 +3457,14 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-responsive-properties",
+    "description": "allows you to write responsive property values.",
+    "url": "https://github.com/alexandr-solovyov/postcss-responsive-properties",
+    "author": "alexandr-solovyov",
+    "tags": [
+      "media-queries"
+    ]
   }
 ]
