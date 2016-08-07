@@ -2512,16 +2512,6 @@
     "stars": 11
   },
   {
-    "name": "css-declaration-sorter",
-    "description": "sorts CSS properties fast and automatically in a certain order.",
-    "url": "https://github.com/Siilwyn/css-declaration-sorter",
-    "tags": [
-      "other"
-    ],
-    "author": "Siilwyn",
-    "stars": 35
-  },
-  {
     "name": "postcss-modules",
     "description": "allows to use CSS Modules everywhere.",
     "url": "https://github.com/outpunk/postcss-modules",
