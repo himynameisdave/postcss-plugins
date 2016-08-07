@@ -3480,10 +3480,19 @@
   {
     "name": "postcss-grouper",
     "description": "A plugin that groups selectors together",
-    "url": "https://github.com/maraisr/postcss-grouper.git",
+    "url": "https://github.com/maraisr/postcss-grouper",
     "author": "maraisr",
     "tags": [
       "optimizations"
+    ]
+  },
+  {
+    "name": "postcss-responsive-properties",
+    "description": "allows you to write responsive property values.",
+    "url": "https://github.com/alexandr-solovyov/postcss-responsive-properties",
+    "author": "alexandr-solovyov",
+    "tags": [
+      "media-queries"
     ]
   }
 ]

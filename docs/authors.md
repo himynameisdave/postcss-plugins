@@ -210,7 +210,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [2createStudio](https://github.com/2createStudio)  |  [`postcss-sprites`](https://github.com/2createStudio/postcss-sprites)
 [justim](https://github.com/justim)  |  [`postcss-svg-fallback`](https://github.com/justim/postcss-svg-fallback)
 [daleeidd](https://github.com/daleeidd)  |  [`postcss-define-property`](https://github.com/daleeidd/postcss-define-property)
-[maraisr](https://github.com/maraisr)  |  [`postcss-grouper`](https://github.com/maraisr/postcss-grouper.git)
+[alexandr-solovyov](https://github.com/alexandr-solovyov)  |  [`postcss-responsive-properties`](https://github.com/alexandr-solovyov/postcss-responsive-properties)
 [jo-asakura](https://github.com/jo-asakura)  |  [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)
 [corysimmons](https://github.com/corysimmons)  |  [`lost`](https://github.com/peterramsing/lost)
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
@@ -331,5 +331,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [VitaliyR](https://github.com/VitaliyR)  |  [`postcss-esplit`](https://github.com/VitaliyR/postcss-esplit)
 [rominmx](https://github.com/rominmx)  |  [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)
 [RyanZim](https://github.com/RyanZim)  |  [`postcss-uncss`](https://github.com/RyanZim/postcss-uncss)
+[maraisr](https://github.com/maraisr)  |  [`postcss-grouper`](https://github.com/maraisr/postcss-grouper)
 [bezoerb](https://github.com/bezoerb)  |  [`postcss-image-inliner`](https://github.com/bezoerb/postcss-image-inliner)
 <!-- END -->
