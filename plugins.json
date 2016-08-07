@@ -3503,5 +3503,15 @@
     "tags": [
       "fallbacks"
     ]
+  },
+  {
+    "name": "postcss-responsify",
+    "description": "to create responsive classes with the @responsive rule.",
+    "url": "https://github.com/derek-duncan/postcss-responsify",
+    "author": "derek-duncan",
+    "tags": [
+      "other",
+      "shortcuts"
+    ]
   }
 ]
