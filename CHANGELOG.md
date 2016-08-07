@@ -1,3 +1,12 @@
+### v1.8.5
+- Adds [`postcss-shared-options`](https://github.com/lexich/postcss-shared-options)
+- Adds [`postcss-randomcolor`](https://github.com/alanev/postcss-randomcolor)
+- Adds [`postcss-grouper`](https://github.com/maraisr/postcss-grouper)
+- Adds [`postcss-responsive-properties`](https://github.com/alexandr-solovyov/postcss-responsive-properties)
+- Adds [`postcss-clip-path-polyfill`](https://github.com/komachi/postcss-clip-path-polyfill)
+- Adds [`postcss-responsify`](https://github.com/derek-duncan/postcss-responsify)
+- Removes double declaration of `css-declaration-sorter`
+
 ### v1.8.4
 - Adds [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)
 - Adds [`postcss-important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)
