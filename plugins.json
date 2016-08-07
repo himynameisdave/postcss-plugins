@@ -3494,5 +3494,14 @@
     "tags": [
       "media-queries"
     ]
+  },
+  {
+    "name": "postcss-clip-path-polyfill",
+    "description": "Adds SVG hack for clip-path property to make it work in Firefox.",
+    "url": "https://github.com/komachi/postcss-clip-path-polyfill",
+    "author": "komachi",
+    "tags": [
+      "fallbacks"
+    ]
   }
 ]
