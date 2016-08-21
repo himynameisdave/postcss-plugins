@@ -3509,5 +3509,14 @@
       "shortcuts"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-critical-css",
+    "description": "that allows you to define and output critical CSS using custom CSS properties.",
+    "url": "https://github.com/zgreen/postcss-critical-css",
+    "author": "zgreen",
+    "tags": [
+      "extensions"
+    ]
   }
 ]

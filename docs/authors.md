@@ -210,7 +210,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [2createStudio](https://github.com/2createStudio)  |  [`postcss-sprites`](https://github.com/2createStudio/postcss-sprites)
 [justim](https://github.com/justim)  |  [`postcss-svg-fallback`](https://github.com/justim/postcss-svg-fallback)
 [daleeidd](https://github.com/daleeidd)  |  [`postcss-define-property`](https://github.com/daleeidd/postcss-define-property)
-[derek-duncan](https://github.com/derek-duncan)  |  [`postcss-responsify`](https://github.com/derek-duncan/postcss-responsify)
+[zgreen](https://github.com/zgreen)  |  [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)
 [jo-asakura](https://github.com/jo-asakura)  |  [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)
 [corysimmons](https://github.com/corysimmons)  |  [`lost`](https://github.com/peterramsing/lost)
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
@@ -333,5 +333,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [RyanZim](https://github.com/RyanZim)  |  [`postcss-uncss`](https://github.com/RyanZim/postcss-uncss)
 [maraisr](https://github.com/maraisr)  |  [`postcss-grouper`](https://github.com/maraisr/postcss-grouper)
 [alexandr-solovyov](https://github.com/alexandr-solovyov)  |  [`postcss-responsive-properties`](https://github.com/alexandr-solovyov/postcss-responsive-properties)
+[derek-duncan](https://github.com/derek-duncan)  |  [`postcss-responsify`](https://github.com/derek-duncan/postcss-responsify)
 [kinday](https://github.com/kinday)  |  [`postcss-axis`](https://github.com/kinday/postcss-axis)
 <!-- END -->
