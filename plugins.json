@@ -3509,5 +3509,15 @@
       "shortcuts"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-dialog-polyfill",
+    "description": "Adds needed selector by dialog-polyfill",
+    "url": "https://github.com/komachi/postcss-dialog-polyfill",
+    "author": "komachi",
+    "tags": [
+      "fallbacks",
+      "future"
+    ]
   }
 ]
