@@ -1,3 +1,7 @@
+### v1.8.6
+- [`postcss-dialog-polyfill`](https://github.com/komachi/postcss-dialog-polyfill)
+- [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)
+
 ### v1.8.5
 - Adds [`postcss-shared-options`](https://github.com/lexich/postcss-shared-options)
 - Adds [`postcss-randomcolor`](https://github.com/alanev/postcss-randomcolor)
