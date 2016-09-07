@@ -3531,5 +3531,14 @@
       "other"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-italian-stylesheets",
+    "description": "for writing Italian Stylesheets",
+    "url": "https://github.com/Pustur/postcss-italian-stylesheets",
+    "author": "Pustur",
+    "tags": [
+      "fun"
+    ]
   }
 ]
