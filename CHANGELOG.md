@@ -1,3 +1,10 @@
+### v1.8.7
+> *(Sept 8th/2016)*
+- [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)
+- [`postcss-debug`](https://github.com/andywer/postcss-debug)
+- [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)
+
+
 ### v1.8.6
 - [`postcss-dialog-polyfill`](https://github.com/komachi/postcss-dialog-polyfill)
 - [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)
