@@ -212,7 +212,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |   [`postcss-gradientfixer`](https://github.com/hallvors/postcss-gradientfixer)
 [justim](https://github.com/justim)  |  [`postcss-svg-fallback`](https://github.com/justim/postcss-svg-fallback)
 [daleeidd](https://github.com/daleeidd)  |  [`postcss-define-property`](https://github.com/daleeidd/postcss-define-property)
-[toomuchdesign](https://github.com/toomuchdesign)  |  [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)
+[Pustur](https://github.com/Pustur)  |  [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)
 [jo-asakura](https://github.com/jo-asakura)  |  [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)
 [corysimmons](https://github.com/corysimmons)  |  [`lost`](https://github.com/peterramsing/lost)
 [vitkarpov](https://github.com/vitkarpov)  |  [`postcss-host`](https://github.com/vitkarpov/postcss-host)
@@ -337,5 +337,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [alexandr-solovyov](https://github.com/alexandr-solovyov)  |  [`postcss-responsive-properties`](https://github.com/alexandr-solovyov/postcss-responsive-properties)
 [derek-duncan](https://github.com/derek-duncan)  |  [`postcss-responsify`](https://github.com/derek-duncan/postcss-responsify)
 [zgreen](https://github.com/zgreen)  |  [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)
+[toomuchdesign](https://github.com/toomuchdesign)  |  [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)
 [OEvgeny](https://github.com/OEvgeny)  |  [`postcss-atroot`](https://github.com/OEvgeny/postcss-atroot)
 <!-- END -->
