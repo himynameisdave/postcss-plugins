@@ -3531,5 +3531,14 @@
       "other"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-nested-ancestors",
+    "description": "to reference any ancestor selector in nested CSS.",
+    "url": "https://github.com/toomuchdesign/postcss-nested-ancestors",
+    "author": "toomuchdesign",
+    "tags": [
+      "extensions"
+    ]
   }
 ]
