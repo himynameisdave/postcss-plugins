@@ -3540,5 +3540,15 @@
     "tags": [
       "extensions"
     ]
+  },
+  {
+    "name": "postcss-debug",
+    "description": "Snapshots your CSS files between transformations and lets you inspect them visually.",
+    "url": "https://github.com/andywer/postcss-debug",
+    "author": "andywer",
+    "tags": [
+      "analysis",
+      "debug"
+    ]
   }
 ]
