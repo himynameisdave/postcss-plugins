@@ -3562,5 +3562,16 @@
       "fun"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-click",
+    "description": "that allows to use the :click pseudo class and implement it in JavaScript",
+    "url": "https://github.com/ismamz/postcss-click",
+    "author": "ismamz",
+    "tags": [
+      "extensions",
+      "fun",
+      "other"
+    ]
   }
 ]
