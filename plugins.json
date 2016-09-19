@@ -3562,5 +3562,15 @@
       "fun"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-colorstring",
+    "description": "to turn any string into a valid color",
+    "url": "https://github.com/keukenrolletje/postcss-colorstring",
+    "author": "keukenrolletje",
+    "tags": [
+      "color",
+      "fun"
+    ]
   }
 ]
