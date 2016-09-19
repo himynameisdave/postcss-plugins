@@ -1,3 +1,7 @@
+### v1.8.8
+- [`postcss-click`](https://github.com/ismamz/postcss-click)
+- [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)
+
 ### v1.8.7
 > *(Sept 8th/2016)*
 - [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)
