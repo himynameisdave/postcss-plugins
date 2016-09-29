@@ -3585,5 +3585,14 @@
       "fun"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-indonesian-stylesheets",
+    "description": "PostCSS Plugin for writing CSS in Indonesian/Bahasa",
+    "url": "https://github.com/ariona/postcss-indonesian-stylesheets",
+    "author": "ariona",
+    "tags": [
+      "fun"
+    ]
   }
 ]
