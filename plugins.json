@@ -3592,6 +3592,7 @@
     "url": "https://github.com/salsita/postcss-inrule",
     "author": "mystrdat",
     "tags": [
+      "extensions",
       "optimizations",
       "other",
       "shortcuts"
