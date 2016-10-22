@@ -216,7 +216,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [whitneyit](https://github.com/whitneyit)  |  [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)
 [jo-asakura](https://github.com/jo-asakura)  |  [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)
 [corysimmons](https://github.com/corysimmons)  |  [`lost`](https://github.com/peterramsing/lost)
-[keukenrolletje](https://github.com/keukenrolletje)  |  [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)
+[mystrdat](https://github.com/mystrdat)  |  [`postcss-inrule`](https://github.com/salsita/postcss-inrule)
 [AoDev](https://github.com/AoDev)  |  [`css-byebye`](https://github.com/AoDev/css-byebye)
 [geddski](https://github.com/geddski)  |  [`csstyle`](https://github.com/geddski/csstyle)
 [axa-ch](https://github.com/axa-ch)  |  [`postcss-pseudoelements`](https://github.com/axa-ch/postcss-pseudoelements)
@@ -340,5 +340,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [zgreen](https://github.com/zgreen)  |  [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)
 [toomuchdesign](https://github.com/toomuchdesign)  |  [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)
 [Pustur](https://github.com/Pustur)  |  [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)
+[keukenrolletje](https://github.com/keukenrolletje)  |  [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)
 [rsanchez](https://github.com/rsanchez)  |  [`postcss-colors-only`](https://github.com/rsanchez/postcss-colors-only)
 <!-- END -->

@@ -3585,5 +3585,16 @@
       "fun"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-inrule",
+    "description": "that allows parent element modifications without escaping the context.",
+    "url": "https://github.com/salsita/postcss-inrule",
+    "author": "mystrdat",
+    "tags": [
+      "optimizations",
+      "other",
+      "shortcuts"
+    ]
   }
 ]
