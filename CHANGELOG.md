@@ -1,17 +1,23 @@
+### v1.8.9
+- Adds [`postcss-indonesian-stylesheets`](https://github.com/ariona/postcss-indonesian-stylesheets)
+- Adds [`postcss-flexible`](https://github.com/crossjs/postcss-flexible)
+- Adds [`postcss-topdoc`](https://github.com/GarthDB/postcss-topdoc)
+- Adds [`postcss-rgrid`](https://github.com/frm-adiputra/postcss-rgrid)
+- Adds [`postcss-inrule`](https://github.com/salsita/postcss-inrule)
+
 ### v1.8.8
-- [`postcss-click`](https://github.com/ismamz/postcss-click)
-- [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)
+- Adds [`postcss-click`](https://github.com/ismamz/postcss-click)
+- Adds [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)
 
 ### v1.8.7
-> *(Sept 8th/2016)*
-- [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)
-- [`postcss-debug`](https://github.com/andywer/postcss-debug)
-- [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)
+- Adds [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)
+- Adds [`postcss-debug`](https://github.com/andywer/postcss-debug)
+- Adds [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)
 
 
 ### v1.8.6
-- [`postcss-dialog-polyfill`](https://github.com/komachi/postcss-dialog-polyfill)
-- [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)
+- Adds [`postcss-dialog-polyfill`](https://github.com/komachi/postcss-dialog-polyfill)
+- Adds [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)
 
 ### v1.8.5
 - Adds [`postcss-shared-options`](https://github.com/lexich/postcss-shared-options)
