@@ -216,7 +216,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [whitneyit](https://github.com/whitneyit)  |  [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)
 [jo-asakura](https://github.com/jo-asakura)  |  [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)
 [corysimmons](https://github.com/corysimmons)  |  [`lost`](https://github.com/peterramsing/lost)
-[frm-adiputra](https://github.com/frm-adiputra)  |  [`RGrid`](https://github.com/frm-adiputra/postcss-rgrid)
+[mystrdat](https://github.com/mystrdat)  |  [`postcss-inrule`](https://github.com/salsita/postcss-inrule)
 [AoDev](https://github.com/AoDev)  |  [`css-byebye`](https://github.com/AoDev/css-byebye)
 [geddski](https://github.com/geddski)  |  [`csstyle`](https://github.com/geddski/csstyle)
 [axa-ch](https://github.com/axa-ch)  |  [`postcss-pseudoelements`](https://github.com/axa-ch/postcss-pseudoelements)
@@ -344,5 +344,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [ariona](https://github.com/ariona)  |  [`postcss-indonesian-stylesheets`](https://github.com/ariona/postcss-indonesian-stylesheets)
 [crossjs](https://github.com/crossjs)  |  [`postcss-flexible`](https://github.com/crossjs/postcss-flexible)
 [garthdb](https://github.com/garthdb)  |  [`postcss-topdoc`](https://github.com/GarthDB/postcss-topdoc)
+[frm-adiputra](https://github.com/frm-adiputra)  |  [`RGrid`](https://github.com/frm-adiputra/postcss-rgrid)
 [XOP](https://github.com/XOP)  |  [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)
 <!-- END -->
