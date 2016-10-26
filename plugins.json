@@ -3622,5 +3622,17 @@
     "tags": [
       "grids"
     ]
+  },
+  {
+    "name": "postcss-inrule",
+    "description": "that allows parent element modifications without escaping the context.",
+    "url": "https://github.com/salsita/postcss-inrule",
+    "author": "mystrdat",
+    "tags": [
+      "extensions",
+      "optimizations",
+      "other",
+      "shortcuts"
+    ]
   }
 ]
