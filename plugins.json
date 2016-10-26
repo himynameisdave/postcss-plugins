@@ -3594,5 +3594,16 @@
     "tags": [
       "fun"
     ]
+  },
+  {
+    "name": "postcss-flexible",
+    "description": "url/dpr/rem transformer for flexible",
+    "url": "https://github.com/crossjs/postcss-flexible",
+    "author": "crossjs",
+    "tags": [
+      "extensions",
+      "images",
+      "other"
+    ]
   }
 ]
