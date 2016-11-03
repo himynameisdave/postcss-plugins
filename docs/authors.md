@@ -211,7 +211,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |   [`postcss-longshadow-text`](https://github.com/dangvanthanh/postcss-longshadow-text)
 [kolcethompsonco](https://github.com/kolcethompsonco)   |   [`postcss-lh`](https://github.com/kolcethompsonco/postcss-lh)
    |   [`postcss-pr`](https://github.com/kolcethompsonco/postcss-pr)
-[justim](https://github.com/justim)  |  [`postcss-svg-fallback`](https://github.com/justim/postcss-svg-fallback)
+[garthdb](https://github.com/garthdb)   |   [`postcss-topdoc`](https://github.com/GarthDB/postcss-topdoc)
+   |   [`postcss-inherit`](https://github.com/GarthDB/postcss-inherit)
 [WolfgangKluge](https://github.com/WolfgangKluge)  |  [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)
 [whitneyit](https://github.com/whitneyit)  |  [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)
 [jo-asakura](https://github.com/jo-asakura)  |  [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)
@@ -343,7 +344,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [keukenrolletje](https://github.com/keukenrolletje)  |  [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)
 [ariona](https://github.com/ariona)  |  [`postcss-indonesian-stylesheets`](https://github.com/ariona/postcss-indonesian-stylesheets)
 [crossjs](https://github.com/crossjs)  |  [`postcss-flexible`](https://github.com/crossjs/postcss-flexible)
-[garthdb](https://github.com/garthdb)  |  [`postcss-topdoc`](https://github.com/GarthDB/postcss-topdoc)
+[justim](https://github.com/justim)  |  [`postcss-svg-fallback`](https://github.com/justim/postcss-svg-fallback)
 [frm-adiputra](https://github.com/frm-adiputra)  |  [`RGrid`](https://github.com/frm-adiputra/postcss-rgrid)
 [XOP](https://github.com/XOP)  |  [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)
 <!-- END -->
