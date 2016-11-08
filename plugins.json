@@ -3639,5 +3639,15 @@
       "shortcuts"
     ],
     "stars": 3
+  },
+  {
+    "name": "postcss-random",
+    "description": "...to generate random numbers based on random seeds using `random()` function.",
+    "url": "https://github.com/git-slim/postcss-random",
+    "author": "git-slim",
+    "tags": [
+      "other",
+      "shortcuts"
+    ]
   }
 ]
