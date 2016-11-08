@@ -3649,5 +3649,14 @@
       "other",
       "shortcuts"
     ]
+  },
+  {
+    "name": "postcss-lazyimagecss",
+    "description": "generates images's CSS width & height properties automatically",
+    "url": "https://github.com/Jeff2Ma/postcss-lazyimagecss",
+    "author": "Jeff2Ma",
+    "tags": [
+      "images"
+    ]
   }
 ]
