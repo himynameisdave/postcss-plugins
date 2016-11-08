@@ -3658,5 +3658,14 @@
     "tags": [
       "images"
     ]
+  },
+  {
+    "name": "postcss-inherit",
+    "description": " Allows you to inherit all the rules associated with a given selector.",
+    "url": "https://github.com/GarthDB/postcss-inherit",
+    "author": "garthdb",
+    "tags": [
+      "extensions"
+    ]
   }
 ]
