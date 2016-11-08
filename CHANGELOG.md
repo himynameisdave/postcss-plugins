@@ -1,3 +1,8 @@
+### v1.8.10
+- Adds [`postcss-random`](https://github.com/git-slim/postcss-random)
+- Adds [`postcss-lazyimagecss`](https://github.com/Jeff2Ma/postcss-lazyimagecss)
+- Adds [`postcss-inherit`](https://github.com/GarthDB/postcss-inherit)
+
 ### v1.8.9
 - Adds [`postcss-indonesian-stylesheets`](https://github.com/ariona/postcss-indonesian-stylesheets)
 - Adds [`postcss-flexible`](https://github.com/crossjs/postcss-flexible)
