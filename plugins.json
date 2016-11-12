@@ -3670,5 +3670,14 @@
       "extensions"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-process-comments",
+    "description": "Enables the simple processing of CSS comments",
+    "url": "https://github.com/zephraph/postcss-process-comments",
+    "author": "zephraph",
+    "tags": [
+      "other"
+    ]
   }
 ]
