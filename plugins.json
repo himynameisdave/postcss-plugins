@@ -3670,5 +3670,15 @@
       "extensions"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-responsive-font",
+    "description": "PostCSS plugin that makes responsive fonts super easy!",
+    "url": "https://github.com/ccurtin/postcss-responsive-font",
+    "author": "ccurtin",
+    "tags": [
+      "fonts",
+      "media-queries"
+    ]
   }
 ]
