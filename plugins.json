@@ -3670,5 +3670,14 @@
       "extensions"
     ],
     "stars": 2
+  },
+  {
+    "name": "grid-kiss",
+    "description": "transforms ASCII-art grids into CSS Grid layout.",
+    "url": "https://github.com/sylvainpolletvillard/postcss-plugins",
+    "author": "sylvainpolletvillard",
+    "tags": [
+      "grids"
+    ]
   }
 ]

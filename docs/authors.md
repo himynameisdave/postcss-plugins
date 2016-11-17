@@ -349,4 +349,5 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [mystrdat](https://github.com/mystrdat)  |  [`postcss-inrule`](https://github.com/salsita/postcss-inrule)
 [git-slim](https://github.com/git-slim)  |  [`postcss-random`](https://github.com/git-slim/postcss-random)
 [bameda](https://github.com/bameda)  |  [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)
+[sylvainpolletvillard](https://github.com/sylvainpolletvillard)  |  [`grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)
 <!-- END -->
