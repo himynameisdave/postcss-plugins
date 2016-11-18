@@ -3670,5 +3670,15 @@
       "extensions"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-typography",
+    "description": "for typography.js",
+    "url": "https://github.com/BarryThePenguin/postcss-typography",
+    "author": "BarryThePenguin",
+    "tags": [
+      "fonts",
+      "shortcuts"
+    ]
   }
 ]
