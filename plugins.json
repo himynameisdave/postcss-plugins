@@ -3679,5 +3679,14 @@
     "tags": [
       "other"
     ]
+  },
+  {
+    "name": "postcss-baseline-grid-overlay",
+    "description": "to check vertical rhythm by using a baseline grid overlay created with the linear-gradient function.",
+    "url": "https://github.com/andrasna/postcss-baseline-grid-overlay",
+    "author": "andrasna",
+    "tags": [
+      "other"
+    ]
   }
 ]
