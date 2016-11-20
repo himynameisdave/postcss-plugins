@@ -1,3 +1,9 @@
+### v1.8.11
+- Adds [`postcss-process-comments`](https://github.com/zephraph/postcss-process-comments)
+- Adds [`postcss-baseline-grid-overlay`](https://github.com/andrasna/postcss-baseline-grid-overlay)
+- Adds [`postcss-responsive-font`](https://github.com/ccurtin/postcss-responsive-font)
+- Adds [`postcss-typography`](https://github.com/BarryThePenguin/postcss-typography)
+
 ### v1.8.10
 - Adds [`postcss-random`](https://github.com/git-slim/postcss-random)
 - Adds [`postcss-lazyimagecss`](https://github.com/Jeff2Ma/postcss-lazyimagecss)
@@ -18,7 +24,6 @@
 - Adds [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)
 - Adds [`postcss-debug`](https://github.com/andywer/postcss-debug)
 - Adds [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)
-
 
 ### v1.8.6
 - Adds [`postcss-dialog-polyfill`](https://github.com/komachi/postcss-dialog-polyfill)
