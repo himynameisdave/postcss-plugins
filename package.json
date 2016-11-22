@@ -35,5 +35,12 @@
     "inquirer": "^0.10.0",
     "moment": "^2.10.6",
     "octonode": "^0.7.4"
+  },
+  "devDependencies": {
+    "eslint": "^3.1.1",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.11.1",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "eslint-plugin-react": "^5.2.2"
   }
 }
