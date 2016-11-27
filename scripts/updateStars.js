@@ -18,7 +18,7 @@ plugins.map((plug, i) => (
       logProgress(getProgress(numberOfPluginsCompleted, plugins.length));
       //  We know that we're done if we just completed the last plugin
       if (numberOfPluginsCompleted > plugins.length - 1) {
-        writePlugins(updatedPlugins)
+        writePlugins(updatedPlugins, 'plugins.json')
           .then(msg => console.log(`\n${msg}\n`))
           .catch(e => console.warn(`\n${e}\n`));
       }

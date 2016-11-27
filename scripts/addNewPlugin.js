@@ -23,7 +23,7 @@ console.log(require('./data/banner'));
         return addNewPlugin();
       }
       //  If we don't need to add a plugin, write the list of updated plugins
-      return writePlugins(updatedPlugins);
+      return writePlugins(updatedPlugins, 'plugins.json');
     })
     .catch(console.warn);
 }());
