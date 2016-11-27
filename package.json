@@ -14,7 +14,7 @@
     "add": "node scripts/addNewPlugin.js && node scripts/updateAuthors.js",
     "add-new-plugin": "node scripts/addNewPlugin.js",
     "update-authors": "node scripts/updateAuthors.js",
-    "update-stars": "node scripts/updateStars.js",
+    "update-stars": "node scripts/updateStars.js && node scripts/updateAuthors.js",
     "test": "mocha test"
   },
   "dependencies": {

@@ -5,7 +5,7 @@ const timeLogLabel = '\nAuthors list sucessfully updated in only'
 const textBlock = '### Authors\n\n'
                   + 'Below is a list of all the wonderful people who make PostCSS plugins.\n\n'
                   + '**Author**   |   **Plugin(s)**   |   **Stars**\n'
-                  + '---|---\n';
+                  + '---|---|---\n';
 
 const sortFunction = (a, b) => {
   if (a.plugins.length < b.plugins.length) {
