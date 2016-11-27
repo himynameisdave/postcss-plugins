@@ -1,6 +1,4 @@
 *.DS_Store
 /node_modules/
 token.json
-/scripts/addNewPlugin.js
-/scripts/getAuthors.js
 npm-debug.log

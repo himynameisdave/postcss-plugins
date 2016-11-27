@@ -1,57 +1,44 @@
-/**
- * Updates the authors in plugins.json && docs/authors
- */
-(function(){
+const fs = require('fs');
+const path = require('path');
+const plugins = require('../plugins.json');
+const timeLogLabel = '\nAuthors list sucessfully updated in only'
+const textBlock = '### Authors\n\n'
+                  + 'Below is a list of all the wonderful people who make PostCSS plugins.\n\n'
+                  + '**Author**   |   **Plugin(s)**   |   **Stars**\n'
+                  + '---|---|---\n';
 
-  var fs        = require("fs"),
-      authorsMD = fs.readFileSync("docs/authors.md", "utf8"),
-      plugins   = require("../plugins.json"),
-      start     = authorsMD.indexOf("<!-- START -->"),
-      end       = authorsMD.indexOf("<!-- END -->"),
-      authors   = require("./getAuthors")(),
+const sortFunction = (a, b) => {
+  if (a.plugins.length < b.plugins.length) {
+    return 1;
+  } else if (a.plugins.length > b.plugins.length) {
+    return -1;
+  } else if (a.plugins.length === b.plugins.length) {
+    if (a.author.toLowerCase() > b.author.toLowerCase()) {
+      return 1;
+    } else if (a.author.toLowerCase() < b.author.toLowerCase()) {
+      return -1;
+    }
+    return 0;
+  }
+  return 0;
+};
 
-      generateAuthorsTable = function( authList ){
-        var authTable = "<!-- START -->\n**Author**  |   **Plugin(s)**\n---|---\n";
+console.time(timeLogLabel);
+const authors = plugins.reduce((acc, i) => {
+  const newPlugin = `   |    [\`${i.name}\`](${i.url})   |   ${i.stars || 0}\n`;
+  const currentAuthor = acc.filter(a => a.author === i.author);
+  if (currentAuthor.length === 0) {
+    acc.push({ author: i.author, plugins: [newPlugin] });
+  } else {
+    currentAuthor[0].plugins.push(newPlugin);
+  }
+  return acc;
+}, [])
+.sort(sortFunction)
+.reduce((acc, i) => `${acc}[${i.author}](https://github.com/${i.author})${i.plugins.join('')}`, textBlock);
 
-        authList.forEach( function( auth ){
-          authTable += "["+auth.name+"](https://github.com/"+auth.name+")";
-          if( auth.plugins.length === 1 ){
-            authTable += "  |  [`"+auth.plugins[0].name+"`]("+auth.plugins[0].url+")\n"
-          }else{
-            auth.plugins.forEach(function(plug){
-              authTable += "   |   [`"+plug.name+"`]("+plug.url+")\n";
-            });
-          }
-        });
-        authTable += "<!-- END -->";
-        return authTable;
-      };
-
-//  CLEANUP PLUGINS:
-//  THIS SHOULD BE ITS OWN THING
-      var newPlugins = plugins.map(function(plug){
-        var withAuth = plug;
-            withAuth.author = plug.url.split("/")[3];
-        //  the third element is going to be the user
-        return withAuth;
-      });
-
-      //  write the plugins.json
-      fs.writeFile( "plugins.json", JSON.stringify( newPlugins, null, 2 ), function(err){
-        if(err) throw err;
-        console.log("Authors updated in plugins.json");
-      });
-
-//  CLEANUP
-      //    1. clear the old
-      authorsMD = authorsMD.replace(authorsMD.substr( start, end ), "");
-      //    2. add the new
-      authorsMD += generateAuthorsTable(authors);
-
-      //  write the new markdown file
-      fs.writeFile( "docs/authors.md", authorsMD, function(err){
-        if(err) throw err;
-        console.log("Authors list has sucessfully been updated!");
-      });
-
-})();
+//  Actually write the authors.md file
+fs.writeFile(path.join(process.cwd(), 'docs/authors.md'), authors, oops => {
+  if (oops) throw oops;
+  console.timeEnd(timeLogLabel);
+});

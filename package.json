@@ -1,6 +1,6 @@
 {
   "name": "postcss-plugins",
-  "version": "1.8.11",
+  "version": "1.9.0",
   "description": "A consolidated list of PostCSS plugins in an ready-to-use format.",
   "main": "index.js",
   "repository": {
@@ -8,7 +8,29 @@
     "url": "git+https://github.com/himynameisdave/postcss-plugins.git"
   },
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.0.0"
+  },
+  "scripts": {
+    "add": "node scripts/addNewPlugin.js && node scripts/updateAuthors.js",
+    "add-new-plugin": "node scripts/addNewPlugin.js",
+    "update-authors": "node scripts/updateAuthors.js",
+    "update-stars": "node scripts/updateStars.js && node scripts/updateAuthors.js",
+    "test": "mocha test"
+  },
+  "dependencies": {
+    "chalk": "^1.1.1",
+    "inquirer": "^1.2.3",
+    "octonode": "^0.7.4"
+  },
+  "devDependencies": {
+    "babel-eslint": "^6.1.2",
+    "chai": "^3.5.0",
+    "eslint": "^3.11.0",
+    "eslint-config-airbnb": "^9.0.1",
+    "eslint-plugin-import": "^1.11.1",
+    "eslint-plugin-jsx-a11y": "^2.0.1",
+    "eslint-plugin-react": "^5.2.2",
+    "mocha": "^3.2.0"
   },
   "keywords": [
     "postcss",
@@ -18,22 +40,10 @@
     "library",
     "plugins"
   ],
-  "author": "Dave Lunny",
-  "license": "MIT",
+  "homepage": "https://github.com/himynameisdave/postcss-plugins#readme",
   "bugs": {
     "url": "https://github.com/himynameisdave/postcss-plugins/issues"
   },
-  "homepage": "https://github.com/himynameisdave/postcss-plugins#readme",
-  "scripts": {
-    "add": "npm run add-new-plugin && npm run update-authors",
-    "add-new-plugin": "node scripts/add-new-plugin.js",
-    "update-authors": "node scripts/update-authors.js",
-    "update-gh-stars": "node scripts/update-gh-stars.js"
-  },
-  "dependencies": {
-    "chalk": "^1.1.1",
-    "inquirer": "^0.10.0",
-    "moment": "^2.10.6",
-    "octonode": "^0.7.4"
-  }
+  "author": "himynameisdave",
+  "license": "MIT"
 }
