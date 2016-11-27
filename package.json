@@ -14,7 +14,8 @@
     "add": "node scripts/addNewPlugin.js && node scripts/updateAuthors.js",
     "add-new-plugin": "node scripts/addNewPlugin.js",
     "update-authors": "node scripts/updateAuthors.js",
-    "update-stars": "node scripts/updateStars.js"
+    "update-stars": "node scripts/updateStars.js",
+    "test": "mocha test"
   },
   "dependencies": {
     "chalk": "^1.1.1",
@@ -24,11 +25,13 @@
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
+    "chai": "^3.5.0",
     "eslint": "^3.11.0",
     "eslint-config-airbnb": "^9.0.1",
     "eslint-plugin-import": "^1.11.1",
     "eslint-plugin-jsx-a11y": "^2.0.1",
-    "eslint-plugin-react": "^5.2.2"
+    "eslint-plugin-react": "^5.2.2",
+    "mocha": "^3.2.0"
   },
   "keywords": [
     "postcss",
