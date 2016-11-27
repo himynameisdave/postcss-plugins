@@ -1,8 +1,8 @@
 const plugins = require('../plugins.json');
-const getProgress = require('./utils/_getProgressPercentage.js');
-const logProgress = require('./utils/_logProgress.js');
-const writePlugins = require('./utils/_writePlugins.js');
-const fetchGithubStars = require('./utils/_fetchGithubStars.js');
+const logProgress = require('./utils/logProgress.js');
+const getProgress = require('./utils/getProgressPercentage.js');
+const writePlugins = require('./utils/writePlugins.js');
+const fetchGithubStars = require('./utils/fetchGithubStars.js');
 
 let numberOfPluginsCompleted = 0; // Used to track progress
 const updatedPlugins = plugins; // Copy of plugins so as not to mutate the originals
