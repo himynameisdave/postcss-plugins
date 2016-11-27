@@ -333,6 +333,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [stehefan](https://github.com/stehefan)   |    [`postcss-env-replace`](https://github.com/stehefan/postcss-env-replace)   |   4
 [stylelint](https://github.com/stylelint)   |    [`stylelint`](https://github.com/stylelint/stylelint)   |   2506
 [sylvainbaronnet](https://github.com/sylvainbaronnet)   |    [`postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)   |   2
+[sylvainpolletvillard](https://github.com/sylvainpolletvillard)   |    [`grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)   |   0
 [talgautb](https://github.com/talgautb)   |    [`postcss-currency`](https://github.com/talgautb/postcss-currency)   |   10
 [TCotton](https://github.com/TCotton)   |    [`postcss-mq-keyframes`](https://github.com/TCotton/postcss-mq-keyframes)   |   2
 [thompsongl](https://github.com/thompsongl)   |    [`postcss-class-prefix`](https://github.com/thompsongl/postcss-class-prefix)   |   51
