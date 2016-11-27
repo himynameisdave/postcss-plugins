@@ -8,22 +8,8 @@
     "url": "git+https://github.com/himynameisdave/postcss-plugins.git"
   },
   "engines": {
-    "node": ">=4.0.0"
+    "node": ">=6.0.0"
   },
-  "keywords": [
-    "postcss",
-    "postcss-plugin",
-    "css",
-    "list",
-    "library",
-    "plugins"
-  ],
-  "author": "Dave Lunny",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/himynameisdave/postcss-plugins/issues"
-  },
-  "homepage": "https://github.com/himynameisdave/postcss-plugins#readme",
   "scripts": {
     "add": "npm run add-new-plugin && npm run update-authors",
     "add-new-plugin": "node scripts/add-new-plugin.js",
@@ -37,10 +23,25 @@
     "octonode": "^0.7.4"
   },
   "devDependencies": {
-    "eslint": "^3.1.1",
+    "babel-eslint": "^6.1.2",
+    "eslint": "^3.11.0",
     "eslint-config-airbnb": "^9.0.1",
     "eslint-plugin-import": "^1.11.1",
     "eslint-plugin-jsx-a11y": "^2.0.1",
     "eslint-plugin-react": "^5.2.2"
-  }
+  },
+  "keywords": [
+    "postcss",
+    "postcss-plugin",
+    "css",
+    "list",
+    "library",
+    "plugins"
+  ],
+  "homepage": "https://github.com/himynameisdave/postcss-plugins#readme",
+  "bugs": {
+    "url": "https://github.com/himynameisdave/postcss-plugins/issues"
+  },
+  "author": "himynameisdave",
+  "license": "MIT"
 }

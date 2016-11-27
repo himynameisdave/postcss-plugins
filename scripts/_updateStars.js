@@ -1,7 +1,7 @@
 const plugins = require('../plugins.json');
-const writePlugins = require('./utils/write-plugins');
 const getProgress = require('./utils/_getProgressPercentage.js');
 const logProgress = require('./utils/_logProgress.js');
+const writePlugins = require('./utils/_writePlugins.js');
 const fetchGithubStars = require('./utils/_fetchGithubStars.js');
 
 let numberOfPluginsCompleted = 0; // Used to track progress
@@ -18,7 +18,7 @@ plugins.map((plug, i) => (
       logProgress(getProgress(numberOfPluginsCompleted, plugins.length));
       //  We know that we're done if we just completed the last plugin
       if (numberOfPluginsCompleted > plugins.length - 1) {
-        writePlugins('plugins.json', updatedPlugins)
+        writePlugins(updatedPlugins)
           .then(msg => console.log(`\n${msg}\n`))
           .catch(e => console.warn(`\n${e}\n`));
       }
