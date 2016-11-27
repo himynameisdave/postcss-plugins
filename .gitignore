@@ -2,3 +2,4 @@
 /node_modules/
 token.json
 npm-debug.log
+test/.tmp/**

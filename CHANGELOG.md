@@ -3,6 +3,7 @@
 - `addNewPlugin` will now add a `"stars": 0` when adding a new plugin to make merges easier
 - `updateAuthors` is much more efficient, sorts by number of plugins then alphabetically by name (making merges easier)
 - Adds [`postcss-resemble-image`](https://github.com/ben-eb/postcss-resemble-image)
+- Adds [`postcss-grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)
 
 ### v1.8.11
 - Adds [`postcss-process-comments`](https://github.com/zephraph/postcss-process-comments)
