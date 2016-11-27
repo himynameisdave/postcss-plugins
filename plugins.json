@@ -466,7 +466,7 @@
       "sass"
     ],
     "author": "postcss",
-    "stars": 168
+    "stars": 169
   },
   {
     "name": "postcss-media-variables",
@@ -887,7 +887,7 @@
       "grids"
     ],
     "author": "corysimmons",
-    "stars": 3252
+    "stars": 3251
   },
   {
     "name": "postcss-calc",
@@ -1758,7 +1758,7 @@
       "color"
     ],
     "author": "SlexAxton",
-    "stars": 2221
+    "stars": 2222
   },
   {
     "name": "postcss-unique-selectors",
@@ -3732,6 +3732,6 @@
     "tags": [
       "grids"
     ],
-    "stars": 0
+    "stars": 302
   }
 ]
