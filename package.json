@@ -11,7 +11,7 @@
     "node": ">=6.0.0"
   },
   "scripts": {
-    "add": "npm run add-new-plugin && npm run update-authors",
+    "add": "node scripts/addNewPlugin.js && node scripts/updateAuthors.js",
     "add-new-plugin": "node scripts/addNewPlugin.js",
     "update-authors": "node scripts/updateAuthors.js",
     "update-stars": "node scripts/updateStars.js"

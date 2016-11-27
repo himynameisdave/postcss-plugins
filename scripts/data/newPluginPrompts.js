@@ -1,7 +1,7 @@
 const { red } = require('chalk');
 const tags = require('./tags.js');
 const plugins = require('../../plugins.json');
-const tagChoices = tags.getTags().map((tag) => ({ name: tag }));
+const tagChoices = tags.getTags();
 
 
 module.exports = [{

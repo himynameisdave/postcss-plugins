@@ -1,6 +1,7 @@
 const fs = require('fs');
 const path = require('path');
 const plugins = require('../plugins.json');
+const timeLogLabel = '\nAuthors list sucessfully updated in only'
 const textBlock = '### Authors\n\n'
                   + 'Below is a list of all the wonderful people who make PostCSS plugins.\n\n'
                   + '**Author**   |   **Plugin(s)**   |   **Stars**\n'
@@ -22,7 +23,7 @@ const sortFunction = (a, b) => {
   return 0;
 };
 
-console.time(`Authors list has sucessfully been updated!\nTook ya only`);
+console.time(timeLogLabel);
 const authors = plugins.reduce((acc, i) => {
   const newPlugin = `   |    [\`${i.name}\`](${i.url})   |   ${i.stars || 0}\n`;
   const currentAuthor = acc.filter(a => a.author === i.author);
@@ -39,5 +40,5 @@ const authors = plugins.reduce((acc, i) => {
 //  Actually write the authors.md file
 fs.writeFile(path.join(process.cwd(), 'docs/authors.md'), authors, oops => {
   if (oops) throw oops;
-  console.timeEnd(`Authors list has sucessfully been updated!\nTook ya only`);
+  console.timeEnd(timeLogLabel);
 });

@@ -60,6 +60,10 @@ module.exports = {
       description: 'does something involving SVG'
     }
   ],
-  getTags: () => this.rawList.map(tag => tag.tag),
-  getDescriptions: () => this.rawList.map(tag => tag.description)
+  getTags() {
+    return this.rawList.map(tag => tag.tag);
+  },
+  getDescriptions() {
+    return this.rawList.map(tag => tag.description);
+  }
 };
