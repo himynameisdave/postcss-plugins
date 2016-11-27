@@ -1,3 +1,9 @@
+## v1.9.0
+- Removes a lot of cruft in the `/scripts` directory
+- `addNewPlugin` will now add a `"stars": 0` when adding a new plugin to make merges easier
+- `updateAuthors` is much more efficient, sorts by number of plugins then alphabetically by name (making merges easier)
+- Adds [`postcss-resemble-image`](https://github.com/ben-eb/postcss-resemble-image)
+
 ### v1.8.11
 - Adds [`postcss-process-comments`](https://github.com/zephraph/postcss-process-comments)
 - Adds [`postcss-baseline-grid-overlay`](https://github.com/andrasna/postcss-baseline-grid-overlay)
