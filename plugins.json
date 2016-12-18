@@ -3733,5 +3733,16 @@
       "grids"
     ],
     "stars": 302
+  },
+  {
+    "name": "postcss-rotate-unit",
+    "description": "to add a default unit to your `rotate()` values",
+    "author": "SlimMarten",
+    "url": "https://github.com/SlimMarten/postcss-rotate-unit",
+    "tags": [
+      "debug",
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
