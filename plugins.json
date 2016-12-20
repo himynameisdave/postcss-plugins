@@ -3733,5 +3733,16 @@
       "grids"
     ],
     "stars": 302
+  },
+  {
+    "name": "postcss-content-entity",
+    "description": "PostCSS plugin that allows to use html entities inside css content property. ",
+    "author": "komarnitskyi",
+    "url": "https://github.com/komarnitskyi/postcss-content-entity",
+    "tags": [
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
