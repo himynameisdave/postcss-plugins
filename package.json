@@ -1,6 +1,6 @@
 {
   "name": "postcss-plugins",
-  "version": "1.9.0",
+  "version": "1.9.1",
   "description": "A consolidated list of PostCSS plugins in an ready-to-use format.",
   "main": "index.js",
   "repository": {
@@ -20,16 +20,15 @@
   "dependencies": {
     "chalk": "^1.1.1",
     "inquirer": "^1.2.3",
-    "octonode": "^0.7.4"
+    "octonode": "^0.7.8"
   },
   "devDependencies": {
     "babel-eslint": "^6.1.2",
     "chai": "^3.5.0",
-    "eslint": "^3.11.0",
+    "eslint": "^3.14.0",
     "eslint-config-airbnb": "^9.0.1",
-    "eslint-plugin-import": "^1.11.1",
-    "eslint-plugin-jsx-a11y": "^2.0.1",
-    "eslint-plugin-react": "^5.2.2",
+    "eslint-config-airbnb-base": "^11.0.1",
+    "eslint-plugin-import": "^2.2.0",
     "mocha": "^3.2.0"
   },
   "keywords": [
