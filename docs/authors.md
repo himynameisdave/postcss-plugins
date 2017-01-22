@@ -288,6 +288,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [kezzbracey](https://github.com/kezzbracey)   |    [`postcss-bem`](https://github.com/kezzbracey/postcss-bem)   |   6
 [kilian](https://github.com/kilian)   |    [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)   |   2
 [kinday](https://github.com/kinday)   |    [`postcss-axis`](https://github.com/kinday/postcss-axis)   |   5
+[komarnitskyi](https://github.com/komarnitskyi)   |    [`postcss-content-entity`](https://github.com/komarnitskyi/postcss-content-entity)   |   0
 [komlev](https://github.com/komlev)   |    [`postcss-current-selector`](https://github.com/komlev/postcss-current-selector)   |   5
 [lahmatiy](https://github.com/lahmatiy)   |    [`postcss-csso`](https://github.com/lahmatiy/postcss-csso)   |   39
 [laureanoarcanio](https://github.com/laureanoarcanio)   |    [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)   |   13

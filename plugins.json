@@ -3742,6 +3742,17 @@
     "tags": [
       "other"
     ],
-    "stars": 12
+    "stars": 12 
+  }
+  {
+    "name": "postcss-content-entity",
+    "description": "PostCSS plugin that allows to use html entities inside css content property. ",
+    "author": "komarnitskyi",
+    "url": "https://github.com/komarnitskyi/postcss-content-entity",
+    "tags": [
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
