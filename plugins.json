@@ -3754,5 +3754,15 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-define-function",
+    "description": "'PostCSS plugin for Sass-like function directive'",
+    "author": "titancat",
+    "url": "https://github.com/titancat/postcss-define-function",
+    "tags": [
+      "sass"
+    ],
+    "stars": 2
   }
 ]

@@ -339,6 +339,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [TCotton](https://github.com/TCotton)   |    [`postcss-mq-keyframes`](https://github.com/TCotton/postcss-mq-keyframes)   |   2
 [thompsongl](https://github.com/thompsongl)   |    [`postcss-class-prefix`](https://github.com/thompsongl/postcss-class-prefix)   |   51
 [timche](https://github.com/timche)   |    [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)   |   32
+[titancat](https://github.com/titancat)   |    [`postcss-define-function`](https://github.com/titancat/postcss-define-function)   |   0
 [toomuchdesign](https://github.com/toomuchdesign)   |    [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)   |   17
 [totora0155](https://github.com/totora0155)   |    [`postcss-namespace`](https://github.com/totora0155/postcss-namespace)   |   10
 [troch](https://github.com/troch)   |    [`postcss-responsive-values`](https://github.com/troch/postcss-responsive-values)   |   1
