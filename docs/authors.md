@@ -288,6 +288,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [kezzbracey](https://github.com/kezzbracey)   |    [`postcss-bem`](https://github.com/kezzbracey/postcss-bem)   |   6
 [kilian](https://github.com/kilian)   |    [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)   |   2
 [kinday](https://github.com/kinday)   |    [`postcss-axis`](https://github.com/kinday/postcss-axis)   |   5
+[komarnitskyi](https://github.com/komarnitskyi)   |    [`postcss-content-entity`](https://github.com/komarnitskyi/postcss-content-entity)   |   0
 [komlev](https://github.com/komlev)   |    [`postcss-current-selector`](https://github.com/komlev/postcss-current-selector)   |   5
 [lahmatiy](https://github.com/lahmatiy)   |    [`postcss-csso`](https://github.com/lahmatiy/postcss-csso)   |   39
 [laureanoarcanio](https://github.com/laureanoarcanio)   |    [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)   |   13
@@ -347,6 +348,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [unlight](https://github.com/unlight)   |    [`postcss-import-url`](https://github.com/unlight/postcss-import-url)   |   6
 [VitaliyR](https://github.com/VitaliyR)   |    [`postcss-esplit`](https://github.com/VitaliyR/postcss-esplit)   |   9
 [vitkarpov](https://github.com/vitkarpov)   |    [`postcss-host`](https://github.com/vitkarpov/postcss-host)   |   5
+[vkalinichev](https://github.com/vkalinichev)   |    [`postcss-rtl`](https://github.com/vkalinichev/postcss-rtl)   |   12
 [vovanbo](https://github.com/vovanbo)   |    [`css2modernizr`](https://github.com/vovanbo/css2modernizr)   |   65
 [whitneyit](https://github.com/whitneyit)   |    [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)   |   4
 [WolfgangKluge](https://github.com/WolfgangKluge)   |    [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)   |   5

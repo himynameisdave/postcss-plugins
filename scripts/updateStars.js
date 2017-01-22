@@ -13,7 +13,7 @@ plugins.map((plug, i) => (
       //  Modify our updatedPlugins list
       updatedPlugins[i].stars = stars;
       //  Iterate the numberOfPluginsCompleted
-      ++numberOfPluginsCompleted;
+      numberOfPluginsCompleted += 1;
       //  Logs our progress to the console
       logProgress(getProgress(numberOfPluginsCompleted, plugins.length));
       //  We know that we're done if we just completed the last plugin
