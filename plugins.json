@@ -3735,6 +3735,37 @@
     "stars": 302
   },
   {
+    "name": "postcss-rtl",
+    "description": "Combines both-directional (left-to-right and right-to-left) styles in one CSS file",
+    "author": "vkalinichev",
+    "url": "https://github.com/vkalinichev/postcss-rtl",
+    "tags": [
+      "other"
+    ],
+    "stars": 12 
+  }
+  {
+    "name": "postcss-content-entity",
+    "description": "PostCSS plugin that allows to use html entities inside css content property. ",
+    "author": "komarnitskyi",
+    "url": "https://github.com/komarnitskyi/postcss-content-entity",
+    "tags": [
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-define-function",
+    "description": "'PostCSS plugin for Sass-like function directive'",
+    "author": "titancat",
+    "url": "https://github.com/titancat/postcss-define-function",
+    "tags": [
+      "sass"
+    ],
+    "stars": 2
+  },
+  {
     "name": "postcss-subtle",
     "description": "that downloads zip files from subtlepatterns.com, extracts them in memory, saves the images to your asset path and updates your css with a reference to the new image.",
     "author": "andylbrummer",
@@ -3742,6 +3773,6 @@
     "tags": [
       "images"
     ],
-    "stars": 0
+    "stars": 0 
   }
 ]
