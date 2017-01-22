@@ -1,3 +1,10 @@
+### v1.9.1
+- Updates dependencies and fixes some linting stuff. Also removes year/license/dedication at the bottom
+- Adds [`postcss-rtl`](https://github.com/vkalinichev/postcss-rtl)
+- Adds [`postcss-content-entity`](https://github.com/komarnitskyi/postcss-content-entity)
+- Adds [`postcss-define-function`](https://github.com/titancat/postcss-define-function)
+- Adds [`postcss-subtle`](https://github.com/standardbeagle/postcss-subtle)
+
 ## v1.9.0
 - Removes a lot of cruft in the `/scripts` directory
 - `addNewPlugin` will now add a `"stars": 0` when adding a new plugin to make merges easier

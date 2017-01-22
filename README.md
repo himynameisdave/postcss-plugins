@@ -16,9 +16,7 @@ The goal is to be as concise and clear as possible while still offering a lot of
 ### Install
 
 ```
-
 npm i postcss-plugins
-
 ```
 
 ### Usage
@@ -56,7 +54,3 @@ All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](ht
 ### Changes
 
 See the [changelog](https://github.com/himynameisdave/postcss-plugins/blob/master/CHANGELOG.md) for a list of releases, changes & updates.
-
----
-
-*Licenced under MIT (c) Made by [Dave Lunny](https://twitter.com/dave_lunny) in the beautiful year 2015*
