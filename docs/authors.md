@@ -224,6 +224,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [alexandr-solovyov](https://github.com/alexandr-solovyov)   |    [`postcss-responsive-properties`](https://github.com/alexandr-solovyov/postcss-responsive-properties)   |   2
 [anandthakker](https://github.com/anandthakker)   |    [`doiuse`](https://github.com/anandthakker/doiuse)   |   456
 [andrasna](https://github.com/andrasna)   |    [`postcss-baseline-grid-overlay`](https://github.com/andrasna/postcss-baseline-grid-overlay)   |   0
+[andylbrummer](https://github.com/andylbrummer)   |    [`postcss-subtle`](https://github.com/standardbeagle/postcss-subtle)   |   0
 [AoDev](https://github.com/AoDev)   |    [`css-byebye`](https://github.com/AoDev/css-byebye)   |   25
 [ariona](https://github.com/ariona)   |    [`postcss-indonesian-stylesheets`](https://github.com/ariona/postcss-indonesian-stylesheets)   |   4
 [ausi](https://github.com/ausi)   |    [`cq-prolyfill`](https://github.com/ausi/cq-prolyfill)   |   306

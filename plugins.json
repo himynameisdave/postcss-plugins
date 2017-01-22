@@ -3764,5 +3764,15 @@
       "sass"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-subtle",
+    "description": "that downloads zip files from subtlepatterns.com, extracts them in memory, saves the images to your asset path and updates your css with a reference to the new image.",
+    "author": "andylbrummer",
+    "url": "https://github.com/standardbeagle/postcss-subtle",
+    "tags": [
+      "images"
+    ],
+    "stars": 0 
   }
 ]
