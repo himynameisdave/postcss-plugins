@@ -3735,6 +3735,16 @@
     "stars": 302
   },
   {
+    "name": "postcss-rtl",
+    "description": "Combines both-directional (left-to-right and right-to-left) styles in one CSS file",
+    "author": "vkalinichev",
+    "url": "https://github.com/vkalinichev/postcss-rtl",
+    "tags": [
+      "other"
+    ],
+    "stars": 12 
+  }
+  {
     "name": "postcss-content-entity",
     "description": "PostCSS plugin that allows to use html entities inside css content property. ",
     "author": "komarnitskyi",
