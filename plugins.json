@@ -3774,5 +3774,16 @@
       "images"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-hocus",
+    "description": "Fixes a tiny but annoying part of CSS: That you have to repeat yourself whenever you want to specify both `:hover` and `:focus`. ",
+    "author": "kilian",
+    "url": "https://github.com/kilian/postcss-hocus",
+    "tags": [
+      "fun",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]

@@ -188,6 +188,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |    [`postcss-swedish-stylesheets`](https://github.com/johnie/postcss-swedish-stylesheets)   |   18
 [Justineo](https://github.com/Justineo)   |    [`postcss-discard-overridden`](https://github.com/Justineo/postcss-discard-overridden)   |   6
    |    [`postcss-sort-style-rules`](https://github.com/Justineo/postcss-sort-style-rules)   |   4
+[kilian](https://github.com/kilian)   |    [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)   |   2
+   |    [`postcss-hocus`](https://github.com/kilian/postcss-hocus)   |   0
 [kolcethompsonco](https://github.com/kolcethompsonco)   |    [`postcss-lh`](https://github.com/kolcethompsonco/postcss-lh)   |   40
    |    [`postcss-pr`](https://github.com/kolcethompsonco/postcss-pr)   |   7
 [kristoferjoseph](https://github.com/kristoferjoseph)   |    [`postcss-modular-scale`](https://github.com/kristoferjoseph/postcss-modular-scale)   |   49
@@ -287,7 +289,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [justim](https://github.com/justim)   |    [`postcss-svg-fallback`](https://github.com/justim/postcss-svg-fallback)   |   36
 [keukenrolletje](https://github.com/keukenrolletje)   |    [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)   |   0
 [kezzbracey](https://github.com/kezzbracey)   |    [`postcss-bem`](https://github.com/kezzbracey/postcss-bem)   |   12
-[kilian](https://github.com/kilian)   |    [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)   |   2
 [kinday](https://github.com/kinday)   |    [`postcss-axis`](https://github.com/kinday/postcss-axis)   |   5
 [komarnitskyi](https://github.com/komarnitskyi)   |    [`postcss-content-entity`](https://github.com/komarnitskyi/postcss-content-entity)   |   15
 [komlev](https://github.com/komlev)   |    [`postcss-current-selector`](https://github.com/komlev/postcss-current-selector)   |   5
