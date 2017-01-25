@@ -265,6 +265,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   57
 [emero](https://github.com/emero)   |    [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)   |   32
 [F21](https://github.com/F21)   |    [`postcss-vertical-rhythm-function`](https://github.com/F21/postcss-vertical-rhythm-function)   |   5
+[fliptheweb](https://github.com/fliptheweb)   |    [`postcss-flow-root`](https://github.com/fliptheweb/postcss-flow-root)   |   0
 [frm-adiputra](https://github.com/frm-adiputra)   |    [`RGrid`](https://github.com/frm-adiputra/postcss-rgrid)   |   0
 [geddski](https://github.com/geddski)   |    [`csstyle`](https://github.com/geddski/csstyle)   |   916
 [georgeadamson](https://github.com/georgeadamson)   |    [`postcss-merge-selectors`](https://github.com/georgeadamson/postcss-merge-selectors)   |   7

@@ -3774,5 +3774,15 @@
       "images"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-flow-root",
+    "description": "that make fallback for `display: flow-root` property.",
+    "author": "fliptheweb",
+    "url": "https://github.com/fliptheweb/postcss-flow-root",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
   }
 ]
