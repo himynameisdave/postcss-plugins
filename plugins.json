@@ -3774,5 +3774,15 @@
       "images"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-font-family-system-ui",
+    "description": "PostCSS plugin to transform W3C CSS font-family: system-ui to a practical font-family list",
+    "author": "JLHwung",
+    "url": "https://github.com/JLHwung/postcss-font-family-system-ui",
+    "tags": [
+      "future"
+    ],
+    "stars": 0
   }
 ]
