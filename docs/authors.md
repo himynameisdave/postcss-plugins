@@ -188,6 +188,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |    [`postcss-swedish-stylesheets`](https://github.com/johnie/postcss-swedish-stylesheets)   |   18
 [Justineo](https://github.com/Justineo)   |    [`postcss-discard-overridden`](https://github.com/Justineo/postcss-discard-overridden)   |   6
    |    [`postcss-sort-style-rules`](https://github.com/Justineo/postcss-sort-style-rules)   |   4
+[kilian](https://github.com/kilian)   |    [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)   |   2
+   |    [`postcss-hocus`](https://github.com/kilian/postcss-hocus)   |   0
 [kolcethompsonco](https://github.com/kolcethompsonco)   |    [`postcss-lh`](https://github.com/kolcethompsonco/postcss-lh)   |   40
    |    [`postcss-pr`](https://github.com/kolcethompsonco/postcss-pr)   |   7
 [kristoferjoseph](https://github.com/kristoferjoseph)   |    [`postcss-modular-scale`](https://github.com/kristoferjoseph/postcss-modular-scale)   |   49
@@ -265,6 +267,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   57
 [emero](https://github.com/emero)   |    [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)   |   32
 [F21](https://github.com/F21)   |    [`postcss-vertical-rhythm-function`](https://github.com/F21/postcss-vertical-rhythm-function)   |   5
+[fliptheweb](https://github.com/fliptheweb)   |    [`postcss-flow-root`](https://github.com/fliptheweb/postcss-flow-root)   |   0
 [frm-adiputra](https://github.com/frm-adiputra)   |    [`RGrid`](https://github.com/frm-adiputra/postcss-rgrid)   |   0
 [geddski](https://github.com/geddski)   |    [`csstyle`](https://github.com/geddski/csstyle)   |   916
 [georgeadamson](https://github.com/georgeadamson)   |    [`postcss-merge-selectors`](https://github.com/georgeadamson/postcss-merge-selectors)   |   7
@@ -288,7 +291,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [justim](https://github.com/justim)   |    [`postcss-svg-fallback`](https://github.com/justim/postcss-svg-fallback)   |   36
 [keukenrolletje](https://github.com/keukenrolletje)   |    [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)   |   0
 [kezzbracey](https://github.com/kezzbracey)   |    [`postcss-bem`](https://github.com/kezzbracey/postcss-bem)   |   12
-[kilian](https://github.com/kilian)   |    [`postcss-dutch-stylesheets`](https://github.com/Kilian/postcss-dutch-stylesheets)   |   2
 [kinday](https://github.com/kinday)   |    [`postcss-axis`](https://github.com/kinday/postcss-axis)   |   5
 [komarnitskyi](https://github.com/komarnitskyi)   |    [`postcss-content-entity`](https://github.com/komarnitskyi/postcss-content-entity)   |   15
 [komlev](https://github.com/komlev)   |    [`postcss-current-selector`](https://github.com/komlev/postcss-current-selector)   |   5
