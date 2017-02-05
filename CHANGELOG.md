@@ -1,3 +1,8 @@
+### v1.9.2
+- Adds [`postcss-hocus`](https://github.com/kilian/postcss-hocus)
+- Adds [`postcss-flow-root`](https://github.com/fliptheweb/postcss-flow-root)
+- Adds [`postcss-font-family-system-ui`](https://github.com/JLHwung/postcss-font-family-system-ui)
+
 ### v1.9.1
 - Updates dependencies and fixes some linting stuff. Also removes year/license/dedication at the bottom
 - Adds [`postcss-rtl`](https://github.com/vkalinichev/postcss-rtl)
@@ -11,6 +16,7 @@
 - `updateAuthors` is much more efficient, sorts by number of plugins then alphabetically by name (making merges easier)
 - Adds [`postcss-resemble-image`](https://github.com/ben-eb/postcss-resemble-image)
 - Adds [`postcss-grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)
+
 
 ### v1.8.11
 - Adds [`postcss-process-comments`](https://github.com/zephraph/postcss-process-comments)
