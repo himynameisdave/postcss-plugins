@@ -3776,6 +3776,16 @@
     "stars": 0
   },
   {
+    "name": "postcss-flow-root",
+    "description": "that make fallback for `display: flow-root` property.",
+    "author": "fliptheweb",
+    "url": "https://github.com/fliptheweb/postcss-flow-root",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-hocus",
     "description": "Fixes a tiny but annoying part of CSS: That you have to repeat yourself whenever you want to specify both `:hover` and `:focus`. ",
     "author": "kilian",
