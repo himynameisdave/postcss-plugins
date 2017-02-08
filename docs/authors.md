@@ -276,6 +276,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [git-slim](https://github.com/git-slim)   |    [`postcss-random`](https://github.com/git-slim/postcss-random)   |   2
 [giuseppeg](https://github.com/giuseppeg)   |    [`postcss-pseudo-classes`](https://github.com/giuseppeg/postcss-pseudo-classes)   |   22
 [HashanP](https://github.com/HashanP)   |    [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)   |   67
+[hegedusarpad](https://bitbucket.org/hegedusarpad)   |    [`postcss-google-color`](https://bitbucket.org/hegedusarpad/postcss-google-color)   |   0
 [HoBi](https://github.com/HoBi)   |    [`postcss-czech-stylesheets`](https://github.com/HoBi/postcss-czech-stylesheets)   |   25
 [hudochenkov](https://github.com/hudochenkov)   |    [`postcss-sorting`](https://github.com/hudochenkov/postcss-sorting)   |   220
 [iahu](https://github.com/iahu)   |    [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)   |   5
