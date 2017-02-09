@@ -3805,5 +3805,15 @@
       "future"
     ],
     "stars": 16
+  },
+  {
+    "name": "postcss-fixie",
+    "description": "PostCSS plugin for inserting IE hacks simply and easily",
+    "author": "tivac",
+    "url": "https://github.com/tivac/fixie",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
   }
 ]
