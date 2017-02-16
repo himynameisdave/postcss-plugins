@@ -3805,5 +3805,15 @@
       "future"
     ],
     "stars": 16
+  },
+  {
+    "name": "postcss-lazysprite",
+    "description": "generates sprites from the directory of images with hight perfomance.",
+    "author": "Jeff2Ma",
+    "url": "https://github.com/Jeff2Ma/postcss-lazysprite",
+    "tags": [
+      "images"
+    ],
+    "stars": 0
   }
 ]
