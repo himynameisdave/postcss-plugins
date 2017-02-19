@@ -1,3 +1,7 @@
+### v1.5.11
+> *(Feb 19th/2017)*
+- Adds [`postcss-padding-margin-axis`](https://github.com/sylvainbaronnet/postcss-padding-margin-axis)
+
 ### v1.5.10
 > *(Oct 18th/2015)*
 - Adds [`Postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)

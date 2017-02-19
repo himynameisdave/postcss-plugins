@@ -2053,5 +2053,14 @@
       "shortcuts"
     ],
     "author": "sylvainbaronnet"
+  },
+  {
+    "name": "postcss-padding-margin-axis",
+    "description": " for padding & margin axis shorthand",
+    "url": "https://github.com/sylvainbaronnet/postcss-padding-margin-axis",
+    "tags": [
+      "shortcuts"
+    ],
+    "author": "sylvainbaronnet"
   }
 ]
