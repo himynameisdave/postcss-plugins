@@ -337,6 +337,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [soul-wish](https://github.com/soul-wish)   |    [`important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)   |   7
 [stehefan](https://github.com/stehefan)   |    [`postcss-env-replace`](https://github.com/stehefan/postcss-env-replace)   |   5
 [stylelint](https://github.com/stylelint)   |    [`stylelint`](https://github.com/stylelint/stylelint)   |   2776
+[SuperOl3g](https://github.com/SuperOl3g)   |    [`postcss-image-set-polyfill`](https://github.com/SuperOl3g/postcss-image-set-polyfill)   |   0
 [sylvainbaronnet](https://github.com/sylvainbaronnet)   |    [`postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)   |   2
 [sylvainpolletvillard](https://github.com/sylvainpolletvillard)   |    [`grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)   |   624
 [talgautb](https://github.com/talgautb)   |    [`postcss-currency`](https://github.com/talgautb/postcss-currency)   |   11
