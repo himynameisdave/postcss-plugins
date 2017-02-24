@@ -184,6 +184,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |    [`postcss-vmin`](https://github.com/iamvdo/postcss-vmin)   |   13
 [jacobp100](https://github.com/jacobp100)   |    [`postcss-remove-classes`](https://github.com/jacobp100/postcss-remove-classes)   |   3
    |    [`es-css-modules`](https://github.com/jacobp100/es-css-modules)   |   104
+[Jeff2Ma](https://github.com/Jeff2Ma)   |    [`postcss-lazyimagecss`](https://github.com/Jeff2Ma/postcss-lazyimagecss)   |   21
+   |    [`postcss-lazysprite`](https://github.com/Jeff2Ma/postcss-lazysprite)   |   0
 [johnie](https://github.com/johnie)   |    [`postcss-crip`](https://github.com/johnie/postcss-crip)   |   16
    |    [`postcss-swedish-stylesheets`](https://github.com/johnie/postcss-swedish-stylesheets)   |   18
 [Justineo](https://github.com/Justineo)   |    [`postcss-discard-overridden`](https://github.com/Justineo/postcss-discard-overridden)   |   6
@@ -276,12 +278,12 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [git-slim](https://github.com/git-slim)   |    [`postcss-random`](https://github.com/git-slim/postcss-random)   |   2
 [giuseppeg](https://github.com/giuseppeg)   |    [`postcss-pseudo-classes`](https://github.com/giuseppeg/postcss-pseudo-classes)   |   22
 [HashanP](https://github.com/HashanP)   |    [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)   |   67
+[hegedusarpad](https://bitbucket.org/hegedusarpad)   |    [`postcss-google-color`](https://bitbucket.org/hegedusarpad/postcss-google-color)   |   0
 [HoBi](https://github.com/HoBi)   |    [`postcss-czech-stylesheets`](https://github.com/HoBi/postcss-czech-stylesheets)   |   25
 [hudochenkov](https://github.com/hudochenkov)   |    [`postcss-sorting`](https://github.com/hudochenkov/postcss-sorting)   |   220
 [iahu](https://github.com/iahu)   |    [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)   |   5
 [iamstarkov](https://github.com/iamstarkov)   |    [`postcss-color-mix`](https://github.com/iamstarkov/postcss-color-mix)   |   10
 [jakelazaroff](https://github.com/jakelazaroff)   |    [`postcss-border-radius`](https://github.com/jakelazaroff/postcss-border-radius)   |   1
-[Jeff2Ma](https://github.com/Jeff2Ma)   |    [`postcss-lazyimagecss`](https://github.com/Jeff2Ma/postcss-lazyimagecss)   |   21
 [jelmerdemaat](https://github.com/jelmerdemaat)   |    [`postcss-base64`](https://github.com/jelmerdemaat/postcss-base64)   |   10
 [JLHwung](https://github.com/JLHwung)   |    [`postcss-font-family-system-ui`](https://github.com/JLHwung/postcss-font-family-system-ui)   |   16
 [jo-asakura](https://github.com/jo-asakura)   |    [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)   |   81
@@ -345,6 +347,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [thompsongl](https://github.com/thompsongl)   |    [`postcss-class-prefix`](https://github.com/thompsongl/postcss-class-prefix)   |   54
 [timche](https://github.com/timche)   |    [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)   |   32
 [titancat](https://github.com/titancat)   |    [`postcss-define-function`](https://github.com/titancat/postcss-define-function)   |   11
+[tivac](https://github.com/tivac)   |    [`postcss-fixie`](https://github.com/tivac/fixie)   |   0
 [toomuchdesign](https://github.com/toomuchdesign)   |    [`postcss-nested-ancestors`](https://github.com/toomuchdesign/postcss-nested-ancestors)   |   23
 [totora0155](https://github.com/totora0155)   |    [`postcss-namespace`](https://github.com/totora0155/postcss-namespace)   |   11
 [troch](https://github.com/troch)   |    [`postcss-responsive-values`](https://github.com/troch/postcss-responsive-values)   |   1
