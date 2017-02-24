@@ -1,3 +1,9 @@
+### v1.9.3
+- Adds [`postcss-google-color`](https://bitbucket.org/hegedusarpad/postcss-google-color)
+- Adds [`postcss-fixie`](https://github.com/tivac/fixie)
+- Adds [`postcss-lazysprite`](https://github.com/Jeff2Ma/postcss-lazysprite)
+- Adds [`postcss-image-set-polyfill`](https://github.com/SuperOl3g/postcss-image-set-polyfill)
+
 ### v1.9.2
 - Adds [`postcss-hocus`](https://github.com/kilian/postcss-hocus)
 - Adds [`postcss-flow-root`](https://github.com/fliptheweb/postcss-flow-root)
