@@ -3835,5 +3835,18 @@
       "images"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-image-set-polyfill",
+    "description": "PostCSS plugin for polyfilling image-set CSS function",
+    "author": "SuperOl3g",
+    "url": "https://github.com/SuperOl3g/postcss-image-set-polyfill",
+    "tags": [
+      "fallbacks",
+      "future",
+      "images",
+      "media-queries"
+    ]
+    "stars": 0
   }
 ]
