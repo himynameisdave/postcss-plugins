@@ -3807,6 +3807,16 @@
     "stars": 16
   },
   {
+
+    "name": "postcss-fixie",
+    "description": "PostCSS plugin for inserting IE hacks simply and easily",
+    "author": "tivac",
+    "url": "https://github.com/tivac/fixie",
+    "tags": [
+      "fallbacks"
+    ]
+  },
+  {
     "name": "postcss-google-color",
     "description": "PostCSS plugin for easily invoking the colors on the Google Material design color palette.",
     "author": "hegedusarpad",
