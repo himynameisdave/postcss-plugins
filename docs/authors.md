@@ -184,6 +184,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |    [`postcss-vmin`](https://github.com/iamvdo/postcss-vmin)   |   13
 [jacobp100](https://github.com/jacobp100)   |    [`postcss-remove-classes`](https://github.com/jacobp100/postcss-remove-classes)   |   3
    |    [`es-css-modules`](https://github.com/jacobp100/es-css-modules)   |   104
+[Jeff2Ma](https://github.com/Jeff2Ma)   |    [`postcss-lazyimagecss`](https://github.com/Jeff2Ma/postcss-lazyimagecss)   |   21
+   |    [`postcss-lazysprite`](https://github.com/Jeff2Ma/postcss-lazysprite)   |   0
 [johnie](https://github.com/johnie)   |    [`postcss-crip`](https://github.com/johnie/postcss-crip)   |   16
    |    [`postcss-swedish-stylesheets`](https://github.com/johnie/postcss-swedish-stylesheets)   |   18
 [Justineo](https://github.com/Justineo)   |    [`postcss-discard-overridden`](https://github.com/Justineo/postcss-discard-overridden)   |   6
@@ -282,7 +284,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [iahu](https://github.com/iahu)   |    [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)   |   5
 [iamstarkov](https://github.com/iamstarkov)   |    [`postcss-color-mix`](https://github.com/iamstarkov/postcss-color-mix)   |   10
 [jakelazaroff](https://github.com/jakelazaroff)   |    [`postcss-border-radius`](https://github.com/jakelazaroff/postcss-border-radius)   |   1
-[Jeff2Ma](https://github.com/Jeff2Ma)   |    [`postcss-lazyimagecss`](https://github.com/Jeff2Ma/postcss-lazyimagecss)   |   21
 [jelmerdemaat](https://github.com/jelmerdemaat)   |    [`postcss-base64`](https://github.com/jelmerdemaat/postcss-base64)   |   10
 [JLHwung](https://github.com/JLHwung)   |    [`postcss-font-family-system-ui`](https://github.com/JLHwung/postcss-font-family-system-ui)   |   16
 [jo-asakura](https://github.com/jo-asakura)   |    [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)   |   81

@@ -3807,22 +3807,32 @@
     "stars": 16
   },
   {
-
-    "name": "postcss-fixie",
-    "description": "PostCSS plugin for inserting IE hacks simply and easily",
-    "author": "tivac",
-    "url": "https://github.com/tivac/fixie",
-    "tags": [
-      "fallbacks"
-    ]
-  },
-  {
     "name": "postcss-google-color",
     "description": "PostCSS plugin for easily invoking the colors on the Google Material design color palette.",
     "author": "hegedusarpad",
     "url": "https://bitbucket.org/hegedusarpad/postcss-google-color",
     "tags": [
       "color"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-fixie",
+    "description": "PostCSS plugin for inserting IE hacks simply and easily",
+    "author": "tivac",
+    "url": "https://github.com/tivac/fixie",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-lazysprite",
+    "description": "generates sprites from the directory of images with hight perfomance.",
+    "author": "Jeff2Ma",
+    "url": "https://github.com/Jeff2Ma/postcss-lazysprite",
+    "tags": [
+      "images"
     ],
     "stars": 0
   }
