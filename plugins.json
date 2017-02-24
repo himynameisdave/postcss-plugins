@@ -3805,5 +3805,15 @@
       "future"
     ],
     "stars": 16
+  },
+  {
+    "name": "postcss-google-color",
+    "description": "PostCSS plugin for easily invoking the colors on the Google Material design color palette.",
+    "author": "hegedusarpad",
+    "url": "https://bitbucket.org/hegedusarpad/postcss-google-color",
+    "tags": [
+      "color"
+    ],
+    "stars": 0
   }
 ]
