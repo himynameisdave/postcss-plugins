@@ -336,6 +336,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [simeydotme](https://github.com/simeydotme)   |    [`postcss-filter-mq`](https://github.com/simeydotme/postcss-filter-mq)   |   6
 [simplaio](https://github.com/simplaio)   |    [`rucksack`](https://github.com/simplaio/rucksack)   |   1594
 [SlexAxton](https://github.com/SlexAxton)   |    [`colorguard`](https://github.com/SlexAxton/css-colorguard)   |   2251
+[smitt04](https://github.com/smitt04)   |    [`postcss-prefix-url`](https://github.com/smitt04/postcss-prefix-url)   |   0
 [soul-wish](https://github.com/soul-wish)   |    [`important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)   |   7
 [stehefan](https://github.com/stehefan)   |    [`postcss-env-replace`](https://github.com/stehefan/postcss-env-replace)   |   5
 [stylelint](https://github.com/stylelint)   |    [`stylelint`](https://github.com/stylelint/stylelint)   |   2866
