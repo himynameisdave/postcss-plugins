@@ -3848,5 +3848,15 @@
       "media-queries"
     ],
     "stars": 4
+  },
+  {
+    "name": "postcss-nippon-color",
+    "description": "Turn color name from http://nipponcolors.com/ to rgb",
+    "author": "Knovour",
+    "url": "https://github.com/Knovour/postcss-nippon-color",
+    "tags": [
+      "color"
+    ],
+    "stars": 0
   }
 ]

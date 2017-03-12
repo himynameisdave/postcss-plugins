@@ -294,6 +294,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [keukenrolletje](https://github.com/keukenrolletje)   |    [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)   |   0
 [kezzbracey](https://github.com/kezzbracey)   |    [`postcss-bem`](https://github.com/kezzbracey/postcss-bem)   |   17
 [kinday](https://github.com/kinday)   |    [`postcss-axis`](https://github.com/kinday/postcss-axis)   |   5
+[Knovour](https://github.com/Knovour)   |    [`postcss-nippon-color`](https://github.com/Knovour/postcss-nippon-color)   |   0
 [komarnitskyi](https://github.com/komarnitskyi)   |    [`postcss-content-entity`](https://github.com/komarnitskyi/postcss-content-entity)   |   16
 [komlev](https://github.com/komlev)   |    [`postcss-current-selector`](https://github.com/komlev/postcss-current-selector)   |   5
 [lahmatiy](https://github.com/lahmatiy)   |    [`postcss-csso`](https://github.com/lahmatiy/postcss-csso)   |   45
