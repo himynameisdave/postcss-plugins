@@ -3850,6 +3850,15 @@
     "stars": 4
   },
   {
+    "name": "postcss-alter-property-value",
+    "description": "that changes css declarations from a rule based configuration",
+    "author": "kunukn",
+    "url": "https://github.com/kunukn/postcss-alter-property-value",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
+  }, {
     "name": "postcss-prefix-url",
     "description": "that prefixes your urls",
     "author": "smitt04",
@@ -3857,7 +3866,7 @@
     "tags": [
       "other",
       "shortcuts"
-    ],
+     ],
     "stars": 0
   }
 ]
