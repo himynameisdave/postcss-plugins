@@ -3850,7 +3850,6 @@
     "stars": 4
   },
   {
-
     "name": "postcss-rgb-to-rgba",
     "description": "that transforms rgb() to rgba() format.",
     "author": "vital-software",
@@ -3884,6 +3883,16 @@
     "description": "that transforms rgb() to rgba() format.",
     "author": "vital-software",
     "url": "https://github.com/vital-software/postcss-rgb-to-rgba",
+    "tags": [
+      "color"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-nippon-color",
+    "description": "Turn color name from http://nipponcolors.com/ to rgb",
+    "author": "Knovour",
+    "url": "https://github.com/Knovour/postcss-nippon-color", 
     "tags": [
       "color"
     ],
