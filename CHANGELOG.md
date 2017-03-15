@@ -1,3 +1,9 @@
+### v1.9.4
+- Adds [`postcss-alter-property-value`](https://github.com/kunukn/postcss-alter-property-value)
+- Adds [`postcss-prefix-url`](https://github.com/smitt04/postcss-prefix-url)
+- Adds [`postcss-rgb-to-rgba`](https://github.com/vital-software/postcss-rgb-to-rgba)
+- Adds [`postcss-nippon-color`](https://github.com/Knovour/postcss-nippon-color)
+
 ### v1.9.3
 - Adds [`postcss-google-color`](https://bitbucket.org/hegedusarpad/postcss-google-color)
 - Adds [`postcss-fixie`](https://github.com/tivac/fixie)
