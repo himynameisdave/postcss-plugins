@@ -297,6 +297,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [Knovour](https://github.com/Knovour)   |    [`postcss-nippon-color`](https://github.com/Knovour/postcss-nippon-color)   |   0
 [komarnitskyi](https://github.com/komarnitskyi)   |    [`postcss-content-entity`](https://github.com/komarnitskyi/postcss-content-entity)   |   16
 [komlev](https://github.com/komlev)   |    [`postcss-current-selector`](https://github.com/komlev/postcss-current-selector)   |   5
+[kunukn](https://github.com/kunukn)   |    [`postcss-alter-property-value`](https://github.com/kunukn/postcss-alter-property-value)   |   0
 [lahmatiy](https://github.com/lahmatiy)   |    [`postcss-csso`](https://github.com/lahmatiy/postcss-csso)   |   45
 [laureanoarcanio](https://github.com/laureanoarcanio)   |    [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)   |   14
 [leodido](https://github.com/leodido)   |    [`postcss-clean`](https://github.com/leodido/postcss-clean)   |   7
@@ -337,6 +338,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [simeydotme](https://github.com/simeydotme)   |    [`postcss-filter-mq`](https://github.com/simeydotme/postcss-filter-mq)   |   6
 [simplaio](https://github.com/simplaio)   |    [`rucksack`](https://github.com/simplaio/rucksack)   |   1594
 [SlexAxton](https://github.com/SlexAxton)   |    [`colorguard`](https://github.com/SlexAxton/css-colorguard)   |   2251
+[smitt04](https://github.com/smitt04)   |    [`postcss-prefix-url`](https://github.com/smitt04/postcss-prefix-url)   |   0
 [soul-wish](https://github.com/soul-wish)   |    [`important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)   |   7
 [stehefan](https://github.com/stehefan)   |    [`postcss-env-replace`](https://github.com/stehefan/postcss-env-replace)   |   5
 [stylelint](https://github.com/stylelint)   |    [`stylelint`](https://github.com/stylelint/stylelint)   |   2866
@@ -355,6 +357,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [tsm91](https://github.com/tsm91)   |    [`postcss-filter-stream`](https://github.com/tsm91/postcss-filter-stream)   |   8
 [twbs](https://github.com/twbs)   |    [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)   |   71
 [unlight](https://github.com/unlight)   |    [`postcss-import-url`](https://github.com/unlight/postcss-import-url)   |   7
+[vital-software](https://github.com/vital-software)   |    [`postcss-rgb-to-rgba`](https://github.com/vital-software/postcss-rgb-to-rgba)   |   0
 [VitaliyR](https://github.com/VitaliyR)   |    [`postcss-esplit`](https://github.com/VitaliyR/postcss-esplit)   |   8
 [vitkarpov](https://github.com/vitkarpov)   |    [`postcss-host`](https://github.com/vitkarpov/postcss-host)   |   5
 [vkalinichev](https://github.com/vkalinichev)   |    [`postcss-rtl`](https://github.com/vkalinichev/postcss-rtl)   |   17
