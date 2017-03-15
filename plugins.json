@@ -3850,6 +3850,36 @@
     "stars": 4
   },
   {
+
+    "name": "postcss-rgb-to-rgba",
+    "description": "that transforms rgb() to rgba() format.",
+    "author": "vital-software",
+    "url": "https://github.com/vital-software/postcss-rgb-to-rgba",
+    "tags": [
+      "color"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-alter-property-value",
+    "description": "that changes css declarations from a rule based configuration",
+    "author": "kunukn",
+    "url": "https://github.com/kunukn/postcss-alter-property-value",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
+  }, {
+    "name": "postcss-prefix-url",
+    "description": "that prefixes your urls",
+    "author": "smitt04",
+    "url": "https://github.com/smitt04/postcss-prefix-url",
+    "tags": [
+      "other",
+      "shortcuts"
+     ],
+    "stars": 0
+  }, {
     "name": "postcss-rgb-to-rgba",
     "description": "that transforms rgb() to rgba() format.",
     "author": "vital-software",

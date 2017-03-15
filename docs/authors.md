@@ -296,6 +296,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [kinday](https://github.com/kinday)   |    [`postcss-axis`](https://github.com/kinday/postcss-axis)   |   5
 [komarnitskyi](https://github.com/komarnitskyi)   |    [`postcss-content-entity`](https://github.com/komarnitskyi/postcss-content-entity)   |   16
 [komlev](https://github.com/komlev)   |    [`postcss-current-selector`](https://github.com/komlev/postcss-current-selector)   |   5
+[kunukn](https://github.com/kunukn)   |    [`postcss-alter-property-value`](https://github.com/kunukn/postcss-alter-property-value)   |   0
 [lahmatiy](https://github.com/lahmatiy)   |    [`postcss-csso`](https://github.com/lahmatiy/postcss-csso)   |   45
 [laureanoarcanio](https://github.com/laureanoarcanio)   |    [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)   |   14
 [leodido](https://github.com/leodido)   |    [`postcss-clean`](https://github.com/leodido/postcss-clean)   |   7
@@ -336,6 +337,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [simeydotme](https://github.com/simeydotme)   |    [`postcss-filter-mq`](https://github.com/simeydotme/postcss-filter-mq)   |   6
 [simplaio](https://github.com/simplaio)   |    [`rucksack`](https://github.com/simplaio/rucksack)   |   1594
 [SlexAxton](https://github.com/SlexAxton)   |    [`colorguard`](https://github.com/SlexAxton/css-colorguard)   |   2251
+[smitt04](https://github.com/smitt04)   |    [`postcss-prefix-url`](https://github.com/smitt04/postcss-prefix-url)   |   0
 [soul-wish](https://github.com/soul-wish)   |    [`important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)   |   7
 [stehefan](https://github.com/stehefan)   |    [`postcss-env-replace`](https://github.com/stehefan/postcss-env-replace)   |   5
 [stylelint](https://github.com/stylelint)   |    [`stylelint`](https://github.com/stylelint/stylelint)   |   2866
