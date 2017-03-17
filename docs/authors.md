@@ -198,6 +198,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |    [`postcss-color-scale`](https://github.com/kristoferjoseph/postcss-color-scale)   |   12
 [lexich](https://github.com/lexich)   |    [`webpcss`](https://github.com/lexich/webpcss)   |   39
    |    [`postcss-shared-options`](https://github.com/lexich/postcss-shared-options)   |   0
+[lore-w](https://github.com/lore-w)   |    [`2rem`](https://github.com/lore-w/2rem)   |   0
+   |    [`math-calc`](https://github.com/lore-w/math-calc)   |   0
 [markgoodyear](https://github.com/markgoodyear)   |    [`postcss-vertical-rhythm`](https://github.com/markgoodyear/postcss-vertical-rhythm)   |   67
    |    [`postcss-pointer`](https://github.com/markgoodyear/postcss-pointer)   |   11
 [niksy](https://github.com/niksy)   |    [`postcss-em-media-query`](https://github.com/niksy/postcss-em-media-query)   |   20

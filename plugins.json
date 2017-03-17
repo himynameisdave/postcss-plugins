@@ -3899,5 +3899,28 @@
       "color"
     ],
     "stars": 3
+  },
+  {
+    "name": "2rem",
+    "description": "2rem is a postcss plugin that convert px to rem in your css",
+    "author": "lore-w",
+    "url": "https://github.com/lore-w/2rem",
+    "tags": [
+      "accessibility",
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "math-calc",
+    "description": "math-calc is a simpleset and fast postcss plugin allows you write +、-、*、/、% in your css",
+    "author": "lore-w",
+    "url": "https://github.com/lore-w/math-calc",
+    "tags": [
+      "accessibility",
+      "extensions",
+      "fun"
+    ],
+    "stars": 0
   }
 ]
