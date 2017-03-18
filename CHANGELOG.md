@@ -1,3 +1,12 @@
+### v1.9.5
+- Adds [`postcss-caralho`](https://github.com/SaraVieira/postcss-caralho)
+- Adds [`postcss-portuguese-stylesheets`](https://github.com/SaraVieira/postcss-portuguese-stylesheets)
+- Adds [`postcss-korean-stylesheets`](https://github.com/JasonShin/postcss-korean-stylesheets)
+- Adds [`2rem`](https://github.com/lore-w/2rem)
+- Adds [`math-calc`](https://github.com/lore-w/math-calc)
+- Adds [`postcss-animations`](https://github.com/retyui/postcss-animations)
+- Adds `yarn` commands to the README (#186)
+
 ### v1.9.4
 - Adds [`postcss-alter-property-value`](https://github.com/kunukn/postcss-alter-property-value)
 - Adds [`postcss-prefix-url`](https://github.com/smitt04/postcss-prefix-url)
