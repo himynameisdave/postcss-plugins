@@ -15,6 +15,14 @@ The goal is to be as concise and clear as possible while still offering a lot of
 
 ### Install
 
+**With yarn**
+
+```
+yarn add postcss-plugins
+```
+
+**With npm**
+
 ```
 npm i postcss-plugins
 ```
@@ -43,8 +51,8 @@ All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](ht
 **Steps**:
 
 1. [Fork this repo](https://github.com/himynameisdave/postcss-plugins#fork-destination-box).
-2. Run `npm i` to quickly install the dependencies that the [scripts](https://github.com/himynameisdave/postcss-plugins/tree/master/scripts) rely on.
-3. Run `npm run add`. You will then be prompted for info about your plugin:
+2. Run `yarn install`/`npm i` to quickly install the dependencies that the [scripts](https://github.com/himynameisdave/postcss-plugins/tree/master/scripts) rely on.
+3. Run `yarn run add`/`npm run add`. You will then be prompted for info about your plugin:
 
     ![plugin adding is cool dot gif.com.thebomb.org.net.parts.jpg](https://d17oy1vhnax1f7.cloudfront.net/items/1a153z3N411c3d0b351c/Screen%20Recording%202016-11-27%20at%2010.40%20AM.gif?v=035d9ac6)
 4. This will add your plugin to `plugins.json` and your name/plugin to the `authors.md` list.
