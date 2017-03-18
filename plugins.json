@@ -3899,5 +3899,25 @@
       "color"
     ],
     "stars": 3
+  },
+  {
+    "name": "postcss-caralho",
+    "description": "PostCSS plugin for that changes curse words after ! to !important because why not ?",
+    "author": "SaraVieira",
+    "url": "https://github.com/SaraVieira/postcss-caralho",
+    "tags": [
+      "fun"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-portuguese-stylesheets",
+    "description": "Postcss plugin for writing Protuguese Stylesheets.",
+    "author": "SaraVieira",
+    "url": "https://github.com/SaraVieira/postcss-portuguese-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "stars": 0
   }
 ]
