@@ -3952,5 +3952,15 @@
       "extensions",
      ],
      "stars": 0
+  },
+  {
+    "name": "postcss-animations",
+    "description": "PostCSS plugin that adds @keyframes from: animate.css, tuesday.css, magic.css.",
+    "author": "retyui",
+    "url": "https://github.com/retyui/postcss-animations",
+    "tags": [
+      "shortcuts"
+    ],
+    "stars": 0 
   }
 ]

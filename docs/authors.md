@@ -332,6 +332,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [pathsofdesign](https://github.com/pathsofdesign)   |    [`postcss-fakeid`](https://github.com/pathsofdesign/postcss-fakeid)   |   17
 [pazams](https://github.com/pazams)   |    [`postcss-scopify`](https://github.com/pazams/postcss-scopify)   |   24
 [Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   2
+[retyui](https://github.com/retyui)   |    [`postcss-animations`](https://github.com/retyui/postcss-animations)   |   0
 [robwierzbowski](https://github.com/robwierzbowski)   |    [`pixrem`](https://github.com/robwierzbowski/node-pixrem)   |   163
 [rominmx](https://github.com/rominmx)   |    [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)   |   5
 [ronnyamarante](https://github.com/ronnyamarante)   |    [`postcss-selector-prefixer`](https://github.com/ronnyamarante/postcss-selector-prefixer)   |   2
