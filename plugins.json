@@ -3901,6 +3901,37 @@
     "stars": 3
   },
   {
+    "name": "postcss-caralho",
+    "description": "PostCSS plugin for that changes curse words after ! to !important because why not ?",
+    "author": "SaraVieira",
+    "url": "https://github.com/SaraVieira/postcss-caralho",
+    "tags": [
+      "fun"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-portuguese-stylesheets",
+    "description": "Postcss plugin for writing Protuguese Stylesheets.",
+    "author": "SaraVieira",
+    "url": "https://github.com/SaraVieira/postcss-portuguese-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "stars": 0
+  },
+  { 
+    "name": "postcss-korean-stylesheets",
+    "description": "that transforms some Koreans to English CSS for fun",
+    "author": "JasonShin",
+    "url": "https://github.com/JasonShin/postcss-korean-stylesheets",
+    "tags": [
+
+      "fun"
+    ],
+    "stars": 0
+  },
+  {
     "name": "2rem",
     "description": "2rem is a postcss plugin that convert px to rem in your css",
     "author": "lore-w",
@@ -3919,8 +3950,7 @@
     "tags": [
       "accessibility",
       "extensions",
-      "fun"
-    ],
-    "stars": 0
+     ],
+     "stars": 0
   }
 ]
