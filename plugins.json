@@ -3961,5 +3961,15 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-harmonize",
+    "description": "PostCSS plugin to harmonize your CSS",
+    "author": "redaxmedia",
+    "url": "https://github.com/redaxmedia/postcss-harmonize",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
