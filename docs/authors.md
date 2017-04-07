@@ -283,6 +283,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [gilmoreorless](https://github.com/gilmoreorless)   |    [`postcss-gradient-transparency-fix`](https://github.com/gilmoreorless/postcss-gradient-transparency-fix)   |   10
 [git-slim](https://github.com/git-slim)   |    [`postcss-random`](https://github.com/git-slim/postcss-random)   |   3
 [giuseppeg](https://github.com/giuseppeg)   |    [`postcss-pseudo-classes`](https://github.com/giuseppeg/postcss-pseudo-classes)   |   22
+[h0tc0d3](https://github.com/h0tc0d3)   |    [`postcss-hamster`](https://github.com/h0tc0d3/postcss-hamster)   |   0
 [HashanP](https://github.com/HashanP)   |    [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)   |   69
 [hegedusarpad](https://github.com/hegedusarpad)   |    [`postcss-google-color`](https://bitbucket.org/hegedusarpad/postcss-google-color)   |   0
 [HoBi](https://github.com/HoBi)   |    [`postcss-czech-stylesheets`](https://github.com/HoBi/postcss-czech-stylesheets)   |   25
