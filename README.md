@@ -44,7 +44,7 @@ const himynameisdavesPlugins = plugins.reduce((a, p) => p.author === 'himynameis
 
 ```
 
-### Submiting A Plugin
+### Submitting A New Plugin
 
 All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](https://github.com/postcss/postcss/blob/master/docs/guidelines/plugin.md). There are scripts in place to make adding your plugin as easy as answering a few questions about it.
 
