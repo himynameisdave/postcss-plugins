@@ -3963,21 +3963,38 @@
     "stars": 0
   },
   {
+    "name": "postcss-ant",
+    "description": "that's capable of returning incredibly advanced calc formulas for fractions, auto-lengths, ratios, and more.",
+    "author": "corysimmons",
+    "url": "https://github.com/corysimmons/postcss-ant",
+    "tags": [
+      "grids",
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-harmonize",
+    "description": "PostCSS plugin to harmonize your CSS",
+    "author": "redaxmedia",
+    "url": "https://github.com/redaxmedia/postcss-harmonize",
+    "tags": [
+       "other"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-hamster",
     "description": "PostCSS Hamster framework. Vertical rhythm, Typogrаphy, Modular scale functions for CSS. Flexible system with high perfomance.",
     "author": "h0tc0d3",
     "url": "https://github.com/h0tc0d3/postcss-hamster",
     "tags": [
       "extensions",
-      "fallbacks",
       "fonts",
       "future",
       "grids",
-      "images",
-      "other",
-      "shortcuts",
-      "svg"
+      "shortcuts"
     ],
-    "stars": 0
+    "stars: 0   
   }
 ]

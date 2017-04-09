@@ -162,6 +162,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |    [`postcss-speech-bubble`](https://github.com/archana-s/postcss-speech-bubble)   |   7
 [colinmeinke](https://github.com/colinmeinke)   |    [`postcss-calc-function`](https://github.com/colinmeinke/postcss-calc-function)   |   0
    |    [`postcss-custom-props`](https://github.com/colinmeinke/postcss-custom-props)   |   0
+[corysimmons](https://github.com/corysimmons)   |    [`lost`](https://github.com/peterramsing/lost)   |   3497
+   |    [`postcss-ant`](https://github.com/corysimmons/postcss-ant)   |   0
 [dangvanthanh](https://github.com/dangvanthanh)   |    [`postcss-tipsy`](https://github.com/dangvanthanh/postcss-tipsy)   |   0
    |    [`postcss-longshadow-text`](https://github.com/dangvanthanh/postcss-longshadow-text)   |   1
 [davidtheclark](https://github.com/davidtheclark)   |    [`postcss-simple-extend`](https://github.com/davidtheclark/postcss-simple-extend)   |   31
@@ -256,7 +258,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [chriseppstein](https://github.com/chriseppstein)   |    [`postcss-lang-optimizer`](https://github.com/linkedin/postcss-lang-optimizer)   |   12
 [ChristianMurphy](https://github.com/ChristianMurphy)   |    [`postcss-combine-duplicated-selectors`](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors)   |   3
 [Code-Y](https://github.com/Code-Y)   |    [`postcss-cyspriter`](https://github.com/Code-Y/postcss-cyspriter)   |   4
-[corysimmons](https://github.com/corysimmons)   |    [`lost`](https://github.com/peterramsing/lost)   |   3497
 [crossjs](https://github.com/crossjs)   |    [`postcss-flexible`](https://github.com/crossjs/postcss-flexible)   |   9
 [Crunch](https://github.com/Crunch)   |    [`postcss-less-engine`](https://github.com/Crunch/postcss-less)   |   18
 [cssdream](https://github.com/cssdream)   |    [`cssgrace`](https://github.com/cssdream/cssgrace)   |   587
@@ -333,6 +334,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [pathsofdesign](https://github.com/pathsofdesign)   |    [`postcss-fakeid`](https://github.com/pathsofdesign/postcss-fakeid)   |   17
 [pazams](https://github.com/pazams)   |    [`postcss-scopify`](https://github.com/pazams/postcss-scopify)   |   24
 [Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   2
+[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0
 [retyui](https://github.com/retyui)   |    [`postcss-animations`](https://github.com/retyui/postcss-animations)   |   0
 [robwierzbowski](https://github.com/robwierzbowski)   |    [`pixrem`](https://github.com/robwierzbowski/node-pixrem)   |   163
 [rominmx](https://github.com/rominmx)   |    [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)   |   5
