@@ -1,3 +1,8 @@
+### v1.9.6
+- Adds [`postcss-ant`](https://github.com/corysimmons/postcss-ant)
+- Adds [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)
+- Adds [`postcss-hamster`](https://github.com/h0tc0d3/postcss-hamster)
+
 ### v1.9.5
 - Adds [`postcss-caralho`](https://github.com/SaraVieira/postcss-caralho)
 - Adds [`postcss-portuguese-stylesheets`](https://github.com/SaraVieira/postcss-portuguese-stylesheets)
