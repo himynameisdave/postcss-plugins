@@ -3982,5 +3982,19 @@
        "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-hamster",
+    "description": "PostCSS Hamster framework. Vertical rhythm, Typogrаphy, Modular scale functions for CSS. Flexible system with high perfomance.",
+    "author": "h0tc0d3",
+    "url": "https://github.com/h0tc0d3/postcss-hamster",
+    "tags": [
+      "extensions",
+      "fonts",
+      "future",
+      "grids",
+      "shortcuts"
+    ],
+    "stars: 0   
   }
 ]
