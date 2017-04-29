@@ -3996,5 +3996,15 @@
       "shortcuts"
     ],
     "stars": 3
+  },
+  {
+    "name": "postcss-typescript-css",
+    "description": "PostCSS plugin to create a TypeScript file by each CSS file.",
+    "author": "ezavile",
+    "url": "https://github.com/ezavile/postcss-typescript-css",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
