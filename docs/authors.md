@@ -275,6 +275,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [dimitrinicolas](https://github.com/dimitrinicolas)   |    [`postcss-inline-media`](https://github.com/dimitrinicolas/postcss-inline-media)   |   11
 [dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   62
 [emero](https://github.com/emero)   |    [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)   |   36
+[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   0
 [eriklharper](https://github.com/eriklharper)   |    [`postcss-nested-import`](https://github.com/eriklharper/postcss-nested-import)   |   0
 [F21](https://github.com/F21)   |    [`postcss-vertical-rhythm-function`](https://github.com/F21/postcss-vertical-rhythm-function)   |   5
 [fliptheweb](https://github.com/fliptheweb)   |    [`postcss-flow-root`](https://github.com/fliptheweb/postcss-flow-root)   |   9
