@@ -1,3 +1,7 @@
+### v1.9.7
+- Adds [`postcss-nested-import`](https://github.com/eriklharper/postcss-nested-import)
+- Adds [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)
+
 ### v1.9.6
 - Adds [`postcss-ant`](https://github.com/corysimmons/postcss-ant)
 - Adds [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)
