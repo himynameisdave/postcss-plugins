@@ -3998,6 +3998,19 @@
     "stars": 3
   },
   {
+    "name": "postcss-nested-import",
+    "description": "for importing other stylesheet source files anywhere in your CSS.",
+    "author": "eriklharper",
+    "url": "https://github.com/eriklharper/postcss-nested-import",
+    "tags": [
+      "extensions",
+      "optimizations",
+      "sass",
+      "shortcuts"
+    ],
+    "stars": 3
+  },
+  {
     "name": "postcss-typescript-css",
     "description": "PostCSS plugin to create a TypeScript file by each CSS file.",
     "author": "ezavile",
