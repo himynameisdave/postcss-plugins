@@ -4019,5 +4019,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-easing-gradients",
+    "description": "creates smooth linear-gradients that approximate easing functions.",
+    "author": "larsenwork",
+    "url": "https://github.com/larsenwork/postcss-easing-gradients",
+    "tags": [
+      "color",
+      "images"
+    ],
+    "stars": 0
   }
 ]
