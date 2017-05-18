@@ -4021,6 +4021,28 @@
     "stars": 0
   },
   {
+    "name": "postcss-easing-gradients",
+    "description": "creates smooth linear-gradients that approximate easing functions.",
+    "author": "larsenwork",
+    "url": "https://github.com/larsenwork/postcss-easing-gradients",
+    "tags": [
+      "color",
+      "images"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-state-selector",
+    "description": "which let you write CSS based on component's state.",
+    "author": "binjospookie",
+    "url": "https://github.com/binjospookie/postcss-state-selector",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
+  },
+  {
+
     "name": "postcss-roman-numerals",
     "description": "that allows to use roman numerals in your CSS code",
     "author": "azat-io",
