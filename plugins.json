@@ -4040,5 +4040,16 @@
       "extensions"
     ],
     "stars": 0
+  },
+  {
+
+    "name": "postcss-roman-numerals",
+    "description": "that allows to use roman numerals in your CSS code",
+    "author": "azat-io",
+    "url": "https://github.com/azat-io/postcss-roman-numerals",
+    "tags": [
+      "fun"
+    ],
+    "stars": 0
   }
 ]
