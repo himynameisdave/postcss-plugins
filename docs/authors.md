@@ -247,6 +247,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   114
 [BarryThePenguin](https://github.com/BarryThePenguin)   |    [`postcss-typography`](https://github.com/BarryThePenguin/postcss-typography)   |   18
 [bezoerb](https://github.com/bezoerb)   |    [`postcss-image-inliner`](https://github.com/bezoerb/postcss-image-inliner)   |   8
+[binjospookie](https://github.com/binjospookie)   |    [`postcss-state-selector`](https://github.com/binjospookie/postcss-state-selector)   |   0
 [bmds](https://github.com/bmds)   |    [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)   |   4
 [borodean](https://github.com/borodean)   |    [`postcss-assets`](https://github.com/borodean/postcss-assets)   |   396
 [btholt](https://github.com/btholt)   |    [`postcss-colorblind`](https://github.com/btholt/postcss-colorblind)   |   264

@@ -4030,5 +4030,15 @@
       "images"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-state-selector",
+    "description": "which let you write CSS based on component's state.",
+    "author": "binjospookie",
+    "url": "https://github.com/binjospookie/postcss-state-selector",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
   }
 ]
