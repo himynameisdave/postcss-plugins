@@ -290,7 +290,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [giuseppeg](https://github.com/giuseppeg)   |    [`postcss-pseudo-classes`](https://github.com/giuseppeg/postcss-pseudo-classes)   |   22
 [h0tc0d3](https://github.com/h0tc0d3)   |    [`postcss-hamster`](https://github.com/h0tc0d3/postcss-hamster)   |   22
 [HashanP](https://github.com/HashanP)   |    [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)   |   72
-[hegedusarpad](https://github.com/hegedusarpad)   |    [`postcss-google-color`](https://bitbucket.org/hegedusarpad/postcss-google-color)   |   0
+[arpadHegedus](https://github.com/arpadHegedus)   |    [`postcss-google-color`](https://github.com/arpadHegedus/postcss-google-color)   |   0
+   |    [`postcss-font-vsize`](https://github.com/arpadHegedus/postcss-font-vsize)   |   0
+   |    [`postcss-timing-function`](https://github.com/arpadHegedus/postcss-timing-function)   |   0
 [HoBi](https://github.com/HoBi)   |    [`postcss-czech-stylesheets`](https://github.com/HoBi/postcss-czech-stylesheets)   |   27
 [hudochenkov](https://github.com/hudochenkov)   |    [`postcss-sorting`](https://github.com/hudochenkov/postcss-sorting)   |   238
 [iahu](https://github.com/iahu)   |    [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)   |   5

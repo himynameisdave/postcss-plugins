@@ -3808,11 +3808,31 @@
   },
   {
     "name": "postcss-google-color",
-    "description": "PostCSS plugin for easily invoking the colors on the Google Material design color palette.",
-    "author": "hegedusarpad",
-    "url": "https://bitbucket.org/hegedusarpad/postcss-google-color",
+    "description": "A postcss plugin for easily invoking the colors on the Google Material design color palette",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-google-color",
     "tags": [
       "color"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-font-vsize",
+    "description": "A postcss plugin to add viewport relative font size with minimum and maximum values",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-font-vsize",
+    "tags": [
+      "extensions", "fonts", "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-timing-function",
+    "description": "A postcss plugin to add other common named timing functions without having to remember bezier values",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-timing-function",
+    "tags": [
+      "extensions", "shortcuts"
     ],
     "stars": 0
   },
