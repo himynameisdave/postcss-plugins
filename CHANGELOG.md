@@ -1,3 +1,12 @@
+### v1.9.8
+- Adds [`postcss-easing-gradients`](https://github.com/larsenwork/postcss-easing-gradients)
+- Adds [`postcss-state-selector`](https://github.com/binjospookie/postcss-state-selector)
+- Adds [`postcss-roman-numerals`](https://github.com/azat-io/postcss-roman-numerals)
+
+### v1.9.7
+- Adds [`postcss-nested-import`](https://github.com/eriklharper/postcss-nested-import)
+- Adds [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)
+
 ### v1.9.6
 - Adds [`postcss-ant`](https://github.com/corysimmons/postcss-ant)
 - Adds [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)
