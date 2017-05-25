@@ -4019,5 +4019,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-text-transform",
+    "description": "to transform the text.",
+    "author": "ezavile",
+    "url": "https://github.com/ezavile/postcss-text-transform",
+    "tags": [
+      "fallbacks",
+      "other"
+    ],
+    "stars": 0
   }
 ]
