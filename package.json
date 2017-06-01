@@ -1,6 +1,6 @@
 {
   "name": "postcss-plugins",
-  "version": "1.9.8",
+  "version": "1.9.9",
   "description": "A consolidated list of PostCSS plugins in an ready-to-use format.",
   "main": "index.js",
   "repository": {

@@ -1,3 +1,9 @@
+### v1.9.9
+- Updates [`postcss-google-color`](https://github.com/arpadHegedus/postcss-google-color) url
+- Adds [`postcss-font-vsize`](https://github.com/arpadHegedus/postcss-font-vsize)
+- Adds [`postcss-timing-function`](https://github.com/arpadHegedus/postcss-timing-function)
+- Adds [`postcss-text-transform`](https://github.com/ezavile/postcss-text-transform)
+
 ### v1.9.8
 - Adds [`postcss-easing-gradients`](https://github.com/larsenwork/postcss-easing-gradients)
 - Adds [`postcss-state-selector`](https://github.com/binjospookie/postcss-state-selector)
