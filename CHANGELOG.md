@@ -1,3 +1,7 @@
+### v1.9.10
+- Fixes the badegs in the README
+- Adds [`postcss-will-change-transition`](https://github.com/megatolya/postcss-will-change-transition)
+
 ### v1.9.9
 - Updates [`postcss-google-color`](https://github.com/arpadHegedus/postcss-google-color) url
 - Adds [`postcss-font-vsize`](https://github.com/arpadHegedus/postcss-font-vsize)
