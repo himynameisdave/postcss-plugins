@@ -4084,5 +4084,16 @@
       "other"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-will-change-transition",
+    "description": "adds will-change property after transition property to speed up animations",
+    "author": "megatolya",
+    "url": "https://github.com/megatolya/postcss-will-change-transition",
+    "tags": [
+      "optimizations",
+      "other"
+    ],
+    "stars": 0
   }
 ]
