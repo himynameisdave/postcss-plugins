@@ -1,4 +1,6 @@
-## PostCSS Plugin List [![npm version](https://badge.fury.io/js/postcss-plugins.svg)](http://badge.fury.io/js/postcss-plugins) [![Join the chat at https://gitter.im/himynameisdave/postcss-plugins](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/himynameisdave/postcss-plugins?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## PostCSS Plugin List [![npm version](https://img.shields.io/npm/v/postcss-plugins.svg)](https://www.npmjs.com/package/postcss-plugins)[![contributors](https://img.shields.io/github/contributors/himynameisdave/postcss-plugins.svg)](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md)
+
+
 
 The "officially unofficial" consolidated list of [PostCSS](https://github.com/postcss/postcss) plugins in a ready-to-use package.
 
