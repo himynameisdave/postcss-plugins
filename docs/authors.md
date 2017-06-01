@@ -171,6 +171,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
    |    [`list-selectors`](https://github.com/davidtheclark/list-selectors)   |   47
 [devex-web-frontend](https://github.com/devex-web-frontend)   |    [`postcss-assets-rebase`](https://github.com/devex-web-frontend/postcss-assets-rebase)   |   16
    |    [`postcss-regexp-detect`](https://github.com/devex-web-frontend/postcss-regexp-detect)   |   2
+[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   0
+   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-text-transform)   |   0
 [garthdb](https://github.com/garthdb)   |    [`postcss-topdoc`](https://github.com/GarthDB/postcss-topdoc)   |   1
    |    [`postcss-inherit`](https://github.com/GarthDB/postcss-inherit)   |   6
 [glebmachine](https://github.com/glebmachine)   |    [`postcss-cachebuster`](https://github.com/glebmachine/postcss-cachebuster)   |   11
