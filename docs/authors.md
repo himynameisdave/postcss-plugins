@@ -225,7 +225,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 [travco](https://github.com/travco)    |    [`postcss-extend`](https://github.com/travco/postcss-extend)   |   69
     |    [`postcss-secmodify`](https://github.com/travco/postcss-secmodify)   |   0
 [vital-software](https://github.com/vital-software)    |    [`postcss-rgb-to-rgba`](https://github.com/vital-software/postcss-rgb-to-rgba)   |   1
-    |    [`postcss-rgb-to-rgba`](https://github.com/vital-software/postcss-rgb-to-rgba)   |   1
 [yuezk](https://github.com/yuezk)    |    [`postcss-urlrev`](https://github.com/yuezk/postcss-urlrev)   |   16
     |    [`postcss-filter-gradient`](https://github.com/yuezk/postcss-filter-gradient)   |   13
 [zhouwenbin](https://github.com/zhouwenbin)    |    [`postcss-animation`](https://github.com/zhouwenbin/postcss-animation)   |   61
