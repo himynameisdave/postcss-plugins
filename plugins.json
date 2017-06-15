@@ -4085,5 +4085,17 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-image-set-generator",
+    "description": "Postcss plugin for generated imgeges for image-set()",
+    "author": "retyui",
+    "url": "https://github.com/retyui/postcss-image-set-generator",
+    "tags": [
+      "extensions",
+      "images",
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
