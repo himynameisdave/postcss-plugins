@@ -4087,6 +4087,18 @@
     "stars": 0
   },
   {
+    "name": "postcss-console",
+    "description": "plugin to output messages to the terminal",
+    "author": "ezavile",
+    "url": "https://github.com/ezavile/postcss-console",
+    "tags": [
+      "analysis",
+      "debug",
+      "other"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-image-set-generator",
     "description": "Postcss plugin for generated imgeges for image-set()",
     "author": "retyui",
