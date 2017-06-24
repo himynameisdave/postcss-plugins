@@ -1,5 +1,10 @@
+### v1.9.11
+- Removes duplicate of `postcss-rgb-to-rgba`
+- Adds [`postcss-console`](https://github.com/ezavile/postcss-console)
+- Adds [`postcss-image-set-generator`](https://github.com/retyui/postcss-image-set-generator)
+
 ### v1.9.10
-- Fixes the badegs in the README
+- Fixes the badges in the README
 - Adds [`postcss-will-change-transition`](https://github.com/megatolya/postcss-will-change-transition)
 
 ### v1.9.9
