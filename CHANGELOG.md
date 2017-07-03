@@ -1,3 +1,6 @@
+### v1.9.12
+- Fixes the [Authors table](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md), which was broken (#204)
+
 ### v1.9.11
 - Removes duplicate of `postcss-rgb-to-rgba`
 - Adds [`postcss-console`](https://github.com/ezavile/postcss-console)
