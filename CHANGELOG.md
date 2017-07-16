@@ -1,3 +1,15 @@
+### v1.9.13
+- Adds [`postcss-autocorrect`](https://github.com/DimitrisNL/postcss-autocorrect)
+- Adds [`postcss-ellipsis`](https://github.com/arpadHegedus/postcss-ellipsis)
+- Adds [`postcss-clear-fix`](https://github.com/arpadHegedus/postcss-clear-fix)
+- Adds [`postcss-extends`](https://github.com/arpadHegedus/postcss-extends)
+- Adds [`postcss-font`](https://github.com/arpadHegedus/postcss-font)
+- Adds [`postcss-morphicon`](https://github.com/arpadHegedus/postcss-morphicon)
+- Adds [`postcss-node-sass`](https://github.com/arpadHegedus/postcss-node-sass)
+- Adds [`postcss-rgb`](https://github.com/arpadHegedus/postcss-rgb)
+- Adds [`postcss-sides`](https://github.com/arpadHegedus/postcss-sides)
+
+
 ### v1.9.12
 - Fixes the [Authors table](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md), which was broken (#204)
 
