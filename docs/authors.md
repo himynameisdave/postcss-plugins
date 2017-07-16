@@ -289,6 +289,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[devgru](https://github.com/devgru)   |    [`postcss-color-hcl`](https://github.com/devgru/postcss-color-hcl)   |   4|
 |[dfernandez79](https://github.com/dfernandez79)   |    [`postcss-ase-colors`](https://github.com/dfernandez79/postcss-ase-colors)   |   8|
 |[dimitrinicolas](https://github.com/dimitrinicolas)   |    [`postcss-inline-media`](https://github.com/dimitrinicolas/postcss-inline-media)   |   12|
+|[DimitrisNL](https://github.com/DimitrisNL)   |    [`postcss-autocorrect`](https://github.com/DimitrisNL/postcss-autocorrect)   |   0|
 |[dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   63|
 |[emero](https://github.com/emero)   |    [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)   |   36|
 |[eriklharper](https://github.com/eriklharper)   |    [`postcss-nested-import`](https://github.com/eriklharper/postcss-nested-import)   |   3|
