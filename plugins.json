@@ -4109,5 +4109,16 @@
       "optimizations"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-autocorrect",
+    "description": "that corrects your everyday typos",
+    "author": "DimitrisNL",
+    "url": "https://github.com/DimitrisNL/postcss-autocorrect",
+    "tags": [
+      "optimizations",
+      "other"
+    ],
+    "stars": 0
   }
 ]
