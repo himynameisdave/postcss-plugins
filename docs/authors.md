@@ -84,6 +84,17 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-colormin`](https://github.com/ben-eb/postcss-colormin)   |   6|
 |   |    [`postcss-color-yiq`](https://github.com/ben-eb/postcss-color-yiq)   |   13|
 |   |    [`postcss-resemble-image`](https://github.com/ben-eb/postcss-resemble-image)   |   329|
+|[arpadHegedus](https://github.com/arpadHegedus)   |    [`postcss-google-color`](https://github.com/arpadHegedus/postcss-google-color)   |   3|
+|   |    [`postcss-font-vsize`](https://github.com/arpadHegedus/postcss-font-vsize)   |   0|
+|   |    [`postcss-timing-function`](https://github.com/arpadHegedus/postcss-timing-function)   |   1|
+|   |    [`postcss-ellipsis`](https://github.com/arpadHegedus/postcss-ellipsis)   |   0|
+|   |    [`postcss-clear-fix`](https://github.com/arpadHegedus/postcss-clear-fix)   |   0|
+|   |    [`postcss-extends`](https://github.com/arpadHegedus/postcss-extends)   |   0|
+|   |    [`postcss-font`](https://github.com/arpadHegedus/postcss-font)   |   0|
+|   |    [`postcss-morphicon`](https://github.com/arpadHegedus/postcss-morphicon)   |   0|
+|   |    [`postcss-node-sass`](https://github.com/arpadHegedus/postcss-node-sass)   |   0|
+|   |    [`postcss-rgb`](https://github.com/arpadHegedus/postcss-rgb)   |   0|
+|   |    [`postcss-sides`](https://github.com/arpadHegedus/postcss-sides)   |   0|
 |[jedmao](https://github.com/jedmao)   |    [`postcss-nested-props`](https://github.com/jedmao/postcss-nested-props)   |   39|
 |   |    [`postcss-font-pack`](https://github.com/jedmao/postcss-font-pack)   |   16|
 |   |    [`postcss-all-link-colors`](https://github.com/jedmao/postcss-all-link-colors)   |   13|
@@ -131,9 +142,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[arccoza](https://github.com/arccoza)   |    [`postcss-layout`](https://github.com/arccoza/postcss-layout)   |   9|
 |   |    [`postcss-if-media`](https://github.com/arccoza/postcss-if-media)   |   25|
 |   |    [`postcss-aspect-ratio`](https://github.com/arccoza/postcss-aspect-ratio)   |   13|
-|[arpadHegedus](https://github.com/arpadHegedus)   |    [`postcss-google-color`](https://github.com/arpadHegedus/postcss-google-color)   |   3|
-|   |    [`postcss-font-vsize`](https://github.com/arpadHegedus/postcss-font-vsize)   |   0|
-|   |    [`postcss-timing-function`](https://github.com/arpadHegedus/postcss-timing-function)   |   1|
 |[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   3|
 |   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-text-transform)   |   2|
 |   |    [`postcss-console`](https://github.com/ezavile/postcss-console)   |   2|

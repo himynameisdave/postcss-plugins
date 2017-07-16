@@ -4120,5 +4120,96 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-ellipsis",
+    "description": "A PostCSS plugin to add automatically add overflow: hidden and white-space: nowrap when text-overflow: ellipsis is declared",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-ellipsis",
+    "tags": [
+      "extensions",
+      "optimizations",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-clear-fix",
+    "description": "A PostCSS plugin to add clearfix in one line.",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-clear-fix",
+    "tags": [
+      "extensions",
+      "optimizations",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-extends",
+    "description": "A PostCSS plugin to extend simple rules",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-extends",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-font",
+    "description": "A PostCSS plugin to add font related properties in one line.",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-font",
+    "tags": [
+      "extensions",
+      "optimizations",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-morphicon",
+    "description": "A PostCSS plugin to add special morphable icons done in pure HTML/CSS",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-morphicon",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-node-sass",
+    "description": "A PostCSS plugin to parse styles with node-sass",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-node-sass",
+    "tags": [
+      "extensions",
+      "sass"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-rgb",
+    "description": "A PostCSS plugin to use rgb and rgba with hex values",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-rgb",
+    "tags": [
+      "color",
+      "sass",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-sides",
+    "description": "A PostCSS plugin to enable 'null' in margin and padding shorthands",
+    "author": "arpadHegedus",
+    "url": "https://github.com/arpadHegedus/postcss-sides",
+    "tags": [
+      "extensions",
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
