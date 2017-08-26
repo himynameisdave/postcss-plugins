@@ -330,6 +330,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[laureanoarcanio](https://github.com/laureanoarcanio)   |    [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)   |   14|
 |[leodido](https://github.com/leodido)   |    [`postcss-clean`](https://github.com/leodido/postcss-clean)   |   9|
 |[LestaD](https://github.com/LestaD)   |    [`postcss-define-units`](https://github.com/LestaD/postcss-define-units)   |   1|
+|[letsjaam](https://github.com/letsjaam)   |    [`letter-tracking`](https://github.com/letsjaam/postcss-letter-tracking)   |   0|
 |[liquidlight](https://github.com/liquidlight)   |    [`postcss-pseudo-content-insert`](https://github.com/liquidlight/postcss-pseudo-content-insert)   |   10|
 |[longdog](https://github.com/longdog)   |    [`postcss-color-pantone`](https://github.com/longdog/postcss-color-pantone)   |   10|
 |[lordgiotto](https://github.com/lordgiotto)   |    [`postcss-oldschool-grid`](https://github.com/lordgiotto/postcss-oldschool-grid)   |   2|
