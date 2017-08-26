@@ -4211,5 +4211,16 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-single-line",
+    "description": "A PostCSS plugin that formats single-property rules on one line.",
+    "author": "aleray",
+    "url": "https://github.com/aleray/postcss-single-line",
+    "tags": [
+      "optimizations",
+      "pack"
+    ],
+    "stars": 0
   }
 ]

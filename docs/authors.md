@@ -247,6 +247,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[aemoe](https://github.com/aemoe)   |    [`postcss-display-inline-blcok`](https://github.com/aemoe/postcss-display-inline-block)   |   4|
 |[ahmadalfy](https://github.com/ahmadalfy)   |    [`postcss-logical-properties`](https://github.com/ahmadalfy/postcss-logical-properties)   |   3|
 |[ahtohbi4](https://github.com/ahtohbi4)   |    [`postcss-bgimage`](https://github.com/ahtohbi4/postcss-bgimage)   |   11|
+|[aleray](https://github.com/aleray)   |    [`postcss-single-line`](https://github.com/aleray/postcss-plugins)   |   0|
 |[alex499](https://github.com/alex499)   |    [`postcss-image-set`](https://github.com/alex499/postcss-image-set)   |   19|
 |[alexandr-solovyov](https://github.com/alexandr-solovyov)   |    [`postcss-responsive-properties`](https://github.com/alexandr-solovyov/postcss-responsive-properties)   |   3|
 |[anandthakker](https://github.com/anandthakker)   |    [`doiuse`](https://github.com/anandthakker/doiuse)   |   567|
