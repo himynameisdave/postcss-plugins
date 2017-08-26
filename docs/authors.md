@@ -133,6 +133,10 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-increase-specificity`](https://github.com/MadLittleMods/postcss-increase-specificity)   |   29|
 |   |    [`postcss-reverse-media`](https://github.com/MadLittleMods/postcss-reverse-media)   |   1|
 |   |    [`postcss-raw`](https://github.com/MadLittleMods/postcss-raw)   |   0|
+|[MattDiMu](https://github.com/MattDiMu)   |    [`postcss-fixes`](https://github.com/MattDiMu/postcss-fixes)   |   44|
+|   |    [`postcss-class-patterns`](https://github.com/MattDiMu/postcss-class-patterns)   |   12|
+|   |    [`postcss-nth-child-fix`](https://github.com/MattDiMu/postcss-nth-child-fix)   |   6|
+|   |    [`postcss-gap`](https://github.com/MattDiMu/postcss-gap)   |   0|
 |[alanev](https://github.com/alanev)   |    [`postcss-filter`](https://github.com/alanev/postcss-filter)   |   3|
 |   |    [`postcss-property-shorthand`](https://github.com/alanev/postcss-property-shorthand)   |   0|
 |   |    [`postcss-randomcolor`](https://github.com/alanev/postcss-randomcolor)   |   0|
@@ -151,9 +155,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[komachi](https://github.com/komachi)   |    [`usedcss`](https://github.com/komachi/usedcss)   |   41|
 |   |    [`postcss-clip-path-polyfill`](https://github.com/komachi/postcss-clip-path-polyfill)   |   18|
 |   |    [`postcss-dialog-polyfill`](https://github.com/komachi/postcss-dialog-polyfill)   |   1|
-|[MattDiMu](https://github.com/MattDiMu)   |    [`postcss-fixes`](https://github.com/MattDiMu/postcss-fixes)   |   44|
-|   |    [`postcss-class-patterns`](https://github.com/MattDiMu/postcss-class-patterns)   |   12|
-|   |    [`postcss-nth-child-fix`](https://github.com/MattDiMu/postcss-nth-child-fix)   |   6|
 |[maximkoretskiy](https://github.com/maximkoretskiy)   |    [`postcss-initial`](https://github.com/maximkoretskiy/postcss-initial)   |   120|
 |   |    [`postcss-autoreset`](https://github.com/maximkoretskiy/postcss-autoreset)   |   164|
 |   |    [`postcss-alias-atrules`](https://github.com/maximkoretskiy/postcss-alias-atrules)   |   1|
