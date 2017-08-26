@@ -248,6 +248,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[aemoe](https://github.com/aemoe)   |    [`postcss-display-inline-blcok`](https://github.com/aemoe/postcss-display-inline-block)   |   4|
 |[ahmadalfy](https://github.com/ahmadalfy)   |    [`postcss-logical-properties`](https://github.com/ahmadalfy/postcss-logical-properties)   |   3|
 |[ahtohbi4](https://github.com/ahtohbi4)   |    [`postcss-bgimage`](https://github.com/ahtohbi4/postcss-bgimage)   |   11|
+|[aleray](https://github.com/aleray)   |    [`postcss-single-line`](https://github.com/aleray/postcss-plugins)   |   0|
 |[alex499](https://github.com/alex499)   |    [`postcss-image-set`](https://github.com/alex499/postcss-image-set)   |   19|
 |[alexandr-solovyov](https://github.com/alexandr-solovyov)   |    [`postcss-responsive-properties`](https://github.com/alexandr-solovyov/postcss-responsive-properties)   |   3|
 |[anandthakker](https://github.com/anandthakker)   |    [`doiuse`](https://github.com/anandthakker/doiuse)   |   567|
@@ -330,6 +331,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[laureanoarcanio](https://github.com/laureanoarcanio)   |    [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)   |   14|
 |[leodido](https://github.com/leodido)   |    [`postcss-clean`](https://github.com/leodido/postcss-clean)   |   9|
 |[LestaD](https://github.com/LestaD)   |    [`postcss-define-units`](https://github.com/LestaD/postcss-define-units)   |   1|
+|[letsjaam](https://github.com/letsjaam)   |    [`letter-tracking`](https://github.com/letsjaam/postcss-letter-tracking)   |   0|
 |[liquidlight](https://github.com/liquidlight)   |    [`postcss-pseudo-content-insert`](https://github.com/liquidlight/postcss-pseudo-content-insert)   |   10|
 |[longdog](https://github.com/longdog)   |    [`postcss-color-pantone`](https://github.com/longdog/postcss-color-pantone)   |   10|
 |[lordgiotto](https://github.com/lordgiotto)   |    [`postcss-oldschool-grid`](https://github.com/lordgiotto/postcss-oldschool-grid)   |   2|
