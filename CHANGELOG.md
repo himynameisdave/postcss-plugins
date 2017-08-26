@@ -1,3 +1,8 @@
+### v1.9.14
+- Adds [`postcss-single-line`](https://github.com/aleray/postcss-single-line)
+- Adds [`postcss-letter-tracking`](https://github.com/letsjaam/postcss-letter-tracking)
+- Adds [`postcss-gap`](https://github.com/MattDiMu/postcss-gap)
+
 ### v1.9.13
 - Adds [`postcss-autocorrect`](https://github.com/DimitrisNL/postcss-autocorrect)
 - Adds [`postcss-ellipsis`](https://github.com/arpadHegedus/postcss-ellipsis)
@@ -8,7 +13,6 @@
 - Adds [`postcss-node-sass`](https://github.com/arpadHegedus/postcss-node-sass)
 - Adds [`postcss-rgb`](https://github.com/arpadHegedus/postcss-rgb)
 - Adds [`postcss-sides`](https://github.com/arpadHegedus/postcss-sides)
-
 
 ### v1.9.12
 - Fixes the [Authors table](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md), which was broken (#204)
