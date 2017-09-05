@@ -398,5 +398,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[WolfgangKluge](https://github.com/WolfgangKluge)   |    [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)   |   5|
 |[XOP](https://github.com/XOP)   |    [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)   |   0|
 |[zaim](https://github.com/zaim)   |    [`postcss-color-palette`](https://github.com/zaim/postcss-color-palette)   |   20|
+|[ZeeCoder](https://github.com/ZeeCoder)   |    [`@zeecoder/postcss-container-query`](https://github.com/ZeeCoder/container-query)   |   0|
 |[zephraph](https://github.com/zephraph)   |    [`postcss-process-comments`](https://github.com/zephraph/postcss-process-comments)   |   1|
 |[zgreen](https://github.com/zgreen)   |    [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)   |   27|

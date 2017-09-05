@@ -4244,5 +4244,16 @@
       "grids"
     ],
     "stars": 2
+  },
+  {
+    "name": "@zeecoder/postcss-container-query",
+    "description": "Extracts container query related declarations and converts them to a JSON.",
+    "author": "ZeeCoder",
+    "url": "https://github.com/ZeeCoder/container-query",
+    "tags": [
+      "analysis",
+      "other"
+    ],
+    "stars": 0
   }
 ]
