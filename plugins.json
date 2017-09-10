@@ -4244,5 +4244,15 @@
       "grids"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-dss",
+    "description": "builds documentation based on the DSS Parser Edit",
+    "author": "benmcginnis",
+    "url": "https://github.com/benmcginnis/postcss-dss",
+    "tags": [
+      "analysis"
+    ],
+    "stars": 0
   }
 ]
