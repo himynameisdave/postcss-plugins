@@ -4244,5 +4244,15 @@
       "grids"
     ],
     "stars": 2
+  },
+  {
+    "name": "jsmath",
+    "description": "to do some math",
+    "author": "naaspati",
+    "url": "https://github.com/naaspati/postcss-jsmath",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
   }
 ]
