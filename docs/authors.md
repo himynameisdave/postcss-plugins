@@ -146,6 +146,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[arccoza](https://github.com/arccoza)   |    [`postcss-layout`](https://github.com/arccoza/postcss-layout)   |   9|
 |   |    [`postcss-if-media`](https://github.com/arccoza/postcss-if-media)   |   25|
 |   |    [`postcss-aspect-ratio`](https://github.com/arccoza/postcss-aspect-ratio)   |   16|
+|[archana-s](https://github.com/archana-s)   |    [`postcss-flexbox`](https://github.com/archana-s/postcss-flexbox)   |   66|
+|   |    [`postcss-speech-bubble`](https://github.com/archana-s/postcss-speech-bubble)   |   7|
+|   |    [`postcss-colorfix`](https://github.com/archana-s/postcss-colorfix)   |   0|
 |[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   3|
 |   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-text-transform)   |   2|
 |   |    [`postcss-console`](https://github.com/ezavile/postcss-console)   |   3|
@@ -174,8 +177,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-debug`](https://github.com/andywer/postcss-debug)   |   81|
 |[antyakushev](https://github.com/antyakushev)   |    [`postcss-for`](https://github.com/antyakushev/postcss-for)   |   56|
 |   |    [`postcss-default-unit`](https://github.com/antyakushev/postcss-default-unit)   |   5|
-|[archana-s](https://github.com/archana-s)   |    [`postcss-flexbox`](https://github.com/archana-s/postcss-flexbox)   |   66|
-|   |    [`postcss-speech-bubble`](https://github.com/archana-s/postcss-speech-bubble)   |   7|
 |[colinmeinke](https://github.com/colinmeinke)   |    [`postcss-calc-function`](https://github.com/colinmeinke/postcss-calc-function)   |   0|
 |   |    [`postcss-custom-props`](https://github.com/colinmeinke/postcss-custom-props)   |   0|
 |[corysimmons](https://github.com/corysimmons)   |    [`lost`](https://github.com/peterramsing/lost)   |   3804|
