@@ -4244,5 +4244,17 @@
       "grids"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-light-text",
+    "description": "that adds webkit antialiasing for light text.",
+    "author": "jdsteinbach",
+    "url": "https://github.com/jdsteinbach/postcss-light-text",
+    "tags": [
+      "color",
+      "fonts",
+      "other"
+    ],
+    "stars": 0
   }
 ]
