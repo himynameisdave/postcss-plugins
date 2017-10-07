@@ -4245,6 +4245,67 @@
     ],
     "stars": 2
   },
+    "name": "postcss-hash",
+    "description": "to replace output file names with HASH algorithms (md5, sha256, sha512, etc) and string length of your choice - for cache busting",
+    "author": "dacodekid",
+    "url": "https://github.com/dacodekid/postcss-hash",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-at-debug",
+    "description": "to keep rulues inside the @debug at-rule in debug mode and remove them in release mode.",
+    "author": "rezoh",
+    "url": "https://github.com/rezoh/postcss-at-debug",
+    "tags": [
+      "debug" 
+    ],
+    "stars": 0
+  },
+  {
+    "name": "@zeecoder/postcss-container-query",
+    "description": "Extracts container query related declarations and converts them to a JSON.",
+    "author": "ZeeCoder",
+    "url": "https://github.com/ZeeCoder/container-query",
+    "tags": [
+      "analysis",
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-dss",
+    "description": "builds documentation based on the DSS Parser Edit",
+    "author": "benmcginnis",
+    "url": "https://github.com/benmcginnis/postcss-dss",
+    "tags": [
+      "analysis"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "jsmath",
+    "description": "to do some math",
+    "author": "naaspati",
+    "url": "https://github.com/naaspati/postcss-jsmath",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-colorfix",
+    "description": "that lints CSS and looks for colors that are not set as variables and recommends closest color match from the palette provided in options.",
+    "author": "archana-s",
+    "url": "https://github.com/archana-s/postcss-colorfix",
+    "tags": [
+      "analysis",
+      "optimizations"
+    ],
+    "stars": 0
+  },
   {
     "name": "postcss-light-text",
     "description": "that adds webkit antialiasing for light text.",

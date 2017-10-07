@@ -146,6 +146,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[arccoza](https://github.com/arccoza)   |    [`postcss-layout`](https://github.com/arccoza/postcss-layout)   |   9|
 |   |    [`postcss-if-media`](https://github.com/arccoza/postcss-if-media)   |   25|
 |   |    [`postcss-aspect-ratio`](https://github.com/arccoza/postcss-aspect-ratio)   |   16|
+|[archana-s](https://github.com/archana-s)   |    [`postcss-flexbox`](https://github.com/archana-s/postcss-flexbox)   |   66|
+|   |    [`postcss-speech-bubble`](https://github.com/archana-s/postcss-speech-bubble)   |   7|
+|   |    [`postcss-colorfix`](https://github.com/archana-s/postcss-colorfix)   |   0|
 |[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   3|
 |   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-text-transform)   |   2|
 |   |    [`postcss-console`](https://github.com/ezavile/postcss-console)   |   3|
@@ -174,8 +177,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-debug`](https://github.com/andywer/postcss-debug)   |   81|
 |[antyakushev](https://github.com/antyakushev)   |    [`postcss-for`](https://github.com/antyakushev/postcss-for)   |   56|
 |   |    [`postcss-default-unit`](https://github.com/antyakushev/postcss-default-unit)   |   5|
-|[archana-s](https://github.com/archana-s)   |    [`postcss-flexbox`](https://github.com/archana-s/postcss-flexbox)   |   66|
-|   |    [`postcss-speech-bubble`](https://github.com/archana-s/postcss-speech-bubble)   |   7|
 |[colinmeinke](https://github.com/colinmeinke)   |    [`postcss-calc-function`](https://github.com/colinmeinke/postcss-calc-function)   |   0|
 |   |    [`postcss-custom-props`](https://github.com/colinmeinke/postcss-custom-props)   |   0|
 |[corysimmons](https://github.com/corysimmons)   |    [`lost`](https://github.com/peterramsing/lost)   |   3804|
@@ -263,6 +264,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[axvm](https://github.com/axvm)   |    [`postcss-pure-grid`](https://github.com/axvm/postcss-pure-grid)   |   3|
 |[bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   162|
 |[BarryThePenguin](https://github.com/BarryThePenguin)   |    [`postcss-typography`](https://github.com/BarryThePenguin/postcss-typography)   |   21|
+|[benmcginnis](https://github.com/benmcginnis)   |    [`postcss-dss`](https://github.com/benmcginnis/postcss-dss)   |   0|
 |[bezoerb](https://github.com/bezoerb)   |    [`postcss-image-inliner`](https://github.com/bezoerb/postcss-image-inliner)   |   9|
 |[binjospookie](https://github.com/binjospookie)   |    [`postcss-state-selector`](https://github.com/binjospookie/postcss-state-selector)   |   3|
 |[bmds](https://github.com/bmds)   |    [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)   |   6|
@@ -283,6 +285,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[cssstats](https://github.com/cssstats)   |    [`postcss-cssstats`](https://github.com/cssstats/postcss-cssstats)   |   44|
 |[ctxhou](https://github.com/ctxhou)   |    [`postcss-hash-classname`](https://github.com/ctxhou/postcss-hash-classname)   |   47|
 |[cuth](https://github.com/cuth)   |    [`postcss-pxtorem`](https://github.com/cuth/postcss-pxtorem)   |   290|
+|[dacodekid](https://github.com/dacodekid)   |    [`postcss-hash`](https://github.com/dacodekid/postcss-hash)   |   0|
 |[daleeidd](https://github.com/daleeidd)   |    [`postcss-define-property`](https://github.com/daleeidd/postcss-define-property)   |   32|
 |[dan-gamble](https://github.com/dan-gamble)   |    [`postcss-font-awesome`](https://github.com/dan-gamble/postcss-font-awesome)   |   26|
 |[davidhemphill](https://github.com/davidhemphill)   |    [`postcss-verthorz`](https://github.com/davidhemphill/postcss-verthorz)   |   11|
@@ -347,6 +350,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[moczolaszlo](https://github.com/moczolaszlo)   |    [`postcss-inline-comment`](https://github.com/moczolaszlo/postcss-inline-comment)   |   16|
 |[MohammadYounes](https://github.com/MohammadYounes)   |    [`rtlcss`](https://github.com/MohammadYounes/rtlcss)   |   778|
 |[mystrdat](https://github.com/mystrdat)   |    [`postcss-inrule`](https://github.com/salsita/postcss-inrule)   |   6|
+|[naaspati](https://github.com/naaspati)   |    [`jsmath`](https://github.com/naaspati/postcss-jsmath)   |   0|
 |[nicksheffield](https://github.com/nicksheffield)   |    [`postcss-color-hexa`](https://github.com/nicksheffield/postcss-color-hexa)   |   6|
 |[notacouch](https://github.com/notacouch)   |    [`postcss-mqwidth-to-class`](https://github.com/notacouch/postcss-mqwidth-to-class)   |   5|
 |[nucliweb](https://github.com/nucliweb)   |    [`postcss-magic-animations`](https://github.com/nucliweb/postcss-magic-animations)   |   36|
@@ -358,6 +362,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[pazams](https://github.com/pazams)   |    [`postcss-scopify`](https://github.com/pazams/postcss-scopify)   |   24|
 |[Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   3|
 |[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0|
+|[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   0|
 |[robwierzbowski](https://github.com/robwierzbowski)   |    [`pixrem`](https://github.com/robwierzbowski/node-pixrem)   |   176|
 |[rominmx](https://github.com/rominmx)   |    [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)   |   6|
 |[ronnyamarante](https://github.com/ronnyamarante)   |    [`postcss-selector-prefixer`](https://github.com/ronnyamarante/postcss-selector-prefixer)   |   2|
@@ -399,5 +404,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[WolfgangKluge](https://github.com/WolfgangKluge)   |    [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)   |   5|
 |[XOP](https://github.com/XOP)   |    [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)   |   0|
 |[zaim](https://github.com/zaim)   |    [`postcss-color-palette`](https://github.com/zaim/postcss-color-palette)   |   20|
+|[ZeeCoder](https://github.com/ZeeCoder)   |    [`@zeecoder/postcss-container-query`](https://github.com/ZeeCoder/container-query)   |   0|
 |[zephraph](https://github.com/zephraph)   |    [`postcss-process-comments`](https://github.com/zephraph/postcss-process-comments)   |   1|
 |[zgreen](https://github.com/zgreen)   |    [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)   |   27|
