@@ -4254,5 +4254,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-at-debug",
+    "description": "to keep rulues inside the @debug at-rule in debug mode and remove them in release mode.",
+    "author": "rezoh",
+    "url": "https://github.com/rezoh/postcss-at-debug",
+    "tags": [
+      "debug" 
+    ],
+    "stars": 0
   }
 ]
