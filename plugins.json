@@ -4294,5 +4294,16 @@
       "extensions"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-colorfix",
+    "description": "that lints CSS and looks for colors that are not set as variables and recommends closest color match from the palette provided in options.",
+    "author": "archana-s",
+    "url": "https://github.com/archana-s/postcss-colorfix",
+    "tags": [
+      "analysis",
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
