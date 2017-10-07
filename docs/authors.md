@@ -283,6 +283,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[cssstats](https://github.com/cssstats)   |    [`postcss-cssstats`](https://github.com/cssstats/postcss-cssstats)   |   44|
 |[ctxhou](https://github.com/ctxhou)   |    [`postcss-hash-classname`](https://github.com/ctxhou/postcss-hash-classname)   |   47|
 |[cuth](https://github.com/cuth)   |    [`postcss-pxtorem`](https://github.com/cuth/postcss-pxtorem)   |   290|
+|[dacodekid](https://github.com/dacodekid)   |    [`postcss-hash`](https://github.com/dacodekid/postcss-hash)   |   0|
 |[daleeidd](https://github.com/daleeidd)   |    [`postcss-define-property`](https://github.com/daleeidd/postcss-define-property)   |   32|
 |[dan-gamble](https://github.com/dan-gamble)   |    [`postcss-font-awesome`](https://github.com/dan-gamble/postcss-font-awesome)   |   26|
 |[davidhemphill](https://github.com/davidhemphill)   |    [`postcss-verthorz`](https://github.com/davidhemphill/postcss-verthorz)   |   11|
