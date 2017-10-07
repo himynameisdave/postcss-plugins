@@ -4246,6 +4246,26 @@
     "stars": 2
   },
   {
+    "name": "postcss-hash",
+    "description": "to replace output file names with HASH algorithms (md5, sha256, sha512, etc) and string length of your choice - for cache busting",
+    "author": "dacodekid",
+    "url": "https://github.com/dacodekid/postcss-hash",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-at-debug",
+    "description": "to keep rulues inside the @debug at-rule in debug mode and remove them in release mode.",
+    "author": "rezoh",
+    "url": "https://github.com/rezoh/postcss-at-debug",
+    "tags": [
+      "debug" 
+    ],
+    "stars": 0
+  },
+  {
     "name": "@zeecoder/postcss-container-query",
     "description": "Extracts container query related declarations and converts them to a JSON.",
     "author": "ZeeCoder",
