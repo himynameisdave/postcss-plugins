@@ -4245,7 +4245,6 @@
     ],
     "stars": 2
   },
-  {
     "name": "postcss-hash",
     "description": "to replace output file names with HASH algorithms (md5, sha256, sha512, etc) and string length of your choice - for cache busting",
     "author": "dacodekid",
@@ -4273,6 +4272,16 @@
     "tags": [
       "analysis",
       "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-dss",
+    "description": "builds documentation based on the DSS Parser Edit",
+    "author": "benmcginnis",
+    "url": "https://github.com/benmcginnis/postcss-dss",
+    "tags": [
+      "analysis"
     ],
     "stars": 0
   }
