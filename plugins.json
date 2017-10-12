@@ -4245,6 +4245,7 @@
     ],
     "stars": 2
   },
+  {
     "name": "postcss-hash",
     "description": "to replace output file names with HASH algorithms (md5, sha256, sha512, etc) and string length of your choice - for cache busting",
     "author": "dacodekid",
