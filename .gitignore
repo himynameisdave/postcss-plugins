@@ -3,3 +3,4 @@
 token.json
 npm-debug.log
 test/.tmp/**
+yarn-error.log
