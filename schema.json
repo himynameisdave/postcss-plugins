@@ -1,0 +1,39 @@
+{
+    "$schema": "http://json-schema.org/draft-06/schema#",
+    "definitions": {},
+    "type": "array",
+    "additionalItems": false,
+    "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "properties": {
+            "name": {
+                "type": "string"
+            },
+            "description": {
+                "type": "string"
+            },
+            "author": {
+                "type": "string"
+            },
+            "url": {
+                "type": "string"
+            },
+            "tags": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "packs": {
+                "type": "array",
+                "items": {
+                    "type": "string"
+                }
+            },
+            "stars":{
+                "type": "number"
+            }
+        }
+    }
+}

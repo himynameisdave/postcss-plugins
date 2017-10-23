@@ -1,4 +1,6 @@
-const { assert } = require('chai');
+const chai = require('chai');
+chai.use(require('chai-json-schema'));
+const { assert, expect } = chai;
 const writePlugins = require('../scripts/utils/writePlugins.js');
 const path = {
   test1: '.tmp/test_writePlugins-1.json',
@@ -23,5 +25,12 @@ describe('utils/writePlugins', () => {
         assert.deepEqual(expected, actual);
       })
       .catch(console.warn);
+  });
+  it('has valid json', () => {
+    expect(
+        require('../plugins.json')
+    ).to.be.jsonSchema(
+        require('../schema.json')
+    );
   });
 });
