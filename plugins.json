@@ -4261,7 +4261,7 @@
     "author": "rezoh",
     "url": "https://github.com/rezoh/postcss-at-debug",
     "tags": [
-      "debug" 
+      "debug"
     ],
     "stars": 0
   },
@@ -4316,6 +4316,18 @@
       "color",
       "fonts",
       "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-encode-background-svgs",
+    "description": "to encode background svgs ensuring cross browser compatibility.",
+    "author": "chrisboakes",
+    "url": "https://github.com/chrisboakes/postcss-encode-background-svgs",
+    "tags": [
+      "images",
+      "other",
+      "svg"
     ],
     "stars": 0
   }
