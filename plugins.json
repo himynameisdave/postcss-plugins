@@ -599,7 +599,7 @@
     "url": "https://github.com/1j01/postcss-gtk",
     "description": "Processes GTK+ CSS into browser CSS.",
     "tags": [
-      "https://github.com/1j01/postcss-gtk"
+      "gtk"
     ],
     "author": "1j01",
     "stars": 13
