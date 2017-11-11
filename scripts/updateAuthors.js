@@ -34,8 +34,8 @@ const authors = plugins.reduce((acc, i) => {
   }
   return acc;
 }, [])
-.sort(sortFunction)
-.reduce((acc, i) => `${acc}|[${i.author}](https://github.com/${i.author})${i.plugins.join('')}`, textBlock);
+  .sort(sortFunction)
+  .reduce((acc, i) => `${acc}|[${i.author}](https://github.com/${i.author})${i.plugins.join('')}`, textBlock);
 
 //  Actually write the authors.md file
 fs.writeFile(path.join(process.cwd(), 'docs/authors.md'), authors, oops => {

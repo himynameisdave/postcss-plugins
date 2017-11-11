@@ -1,6 +1,6 @@
 {
   "name": "postcss-plugins",
-  "version": "1.9.14",
+  "version": "1.10.1",
   "description": "A consolidated list of PostCSS plugins in an ready-to-use format.",
   "main": "index.js",
   "repository": {
@@ -15,21 +15,25 @@
     "add-new-plugin": "node scripts/addNewPlugin.js",
     "update-authors": "node scripts/updateAuthors.js",
     "update-stars": "node scripts/updateStars.js && node scripts/updateAuthors.js",
+    "precommit": "node scripts/updateAuthors.js && npm run lint && npm run test",
+    "lint": "eslint ./scripts/ ./test/",
     "test": "mocha test"
   },
   "dependencies": {
-    "chalk": "^1.1.1",
-    "inquirer": "^1.2.3",
-    "octonode": "^0.7.8"
+    "chalk": "^2.1.0",
+    "inquirer": "^3.3.0",
+    "octonode": "^0.9.1"
   },
   "devDependencies": {
-    "babel-eslint": "^6.1.2",
-    "chai": "^3.5.0",
+    "babel-eslint": "^8.0.1",
+    "chai": "^4.1.2",
     "chai-json-schema": "^1.5.0",
-    "eslint": "^3.14.0",
-    "eslint-config-airbnb-base": "^11.0.1",
-    "eslint-plugin-import": "^2.2.0",
-    "mocha": "^3.2.0"
+    "eslint": "^4.8.0",
+    "eslint-config-airbnb-base": "^12.0.2",
+    "eslint-plugin-import": "^2.7.0",
+    "fs-extra": "^4.0.2",
+    "husky": "^0.14.3",
+    "mocha": "^4.0.1"
   },
   "keywords": [
     "postcss",

@@ -16,21 +16,21 @@ plugins.map((plug, i) => {
     return plug;
   }
   return fetchGithubStars(plug.url)
-          .then(stars => {
-            //  Modify our updatedPlugins list
-            updatedPlugins[i].stars = stars;
-            //  Iterate the numberOfPluginsCompleted
-            numberOfPluginsCompleted += 1;
-            //  Logs our progress to the console
-            logProgress(getProgress(numberOfPluginsCompleted, plugins.length));
-            //  We know that we're done if we just completed the last plugin
-            if (numberOfPluginsCompleted > plugins.length - 1) {
-              writePlugins(updatedPlugins, 'plugins.json')
-                .then(msg => console.log(`\n${msg}\n`))
-                .catch(e => console.warn(`\n${e}\n`));
-            }
-          })
-          .catch(e => {
-            console.log(`\nERROR: Failed to find the following repo:\n${e}`);
-          });
+    .then(stars => {
+      //  Modify our updatedPlugins list
+      updatedPlugins[i].stars = stars;
+      //  Iterate the numberOfPluginsCompleted
+      numberOfPluginsCompleted += 1;
+      //  Logs our progress to the console
+      logProgress(getProgress(numberOfPluginsCompleted, plugins.length));
+      //  We know that we're done if we just completed the last plugin
+      if (numberOfPluginsCompleted > plugins.length - 1) {
+        writePlugins(updatedPlugins, 'plugins.json')
+          .then(msg => console.log(`\n${msg}\n`))
+          .catch(e => console.warn(`\n${e}\n`));
+      }
+    })
+    .catch(e => {
+      console.log(`\nERROR: Failed to find the following repo:\n${e}`);
+    });
 });

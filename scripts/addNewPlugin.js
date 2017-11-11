@@ -15,8 +15,12 @@ console.log(require('./data/banner'));
   inquirer.prompt(prompts)
     .then(answers => {
       //  Add the new plugin to the list of updated plugins
-      const { name, description, author, url, tags } = answers;
-      updatedPlugins.push(Object.assign({}, { name, description, author, url, tags }, { stars: 0 }));
+      const {
+        name, description, author, url, tags
+      } = answers;
+      updatedPlugins.push(Object.assign({}, {
+        name, description, author, url, tags
+      }, { stars: 0 }));
       //  Let the user know we are adding the plugin to the list for them
       console.log(`Adding the following plugin to the list:\n  -  ${name}`);
 

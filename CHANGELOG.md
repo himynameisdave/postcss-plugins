@@ -1,3 +1,16 @@
+## v1.10.1
+- Adds `husky` to ensure all commits conform to the schema (See https://github.com/himynameisdave/postcss-plugins/pull/219)
+- Tests that `plugins.json` matches our specified schema before committing
+- Adds [`postcss-hash`](https://github.com/dacodekid/postcss-hash)
+- Adds [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)
+- Adds [`postcss-container-query`](https://github.com/ZeeCoder/container-query)
+- Adds [`postcss-dss`](https://github.com/benmcginnis/postcss-dss)
+- Adds [`postcss-jsmath`](https://github.com/naaspati/postcss-jsmath)
+- Adds [`postcss-colorfix`](https://github.com/archana-s/postcss-colorfix)
+- Adds [`postcss-light-text`](https://github.com/jdsteinbach/postcss-light-text)
+- Adds [`postcss-encode-background-svgs`](https://github.com/chrisboakes/postcss-encode-background-svgs)
+
+
 ### v1.9.14
 - Adds [`postcss-single-line`](https://github.com/aleray/postcss-single-line)
 - Adds [`postcss-letter-tracking`](https://github.com/letsjaam/postcss-letter-tracking)
