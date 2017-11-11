@@ -275,6 +275,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[ccurtin](https://github.com/ccurtin)   |    [`postcss-responsive-font`](https://github.com/ccurtin/postcss-responsive-font)   |   10|
 |[chancancode](https://github.com/chancancode)   |    [`postcss-canadian-stylesheets`](https://github.com/chancancode/postcss-canadian-stylesheets)   |   54|
 |[Chapabu](https://github.com/Chapabu)   |    [`postcss-flexbox-unboxer`](https://github.com/Chapabu/postcss-flexbox-unboxer)   |   1|
+|[chrisboakes](https://github.com/chrisboakes)   |    [`postcss-encode-background-svgs`](https://github.com/chrisboakes/postcss-encode-background-svgs)   |   0|
 |[chriseppstein](https://github.com/chriseppstein)   |    [`postcss-lang-optimizer`](https://github.com/linkedin/postcss-lang-optimizer)   |   15|
 |[ChristianMurphy](https://github.com/ChristianMurphy)   |    [`postcss-combine-duplicated-selectors`](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors)   |   5|
 |[Code-Y](https://github.com/Code-Y)   |    [`postcss-cyspriter`](https://github.com/Code-Y/postcss-cyspriter)   |   4|
