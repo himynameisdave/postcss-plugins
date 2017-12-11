@@ -4330,5 +4330,15 @@
       "svg"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-cleaner",
+    "description": "Clean unused CSS",
+    "author": "tbekaert",
+    "url": "https://github.com/tbekaert/postcss-cleaner",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
