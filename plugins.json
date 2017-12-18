@@ -4330,5 +4330,15 @@
       "svg"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-type-scale",
+    "description": "Makes available a typographic scale in font-size declarations ",
+    "author": "jameskolce",
+    "url": "https://github.com/jameskolce/postcss-type-scale",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
   }
 ]
