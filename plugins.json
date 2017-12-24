@@ -4330,5 +4330,17 @@
       "svg"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-icon",
+    "description": "PostCSS plugin that adds css icons from Icon sets Now you do not need to connect the entire style library for css icons.",
+    "author": "retyui",
+    "url": "https://github.com/retyui/postcss-icon",
+    "tags": [
+      "optimizations",
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
