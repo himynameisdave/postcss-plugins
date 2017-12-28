@@ -167,6 +167,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[pascalduez](https://github.com/pascalduez)   |    [`postcss-map`](https://github.com/pascalduez/postcss-map)   |   75|
 |   |    [`postcss-quantity-queries`](https://github.com/pascalduez/postcss-quantity-queries)   |   97|
 |   |    [`postcss-apply`](https://github.com/pascalduez/postcss-apply)   |   106|
+|[retyui](https://github.com/retyui)   |    [`postcss-animations`](https://github.com/retyui/postcss-animations)   |   22|
+|   |    [`postcss-image-set-generator`](https://github.com/retyui/postcss-image-set-generator)   |   1|
+|   |    [`postcss-icon`](https://github.com/retyui/postcss-icon)   |   0|
 |[simonsmith](https://github.com/simonsmith)   |    [`postcss-at2x`](https://github.com/simonsmith/postcss-at2x)   |   41|
 |   |    [`postcss-generate-preset`](https://github.com/simonsmith/postcss-generate-preset)   |   6|
 |   |    [`postcss-property-lookup`](https://github.com/simonsmith/postcss-property-lookup)   |   55|
@@ -225,8 +228,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-media-query-gap`](https://github.com/niksy/postcss-media-query-gap)   |   1|
 |[outpunk](https://github.com/outpunk)   |    [`postcss-each`](https://github.com/outpunk/postcss-each)   |   66|
 |   |    [`postcss-modules`](https://github.com/outpunk/postcss-modules)   |   769|
-|[retyui](https://github.com/retyui)   |    [`postcss-animations`](https://github.com/retyui/postcss-animations)   |   22|
-|   |    [`postcss-image-set-generator`](https://github.com/retyui/postcss-image-set-generator)   |   1|
 |[rtsao](https://github.com/rtsao)   |    [`postcss-match`](https://github.com/rtsao/postcss-match)   |   11|
 |   |    [`postcss-rtlcss-combined`](https://github.com/rtsao/postcss-rtlcss-combined)   |   10|
 |[SaraVieira](https://github.com/SaraVieira)   |    [`postcss-caralho`](https://github.com/SaraVieira/postcss-caralho)   |   80|
