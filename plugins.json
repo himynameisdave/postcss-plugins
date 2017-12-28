@@ -4332,6 +4332,16 @@
     "stars": 0
   },
   {
+    "name": "postcss-cleaner",
+    "description": "Clean unused CSS",
+    "author": "tbekaert",
+    "url": "https://github.com/tbekaert/postcss-cleaner",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-type-scale",
     "description": "Makes available a typographic scale in font-size declarations ",
     "author": "jameskolce",
