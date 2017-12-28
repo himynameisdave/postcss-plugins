@@ -316,6 +316,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[iahu](https://github.com/iahu)   |    [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)   |   5|
 |[iamstarkov](https://github.com/iamstarkov)   |    [`postcss-color-mix`](https://github.com/iamstarkov/postcss-color-mix)   |   12|
 |[jakelazaroff](https://github.com/jakelazaroff)   |    [`postcss-border-radius`](https://github.com/jakelazaroff/postcss-border-radius)   |   1|
+|[jameskolce](https://github.com/jameskolce)   |    [`postcss-type-scale`](https://github.com/jameskolce/postcss-type-scale)   |   0|
 |[JasonShin](https://github.com/JasonShin)   |    [`postcss-korean-stylesheets`](https://github.com/JasonShin/postcss-korean-stylesheets)   |   2|
 |[jdsteinbach](https://github.com/jdsteinbach)   |    [`postcss-light-text`](https://github.com/jdsteinbach/postcss-light-text)   |   4|
 |[jelmerdemaat](https://github.com/jelmerdemaat)   |    [`postcss-base64`](https://github.com/jelmerdemaat/postcss-base64)   |   11|
@@ -386,6 +387,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[sylvainbaronnet](https://github.com/sylvainbaronnet)   |    [`postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)   |   2|
 |[sylvainpolletvillard](https://github.com/sylvainpolletvillard)   |    [`grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)   |   898|
 |[talgautb](https://github.com/talgautb)   |    [`postcss-currency`](https://github.com/talgautb/postcss-currency)   |   11|
+|[tbekaert](https://github.com/tbekaert)   |    [`postcss-cleaner`](https://github.com/tbekaert/postcss-cleaner)   |   0|
 |[TCotton](https://github.com/TCotton)   |    [`postcss-mq-keyframes`](https://github.com/TCotton/postcss-mq-keyframes)   |   3|
 |[thompsongl](https://github.com/thompsongl)   |    [`postcss-class-prefix`](https://github.com/thompsongl/postcss-class-prefix)   |   69|
 |[timche](https://github.com/timche)   |    [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)   |   35|
