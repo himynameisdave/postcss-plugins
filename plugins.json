@@ -4330,5 +4330,15 @@
       "svg"
     ],
     "stars": 0
+  },
+  {
+    "name": "PostCSS Egyptian Stylesheets",
+    "description": "PostCSS plugin for writing Egyptian Stylesheets.",
+    "author": "dyaa",
+    "url": "https://github.com/dyaa/postcss-egyptian-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "stars": 0
   }
 ]
