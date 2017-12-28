@@ -385,6 +385,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[sylvainbaronnet](https://github.com/sylvainbaronnet)   |    [`postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)   |   2|
 |[sylvainpolletvillard](https://github.com/sylvainpolletvillard)   |    [`grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)   |   898|
 |[talgautb](https://github.com/talgautb)   |    [`postcss-currency`](https://github.com/talgautb/postcss-currency)   |   11|
+|[tbekaert](https://github.com/tbekaert)   |    [`postcss-cleaner`](https://github.com/tbekaert/postcss-cleaner)   |   0|
 |[TCotton](https://github.com/TCotton)   |    [`postcss-mq-keyframes`](https://github.com/TCotton/postcss-mq-keyframes)   |   3|
 |[thompsongl](https://github.com/thompsongl)   |    [`postcss-class-prefix`](https://github.com/thompsongl/postcss-class-prefix)   |   69|
 |[timche](https://github.com/timche)   |    [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)   |   35|
