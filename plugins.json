@@ -4332,6 +4332,38 @@
     "stars": 0
   },
   {
+    "name": "postcss-cleaner",
+    "description": "Clean unused CSS",
+    "author": "tbekaert",
+    "url": "https://github.com/tbekaert/postcss-cleaner",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-type-scale",
+    "description": "Makes available a typographic scale in font-size declarations ",
+    "author": "jameskolce",
+    "url": "https://github.com/jameskolce/postcss-type-scale",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-icon",
+    "description": "PostCSS plugin that adds css icons from Icon sets Now you do not need to connect the entire style library for css icons.",
+    "author": "retyui",
+    "url": "https://github.com/retyui/postcss-icon",
+    "tags": [
+      "optimizations",
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
     "name": "PostCSS Egyptian Stylesheets",
     "description": "PostCSS plugin for writing Egyptian Stylesheets.",
     "author": "dyaa",

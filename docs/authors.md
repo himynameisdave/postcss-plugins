@@ -167,6 +167,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[pascalduez](https://github.com/pascalduez)   |    [`postcss-map`](https://github.com/pascalduez/postcss-map)   |   75|
 |   |    [`postcss-quantity-queries`](https://github.com/pascalduez/postcss-quantity-queries)   |   97|
 |   |    [`postcss-apply`](https://github.com/pascalduez/postcss-apply)   |   106|
+|[retyui](https://github.com/retyui)   |    [`postcss-animations`](https://github.com/retyui/postcss-animations)   |   22|
+|   |    [`postcss-image-set-generator`](https://github.com/retyui/postcss-image-set-generator)   |   1|
+|   |    [`postcss-icon`](https://github.com/retyui/postcss-icon)   |   0|
 |[simonsmith](https://github.com/simonsmith)   |    [`postcss-at2x`](https://github.com/simonsmith/postcss-at2x)   |   41|
 |   |    [`postcss-generate-preset`](https://github.com/simonsmith/postcss-generate-preset)   |   6|
 |   |    [`postcss-property-lookup`](https://github.com/simonsmith/postcss-property-lookup)   |   55|
@@ -225,8 +228,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-media-query-gap`](https://github.com/niksy/postcss-media-query-gap)   |   1|
 |[outpunk](https://github.com/outpunk)   |    [`postcss-each`](https://github.com/outpunk/postcss-each)   |   66|
 |   |    [`postcss-modules`](https://github.com/outpunk/postcss-modules)   |   769|
-|[retyui](https://github.com/retyui)   |    [`postcss-animations`](https://github.com/retyui/postcss-animations)   |   22|
-|   |    [`postcss-image-set-generator`](https://github.com/retyui/postcss-image-set-generator)   |   1|
 |[rtsao](https://github.com/rtsao)   |    [`postcss-match`](https://github.com/rtsao/postcss-match)   |   11|
 |   |    [`postcss-rtlcss-combined`](https://github.com/rtsao/postcss-rtlcss-combined)   |   10|
 |[SaraVieira](https://github.com/SaraVieira)   |    [`postcss-caralho`](https://github.com/SaraVieira/postcss-caralho)   |   80|
@@ -316,6 +317,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[iahu](https://github.com/iahu)   |    [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)   |   5|
 |[iamstarkov](https://github.com/iamstarkov)   |    [`postcss-color-mix`](https://github.com/iamstarkov/postcss-color-mix)   |   12|
 |[jakelazaroff](https://github.com/jakelazaroff)   |    [`postcss-border-radius`](https://github.com/jakelazaroff/postcss-border-radius)   |   1|
+|[jameskolce](https://github.com/jameskolce)   |    [`postcss-type-scale`](https://github.com/jameskolce/postcss-type-scale)   |   0|
 |[JasonShin](https://github.com/JasonShin)   |    [`postcss-korean-stylesheets`](https://github.com/JasonShin/postcss-korean-stylesheets)   |   2|
 |[jdsteinbach](https://github.com/jdsteinbach)   |    [`postcss-light-text`](https://github.com/jdsteinbach/postcss-light-text)   |   4|
 |[jelmerdemaat](https://github.com/jelmerdemaat)   |    [`postcss-base64`](https://github.com/jelmerdemaat/postcss-base64)   |   11|
@@ -386,6 +388,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[sylvainbaronnet](https://github.com/sylvainbaronnet)   |    [`postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)   |   2|
 |[sylvainpolletvillard](https://github.com/sylvainpolletvillard)   |    [`grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)   |   898|
 |[talgautb](https://github.com/talgautb)   |    [`postcss-currency`](https://github.com/talgautb/postcss-currency)   |   11|
+|[tbekaert](https://github.com/tbekaert)   |    [`postcss-cleaner`](https://github.com/tbekaert/postcss-cleaner)   |   0|
 |[TCotton](https://github.com/TCotton)   |    [`postcss-mq-keyframes`](https://github.com/TCotton/postcss-mq-keyframes)   |   3|
 |[thompsongl](https://github.com/thompsongl)   |    [`postcss-class-prefix`](https://github.com/thompsongl/postcss-class-prefix)   |   69|
 |[timche](https://github.com/timche)   |    [`postcss-german-stylesheets`](https://github.com/timche/postcss-german-stylesheets)   |   35|
