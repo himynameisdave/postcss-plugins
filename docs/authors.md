@@ -283,7 +283,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[crossjs](https://github.com/crossjs)   |    [`postcss-flexible`](https://github.com/crossjs/postcss-flexible)   |   20|
 |[Crunch](https://github.com/Crunch)   |    [`postcss-less-engine`](https://github.com/Crunch/postcss-less)   |   22|
 |[cssdream](https://github.com/cssdream)   |    [`cssgrace`](https://github.com/cssdream/cssgrace)   |   601|
-|[cssnext](https://github.com/cssnext)   |    [`cssnext`](https://github.com/cssnext/cssnext)   |   4855|
+|[cssnext](https://github.com/cssnext)   |    [`postcss-cssnext`](https://github.com/MoOx/postcss-cssnext)   |   4855|
 |[cssstats](https://github.com/cssstats)   |    [`postcss-cssstats`](https://github.com/cssstats/postcss-cssstats)   |   47|
 |[ctxhou](https://github.com/ctxhou)   |    [`postcss-hash-classname`](https://github.com/ctxhou/postcss-hash-classname)   |   47|
 |[cuth](https://github.com/cuth)   |    [`postcss-pxtorem`](https://github.com/cuth/postcss-pxtorem)   |   369|
