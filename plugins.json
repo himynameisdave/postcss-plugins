@@ -21,8 +21,8 @@
     "stars": 2142
   },
   {
-    "name": "cssnext",
-    "url": "https://github.com/cssnext/cssnext",
+    "name": "postcss-cssnext",
+    "url": "https://github.com/MoOx/postcss-cssnext",
     "description": "Plugin pack that allows you to use future CSS features today.",
     "tags": [
       "pack",
