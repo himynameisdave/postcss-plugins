@@ -4372,5 +4372,16 @@
       "fun"
     ],
     "stars": 3
+  },
+  {
+    "name": "postcss-advanced-variables",
+    "description": "lets you use Sass-like variables, conditionals, and iterators in CSS.",
+    "author": "jonathantneal",
+    "url": "https://github.com/jonathantneal/postcss-advanced-variables",
+    "tags": [
+      "extensions",
+      "sass"
+    ],
+    "stars": 0
   }
 ]
