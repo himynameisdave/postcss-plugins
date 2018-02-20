@@ -406,6 +406,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[vitkarpov](https://github.com/vitkarpov)   |    [`postcss-host`](https://github.com/vitkarpov/postcss-host)   |   4|
 |[vkalinichev](https://github.com/vkalinichev)   |    [`postcss-rtl`](https://github.com/vkalinichev/postcss-rtl)   |   44|
 |[vovanbo](https://github.com/vovanbo)   |    [`css2modernizr`](https://github.com/vovanbo/css2modernizr)   |   68|
+|[WebSeed](https://github.com/WebSeed)   |    [`postcss-bem-to-js`](https://github.com/WebSeed/postcss-bem-to-js)   |   0|
 |[whitneyit](https://github.com/whitneyit)   |    [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)   |   3|
 |[WolfgangKluge](https://github.com/WolfgangKluge)   |    [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)   |   8|
 |[XOP](https://github.com/XOP)   |    [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)   |   1|

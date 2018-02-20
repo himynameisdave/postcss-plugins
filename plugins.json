@@ -4383,5 +4383,15 @@
       "sass"
     ],
     "stars": 35
+  },
+  {
+    "name": "postcss-bem-to-js",
+    "description": "that creates a JavaScript definition file for BEM-style CSS.",
+    "author": "WebSeed",
+    "url": "https://github.com/WebSeed/postcss-bem-to-js",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
