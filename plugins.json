@@ -4383,5 +4383,15 @@
       "sass"
     ],
     "stars": 35
+  },
+  {
+    "name": "postcss-file",
+    "description": "Handle your assets",
+    "author": "DongShelton",
+    "url": "https://github.com/DongShelton/postcss-file",
+    "tags": [
+      "images"
+    ],
+    "stars": 0
   }
 ]
