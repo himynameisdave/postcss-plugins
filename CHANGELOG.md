@@ -1,4 +1,21 @@
-## v1.10.1
+## v1.11.0
+- Removes broken test case which blocks users from commiting
+- Adds [`postcss-preset-env`](https://github.com/jonathantneal/postcss-preset-env)
+- Adds [`postcss-bem-to-js`](https://github.com/WebSeed/postcss-bem-to-js)
+- Adds [`postcss-file`](https://github.com/DongShelton/postcss-file)
+
+
+### v1.10.3
+- Adds [`postcss-advanced-variables`](https://github.com/jonathantneal/postcss-advanced-variables)
+- Fixes a broken plugin URL
+
+### v1.10.2
+- Adds [`postcss-cleaner`](https://github.com/tbekaert/postcss-cleaner)
+- Adds [`postcss-type-scale`](https://github.com/jameskolce/postcss-type-scale)
+- Adds [`postcss-icon`](https://github.com/retyui/postcss-icon)
+- Adds [`postcss-egyptian-stylesheets`](https://github.com/dyaa/postcss-egyptian-stylesheets)
+
+### v1.10.1
 - Adds `husky` to ensure all commits conform to the schema (See https://github.com/himynameisdave/postcss-plugins/pull/219)
 - Tests that `plugins.json` matches our specified schema before committing
 - Adds [`postcss-hash`](https://github.com/dacodekid/postcss-hash)
