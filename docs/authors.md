@@ -115,7 +115,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-at-rules-variables`](https://github.com/GitScrum/postcss-at-rules-variables)   |   34|
 |   |    [`postcss-attribute-selector-prefix`](https://github.com/GitScrum/postcss-attribute-selector-prefix)   |   2|
 |   |    [`postcss-map-get`](https://github.com/GitScrum/postcss-map-get)   |   0|
-|   |    [`postcss-map-get`](https://github.com/GitScrum/postcss-map-get)   |   0|
 |[admdh](https://github.com/admdh)   |    [`postcss-simple-grid`](https://github.com/admdh/postcss-simple-grid)   |   19|
 |   |    [`postcss-high-contrast`](https://github.com/admdh/postcss-high-contrast)   |   90|
 |   |    [`postcss-increase-text-sizes`](https://github.com/admdh/postcss-increase-text-sizes)   |   12|
