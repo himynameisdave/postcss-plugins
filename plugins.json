@@ -4425,5 +4425,17 @@
       "extensions"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-each-variables",
+    "description": "that enables variable mapping for @each.",
+    "author": "awcross",
+    "url": "https://github.com/awcross/postcss-each-variables",
+    "tags": [
+      "extensions",
+      "media-queries",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]

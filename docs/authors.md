@@ -264,6 +264,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[ausi](https://github.com/ausi)   |    [`cq-prolyfill`](https://github.com/ausi/cq-prolyfill)   |   441|
 |[avanes](https://github.com/avanes)   |    [`postcss-color-alpha`](https://github.com/avanes/postcss-color-alpha)   |   14|
 |[awayken](https://github.com/awayken)   |    [`postcss-placehold`](https://github.com/awayken/postcss-placehold)   |   2|
+|[awcross](https://github.com/awcross)   |    [`postcss-each-variables`](https://github.com/awcross/postcss-each-variables)   |   0|
 |[axa-ch](https://github.com/axa-ch)   |    [`postcss-pseudoelements`](https://github.com/axa-ch/postcss-pseudoelements)   |   20|
 |[axvm](https://github.com/axvm)   |    [`postcss-pure-grid`](https://github.com/axvm/postcss-pure-grid)   |   3|
 |[bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   175|
