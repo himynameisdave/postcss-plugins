@@ -413,6 +413,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[WebSeed](https://github.com/WebSeed)   |    [`postcss-bem-to-js`](https://github.com/WebSeed/postcss-bem-to-js)   |   1|
 |[whitneyit](https://github.com/whitneyit)   |    [`postcss-strip-units`](https://github.com/whitneyit/postcss-strip-units)   |   4|
 |[WolfgangKluge](https://github.com/WolfgangKluge)   |    [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)   |   9|
+|[Xiaoshuang Li](https://github.com/Xiaoshuang Li)   |    [`postcss-skin`](https://github.com/xiaoshuangLi/postcss-skin)   |   0|
 |[XOP](https://github.com/XOP)   |    [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)   |   1|
 |[zaim](https://github.com/zaim)   |    [`postcss-color-palette`](https://github.com/zaim/postcss-color-palette)   |   22|
 |[ZeeCoder](https://github.com/ZeeCoder)   |    [`@zeecoder/postcss-container-query`](https://github.com/ZeeCoder/container-query)   |   16|

@@ -4437,5 +4437,17 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-skin",
+    "description": "Dynamically create different skin/theme style with data.",
+    "author": "Xiaoshuang Li",
+    "url": "https://github.com/xiaoshuangLi/postcss-skin",
+    "tags": [
+      "analysis",
+      "fun",
+      "other"
+    ],
+    "stars": 0
   }
 ]
