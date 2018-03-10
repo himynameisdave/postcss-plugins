@@ -111,6 +111,10 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-input-style`](https://github.com/seaneking/postcss-input-style)   |   13|
 |   |    [`postcss-position`](https://github.com/seaneking/postcss-position)   |   25|
 |   |    [`postcss-responsive-type`](https://github.com/seaneking/postcss-responsive-type)   |   256|
+|[GitScrum](https://github.com/GitScrum)   |    [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)   |   1|
+|   |    [`postcss-at-rules-variables`](https://github.com/GitScrum/postcss-at-rules-variables)   |   34|
+|   |    [`postcss-attribute-selector-prefix`](https://github.com/GitScrum/postcss-attribute-selector-prefix)   |   2|
+|   |    [`postcss-map-get`](https://github.com/GitScrum/postcss-map-get)   |   0|
 |[admdh](https://github.com/admdh)   |    [`postcss-simple-grid`](https://github.com/admdh/postcss-simple-grid)   |   19|
 |   |    [`postcss-high-contrast`](https://github.com/admdh/postcss-high-contrast)   |   90|
 |   |    [`postcss-increase-text-sizes`](https://github.com/admdh/postcss-increase-text-sizes)   |   12|
@@ -154,9 +158,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   4|
 |   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-text-transform)   |   2|
 |   |    [`postcss-console`](https://github.com/ezavile/postcss-console)   |   3|
-|[GitScrum](https://github.com/GitScrum)   |    [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)   |   1|
-|   |    [`postcss-at-rules-variables`](https://github.com/GitScrum/postcss-at-rules-variables)   |   34|
-|   |    [`postcss-attribute-selector-prefix`](https://github.com/GitScrum/postcss-attribute-selector-prefix)   |   2|
 |[komachi](https://github.com/komachi)   |    [`usedcss`](https://github.com/komachi/usedcss)   |   41|
 |   |    [`postcss-clip-path-polyfill`](https://github.com/komachi/postcss-clip-path-polyfill)   |   20|
 |   |    [`postcss-dialog-polyfill`](https://github.com/komachi/postcss-dialog-polyfill)   |   2|
@@ -263,6 +264,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[ausi](https://github.com/ausi)   |    [`cq-prolyfill`](https://github.com/ausi/cq-prolyfill)   |   441|
 |[avanes](https://github.com/avanes)   |    [`postcss-color-alpha`](https://github.com/avanes/postcss-color-alpha)   |   14|
 |[awayken](https://github.com/awayken)   |    [`postcss-placehold`](https://github.com/awayken/postcss-placehold)   |   2|
+|[awcross](https://github.com/awcross)   |    [`postcss-each-variables`](https://github.com/awcross/postcss-each-variables)   |   0|
 |[axa-ch](https://github.com/axa-ch)   |    [`postcss-pseudoelements`](https://github.com/axa-ch/postcss-pseudoelements)   |   20|
 |[axvm](https://github.com/axvm)   |    [`postcss-pure-grid`](https://github.com/axvm/postcss-pure-grid)   |   3|
 |[bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   175|
