@@ -4415,5 +4415,15 @@
       "images"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-map-get",
+    "description": "Sass function map-get",
+    "author": "GitScrum",
+    "url": "https://github.com/GitScrum/postcss-map-get",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
   }
 ]
