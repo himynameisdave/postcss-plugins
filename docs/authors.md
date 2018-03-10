@@ -8,7 +8,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-conic-gradient`](https://github.com/jonathantneal/postcss-conic-gradient)   |   38|
 |   |    [`postcss-pseudo-class-any-link`](https://github.com/jonathantneal/postcss-pseudo-class-any-link)   |   18|
 |   |    [`postcss-pseudo-class-enter`](https://github.com/jonathantneal/postcss-pseudo-class-enter)   |   27|
-|   |    [`short`](https://github.com/jonathantneal/postcss-short)   |   139|
+|   |    [`postcss-short`](https://github.com/jonathantneal/postcss-short)   |   139|
 |   |    [`postcss-transform-shortcut`](https://github.com/jonathantneal/postcss-transform-shortcut)   |   46|
 |   |    [`postcss-font-magician`](https://github.com/jonathantneal/postcss-font-magician)   |   741|
 |   |    [`postcss-unmq`](https://github.com/jonathantneal/postcss-unmq)   |   30|

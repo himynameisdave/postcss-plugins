@@ -1132,7 +1132,7 @@
     "stars": 256
   },
   {
-    "name": "short",
+    "name": "postcss-short",
     "url": "https://github.com/jonathantneal/postcss-short",
     "description": "Adds and extends numerous shorthand properties.",
     "tags": [
