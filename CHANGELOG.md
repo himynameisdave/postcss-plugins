@@ -1,3 +1,9 @@
+### v1.11.1
+- Adds [`postcss-map-get`](https://github.com/GitScrum/postcss-map-get)
+- Adds [`postcss-each-variables`](https://github.com/awcross/postcss-each-variables)
+- Adds [`postcss-skin`](https://github.com/xiaoshuangLi/postcss-skin)
+- Rename `short` to `postcss-short` (#240)
+
 ## v1.11.0
 - Removes broken test case which blocks users from commiting
 - Adds [`postcss-preset-env`](https://github.com/jonathantneal/postcss-preset-env)
