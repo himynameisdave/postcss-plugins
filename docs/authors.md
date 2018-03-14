@@ -340,6 +340,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[komlev](https://github.com/komlev)   |    [`postcss-current-selector`](https://github.com/komlev/postcss-current-selector)   |   7|
 |[kunukn](https://github.com/kunukn)   |    [`postcss-alter-property-value`](https://github.com/kunukn/postcss-alter-property-value)   |   5|
 |[lahmatiy](https://github.com/lahmatiy)   |    [`postcss-csso`](https://github.com/lahmatiy/postcss-csso)   |   60|
+|[landn172](https://github.com/landn172)   |    [`postcss-rpxtorem`](https://github.com/landn172/postcss-rpxtorem)   |   0|
 |[larsenwork](https://github.com/larsenwork)   |    [`postcss-easing-gradients`](https://github.com/larsenwork/postcss-easing-gradients)   |   226|
 |[laureanoarcanio](https://github.com/laureanoarcanio)   |    [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)   |   15|
 |[leodido](https://github.com/leodido)   |    [`postcss-clean`](https://github.com/leodido/postcss-clean)   |   17|
