@@ -179,6 +179,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[TrySound](https://github.com/TrySound)   |    [`postcss-normalize-charset`](https://github.com/TrySound/postcss-normalize-charset)   |   10|
 |   |    [`postcss-minify-font-values`](https://github.com/TrySound/postcss-minify-font-values)   |   6|
 |   |    [`postcss-inline-svg`](https://github.com/TrySound/postcss-inline-svg)   |   295|
+|[AlekseyPleshkov](https://github.com/AlekseyPleshkov)   |    [`postcss-adaptive-size`](https://github.com/AlekseyPleshkov/postcss-adaptive-size)   |   0|
+|   |    [`postcss-flex-short`](https://github.com/AlekseyPleshkov/postcss-flex-short)   |   0|
 |[andywer](https://github.com/andywer)   |    [`postcss-theme`](https://github.com/andywer/postcss-theme)   |   75|
 |   |    [`postcss-debug`](https://github.com/andywer/postcss-debug)   |   83|
 |[antyakushev](https://github.com/antyakushev)   |    [`postcss-for`](https://github.com/antyakushev/postcss-for)   |   63|
