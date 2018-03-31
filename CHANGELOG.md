@@ -1,3 +1,8 @@
+### v1.11.2
+- Adds [`postcss-adaptive-size`](https://github.com/AlekseyPleshkov/postcss-adaptive-size)
+- Adds [`postcss-flex-short`](https://github.com/AlekseyPleshkov/postcss-flex-short)
+- Adds [`postcss-rpxtorem`](https://github.com/landn172/postcss-rpxtorem)
+
 ### v1.11.1
 - Adds [`postcss-map-get`](https://github.com/GitScrum/postcss-map-get)
 - Adds [`postcss-each-variables`](https://github.com/awcross/postcss-each-variables)
