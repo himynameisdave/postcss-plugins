@@ -4451,6 +4451,26 @@
     "stars": 0
   },
   {
+    "name": "postcss-adaptive-size",
+    "description": "PostCSS plugin for create adaptive size",
+    "author": "AlekseyPleshkov",
+    "url": "https://github.com/AlekseyPleshkov/postcss-adaptive-size",
+    "tags": [
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-flex-short",
+    "description": "PostCSS plugin for write short flex parameters",
+    "author": "AlekseyPleshkov",
+    "url": "https://github.com/AlekseyPleshkov/postcss-flex-short",
+    "tags": [
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-rpxtorem",
     "description": "Convert rpx units to rem units ",
     "author": "landn172",
