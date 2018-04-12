@@ -4481,7 +4481,7 @@
     "stars": 0
   },
   {
-    "name": "postcss-pixel-to-vw",
+    "name": "postcss-pixel-to-viewport",
     "description": "A plugin for PostCSS that generates viewport units (vw, vh, vmin, vmax) from pixel units.",
     "author": "meltifa",
     "url": "https://github.com/meltifa/postcss-pixel-to-viewport",
