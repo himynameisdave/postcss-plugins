@@ -4482,7 +4482,7 @@
   },
   {
     "name": "postcss-momentum-scrolling",
-    "description": "Add momentum style scrolling behavior (`-webkit-overflow-scrolling: touch`) for elements with overflow (scroll, auto) on iOS",
+    "description": "Add momentum style scrolling behavior (-webkit-overflow-scrolling: touch) for elements with overflow (scroll, auto) on iOS",
     "author": "yunusga",
     "url": "https://github.com/yunusga/postcss-momentum-scrolling",
     "tags": [
