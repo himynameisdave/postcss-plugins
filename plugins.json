@@ -4489,5 +4489,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-fontsize",
+    "description": "Generates rem unit font-size and line-height with px fallbacks.",
+    "author": "richbachman",
+    "url": "https://github.com/richbachman/postcss-fontsize",
+    "tags": [
+      "fonts"
+    ],
+    "stars": 0
   }
 ]

@@ -376,6 +376,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   3|
 |[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0|
 |[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   1|
+|[richbachman](https://github.com/richbachman)   |    [`postcss-fontsize`](https://github.com/richbachman/postcss-fontsize)   |   0|
 |[robwierzbowski](https://github.com/robwierzbowski)   |    [`pixrem`](https://github.com/robwierzbowski/node-pixrem)   |   183|
 |[rominmx](https://github.com/rominmx)   |    [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)   |   7|
 |[ronnyamarante](https://github.com/ronnyamarante)   |    [`postcss-selector-prefixer`](https://github.com/ronnyamarante/postcss-selector-prefixer)   |   2|
