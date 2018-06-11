@@ -4531,5 +4531,15 @@
       "optimizations"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-discard",
+    "description": " to discard rules, atrules or declarations by selector, RegExp or callback function",
+    "author": "bezoerb",
+    "url": "https://github.com/bezoerb/postcss-discard",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]

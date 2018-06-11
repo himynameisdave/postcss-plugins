@@ -185,6 +185,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-debug`](https://github.com/andywer/postcss-debug)   |   83|
 |[antyakushev](https://github.com/antyakushev)   |    [`postcss-for`](https://github.com/antyakushev/postcss-for)   |   64|
 |   |    [`postcss-default-unit`](https://github.com/antyakushev/postcss-default-unit)   |   5|
+|[bezoerb](https://github.com/bezoerb)   |    [`postcss-image-inliner`](https://github.com/bezoerb/postcss-image-inliner)   |   8|
+|   |    [`postcss-discard`](https://github.com/bezoerb/postcss-discard)   |   0|
 |[colinmeinke](https://github.com/colinmeinke)   |    [`postcss-calc-function`](https://github.com/colinmeinke/postcss-calc-function)   |   1|
 |   |    [`postcss-custom-props`](https://github.com/colinmeinke/postcss-custom-props)   |   0|
 |[corysimmons](https://github.com/corysimmons)   |    [`lost`](https://github.com/peterramsing/lost)   |   4035|
@@ -272,7 +274,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   178|
 |[BarryThePenguin](https://github.com/BarryThePenguin)   |    [`postcss-typography`](https://github.com/BarryThePenguin/postcss-typography)   |   32|
 |[benmcginnis](https://github.com/benmcginnis)   |    [`postcss-dss`](https://github.com/benmcginnis/postcss-dss)   |   0|
-|[bezoerb](https://github.com/bezoerb)   |    [`postcss-image-inliner`](https://github.com/bezoerb/postcss-image-inliner)   |   8|
 |[binjospookie](https://github.com/binjospookie)   |    [`postcss-state-selector`](https://github.com/binjospookie/postcss-state-selector)   |   3|
 |[bmds](https://github.com/bmds)   |    [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)   |   6|
 |[borodean](https://github.com/borodean)   |    [`postcss-assets`](https://github.com/borodean/postcss-assets)   |   468|
