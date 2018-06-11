@@ -1,36 +1,25 @@
 const plugins = require('../plugins.json');
-const logProgress = require('./utils/logProgress.js');
-const getProgress = require('./utils/getProgressPercentage.js');
 const writePlugins = require('./utils/writePlugins.js');
 const fetchGithubStars = require('./utils/fetchGithubStars.js');
 
-let numberOfPluginsCompleted = 0; // Used to track progress
-const updatedPlugins = plugins; // Copy of plugins so as not to mutate the originals
 
-plugins.map((plug, i) => {
+const starsPromises = plugins.map(plug => {
   //  Fix for people that host on places like bitbucket
-  if (plug.url.indexOf('github.com') < 0) {
-    updatedPlugins[i].stars = 0;
-    numberOfPluginsCompleted += 1;
-    logProgress(getProgress(numberOfPluginsCompleted, plugins.length));
-    return plug;
+  if (!plug.url.includes('github.com')) {
+    return new Promise(res => res(0));
   }
-  return fetchGithubStars(plug.url)
-    .then(stars => {
-      //  Modify our updatedPlugins list
-      updatedPlugins[i].stars = stars;
-      //  Iterate the numberOfPluginsCompleted
-      numberOfPluginsCompleted += 1;
-      //  Logs our progress to the console
-      logProgress(getProgress(numberOfPluginsCompleted, plugins.length));
-      //  We know that we're done if we just completed the last plugin
-      if (numberOfPluginsCompleted > plugins.length - 1) {
-        writePlugins(updatedPlugins, 'plugins.json')
-          .then(msg => console.log(`\n${msg}\n`))
-          .catch(e => console.warn(`\n${e}\n`));
-      }
-    })
-    .catch(e => {
-      console.log(`\nERROR: Failed to find the following repo:\n${e}`);
-    });
+  return fetchGithubStars(plug.url).catch(e => {
+    console.log(`\nERROR: Failed to find the following repo:\n${e}`);
+  });
 });
+
+Promise.all(starsPromises)
+  .then(stars => {
+    const updatedPlugins = plugins.map((plug, i) => Object.assign({}, plug, {
+      stars: stars[i] || 0,
+    }));
+    return writePlugins(updatedPlugins, 'plugins.json');
+  })
+  .catch(e => {
+    console.log(`\nERROR: Something went horribly wrong and the doggos are all dead:\n${e}`);
+  });

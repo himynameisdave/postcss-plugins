@@ -1,3 +1,13 @@
+## v1.12.0
+- Adds [`postcss-pixel-to-viewport`](https://github.com/meltifa/postcss-pixel-to-viewport)
+- Adds [`postcss-fontsize`](https://github.com/richbachman/postcss-fontsize)
+- Adds [`postcss-selector-replace`](https://github.com/itaoyuta/postcss-selector-replace)
+- Adds [`postcss-neoGrid`](https://github.com/pepelxD/postcss-neoGrid)
+- Adds [`postcss-momentum-scrolling`](https://github.com/yunusga/postcss-momentum-scrolling)
+- Adds [`postcss-discard`](https://github.com/bezoerb/postcss-discard)
+- Fix some bug with `updateStars.js`. Only writes plugins.json once at the end.
+
+
 ### v1.11.2
 - Adds [`postcss-adaptive-size`](https://github.com/AlekseyPleshkov/postcss-adaptive-size)
 - Adds [`postcss-flex-short`](https://github.com/AlekseyPleshkov/postcss-flex-short)
