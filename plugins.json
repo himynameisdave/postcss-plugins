@@ -4499,5 +4499,15 @@
       "fonts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-selector-replace",
+    "description": "Replace the name of CSS selector",
+    "author": "itaoyuta",
+    "url": "https://github.com/itaoyuta/postcss-selector-replace",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
