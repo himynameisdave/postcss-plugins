@@ -4543,6 +4543,42 @@
     "stars": 1
   },
   {
+    "name": "postcss-normalize",
+    "description": "Use the parts of normalize.css you need from your browserslist ",
+    "author": "jonathantneal",
+    "url": "https://github.com/jonathantneal/postcss-normalize",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-csslock",
+    "description": "plugin postcss allowing to apply css-lock approach in writing styles",
+    "author": "pepelxD",
+    "url": "https://github.com/pepelxD/postcss-csslock",
+    "tags": [
+      "extensions",
+      "fonts",
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-glitch",
+    "description": "that adds glitch effect to your text",
+    "author": "crftd",
+    "url": "https://github.com/crftd/postcss-glitch",
+    "tags": [
+      "color",
+      "fonts",
+      "fun",
+      "other"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-insert",
     "description": "that inserts properties from one class into another, like Sass' extend only better",
     "author": "JoeCianflone",
