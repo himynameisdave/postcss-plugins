@@ -1,3 +1,10 @@
+### v1.12.1
+- Adds [`postcss-normalize`](https://github.com/jonathantneal/postcss-normalize)
+- Adds [`postcss-csslock`](https://github.com/pepelxD/postcss-csslock)
+- Adds [`postcss-glitch`](https://github.com/crftd/postcss-glitch)
+- Adds [`postcss-insert`](https://github.com/JoeCianflone/postcss-insert)
+- Bumps vulnerable version of `octonode` dependency.
+
 ## v1.12.0
 - Adds [`postcss-pixel-to-viewport`](https://github.com/meltifa/postcss-pixel-to-viewport)
 - Adds [`postcss-fontsize`](https://github.com/richbachman/postcss-fontsize)
