@@ -4543,6 +4543,16 @@
     "stars": 1
   },
   {
+    "name": "postcss-normalize",
+    "description": "Use the parts of normalize.css you need from your browserslist ",
+    "author": "jonathantneal",
+    "url": "https://github.com/jonathantneal/postcss-normalize",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-csslock",
     "description": "plugin postcss allowing to apply css-lock approach in writing styles",
     "author": "pepelxD",
