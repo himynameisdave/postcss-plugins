@@ -4577,5 +4577,18 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-insert",
+    "description": "that inserts properties from one class into another, like Sass' extend only better",
+    "author": "JoeCianflone",
+    "url": "https://github.com/JoeCianflone/postcss-insert",
+    "tags": [
+      "extensions",
+      "future",
+      "other",
+      "sass"
+    ],
+    "stars": 0
   }
 ]
