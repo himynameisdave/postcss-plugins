@@ -4564,5 +4564,18 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-glitch",
+    "description": "that adds glitch effect to your text",
+    "author": "crftd",
+    "url": "https://github.com/crftd/postcss-glitch",
+    "tags": [
+      "color",
+      "fonts",
+      "fun",
+      "other"
+    ],
+    "stars": 0
   }
 ]

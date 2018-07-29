@@ -290,6 +290,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[chriseppstein](https://github.com/chriseppstein)   |    [`postcss-lang-optimizer`](https://github.com/linkedin/postcss-lang-optimizer)   |   16|
 |[ChristianMurphy](https://github.com/ChristianMurphy)   |    [`postcss-combine-duplicated-selectors`](https://github.com/ChristianMurphy/postcss-combine-duplicated-selectors)   |   15|
 |[Code-Y](https://github.com/Code-Y)   |    [`postcss-cyspriter`](https://github.com/Code-Y/postcss-cyspriter)   |   4|
+|[crftd](https://github.com/crftd)   |    [`postcss-glitch`](https://github.com/crftd/postcss-glitch)   |   0|
 |[crossjs](https://github.com/crossjs)   |    [`postcss-flexible`](https://github.com/crossjs/postcss-flexible)   |   20|
 |[Crunch](https://github.com/Crunch)   |    [`postcss-less-engine`](https://github.com/Crunch/postcss-less)   |   26|
 |[cssdream](https://github.com/cssdream)   |    [`cssgrace`](https://github.com/cssdream/cssgrace)   |   600|
