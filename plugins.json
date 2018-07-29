@@ -4541,5 +4541,15 @@
       "optimizations"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-normalize",
+    "description": "Use the parts of normalize.css you need from your browserslist ",
+    "author": "jonathantneal",
+    "url": "https://github.com/jonathantneal/postcss-normalize",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]

@@ -36,6 +36,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-space-start-attrs`](https://github.com/jonathantneal/postcss-space-start-attrs)   |   0|
 |   |    [`postcss-advanced-variables`](https://github.com/jonathantneal/postcss-advanced-variables)   |   48|
 |   |    [`postcss-preset-env`](https://github.com/jonathantneal/postcss-preset-env)   |   338|
+|   |    [`postcss-normalize`](https://github.com/jonathantneal/postcss-normalize)   |   0|
 |[postcss](https://github.com/postcss)   |    [`postcss-color-function`](https://github.com/postcss/postcss-color-function)   |   245|
 |   |    [`postcss-color-gray`](https://github.com/postcss/postcss-color-gray)   |   19|
 |   |    [`postcss-color-hex-alpha`](https://github.com/postcss/postcss-color-hex-alpha)   |   19|
