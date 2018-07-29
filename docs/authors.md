@@ -236,6 +236,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-media-query-gap`](https://github.com/niksy/postcss-media-query-gap)   |   1|
 |[outpunk](https://github.com/outpunk)   |    [`postcss-each`](https://github.com/outpunk/postcss-each)   |   76|
 |   |    [`postcss-modules`](https://github.com/outpunk/postcss-modules)   |   893|
+|[pepelxD](https://github.com/pepelxD)   |    [`postcss-neogrid`](https://github.com/pepelxD/postcss-neoGrid)   |   2|
+|   |    [`postcss-csslock`](https://github.com/pepelxD/postcss-csslock)   |   0|
 |[rtsao](https://github.com/rtsao)   |    [`postcss-match`](https://github.com/rtsao/postcss-match)   |   10|
 |   |    [`postcss-rtlcss-combined`](https://github.com/rtsao/postcss-rtlcss-combined)   |   10|
 |[SaraVieira](https://github.com/SaraVieira)   |    [`postcss-caralho`](https://github.com/SaraVieira/postcss-caralho)   |   137|
@@ -376,7 +378,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[panec](https://github.com/panec)   |    [`postcss-mq-optimize`](https://github.com/panec/postcss-mq-optimize)   |   0|
 |[pathsofdesign](https://github.com/pathsofdesign)   |    [`postcss-fakeid`](https://github.com/pathsofdesign/postcss-fakeid)   |   15|
 |[pazams](https://github.com/pazams)   |    [`postcss-scopify`](https://github.com/pazams/postcss-scopify)   |   27|
-|[pepelxD](https://github.com/pepelxD)   |    [`postcss-neogrid`](https://github.com/pepelxD/postcss-neoGrid)   |   2|
 |[Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   3|
 |[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0|
 |[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   0|

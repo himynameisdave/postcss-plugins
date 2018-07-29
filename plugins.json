@@ -4551,5 +4551,18 @@
       "optimizations"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-csslock",
+    "description": "plugin postcss allowing to apply css-lock approach in writing styles",
+    "author": "pepelxD",
+    "url": "https://github.com/pepelxD/postcss-csslock",
+    "tags": [
+      "extensions",
+      "fonts",
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
