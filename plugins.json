@@ -4590,5 +4590,15 @@
       "sass"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-romanian-stylesheets",
+    "description": "for writing Romanian stylesheets.",
+    "author": "DanielStoica85",
+    "url": "https://github.com/DanielStoica85/postcss-romanian-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "stars": 0
   }
 ]
