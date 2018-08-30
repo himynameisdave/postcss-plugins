@@ -1,3 +1,8 @@
+### v1.12.2
+- Adds [`postcss-stack`](https://github.com/philipbordallo/postcss-stack)
+- Adds [`postcss-import-ext-glob`](https://github.com/dimitrinicolas/postcss-import-ext-glob)
+- Adds [`postcss-romanian-stylesheets`](https://github.com/DanielStoica85/postcss-romanian-stylesheets)
+
 ### v1.12.1
 - Adds [`postcss-normalize`](https://github.com/jonathantneal/postcss-normalize)
 - Adds [`postcss-csslock`](https://github.com/pepelxD/postcss-csslock)
