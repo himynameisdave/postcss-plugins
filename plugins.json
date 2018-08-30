@@ -4590,5 +4590,15 @@
       "sass"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-stack",
+    "description": "that makes it easier to manage z-indexes",
+    "author": "philipbordallo",
+    "url": "https://github.com/philipbordallo/postcss-stack",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]

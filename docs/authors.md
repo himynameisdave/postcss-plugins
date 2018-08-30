@@ -380,6 +380,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[panec](https://github.com/panec)   |    [`postcss-mq-optimize`](https://github.com/panec/postcss-mq-optimize)   |   0|
 |[pathsofdesign](https://github.com/pathsofdesign)   |    [`postcss-fakeid`](https://github.com/pathsofdesign/postcss-fakeid)   |   15|
 |[pazams](https://github.com/pazams)   |    [`postcss-scopify`](https://github.com/pazams/postcss-scopify)   |   27|
+|[philipbordallo](https://github.com/philipbordallo)   |    [`postcss-stack`](https://github.com/philipbordallo/postcss-stack)   |   0|
 |[Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   3|
 |[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0|
 |[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   0|
