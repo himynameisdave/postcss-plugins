@@ -198,6 +198,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`list-selectors`](https://github.com/davidtheclark/list-selectors)   |   57|
 |[devex-web-frontend](https://github.com/devex-web-frontend)   |    [`postcss-assets-rebase`](https://github.com/devex-web-frontend/postcss-assets-rebase)   |   18|
 |   |    [`postcss-regexp-detect`](https://github.com/devex-web-frontend/postcss-regexp-detect)   |   5|
+|[dimitrinicolas](https://github.com/dimitrinicolas)   |    [`postcss-inline-media`](https://github.com/dimitrinicolas/postcss-inline-media)   |   38|
+|   |    [`postcss-import-ext-glob`](https://github.com/dimitrinicolas/postcss-import-ext-glob)   |   0|
 |[garthdb](https://github.com/garthdb)   |    [`postcss-topdoc`](https://github.com/GarthDB/postcss-topdoc)   |   1|
 |   |    [`postcss-inherit`](https://github.com/GarthDB/postcss-inherit)   |   10|
 |[glebmachine](https://github.com/glebmachine)   |    [`postcss-cachebuster`](https://github.com/glebmachine/postcss-cachebuster)   |   0|
@@ -307,7 +309,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[derek-duncan](https://github.com/derek-duncan)   |    [`postcss-responsify`](https://github.com/derek-duncan/postcss-responsify)   |   3|
 |[devgru](https://github.com/devgru)   |    [`postcss-color-hcl`](https://github.com/devgru/postcss-color-hcl)   |   4|
 |[dfernandez79](https://github.com/dfernandez79)   |    [`postcss-ase-colors`](https://github.com/dfernandez79/postcss-ase-colors)   |   9|
-|[dimitrinicolas](https://github.com/dimitrinicolas)   |    [`postcss-inline-media`](https://github.com/dimitrinicolas/postcss-inline-media)   |   38|
 |[DimitrisNL](https://github.com/DimitrisNL)   |    [`postcss-autocorrect`](https://github.com/DimitrisNL/postcss-autocorrect)   |   13|
 |[DongShelton](https://github.com/DongShelton)   |    [`postcss-file`](https://github.com/DongShelton/postcss-file)   |   1|
 |[dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   67|
@@ -381,6 +382,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[panec](https://github.com/panec)   |    [`postcss-mq-optimize`](https://github.com/panec/postcss-mq-optimize)   |   0|
 |[pathsofdesign](https://github.com/pathsofdesign)   |    [`postcss-fakeid`](https://github.com/pathsofdesign/postcss-fakeid)   |   15|
 |[pazams](https://github.com/pazams)   |    [`postcss-scopify`](https://github.com/pazams/postcss-scopify)   |   27|
+|[philipbordallo](https://github.com/philipbordallo)   |    [`postcss-stack`](https://github.com/philipbordallo/postcss-stack)   |   0|
 |[Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   3|
 |[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0|
 |[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   0|

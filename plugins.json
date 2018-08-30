@@ -4592,6 +4592,28 @@
     "stars": 0
   },
   {
+    "name": "postcss-stack",
+    "description": "that makes it easier to manage z-indexes",
+    "author": "philipbordallo",
+    "url": "https://github.com/philipbordallo/postcss-stack",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-import-ext-glob",
+    "description": "A PostCSS plugin to extend postcss-import path resolver to allow glob usage as path",
+    "author": "dimitrinicolas",
+    "url": "https://github.com/dimitrinicolas/postcss-import-ext-glob",
+    "tags": [
+      "extensions",
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-romanian-stylesheets",
     "description": "for writing Romanian stylesheets.",
     "author": "DanielStoica85",
