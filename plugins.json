@@ -4622,5 +4622,16 @@
       "fun"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-make-it-bright",
+    "description": "make all colors more bright.",
+    "author": "janczer",
+    "url": "https://github.com/janczer/postcss-make-it-bright",
+    "tags": [
+      "color"
+    ],
+    "stars": 0
   }
 ]
+
