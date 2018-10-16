@@ -4642,5 +4642,15 @@
       "grids"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-class-name-shortener",
+    "description": "that shortens CSS class names to optimize website performance",
+    "author": "mbrandau",
+    "url": "https://github.com/mbrandau/postcss-class-name-shortener",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
