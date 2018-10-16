@@ -1,3 +1,8 @@
+### v1.12.3
+- Adds [`postcss-make-it-bright`](https://github.com/janczer/postcss-make-it-bright)
+- Adds [`postcss-mesh`](https://github.com/SlimMarten/postcss-mesh)
+- Adds [`postcss-class-name-shortener`](https://github.com/mbrandau/postcss-class-name-shortener)
+
 ### v1.12.2
 - Adds [`postcss-stack`](https://github.com/philipbordallo/postcss-stack)
 - Adds [`postcss-import-ext-glob`](https://github.com/dimitrinicolas/postcss-import-ext-glob)
