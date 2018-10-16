@@ -333,6 +333,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[itaoyuta](https://github.com/itaoyuta)   |    [`postcss-selector-replace`](https://github.com/itaoyuta/postcss-selector-replace)   |   1|
 |[jakelazaroff](https://github.com/jakelazaroff)   |    [`postcss-border-radius`](https://github.com/jakelazaroff/postcss-border-radius)   |   1|
 |[jameskolce](https://github.com/jameskolce)   |    [`postcss-type-scale`](https://github.com/jameskolce/postcss-type-scale)   |   0|
+|[janczer](https://github.com/janczer)   |    [`postcss-make-it-bright`](https://github.com/janczer/postcss-make-it-bright)   |   0|
 |[JasonShin](https://github.com/JasonShin)   |    [`postcss-korean-stylesheets`](https://github.com/JasonShin/postcss-korean-stylesheets)   |   4|
 |[jdsteinbach](https://github.com/jdsteinbach)   |    [`postcss-light-text`](https://github.com/jdsteinbach/postcss-light-text)   |   4|
 |[jelmerdemaat](https://github.com/jelmerdemaat)   |    [`postcss-base64`](https://github.com/jelmerdemaat/postcss-base64)   |   11|
