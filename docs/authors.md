@@ -144,6 +144,10 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-class-patterns`](https://github.com/MattDiMu/postcss-class-patterns)   |   12|
 |   |    [`postcss-nth-child-fix`](https://github.com/MattDiMu/postcss-nth-child-fix)   |   6|
 |   |    [`postcss-gap`](https://github.com/MattDiMu/postcss-gap)   |   3|
+|[pascalduez](https://github.com/pascalduez)   |    [`postcss-map`](https://github.com/pascalduez/postcss-map)   |   93|
+|   |    [`postcss-quantity-queries`](https://github.com/pascalduez/postcss-quantity-queries)   |   106|
+|   |    [`postcss-apply`](https://github.com/pascalduez/postcss-apply)   |   123|
+|   |    [`postcss-scrollbar`](https://github.com/pascalduez/postcss-scrollbar)   |   0|
 |[alanev](https://github.com/alanev)   |    [`postcss-filter`](https://github.com/alanev/postcss-filter)   |   3|
 |   |    [`postcss-property-shorthand`](https://github.com/alanev/postcss-property-shorthand)   |   0|
 |   |    [`postcss-randomcolor`](https://github.com/alanev/postcss-randomcolor)   |   3|
@@ -168,9 +172,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[morishitter](https://github.com/morishitter)   |    [`atcss`](https://github.com/morishitter/atcss)   |   61|
 |   |    [`postcss-style-guide`](https://github.com/morishitter/postcss-style-guide)   |   509|
 |   |    [`cssfmt`](https://github.com/morishitter/cssfmt)   |   2041|
-|[pascalduez](https://github.com/pascalduez)   |    [`postcss-map`](https://github.com/pascalduez/postcss-map)   |   93|
-|   |    [`postcss-quantity-queries`](https://github.com/pascalduez/postcss-quantity-queries)   |   106|
-|   |    [`postcss-apply`](https://github.com/pascalduez/postcss-apply)   |   123|
 |[retyui](https://github.com/retyui)   |    [`postcss-animations`](https://github.com/retyui/postcss-animations)   |   26|
 |   |    [`postcss-image-set-generator`](https://github.com/retyui/postcss-image-set-generator)   |   3|
 |   |    [`postcss-icon`](https://github.com/retyui/postcss-icon)   |   15|
