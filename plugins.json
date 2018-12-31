@@ -4654,13 +4654,23 @@
     "stars": 0
   },
   {
+    "name": "postcss-register-custom-props",
+    "description": "that transforms custom property registration in CSS to JS.",
+    "author": "vitaliy-bobrov",
+    "url": "https://github.com/vitaliy-bobrov/postcss-register-custom-props",
+    "tags": [
+      "extensions",
+      "future"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-scrollbar",
     "description": "enabling custom scrollbars",
     "author": "pascalduez",
     "url": "https://github.com/pascalduez/postcss-scrollbar",
     "tags": [
-      "fallbacks",
-      "future"
+      "fallbacks"
     ],
     "stars": 0
   }
