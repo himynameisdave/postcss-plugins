@@ -4663,5 +4663,15 @@
       "future"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-scrollbar",
+    "description": "enabling custom scrollbars",
+    "author": "pascalduez",
+    "url": "https://github.com/pascalduez/postcss-scrollbar",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
   }
 ]
