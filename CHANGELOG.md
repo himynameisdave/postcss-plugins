@@ -1,3 +1,7 @@
+### v1.12.4
+- Adds [`postcss-register-custom-props`](https://github.com/vitaliy-bobrov/postcss-register-custom-props)
+- Adds [`postcss-scrollbar`](https://github.com/pascalduez/postcss-scrollbar)
+
 ### v1.12.3
 - Adds [`postcss-make-it-bright`](https://github.com/janczer/postcss-make-it-bright)
 - Adds [`postcss-mesh`](https://github.com/SlimMarten/postcss-mesh)
