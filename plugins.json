@@ -4673,5 +4673,17 @@
       "fallbacks"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-transition",
+    "description": "Allows you to set the default value for the transition shorthand property",
+    "author": "notiv-nt",
+    "url": "https://github.com/notiv-nt/postcss-transition",
+    "tags": [
+      "future",
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
