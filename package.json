@@ -11,13 +11,13 @@
     "node": ">=6.0.0"
   },
   "scripts": {
-    "add": "node scripts/addNewPlugin.js && node scripts/updateAuthors.js",
-    "add-new-plugin": "node scripts/addNewPlugin.js",
-    "update-authors": "node scripts/updateAuthors.js",
-    "update-stars": "node scripts/updateStars.js && node scripts/updateAuthors.js",
-    "precommit": "node scripts/updateAuthors.js && npm run lint && npm run test",
-    "lint": "eslint ./scripts/ ./test/",
-    "lint:fix": "eslint ./scripts/ ./test/ --fix",
+    "add": "node scripts/add-new-plugin.js && node scripts/update-authors.js",
+    "add-new-plugin": "node scripts/add-new-plugin.js",
+    "update-authors": "node scripts/update-authors.js",
+    "update-stars": "node scripts/update-stars.js && node scripts/update-authors.js",
+    "precommit": "node scripts/update-authors.js && npm run lint && npm run test",
+    "lint": "eslint ./scripts/ ./test/ --quiet",
+    "lint:fix": "eslint ./scripts/ ./test/ --report-unused-disable-directives --fix",
     "test": "mocha test"
   },
   "dependencies": {
@@ -26,6 +26,8 @@
     "octonode": "^0.9.3"
   },
   "devDependencies": {
+    "@babel/core": "^7.3.3",
+    "@babel/plugin-syntax-object-rest-spread": "^7.2.0",
     "babel-eslint": "10.0.1",
     "chai": "^4.1.2",
     "chai-json-schema": "^1.5.0",

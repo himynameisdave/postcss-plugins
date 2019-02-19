@@ -17,8 +17,12 @@
         "7geese/rules/react/off",
         "7geese/rules/react-hooks/off"
     ],
+    "parser": "babel-eslint",
     "env": {
+        "es6": true,
         "mocha": true
     },
-    "rules": {}
+    "rules": {
+        "no-console": "off"
+    }
 }

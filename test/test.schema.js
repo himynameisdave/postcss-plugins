@@ -5,7 +5,7 @@ const chaiSchema = require('chai-json-schema');
 chai.use(chaiSchema);
 
 describe('plugins.json', () => {
-  it('matches the specified JSON Schema', () => {
-    chai.expect(require('../plugins.json')).to.be.jsonSchema(require('../schema.json')); // eslint-disable-line global-require
-  });
+    it('matches the specified JSON Schema', () => {
+        chai.expect(require('../plugins.json')).to.be.jsonSchema(require('../schema.json')); // eslint-disable-line global-require
+    });
 });
