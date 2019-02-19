@@ -378,6 +378,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[naaspati](https://github.com/naaspati)   |    [`jsmath`](https://github.com/naaspati/postcss-jsmath)   |   3|
 |[nicksheffield](https://github.com/nicksheffield)   |    [`postcss-color-hexa`](https://github.com/nicksheffield/postcss-color-hexa)   |   6|
 |[notacouch](https://github.com/notacouch)   |    [`postcss-mqwidth-to-class`](https://github.com/notacouch/postcss-mqwidth-to-class)   |   5|
+|[notiv-nt](https://github.com/notiv-nt)   |    [`postcss-transition`](https://github.com/notiv-nt/postcss-transition)   |   0|
 |[nucliweb](https://github.com/nucliweb)   |    [`postcss-magic-animations`](https://github.com/nucliweb/postcss-magic-animations)   |   39|
 |[OctoD](https://github.com/OctoD)   |    [`postcss-emptymediaqueries`](https://github.com/ride-css/postcss-emptymediaqueries)   |   4|
 |[OEvgeny](https://github.com/OEvgeny)   |    [`postcss-atroot`](https://github.com/OEvgeny/postcss-atroot)   |   3|
