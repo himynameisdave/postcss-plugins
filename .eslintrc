@@ -1,15 +1,24 @@
 {
-  "extends": "airbnb-base",
-  "env": {
-    "mocha": true
-  },
-  "rules": {
-    "arrow-parens": 0,
-    "import/newline-after-import": 0,
-    "comma-dangle": 0,
-    "no-console": 0,
-    "max-len": 0,
-    "prefer-promise-reject-errors": 0,
-    "import/no-dynamic-require": 1
-  }
+    "extends": [
+        "7geese/rules/eslint/best-practices/on",
+        "7geese/rules/eslint/errors/on",
+        "7geese/rules/eslint/es6/on",
+        "7geese/rules/eslint/node/on",
+        "7geese/rules/eslint/strict/on",
+        "7geese/rules/eslint/style/on",
+        "7geese/rules/eslint/variables/on",
+        "7geese/rules/7geese/off",
+        "7geese/rules/compat/off",
+        "7geese/rules/filenames/on",
+        "7geese/rules/import/on",
+        "7geese/rules/jest/off",
+        "7geese/rules/jsx-a11y/off",
+        "7geese/rules/promise/on",
+        "7geese/rules/react/off",
+        "7geese/rules/react-hooks/off"
+    ],
+    "env": {
+        "mocha": true
+    },
+    "rules": {}
 }
