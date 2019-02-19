@@ -1,3 +1,11 @@
+## v1.13.0
+- Adds [`postcss-transition`](https://github.com/notiv-nt/postcss-transition)
+- Fixes an issue around `token.json` not existing when trying to submit a new plugin (#261) (6c532279f3aa82d0fca3c5f738cd437cb29e8686)
+- Removes `package-lock.json` file, just use Yarn instead (c0d14a61adec46a24e5d140425b076f51b9ec345)
+- Bumps some packages.
+- Uses [`eslint-config-7geese`](https://www.npmjs.com/package/eslint-config-7geese) for lint configuration.
+
+
 ### v1.12.4
 - Adds [`postcss-register-custom-props`](https://github.com/vitaliy-bobrov/postcss-register-custom-props)
 - Adds [`postcss-scrollbar`](https://github.com/pascalduez/postcss-scrollbar)
