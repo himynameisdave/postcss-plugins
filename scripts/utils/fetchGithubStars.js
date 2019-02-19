@@ -1,5 +1,6 @@
 const gh = require('octonode');
-const { token } = require('../../token.json'); //  Generate your own token here: https://github.com/settings/tokens
+//  Generate your own token here: https://github.com/settings/tokens
+const { token } = require('../../token.json'); // eslint-disable-line import/no-unresolved
 const client = gh.client(token); //  Regsiter the client token w/Octonode
 
 /**
