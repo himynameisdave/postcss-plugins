@@ -4685,5 +4685,25 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-color-emoji",
+    "description": "that gives you full color emoji",
+    "author": "philipbordallo",
+    "url": "https://github.com/philipbordallo/postcss-color-emoji",
+    "tags": [
+      "fonts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-system-monospace",
+    "description": "that gives access to system monospace fonts",
+    "author": "philipbordallo",
+    "url": "https://github.com/philipbordallo/postcss-system-monospace",
+    "tags": [
+      "fonts"
+    ],
+    "stars": 0
   }
 ]
