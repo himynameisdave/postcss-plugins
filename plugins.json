@@ -4715,5 +4715,15 @@
       "fonts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-custom-unit",
+    "description": "custom unit, custom convert function",
+    "author": "yanhaijing",
+    "url": "https://github.com/yanhaijing/postcss-custom-unit",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
   }
 ]

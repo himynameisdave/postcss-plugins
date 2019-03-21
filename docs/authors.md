@@ -439,6 +439,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[WolfgangKluge](https://github.com/WolfgangKluge)   |    [`postcss-media-variables`](https://github.com/WolfgangKluge/postcss-media-variables)   |   18|
 |[Xiaoshuang Li](https://github.com/Xiaoshuang Li)   |    [`postcss-skin`](https://github.com/xiaoshuangLi/postcss-skin)   |   0|
 |[XOP](https://github.com/XOP)   |    [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)   |   1|
+|[yanhaijing](https://github.com/yanhaijing)   |    [`postcss-custom-unit`](https://github.com/yanhaijing/postcss-custom-unit)   |   0|
 |[yunusga](https://github.com/yunusga)   |    [`postcss-momentum-scrolling`](https://github.com/yunusga/postcss-momentum-scrolling)   |   45|
 |[zaim](https://github.com/zaim)   |    [`postcss-color-palette`](https://github.com/zaim/postcss-color-palette)   |   22|
 |[ZeeCoder](https://github.com/ZeeCoder)   |    [`@zeecoder/postcss-container-query`](https://github.com/ZeeCoder/container-query)   |   44|
