@@ -399,6 +399,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[Rycochet](https://github.com/Rycochet)   |    [`postcss-epub`](https://github.com/Rycochet/postcss-epub)   |   28|
 |[sandralundgren](https://github.com/sandralundgren)   |    [`postcss-lolcat-stylesheets`](https://github.com/sandralundgren/postcss-lolcat-stylesheets)   |   15|
 |[Ser-Gen](https://github.com/Ser-Gen)   |    [`postcss-data-packer`](https://github.com/Ser-Gen/postcss-data-packer)   |   19|
+|[shff](https://github.com/shff)   |    [`postcss-remove-unused-css`](https://github.com/shff/postcss-remove-unused-css)   |   0|
 |[shutterstock](https://github.com/shutterstock)   |    [`postcss-copy-assets`](https://github.com/shutterstock/postcss-copy-assets)   |   17|
 |[Siilwyn](https://github.com/Siilwyn)   |    [`css-declaration-sorter`](https://github.com/Siilwyn/css-declaration-sorter)   |   142|
 |[simeydotme](https://github.com/simeydotme)   |    [`postcss-filter-mq`](https://github.com/simeydotme/postcss-filter-mq)   |   7|

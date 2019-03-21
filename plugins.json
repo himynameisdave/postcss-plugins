@@ -4685,5 +4685,15 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-remove-unused-css",
+    "description": "Removes unused CSS rules based on your other files.",
+    "author": "shff",
+    "url": "https://github.com/shff/postcss-remove-unused-css",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
