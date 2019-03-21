@@ -172,6 +172,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[morishitter](https://github.com/morishitter)   |    [`atcss`](https://github.com/morishitter/atcss)   |   61|
 |   |    [`postcss-style-guide`](https://github.com/morishitter/postcss-style-guide)   |   512|
 |   |    [`cssfmt`](https://github.com/morishitter/cssfmt)   |   2058|
+|[philipbordallo](https://github.com/philipbordallo)   |    [`postcss-stack`](https://github.com/philipbordallo/postcss-stack)   |   1|
+|   |    [`postcss-color-emoji`](https://github.com/philipbordallo/postcss-color-emoji)   |   0|
+|   |    [`postcss-system-monospace`](https://github.com/philipbordallo/postcss-system-monospace)   |   0|
 |[retyui](https://github.com/retyui)   |    [`postcss-animations`](https://github.com/retyui/postcss-animations)   |   28|
 |   |    [`postcss-image-set-generator`](https://github.com/retyui/postcss-image-set-generator)   |   3|
 |   |    [`postcss-icon`](https://github.com/retyui/postcss-icon)   |   16|
@@ -386,7 +389,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[panec](https://github.com/panec)   |    [`postcss-mq-optimize`](https://github.com/panec/postcss-mq-optimize)   |   0|
 |[pathsofdesign](https://github.com/pathsofdesign)   |    [`postcss-fakeid`](https://github.com/pathsofdesign/postcss-fakeid)   |   14|
 |[pazams](https://github.com/pazams)   |    [`postcss-scopify`](https://github.com/pazams/postcss-scopify)   |   29|
-|[philipbordallo](https://github.com/philipbordallo)   |    [`postcss-stack`](https://github.com/philipbordallo/postcss-stack)   |   1|
 |[Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   3|
 |[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0|
 |[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   1|
