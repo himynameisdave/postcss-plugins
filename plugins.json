@@ -4687,6 +4687,36 @@
     "stars": 0
   },
   {
+    "name": "postcss-remove-unused-css",
+    "description": "Removes unused CSS rules based on your other files.",
+    "author": "shff",
+    "url": "https://github.com/shff/postcss-remove-unused-css",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-color-emoji",
+    "description": "that gives you full color emoji",
+    "author": "philipbordallo",
+    "url": "https://github.com/philipbordallo/postcss-color-emoji",
+    "tags": [
+      "fonts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-system-monospace",
+    "description": "that gives access to system monospace fonts",
+    "author": "philipbordallo",
+    "url": "https://github.com/philipbordallo/postcss-system-monospace",
+    "tags": [
+      "fonts"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-custom-unit",
     "description": "custom unit, custom convert function",
     "author": "yanhaijing",
