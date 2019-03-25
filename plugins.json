@@ -4725,5 +4725,15 @@
       "extensions"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-redundant-color-vars",
+    "description": "adds custom property for certain border and box-shadow declarations to fix a known Safari bug",
+    "author": "casey6",
+    "url": "https://github.com/caseyjacobson/postcss-redundant-color-vars",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
   }
 ]
