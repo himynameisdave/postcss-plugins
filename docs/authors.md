@@ -172,6 +172,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[morishitter](https://github.com/morishitter)   |    [`atcss`](https://github.com/morishitter/atcss)   |   61|
 |   |    [`postcss-style-guide`](https://github.com/morishitter/postcss-style-guide)   |   512|
 |   |    [`cssfmt`](https://github.com/morishitter/cssfmt)   |   2058|
+|[notiv-nt](https://github.com/notiv-nt)   |    [`postcss-transition`](https://github.com/notiv-nt/postcss-transition)   |   0|
+|   |    [`postcss-fluid`](https://github.com/notiv-nt/postcss-fluid)   |   0|
+|   |    [`postcss-media-functions`](https://github.com/notiv-nt/postcss-media-functions)   |   0|
 |[philipbordallo](https://github.com/philipbordallo)   |    [`postcss-stack`](https://github.com/philipbordallo/postcss-stack)   |   1|
 |   |    [`postcss-color-emoji`](https://github.com/philipbordallo/postcss-color-emoji)   |   0|
 |   |    [`postcss-system-monospace`](https://github.com/philipbordallo/postcss-system-monospace)   |   0|
@@ -240,8 +243,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-pointer`](https://github.com/markgoodyear/postcss-pointer)   |   15|
 |[niksy](https://github.com/niksy)   |    [`postcss-em-media-query`](https://github.com/niksy/postcss-em-media-query)   |   22|
 |   |    [`postcss-media-query-gap`](https://github.com/niksy/postcss-media-query-gap)   |   1|
-|[notiv-nt](https://github.com/notiv-nt)   |    [`postcss-transition`](https://github.com/notiv-nt/postcss-transition)   |   0|
-|   |    [`postcss-fluid`](https://github.com/notiv-nt/postcss-fluid)   |   0|
 |[outpunk](https://github.com/outpunk)   |    [`postcss-each`](https://github.com/outpunk/postcss-each)   |   80|
 |   |    [`postcss-modules`](https://github.com/outpunk/postcss-modules)   |   957|
 |[pepelxD](https://github.com/pepelxD)   |    [`postcss-neogrid`](https://github.com/pepelxD/postcss-neoGrid)   |   2|

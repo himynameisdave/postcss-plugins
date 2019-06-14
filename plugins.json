@@ -4739,5 +4739,18 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-media-functions",
+    "description": "Media functions shortcuts",
+    "author": "notiv-nt",
+    "url": "https://github.com/notiv-nt/postcss-media-functions",
+    "tags": [
+      "extensions",
+      "future",
+      "media-queries",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
