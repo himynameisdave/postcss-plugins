@@ -282,6 +282,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[axvm](https://github.com/axvm)   |    [`postcss-pure-grid`](https://github.com/axvm/postcss-pure-grid)   |   3|
 |[bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   186|
 |[BarryThePenguin](https://github.com/BarryThePenguin)   |    [`postcss-typography`](https://github.com/BarryThePenguin/postcss-typography)   |   38|
+|[BBVAEngineering](https://github.com/BBVAEngineering)   |    [`postcss-selector-scope`](https://github.com/BBVAEngineering/postcss-selector-scope.git)   |   0|
 |[benmcginnis](https://github.com/benmcginnis)   |    [`postcss-dss`](https://github.com/benmcginnis/postcss-dss)   |   0|
 |[binjospookie](https://github.com/binjospookie)   |    [`postcss-state-selector`](https://github.com/binjospookie/postcss-state-selector)   |   0|
 |[bmds](https://github.com/bmds)   |    [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)   |   6|
