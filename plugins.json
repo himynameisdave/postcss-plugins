@@ -4727,7 +4727,6 @@
     "stars": 0
   },
   {
-
     "name": "postcss-redundant-color-vars",
     "description": "adds custom property for certain border and box-shadow declarations to fix a known Safari bug",
     "author": "casey6",
@@ -4747,7 +4746,6 @@
     ],
     "stars": 0
   },
-  {
   {
     "name": "postcss-no-query",
     "description": "generates no-query fallbacks.",
@@ -4790,6 +4788,6 @@
       "media-queries",
       "optimizations"
     ],
-    "stars": 1 
+    "stars": 1
   }
 ]

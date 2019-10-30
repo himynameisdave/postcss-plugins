@@ -285,7 +285,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[aykut-rocks](https://github.com/aykut-rocks)   |    [`postcss-no-query`](https://github.com/aykut-rocks/postcss-no-query)   |   0|
 |[bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   186|
 |[BarryThePenguin](https://github.com/BarryThePenguin)   |    [`postcss-typography`](https://github.com/BarryThePenguin/postcss-typography)   |   38|
-|[BBVAEngineering](https://github.com/BBVAEngineering)   |    [`postcss-selector-scope`](https://github.com/BBVAEngineering/postcss-selector-scope.git)   |   0|
+|[BBVAEngineering](https://github.com/BBVAEngineering)   |    [`postcss-selector-scope`](https://github.com/BBVAEngineering/postcss-selector-scope)   |   0|
 |[benmcginnis](https://github.com/benmcginnis)   |    [`postcss-dss`](https://github.com/benmcginnis/postcss-dss)   |   0|
 |[binjospookie](https://github.com/binjospookie)   |    [`postcss-state-selector`](https://github.com/binjospookie/postcss-state-selector)   |   0|
 |[bmds](https://github.com/bmds)   |    [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)   |   6|
@@ -384,7 +384,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[MohammadYounes](https://github.com/MohammadYounes)   |    [`rtlcss`](https://github.com/MohammadYounes/rtlcss)   |   988|
 |[mystrdat](https://github.com/mystrdat)   |    [`postcss-inrule`](https://github.com/salsita/postcss-inrule)   |   7|
 |[naaspati](https://github.com/naaspati)   |    [`jsmath`](https://github.com/naaspati/postcss-jsmath)   |   3|
-|[nelonoel](https://github.com/nelonoel)   |    [`postcss-theme-ui`](https://github.com/nelonoel/postcss-theme-ui)   |   0|
 |[nicksheffield](https://github.com/nicksheffield)   |    [`postcss-color-hexa`](https://github.com/nicksheffield/postcss-color-hexa)   |   6|
 |[notacouch](https://github.com/notacouch)   |    [`postcss-mqwidth-to-class`](https://github.com/notacouch/postcss-mqwidth-to-class)   |   5|
 |[notiv-nt](https://github.com/notiv-nt)   |    [`postcss-transition`](https://github.com/notiv-nt/postcss-transition)   |   0|
@@ -406,7 +405,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[RyanZim](https://github.com/RyanZim)   |    [`postcss-uncss`](https://github.com/RyanZim/postcss-uncss)   |   76|
 |[Rycochet](https://github.com/Rycochet)   |    [`postcss-epub`](https://github.com/Rycochet/postcss-epub)   |   28|
 |[sandralundgren](https://github.com/sandralundgren)   |    [`postcss-lolcat-stylesheets`](https://github.com/sandralundgren/postcss-lolcat-stylesheets)   |   15|
-|[SassNinja](https://github.com/SassNinja)   |    [`postcss-combine-media-query`](https://github.com/SassNinja/postcss-combine-media-query)   |   0|
+|[SassNinja](https://github.com/SassNinja)   |    [`postcss-combine-media-query`](https://github.com/SassNinja/postcss-combine-media-query)   |   1|
 |[Ser-Gen](https://github.com/Ser-Gen)   |    [`postcss-data-packer`](https://github.com/Ser-Gen/postcss-data-packer)   |   19|
 |[shff](https://github.com/shff)   |    [`postcss-remove-unused-css`](https://github.com/shff/postcss-remove-unused-css)   |   0|
 |[shutterstock](https://github.com/shutterstock)   |    [`postcss-copy-assets`](https://github.com/shutterstock/postcss-copy-assets)   |   17|

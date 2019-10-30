@@ -1,3 +1,13 @@
+### v1.13.1
+- Adds [`postcss-redundant-color-vars`](https://github.com/caseyjacobson/postcss-redundant-color-vars)
+- Adds [`postcss-selector-scope`](https://github.com/BBVAEngineering/postcss-selector-scope)
+- Adds [`postcss-theme-ui`](https://github.com/nelonoel/postcss-theme-ui)
+- Adds [`postcss-no-query`](https://github.com/aykut-rocks/postcss-no-query)
+- Adds [`webp-in-css`](https://github.com/ai/webp-in-css)
+- Adds [`postcss-dark-theme-class`](https://github.com/postcss/postcss-dark-theme-class)
+- Adds [`postcss-combine-media-query`](https://github.com/SassNinja/postcss-combine-media-query)
+- Security vulnerablity fixes
+
 ## v1.13.0
 - Adds [`postcss-transition`](https://github.com/notiv-nt/postcss-transition)
 - Fixes an issue around `token.json` not existing when trying to submit a new plugin (#261) (6c532279f3aa82d0fca3c5f738cd437cb29e8686)
