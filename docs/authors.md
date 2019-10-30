@@ -280,6 +280,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[awcross](https://github.com/awcross)   |    [`postcss-each-variables`](https://github.com/awcross/postcss-each-variables)   |   7|
 |[axa-ch](https://github.com/axa-ch)   |    [`postcss-pseudoelements`](https://github.com/axa-ch/postcss-pseudoelements)   |   21|
 |[axvm](https://github.com/axvm)   |    [`postcss-pure-grid`](https://github.com/axvm/postcss-pure-grid)   |   3|
+|[aykut-rocks](https://github.com/aykut-rocks)   |    [`postcss-no-query`](https://github.com/aykut-rocks/postcss-no-query)   |   0|
 |[bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   186|
 |[BarryThePenguin](https://github.com/BarryThePenguin)   |    [`postcss-typography`](https://github.com/BarryThePenguin/postcss-typography)   |   38|
 |[BBVAEngineering](https://github.com/BBVAEngineering)   |    [`postcss-selector-scope`](https://github.com/BBVAEngineering/postcss-selector-scope.git)   |   0|

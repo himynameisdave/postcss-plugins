@@ -4757,5 +4757,16 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-no-query",
+    "description": "generates no-query fallbacks.",
+    "author": "aykut-rocks",
+    "url": "https://github.com/aykut-rocks/postcss-no-query",
+    "tags": [
+      "fallbacks",
+      "media-queries"
+    ],
+    "stars": 0
   }
 ]
