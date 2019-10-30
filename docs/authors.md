@@ -184,6 +184,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[TrySound](https://github.com/TrySound)   |    [`postcss-normalize-charset`](https://github.com/TrySound/postcss-normalize-charset)   |   14|
 |   |    [`postcss-minify-font-values`](https://github.com/TrySound/postcss-minify-font-values)   |   11|
 |   |    [`postcss-inline-svg`](https://github.com/TrySound/postcss-inline-svg)   |   344|
+|[ai](https://github.com/ai)   |    [`webp-in-css`](https://github.com/ai/webp-in-css)   |   0|
+|   |    [`postcss-dark-theme-class`](https://github.com/postcss/postcss-dark-theme-class)   |   0|
 |[AlekseyPleshkov](https://github.com/AlekseyPleshkov)   |    [`postcss-adaptive-size`](https://github.com/AlekseyPleshkov/postcss-adaptive-size)   |   1|
 |   |    [`postcss-flex-short`](https://github.com/AlekseyPleshkov/postcss-flex-short)   |   9|
 |[andywer](https://github.com/andywer)   |    [`postcss-theme`](https://github.com/andywer/postcss-theme)   |   77|
@@ -280,13 +282,16 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[awcross](https://github.com/awcross)   |    [`postcss-each-variables`](https://github.com/awcross/postcss-each-variables)   |   7|
 |[axa-ch](https://github.com/axa-ch)   |    [`postcss-pseudoelements`](https://github.com/axa-ch/postcss-pseudoelements)   |   21|
 |[axvm](https://github.com/axvm)   |    [`postcss-pure-grid`](https://github.com/axvm/postcss-pure-grid)   |   3|
+|[aykut-rocks](https://github.com/aykut-rocks)   |    [`postcss-no-query`](https://github.com/aykut-rocks/postcss-no-query)   |   0|
 |[bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   186|
 |[BarryThePenguin](https://github.com/BarryThePenguin)   |    [`postcss-typography`](https://github.com/BarryThePenguin/postcss-typography)   |   38|
+|[BBVAEngineering](https://github.com/BBVAEngineering)   |    [`postcss-selector-scope`](https://github.com/BBVAEngineering/postcss-selector-scope.git)   |   0|
 |[benmcginnis](https://github.com/benmcginnis)   |    [`postcss-dss`](https://github.com/benmcginnis/postcss-dss)   |   0|
 |[binjospookie](https://github.com/binjospookie)   |    [`postcss-state-selector`](https://github.com/binjospookie/postcss-state-selector)   |   0|
 |[bmds](https://github.com/bmds)   |    [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)   |   6|
 |[borodean](https://github.com/borodean)   |    [`postcss-assets`](https://github.com/borodean/postcss-assets)   |   502|
 |[btholt](https://github.com/btholt)   |    [`postcss-colorblind`](https://github.com/btholt/postcss-colorblind)   |   308|
+|[casey6](https://github.com/casey6)   |    [`postcss-redundant-color-vars`](https://github.com/caseyjacobson/postcss-redundant-color-vars)   |   0|
 |[cbas](https://github.com/cbas)   |    [`postcss-imperial`](https://github.com/cbas/postcss-imperial)   |   25|
 |[cbracco](https://github.com/cbracco)   |    [`postcss-remove-root`](https://github.com/cbracco/postcss-remove-root)   |   4|
 |[ccurtin](https://github.com/ccurtin)   |    [`postcss-responsive-font`](https://github.com/ccurtin/postcss-responsive-font)   |   19|
@@ -379,6 +384,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[MohammadYounes](https://github.com/MohammadYounes)   |    [`rtlcss`](https://github.com/MohammadYounes/rtlcss)   |   988|
 |[mystrdat](https://github.com/mystrdat)   |    [`postcss-inrule`](https://github.com/salsita/postcss-inrule)   |   7|
 |[naaspati](https://github.com/naaspati)   |    [`jsmath`](https://github.com/naaspati/postcss-jsmath)   |   3|
+|[nelonoel](https://github.com/nelonoel)   |    [`postcss-theme-ui`](https://github.com/nelonoel/postcss-theme-ui)   |   0|
 |[nicksheffield](https://github.com/nicksheffield)   |    [`postcss-color-hexa`](https://github.com/nicksheffield/postcss-color-hexa)   |   6|
 |[notacouch](https://github.com/notacouch)   |    [`postcss-mqwidth-to-class`](https://github.com/notacouch/postcss-mqwidth-to-class)   |   5|
 |[notiv-nt](https://github.com/notiv-nt)   |    [`postcss-transition`](https://github.com/notiv-nt/postcss-transition)   |   0|
