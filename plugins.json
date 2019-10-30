@@ -4727,6 +4727,38 @@
     "stars": 0
   },
   {
+    "name": "postcss-redundant-color-vars",
+    "description": "adds custom property for certain border and box-shadow declarations to fix a known Safari bug",
+    "author": "casey6",
+    "url": "https://github.com/caseyjacobson/postcss-redundant-color-vars",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-selector-scope",
+    "description": "to scope styles using :not() pseudo-class to prevent global styles having undesired effects over certain elements like Web Components",
+    "author": "BBVAEngineering",
+    "url": "https://github.com/BBVAEngineering/postcss-selector-scope",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+  {
+    "name": "postcss-no-query",
+    "description": "generates no-query fallbacks.",
+    "author": "aykut-rocks",
+    "url": "https://github.com/aykut-rocks/postcss-no-query",
+    "tags": [
+      "fallbacks",
+      "media-queries"
+    ],
+    "stars": 0
+  },
+  {
     "name": "webp-in-css",
     "description": "to use WebP in CSS background",
     "author": "ai",
