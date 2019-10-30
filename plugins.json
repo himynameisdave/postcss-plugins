@@ -4735,5 +4735,15 @@
       "fallbacks"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-selector-scope",
+    "description": "to scope styles using :not() pseudo-class to prevent global styles having undesired effects over certain elements like Web Components",
+    "author": "BBVAEngineering",
+    "url": "https://github.com/BBVAEngineering/postcss-selector-scope",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
