@@ -287,6 +287,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[bmds](https://github.com/bmds)   |    [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)   |   6|
 |[borodean](https://github.com/borodean)   |    [`postcss-assets`](https://github.com/borodean/postcss-assets)   |   502|
 |[btholt](https://github.com/btholt)   |    [`postcss-colorblind`](https://github.com/btholt/postcss-colorblind)   |   308|
+|[casey6](https://github.com/casey6)   |    [`postcss-redundant-color-vars`](https://github.com/caseyjacobson/postcss-redundant-color-vars)   |   0|
 |[cbas](https://github.com/cbas)   |    [`postcss-imperial`](https://github.com/cbas/postcss-imperial)   |   25|
 |[cbracco](https://github.com/cbracco)   |    [`postcss-remove-root`](https://github.com/cbracco/postcss-remove-root)   |   4|
 |[ccurtin](https://github.com/ccurtin)   |    [`postcss-responsive-font`](https://github.com/ccurtin/postcss-responsive-font)   |   19|
