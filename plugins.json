@@ -4747,17 +4747,6 @@
     "stars": 0
   },
   {
-    "name": "postcss-theme-ui",
-    "description": "lets you access Theme UI design tokens from your CSS.",
-    "author": "nelonoel",
-    "url": "https://github.com/nelonoel/postcss-theme-ui",
-    "tags": [
-      "extensions",
-      "media-queries",
-      "shortcuts"
-    ],
-    "stars": 0
-  },
   {
     "name": "postcss-no-query",
     "description": "generates no-query fallbacks.",
@@ -4765,6 +4754,28 @@
     "url": "https://github.com/aykut-rocks/postcss-no-query",
     "tags": [
       "fallbacks",
+      "media-queries"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "webp-in-css",
+    "description": "to use WebP in CSS background",
+    "author": "ai",
+    "url": "https://github.com/ai/webp-in-css",
+    "tags": [
+      "fallbacks",
+      "images"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-dark-theme-class",
+    "description": "to make switcher to force dark or light theme by copying styles from media query to special class",
+    "author": "ai",
+    "url": "https://github.com/postcss/postcss-dark-theme-class",
+    "tags": [
+      "color",
       "media-queries"
     ],
     "stars": 0
