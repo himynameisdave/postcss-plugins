@@ -4727,6 +4727,7 @@
     "stars": 0
   },
   {
+
     "name": "postcss-redundant-color-vars",
     "description": "adds custom property for certain border and box-shadow declarations to fix a known Safari bug",
     "author": "casey6",
@@ -4779,5 +4780,16 @@
       "media-queries"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-combine-media-query",
+    "description": "Combines equal media query rules.",
+    "author": "SassNinja",
+    "url": "https://github.com/SassNinja/postcss-combine-media-query",
+    "tags": [
+      "media-queries",
+      "optimizations"
+    ],
+    "stars": 1 
   }
 ]
