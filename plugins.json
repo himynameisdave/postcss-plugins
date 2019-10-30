@@ -4725,5 +4725,16 @@
       "extensions"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-combine-media-query",
+    "description": "Combines equal media query rules.",
+    "author": "SassNinja",
+    "url": "https://github.com/SassNinja/postcss-combine-media-query",
+    "tags": [
+      "media-queries",
+      "optimizations"
+    ],
+    "stars": 1
   }
 ]
