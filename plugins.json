@@ -4789,5 +4789,17 @@
       "optimizations"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-sort-media-queries",
+    "description": "or combine and sort CSS media queries with mobile first or desktop first methods.",
+    "author": "yunusga",
+    "url": "https://github.com/solversgroup/postcss-sort-media-queries",
+    "tags": [
+      "media-queries",
+      "optimizations",
+      "others"
+    ],
+    "stars": 0
   }
 ]
