@@ -4789,5 +4789,15 @@
       "optimizations"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-color-converter",
+    "description": "to convert colors between HEX, RGB, HSL and keyword color formats.",
+    "author": "EdMSL",
+    "url": "https://github.com/EdMSL/postcss-color-converter",
+    "tags": [
+      "color"
+    ],
+    "stars": 0
   }
 ]
