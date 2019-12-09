@@ -4789,5 +4789,16 @@
       "optimizations"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-font-format-keywords",
+    "description": "supports keywords in `@font-face` rule's `format()` function",
+    "author": "valtlai",
+    "url": "https://github.com/valtlai/postcss-font-format-keywords",
+    "tags": [
+      "fonts",
+      "future"
+    ],
+    "stars": 0
   }
 ]
