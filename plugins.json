@@ -4822,5 +4822,16 @@
       "color"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-svg-slimming",
+    "description": "optimize inline SVG",
+    "author": "benboba",
+    "url": "https://github.com/benboba/postcss-svg-slimming",
+    "tags": [
+      "optimizations",
+      "svg"
+    ],
+    "stars": 0
   }
 ]
