@@ -1,3 +1,10 @@
+### v1.13.2
+- Adds [`postcss-ts-classnames`](https://github.com/epeli/postcss-ts-classnames)
+- Adds [`postcss-sort-media-queries`](https://github.com/solversgroup/postcss-sort-media-queries)
+- Adds [`postcss-color-converter`](https://github.com/EdMSL/postcss-color-converter)
+- Adds [`postcss-svg-slimming`](https://github.com/benboba/postcss-svg-slimming)
+- Adds [`postcss-font-format-keywords`](https://github.com/valtlai/postcss-font-format-keywords)
+
 ### v1.13.1
 - Adds [`postcss-redundant-color-vars`](https://github.com/caseyjacobson/postcss-redundant-color-vars)
 - Adds [`postcss-selector-scope`](https://github.com/BBVAEngineering/postcss-selector-scope)
