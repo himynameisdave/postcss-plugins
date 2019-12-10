@@ -325,6 +325,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   69|
 |[dyaa](https://github.com/dyaa)   |    [`PostCSS Egyptian Stylesheets`](https://github.com/dyaa/postcss-egyptian-stylesheets)   |   15|
 |[emero](https://github.com/emero)   |    [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)   |   46|
+|[epeli](https://github.com/epeli)   |    [`postcss-ts-classnames`](https://github.com/epeli/postcss-ts-classnames)   |   0|
 |[eriklharper](https://github.com/eriklharper)   |    [`postcss-nested-import`](https://github.com/eriklharper/postcss-nested-import)   |   8|
 |[F21](https://github.com/F21)   |    [`postcss-vertical-rhythm-function`](https://github.com/F21/postcss-vertical-rhythm-function)   |   6|
 |[fliptheweb](https://github.com/fliptheweb)   |    [`postcss-flow-root`](https://github.com/fliptheweb/postcss-flow-root)   |   12|
