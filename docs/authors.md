@@ -258,6 +258,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-secmodify`](https://github.com/travco/postcss-secmodify)   |   0|
 |[yuezk](https://github.com/yuezk)   |    [`postcss-urlrev`](https://github.com/yuezk/postcss-urlrev)   |   17|
 |   |    [`postcss-filter-gradient`](https://github.com/yuezk/postcss-filter-gradient)   |   15|
+|[yunusga](https://github.com/yunusga)   |    [`postcss-momentum-scrolling`](https://github.com/yunusga/postcss-momentum-scrolling)   |   45|
+|   |    [`postcss-sort-media-queries`](https://github.com/solversgroup/postcss-sort-media-queries)   |   0|
 |[zhouwenbin](https://github.com/zhouwenbin)   |    [`postcss-animation`](https://github.com/zhouwenbin/postcss-animation)   |   68|
 |   |    [`postcss-chinese-stylesheets`](https://github.com/zhouwenbin/postcss-chinese-stylesheets)   |   15|
 |[1j01](https://github.com/1j01)   |    [`postcss-gtk`](https://github.com/1j01/postcss-gtk)   |   16|
@@ -286,6 +288,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[bameda](https://github.com/bameda)   |    [`postcss-andalusian-stylesheets`](https://github.com/bameda/postcss-andalusian-stylesheets)   |   186|
 |[BarryThePenguin](https://github.com/BarryThePenguin)   |    [`postcss-typography`](https://github.com/BarryThePenguin/postcss-typography)   |   38|
 |[BBVAEngineering](https://github.com/BBVAEngineering)   |    [`postcss-selector-scope`](https://github.com/BBVAEngineering/postcss-selector-scope)   |   0|
+|[benboba](https://github.com/benboba)   |    [`postcss-svg-slimming`](https://github.com/benboba/postcss-svg-slimming)   |   0|
 |[benmcginnis](https://github.com/benmcginnis)   |    [`postcss-dss`](https://github.com/benmcginnis/postcss-dss)   |   0|
 |[binjospookie](https://github.com/binjospookie)   |    [`postcss-state-selector`](https://github.com/binjospookie/postcss-state-selector)   |   0|
 |[bmds](https://github.com/bmds)   |    [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)   |   6|
@@ -322,7 +325,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[DongShelton](https://github.com/DongShelton)   |    [`postcss-file`](https://github.com/DongShelton/postcss-file)   |   1|
 |[dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   69|
 |[dyaa](https://github.com/dyaa)   |    [`PostCSS Egyptian Stylesheets`](https://github.com/dyaa/postcss-egyptian-stylesheets)   |   15|
+|[EdMSL](https://github.com/EdMSL)   |    [`postcss-color-converter`](https://github.com/EdMSL/postcss-color-converter)   |   0|
 |[emero](https://github.com/emero)   |    [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)   |   46|
+|[epeli](https://github.com/epeli)   |    [`postcss-ts-classnames`](https://github.com/epeli/postcss-ts-classnames)   |   0|
 |[eriklharper](https://github.com/eriklharper)   |    [`postcss-nested-import`](https://github.com/eriklharper/postcss-nested-import)   |   8|
 |[F21](https://github.com/F21)   |    [`postcss-vertical-rhythm-function`](https://github.com/F21/postcss-vertical-rhythm-function)   |   6|
 |[fliptheweb](https://github.com/fliptheweb)   |    [`postcss-flow-root`](https://github.com/fliptheweb/postcss-flow-root)   |   12|
@@ -447,7 +452,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[Xiaoshuang Li](https://github.com/Xiaoshuang Li)   |    [`postcss-skin`](https://github.com/xiaoshuangLi/postcss-skin)   |   0|
 |[XOP](https://github.com/XOP)   |    [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)   |   1|
 |[yanhaijing](https://github.com/yanhaijing)   |    [`postcss-custom-unit`](https://github.com/yanhaijing/postcss-custom-unit)   |   0|
-|[yunusga](https://github.com/yunusga)   |    [`postcss-momentum-scrolling`](https://github.com/yunusga/postcss-momentum-scrolling)   |   45|
 |[zaim](https://github.com/zaim)   |    [`postcss-color-palette`](https://github.com/zaim/postcss-color-palette)   |   22|
 |[ZeeCoder](https://github.com/ZeeCoder)   |    [`@zeecoder/postcss-container-query`](https://github.com/ZeeCoder/container-query)   |   44|
 |[zephraph](https://github.com/zephraph)   |    [`postcss-process-comments`](https://github.com/zephraph/postcss-process-comments)   |   0|
