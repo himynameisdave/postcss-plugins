@@ -4789,5 +4789,16 @@
       "optimizations"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-ts-classnames",
+    "description": "to generate TypeScript types from your CSS class names.",
+    "author": "epeli",
+    "url": "https://github.com/epeli/postcss-ts-classnames",
+    "tags": [
+      "analysis",
+      "debug"
+    ],
+    "stars": 0
   }
 ]
