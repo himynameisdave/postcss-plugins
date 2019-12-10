@@ -324,6 +324,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[DongShelton](https://github.com/DongShelton)   |    [`postcss-file`](https://github.com/DongShelton/postcss-file)   |   1|
 |[dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   69|
 |[dyaa](https://github.com/dyaa)   |    [`PostCSS Egyptian Stylesheets`](https://github.com/dyaa/postcss-egyptian-stylesheets)   |   15|
+|[EdMSL](https://github.com/EdMSL)   |    [`postcss-color-converter`](https://github.com/EdMSL/postcss-color-converter)   |   0|
 |[emero](https://github.com/emero)   |    [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)   |   46|
 |[epeli](https://github.com/epeli)   |    [`postcss-ts-classnames`](https://github.com/epeli/postcss-ts-classnames)   |   0|
 |[eriklharper](https://github.com/eriklharper)   |    [`postcss-nested-import`](https://github.com/eriklharper/postcss-nested-import)   |   8|
