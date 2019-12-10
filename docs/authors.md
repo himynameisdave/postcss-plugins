@@ -439,6 +439,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[tsm91](https://github.com/tsm91)   |    [`postcss-filter-stream`](https://github.com/tsm91/postcss-filter-stream)   |   12|
 |[twbs](https://github.com/twbs)   |    [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)   |   98|
 |[unlight](https://github.com/unlight)   |    [`postcss-import-url`](https://github.com/unlight/postcss-import-url)   |   16|
+|[valtlai](https://github.com/valtlai)   |    [`postcss-font-format-keywords`](https://github.com/valtlai/postcss-font-format-keywords)   |   0|
 |[vital-software](https://github.com/vital-software)   |    [`postcss-rgb-to-rgba`](https://github.com/vital-software/postcss-rgb-to-rgba)   |   0|
 |[vitaliy-bobrov](https://github.com/vitaliy-bobrov)   |    [`postcss-register-custom-props`](https://github.com/vitaliy-bobrov/postcss-register-custom-props)   |   15|
 |[VitaliyR](https://github.com/VitaliyR)   |    [`postcss-esplit`](https://github.com/VitaliyR/postcss-esplit)   |   10|
