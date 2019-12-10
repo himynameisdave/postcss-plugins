@@ -258,6 +258,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-secmodify`](https://github.com/travco/postcss-secmodify)   |   0|
 |[yuezk](https://github.com/yuezk)   |    [`postcss-urlrev`](https://github.com/yuezk/postcss-urlrev)   |   17|
 |   |    [`postcss-filter-gradient`](https://github.com/yuezk/postcss-filter-gradient)   |   15|
+|[yunusga](https://github.com/yunusga)   |    [`postcss-momentum-scrolling`](https://github.com/yunusga/postcss-momentum-scrolling)   |   45|
+|   |    [`postcss-sort-media-queries`](https://github.com/solversgroup/postcss-sort-media-queries)   |   0|
 |[zhouwenbin](https://github.com/zhouwenbin)   |    [`postcss-animation`](https://github.com/zhouwenbin/postcss-animation)   |   68|
 |   |    [`postcss-chinese-stylesheets`](https://github.com/zhouwenbin/postcss-chinese-stylesheets)   |   15|
 |[1j01](https://github.com/1j01)   |    [`postcss-gtk`](https://github.com/1j01/postcss-gtk)   |   16|
@@ -447,7 +449,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[Xiaoshuang Li](https://github.com/Xiaoshuang Li)   |    [`postcss-skin`](https://github.com/xiaoshuangLi/postcss-skin)   |   0|
 |[XOP](https://github.com/XOP)   |    [`postcss-rgba-hex`](https://github.com/XOP/postcss-rgba-hex)   |   1|
 |[yanhaijing](https://github.com/yanhaijing)   |    [`postcss-custom-unit`](https://github.com/yanhaijing/postcss-custom-unit)   |   0|
-|[yunusga](https://github.com/yunusga)   |    [`postcss-momentum-scrolling`](https://github.com/yunusga/postcss-momentum-scrolling)   |   45|
 |[zaim](https://github.com/zaim)   |    [`postcss-color-palette`](https://github.com/zaim/postcss-color-palette)   |   22|
 |[ZeeCoder](https://github.com/ZeeCoder)   |    [`@zeecoder/postcss-container-query`](https://github.com/ZeeCoder/container-query)   |   44|
 |[zephraph](https://github.com/zephraph)   |    [`postcss-process-comments`](https://github.com/zephraph/postcss-process-comments)   |   0|
