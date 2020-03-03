@@ -1,0 +1,6 @@
+.eslintrc
+.babelrc
+schema.json
+test/
+scripts/
+docs/
