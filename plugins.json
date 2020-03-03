@@ -4844,5 +4844,17 @@
       "future"
     ],
     "stars": 2
+  },
+  {
+    "name": "postcss-viewport-height-correction",
+    "description": "Solves the popular problem when 100vh doesn’t fit the mobile browser screen.",
+    "author": "Faisal-Manzer",
+    "url": "https://github.com/Faisal-Manzer/postcss-viewport-height-correction",
+    "tags": [
+      "fallbacks",
+      "media-queries",
+      "other"
+    ],
+    "stars": 0
   }
 ]
