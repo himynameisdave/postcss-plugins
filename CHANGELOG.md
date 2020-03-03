@@ -1,3 +1,11 @@
+## v1.14.0
+- Bump minimum Node version requirement to `>= 10`
+- Add an `.npmignore` file (#222)
+- Add `np` for better publishing (for when we start publishing on npm) (#67)
+- Add [`eslint-config-himynameisdave`](https://github.com/himynameisdave/eslint-config-himynameisdave) and lint based on that config
+- Adds [`postcss-viewport-height-correction`](https://github.com/Faisal-Manzer/postcss-viewport-height-correction)
+
+
 ### v1.13.2
 - Adds [`postcss-ts-classnames`](https://github.com/epeli/postcss-ts-classnames)
 - Adds [`postcss-sort-media-queries`](https://github.com/solversgroup/postcss-sort-media-queries)
