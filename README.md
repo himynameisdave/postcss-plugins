@@ -14,6 +14,7 @@ There are [over a hundred wonderful developers](https://github.com/himynameisdav
 
 The goal is to be as concise and clear as possible while still offering a lot of data about each plugin to developers.
 
+**TLDR;** this is a large JSON file containing metadata about as many postcss-plugins as possible.
 
 ### Install
 
