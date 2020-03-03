@@ -8,7 +8,7 @@
     "url": "git+https://github.com/himynameisdave/postcss-plugins.git"
   },
   "engines": {
-    "node": ">=6.0.0"
+    "node": ">= 10"
   },
   "scripts": {
     "add": "node scripts/add-new-plugin.js && node scripts/update-authors.js",
