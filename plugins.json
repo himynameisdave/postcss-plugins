@@ -4856,5 +4856,17 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-supported-variables",
+    "description": "that supports your variables with native CSS support.",
+    "author": "cooskun",
+    "url": "https://github.com/cooskun/postcss-supported-variables",
+    "tags": [
+      "fallbacks",
+      "future",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
