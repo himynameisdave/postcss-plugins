@@ -1,4 +1,6 @@
-const { red, blue } = require('chalk');
+const {
+  red, blue,
+} = require('chalk');
 
 
 const banner = red('\n\n\n       _____________    \n'
