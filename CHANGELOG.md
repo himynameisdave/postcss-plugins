@@ -1,3 +1,7 @@
+### v1.14.1
+- Adds [`postcss-supported-variables`](https://github.com/cooskun/postcss-supported-variables)
+- Clarify Add Plugin steps in the README (684f55ca09c2b9917266b8afc09145d30c034899)
+
 ## v1.14.0
 - Bump minimum Node version requirement to `>= 10`
 - Add an `.npmignore` file (#222)
