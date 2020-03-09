@@ -54,11 +54,13 @@ All plugins are welcome, so long as they meet the [PostCSS Plugin Guidelines](ht
 **Steps**:
 
 1. [Fork this repo](https://github.com/himynameisdave/postcss-plugins#fork-destination-box).
-2. Run `yarn install`/`npm i` to quickly install the dependencies that the [scripts](https://github.com/himynameisdave/postcss-plugins/tree/master/scripts) rely on.
-3. Run `yarn run add`/`npm run add`. You will then be prompted for info about your plugin. Follow the prompts.
-4. This will add your plugin to [`plugins.json`](https://github.com/himynameisdave/postcss-plugins/blob/master/plugins.json) and your name/plugin to the [`authors.md`](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md) list.
-5. Commit & push your changes, then submit your pull request.
-6. [Chill out](http://i.imgur.com/dZzkNc7.gif).
+1. Run `yarn install`/`npm install` to quickly install the dependencies that the [scripts](https://github.com/himynameisdave/postcss-plugins/tree/master/scripts) rely on.
+1. Run `yarn run add`/`npm run add`. You will then be prompted for info about your plugin. Follow the prompts.
+1. This will add your plugin to [`plugins.json`](https://github.com/himynameisdave/postcss-plugins/blob/master/plugins.json) and your name/plugin to the [`authors.md`](https://github.com/himynameisdave/postcss-plugins/blob/master/docs/authors.md) list.
+1. Commit & push your changes, then submit your pull request.
+1. [Chill out](http://i.imgur.com/dZzkNc7.gif).
+
+**Please note** that both `plugins.json` and `authors.md` **are not meant to be edited directly**. Instead, please follow the steps above to ensure your pull request can be merged in a timely manner. Also, do not worry about updating the GitHub star counts for the plugins, as this is done periodically by the maintainers.
 
 ### Changes
 
