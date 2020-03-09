@@ -3199,8 +3199,8 @@
   {
     "name": "postcss-env-replace",
     "description": "that will replace Templates with environment-specific content.",
-    "url": "https://github.com/stehefan/postcss-env-replace",
-    "author": "stehefan",
+    "url": "https://github.com/fielding/postcss-env-replace",
+    "author": "fielding",
     "tags": [
       "extensions",
       "images",

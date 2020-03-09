@@ -332,6 +332,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[eriklharper](https://github.com/eriklharper)   |    [`postcss-nested-import`](https://github.com/eriklharper/postcss-nested-import)   |   9|
 |[F21](https://github.com/F21)   |    [`postcss-vertical-rhythm-function`](https://github.com/F21/postcss-vertical-rhythm-function)   |   6|
 |[Faisal-Manzer](https://github.com/Faisal-Manzer)   |    [`postcss-viewport-height-correction`](https://github.com/Faisal-Manzer/postcss-viewport-height-correction)   |   61|
+|[fielding](https://github.com/fielding)   |    [`postcss-env-replace`](https://github.com/fielding/postcss-env-replace)   |   0|
 |[fliptheweb](https://github.com/fliptheweb)   |    [`postcss-flow-root`](https://github.com/fliptheweb/postcss-flow-root)   |   13|
 |[frm-adiputra](https://github.com/frm-adiputra)   |    [`RGrid`](https://github.com/frm-adiputra/postcss-rgrid)   |   2|
 |[geddski](https://github.com/geddski)   |    [`csstyle`](https://github.com/geddski/csstyle)   |   888|
@@ -423,7 +424,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[SlimMarten](https://github.com/SlimMarten)   |    [`postcss-mesh`](https://github.com/SlimMarten/postcss-mesh)   |   4|
 |[smitt04](https://github.com/smitt04)   |    [`postcss-prefix-url`](https://github.com/smitt04/postcss-prefix-url)   |   4|
 |[soul-wish](https://github.com/soul-wish)   |    [`important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)   |   6|
-|[stehefan](https://github.com/stehefan)   |    [`postcss-env-replace`](https://github.com/stehefan/postcss-env-replace)   |   0|
 |[stylelint](https://github.com/stylelint)   |    [`stylelint`](https://github.com/stylelint/stylelint)   |   7565|
 |[SuperOl3g](https://github.com/SuperOl3g)   |    [`postcss-image-set-polyfill`](https://github.com/SuperOl3g/postcss-image-set-polyfill)   |   42|
 |[sylvainbaronnet](https://github.com/sylvainbaronnet)   |    [`postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)   |   4|
