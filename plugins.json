@@ -4868,5 +4868,70 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-sqrt",
+    "description": "calculate the square root of a number dynamically in CSS",
+    "author": "limitlessloop",
+    "url": "https://github.com/limitlessloop/postcss-sqrt",
+    "tags": [
+      "extensions",
+      "future"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-pow",
+    "description": "calculate the power of a number dynamically in CSS",
+    "author": "limitlessloop",
+    "url": "https://github.com/limitlessloop/postcss-pow",
+    "tags": [
+      "extensions",
+      "future"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-border-align",
+    "description": "allows you to create borders which do not affect the layout of document",
+    "author": "limitlessloop",
+    "url": "https://github.com/limitlessloop/postcss-border-align",
+    "tags": [
+      "extensions"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-negative-padding",
+    "description": "shortcut for declaring padding and negative margins to increase the hit area of a target without effecting layout",
+    "author": "limitlessloop",
+    "url": "https://github.com/limitlessloop/postcss-negative-padding",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-proportional-spacing",
+    "description": "allows you to create proportional vertical and horizontal, padding and margin using ratios",
+    "author": "limitlessloop",
+    "url": "https://github.com/limitlessloop/postcss-proportional-spacing",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-exact-width",
+    "description": "ignores flex-grow and gives you the exact width or height when using flex items",
+    "author": "limitlessloop",
+    "url": "https://github.com/limitlessloop/postcss-exact-width",
+    "tags": [
+      "grids",
+      "other"
+    ],
+    "stars": 0
   }
 ]

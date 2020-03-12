@@ -111,7 +111,13 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-clearfix`](https://github.com/seaneking/postcss-clearfix)   |   46|
 |   |    [`postcss-input-style`](https://github.com/seaneking/postcss-input-style)   |   15|
 |   |    [`postcss-position`](https://github.com/seaneking/postcss-position)   |   27|
-|   |    [`postcss-responsive-type`](https://github.com/seaneking/postcss-responsive-type)   |   346|
+|   |    [`postcss-responsive-type`](https://github.com/seaneking/postcss-responsive-type)   |   345|
+|[limitlessloop](https://github.com/limitlessloop)   |    [`postcss-sqrt`](https://github.com/limitlessloop/postcss-sqrt)   |   0|
+|   |    [`postcss-pow`](https://github.com/limitlessloop/postcss-pow)   |   0|
+|   |    [`postcss-border-align`](https://github.com/limitlessloop/postcss-border-align)   |   0|
+|   |    [`postcss-negative-padding`](https://github.com/limitlessloop/postcss-negative-padding)   |   0|
+|   |    [`postcss-proportional-spacing`](https://github.com/limitlessloop/postcss-proportional-spacing)   |   0|
+|   |    [`postcss-exact-width`](https://github.com/limitlessloop/postcss-exact-width)   |   0|
 |[admdh](https://github.com/admdh)   |    [`postcss-simple-grid`](https://github.com/admdh/postcss-simple-grid)   |   19|
 |   |    [`postcss-high-contrast`](https://github.com/admdh/postcss-high-contrast)   |   101|
 |   |    [`postcss-increase-text-sizes`](https://github.com/admdh/postcss-increase-text-sizes)   |   13|
