@@ -1,3 +1,13 @@
+### v1.14.2
+- Adds [`postcss-sqrt`](https://github.com/limitlessloop/postcss-sqrt)
+- Adds [`postcss-pow`](https://github.com/limitlessloop/postcss-pow)
+- Adds [`postcss-border-align`](https://github.com/limitlessloop/postcss-border-align)
+- Adds [`postcss-negative-padding`](https://github.com/limitlessloop/postcss-negative-padding)
+- Adds [`postcss-proportional-spacing`](https://github.com/limitlessloop/postcss-proportional-spacing)
+- Adds [`postcss-exact-width`](https://github.com/limitlessloop/postcss-exact-width)
+- Add `package-lock.json` to `.gitignore` (cf3f901920635a99f798b53b0b56b5708e367202)
+- Fix link to a plugin which has moved (5d439cd3eee281ef43810256b3ff8e0f3ac87d32)
+
 ### v1.14.1
 - Adds [`postcss-supported-variables`](https://github.com/cooskun/postcss-supported-variables)
 - Clarify Add Plugin steps in the README (684f55ca09c2b9917266b8afc09145d30c034899)
