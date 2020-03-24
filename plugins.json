@@ -4936,7 +4936,7 @@
   },
   {
     "name": "postcss-hairlines",
-    "description": "transform your border to retina hairlines",
+    "description": "Transform your border to retina hairlines",
     "author": "zhoucheng",
     "url": "https://github.com/zhouchengi/postcss-hairlines",
     "tags": [
