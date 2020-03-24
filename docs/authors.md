@@ -390,6 +390,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[macropodhq](https://github.com/macropodhq)   |    [`postcss-constants`](https://github.com/macropodhq/postcss-constants)   |   61|
 |[makotot](https://github.com/makotot)   |    [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)   |   2|
 |[maraisr](https://github.com/maraisr)   |    [`postcss-grouper`](https://github.com/maraisr/postcss-grouper)   |   4|
+|[maykinmedia](https://github.com/maykinmedia)   |    [`postcss-selector-lint`](https://github.com/maykinmedia/postcss-selector-lint)   |   0|
 |[mbrandau](https://github.com/mbrandau)   |    [`postcss-class-name-shortener`](https://github.com/mbrandau/postcss-class-name-shortener)   |   4|
 |[megatolya](https://github.com/megatolya)   |    [`postcss-will-change-transition`](https://github.com/megatolya/postcss-will-change-transition)   |   13|
 |[meltifa](https://github.com/meltifa)   |    [`postcss-pixel-to-viewport`](https://github.com/meltifa/postcss-pixel-to-viewport)   |   6|
