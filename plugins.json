@@ -4933,5 +4933,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-hairlines",
+    "description": "transform your border to retina hairlines",
+    "author": "zhoucheng",
+    "url": "https://github.com/zhouchengi/postcss-hairlines",
+    "tags": [
+      "optimizations",
+      "fallbacks"
+    ],
+    "stars": 0
   }
 ]
