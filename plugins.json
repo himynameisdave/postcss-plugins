@@ -4935,6 +4935,17 @@
     "stars": 0
   },
   {
+    "name": "postcss-hairlines",
+    "description": "Transform your border to retina hairlines",
+    "author": "zhoucheng",
+    "url": "https://github.com/zhouchengi/postcss-hairlines",
+    "tags": [
+      "optimizations",
+      "fallbacks"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-selector-lint",
     "description": "that warns about disallowed selector types in either 'global' or 'local' scope.",
     "author": "maykinmedia",
