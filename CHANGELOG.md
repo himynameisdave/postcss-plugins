@@ -1,3 +1,7 @@
+### v1.14.3
+- Adds [`postcss-hairlines`](https://github.com/zhouchengi/postcss-hairlines)
+- Adds [`postcss-selector-lint`](https://github.com/maykinmedia/postcss-selector-lint)
+
 ### v1.14.2
 - Adds [`postcss-sqrt`](https://github.com/limitlessloop/postcss-sqrt)
 - Adds [`postcss-pow`](https://github.com/limitlessloop/postcss-pow)
