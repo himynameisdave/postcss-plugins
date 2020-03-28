@@ -4944,5 +4944,17 @@
       "fallbacks"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-selector-lint",
+    "description": "that warns about disallowed selector types in either 'global' or 'local' scope.",
+    "author": "maykinmedia",
+    "url": "https://github.com/maykinmedia/postcss-selector-lint",
+    "tags": [
+      "analysis",
+      "debug",
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
