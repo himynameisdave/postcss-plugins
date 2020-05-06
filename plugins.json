@@ -4944,5 +4944,16 @@
       "fallbacks"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-webp",
+    "description": "Add webp suffix to url of background-image in css",
+    "author": "zhoucheng",
+    "url": "https://github.com/zhouchengi/postcss-webp",
+    "tags": [
+      "optimizations",
+      "images"
+    ],
+    "stars": 0
   }
 ]
