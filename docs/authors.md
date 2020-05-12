@@ -465,4 +465,4 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[ZeeCoder](https://github.com/ZeeCoder)   |    [`@zeecoder/postcss-container-query`](https://github.com/ZeeCoder/container-query)   |   107|
 |[zephraph](https://github.com/zephraph)   |    [`postcss-process-comments`](https://github.com/zephraph/postcss-process-comments)   |   0|
 |[zgreen](https://github.com/zgreen)   |    [`postcss-critical-css`](https://github.com/zgreen/postcss-critical-css)   |   64|
-|[zhoucheng](https://github.com/zhoucheng)   |    [`postcss-hairlines`](https://github.com/zhouchengi/postcss-hairlines)   |   0|
+|[zhoucheng](https://github.com/zhouchengi)   |    [`postcss-hairlines`](https://github.com/zhouchengi/postcss-hairlines)   |   0|
