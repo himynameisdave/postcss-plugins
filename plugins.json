@@ -4956,5 +4956,17 @@
       "optimizations"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-clamp",
+    "description": "that transform `clamp()` to combination of `min/max`",
+    "author": "polemius",
+    "url": "https://github.com/polemius/postcss-clamp",
+    "tags": [
+      "fallbacks",
+      "future",
+      "optimizations"
+    ],
+    "stars": 8
   }
 ]
