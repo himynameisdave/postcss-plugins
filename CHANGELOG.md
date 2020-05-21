@@ -1,3 +1,8 @@
+### v1.14.4
+- Adds [`postcss-clamp`](https://github.com/polemius/postcss-clamp)
+- Adds [`postcss-webp`](https://github.com/zhouchengi/postcss-webp)
+- Translates [README to simplified Chinese](https://github.com/himynameisdave/postcss-plugins/blob/master/README-zh_CN.md) (huge thanks to [@zhoucheng](https://github.com/zhouchengi))
+
 ### v1.14.3
 - Adds [`postcss-hairlines`](https://github.com/zhouchengi/postcss-hairlines)
 - Adds [`postcss-selector-lint`](https://github.com/maykinmedia/postcss-selector-lint)
