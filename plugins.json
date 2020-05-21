@@ -4958,6 +4958,18 @@
     "stars": 1
   },
   {
+    "name": "postcss-clamp",
+    "description": "that transform `clamp()` to combination of `min/max`",
+    "author": "polemius",
+    "url": "https://github.com/polemius/postcss-clamp",
+    "tags": [
+      "fallbacks",
+      "future",
+      "optimizations"
+    ],
+    "stars": 8
+  },
+  {
     "name": "postcss-webp",
     "description": "Add webp suffix to url of background or background-image in css",
     "author": "zhoucheng",
