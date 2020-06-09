@@ -4978,5 +4978,16 @@
       "images"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-escape-generated-content-string",
+    "description": "for escaping strings in generated content.",
+    "author": "niksy",
+    "url": "https://github.com/niksy/postcss-escape-generated-content-string",
+    "tags": [
+      "fallbacks",
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
