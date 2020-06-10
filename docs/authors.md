@@ -262,6 +262,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`level4`](https://github.com/stephenway/level4)   |   26|
 |[travco](https://github.com/travco)   |    [`postcss-extend`](https://github.com/travco/postcss-extend)   |   104|
 |   |    [`postcss-secmodify`](https://github.com/travco/postcss-secmodify)   |   0|
+|[valtlai](https://github.com/valtlai)   |    [`postcss-font-format-keywords`](https://github.com/valtlai/postcss-font-format-keywords)   |   4|
+|   |    [`postcss-color-image`](https://github.com/valtlai/postcss-color-image)   |   0|
 |[yuezk](https://github.com/yuezk)   |    [`postcss-urlrev`](https://github.com/yuezk/postcss-urlrev)   |   17|
 |   |    [`postcss-filter-gradient`](https://github.com/yuezk/postcss-filter-gradient)   |   16|
 |[yunusga](https://github.com/yunusga)   |    [`postcss-momentum-scrolling`](https://github.com/yunusga/postcss-momentum-scrolling)   |   62|
@@ -451,7 +453,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[tsm91](https://github.com/tsm91)   |    [`postcss-filter-stream`](https://github.com/tsm91/postcss-filter-stream)   |   0|
 |[twbs](https://github.com/twbs)   |    [`mq4-hover-shim`](https://github.com/twbs/mq4-hover-shim)   |   97|
 |[unlight](https://github.com/unlight)   |    [`postcss-import-url`](https://github.com/unlight/postcss-import-url)   |   34|
-|[valtlai](https://github.com/valtlai)   |    [`postcss-font-format-keywords`](https://github.com/valtlai/postcss-font-format-keywords)   |   4|
 |[vital-software](https://github.com/vital-software)   |    [`postcss-rgb-to-rgba`](https://github.com/vital-software/postcss-rgb-to-rgba)   |   0|
 |[vitaliy-bobrov](https://github.com/vitaliy-bobrov)   |    [`postcss-register-custom-props`](https://github.com/vitaliy-bobrov/postcss-register-custom-props)   |   19|
 |[VitaliyR](https://github.com/VitaliyR)   |    [`postcss-esplit`](https://github.com/VitaliyR/postcss-esplit)   |   8|

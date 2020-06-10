@@ -4978,5 +4978,18 @@
       "images"
     ],
     "stars": 1
+  },
+  {
+    "name": "postcss-color-image",
+    "description": "allows to use a solid color as an image with `image(<color>)` syntax",
+    "author": "valtlai",
+    "url": "https://github.com/valtlai/postcss-color-image",
+    "tags": [
+      "color",
+      "future",
+      "images",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
