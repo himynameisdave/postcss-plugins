@@ -4980,6 +4980,41 @@
     "stars": 1
   },
   {
+    "name": "postcss-color-image",
+    "description": "allows to use a solid color as an image with `image(<color>)` syntax",
+    "author": "valtlai",
+    "url": "https://github.com/valtlai/postcss-color-image",
+    "tags": [
+      "color",
+      "future",
+      "images",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "@tillschander/postcss-prefix-all-rules",
+    "description": "Prepend a selector in front of all your rules.",
+    "author": "tillschander",
+    "url": "https://github.com/tillschander/postcss-prefix-all-rules",
+    "tags": [
+      "extensions",
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "@tillschander/postcss-rem-to-px",
+    "description": "Replace all rem values with px values.",
+    "author": "tillschander",
+    "url": "https://github.com/tillschander/postcss-rem-to-px",
+    "tags": [
+      "fallbacks",
+      "other"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-escape-generated-content-string",
     "description": "for escaping strings in generated content.",
     "author": "niksy",
