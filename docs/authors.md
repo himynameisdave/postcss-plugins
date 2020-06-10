@@ -178,6 +178,9 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[morishitter](https://github.com/morishitter)   |    [`atcss`](https://github.com/morishitter/atcss)   |   63|
 |   |    [`postcss-style-guide`](https://github.com/morishitter/postcss-style-guide)   |   522|
 |   |    [`cssfmt`](https://github.com/morishitter/cssfmt)   |   2102|
+|[niksy](https://github.com/niksy)   |    [`postcss-em-media-query`](https://github.com/niksy/postcss-em-media-query)   |   21|
+|   |    [`postcss-media-query-gap`](https://github.com/niksy/postcss-media-query-gap)   |   1|
+|   |    [`postcss-escape-generated-content-string`](https://github.com/niksy/postcss-escape-generated-content-string)   |   0|
 |[philipbordallo](https://github.com/philipbordallo)   |    [`postcss-stack`](https://github.com/philipbordallo/postcss-stack)   |   7|
 |   |    [`postcss-color-emoji`](https://github.com/philipbordallo/postcss-color-emoji)   |   3|
 |   |    [`postcss-system-monospace`](https://github.com/philipbordallo/postcss-system-monospace)   |   1|
@@ -246,8 +249,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`math-calc`](https://github.com/lore-w/math-calc)   |   2|
 |[markgoodyear](https://github.com/markgoodyear)   |    [`postcss-vertical-rhythm`](https://github.com/markgoodyear/postcss-vertical-rhythm)   |   74|
 |   |    [`postcss-pointer`](https://github.com/markgoodyear/postcss-pointer)   |   15|
-|[niksy](https://github.com/niksy)   |    [`postcss-em-media-query`](https://github.com/niksy/postcss-em-media-query)   |   21|
-|   |    [`postcss-media-query-gap`](https://github.com/niksy/postcss-media-query-gap)   |   1|
 |[outpunk](https://github.com/outpunk)   |    [`postcss-each`](https://github.com/outpunk/postcss-each)   |   88|
 |   |    [`postcss-modules`](https://github.com/outpunk/postcss-modules)   |   1116|
 |[pepelxD](https://github.com/pepelxD)   |    [`postcss-neogrid`](https://github.com/pepelxD/postcss-neoGrid)   |   3|
