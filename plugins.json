@@ -4980,6 +4980,33 @@
     "stars": 1
   },
   {
+    "name": "postcss-fluid",
+    "description": "Fluid css value",
+    "author": "notiv-nt",
+    "url": "https://github.com/notiv-nt/postcss-fluid",
+    "tags": [
+      "fonts",
+      "media-queries",
+      "optimizations",
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-media-functions",
+    "description": "Media functions shortcuts",
+    "author": "notiv-nt",
+    "url": "https://github.com/notiv-nt/postcss-media-functions",
+    "tags": [
+      "extensions",
+      "future",
+      "media-queries",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-color-image",
     "description": "allows to use a solid color as an image with `image(<color>)` syntax",
     "author": "valtlai",
