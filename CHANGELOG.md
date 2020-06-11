@@ -1,3 +1,11 @@
+### v1.14.5
+- Adds [`postcss-fluid`](https://github.com/notiv-nt/postcss-fluid)
+- Adds [`postcss-media-functions`](https://github.com/notiv-nt/postcss-media-functions)
+- Adds [`postcss-color-image`](https://github.com/valtlai/postcss-color-image)
+- Adds [`postcss-prefix-all-rules`](https://github.com/tillschander/postcss-prefix-all-rules)
+- Adds [`postcss-rem-to-px`](https://github.com/tillschander/postcss-rem-to-px)
+- Adds [`postcss-escape-generated-content-string`](https://github.com/niksy/postcss-escape-generated-content-string)
+
 ### v1.14.4
 - Adds [`postcss-clamp`](https://github.com/polemius/postcss-clamp)
 - Adds [`postcss-webp`](https://github.com/zhouchengi/postcss-webp)
