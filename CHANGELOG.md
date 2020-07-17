@@ -1,3 +1,7 @@
+## v1.15.0
+- Replace spaces in incoming author names via a `filter`.
+- Adds [`postcss-inline-class`](https://github.com/SectorLabs/postcss-inline-class)
+
 ### v1.14.5
 - Adds [`postcss-fluid`](https://github.com/notiv-nt/postcss-fluid)
 - Adds [`postcss-media-functions`](https://github.com/notiv-nt/postcss-media-functions)
