@@ -3,9 +3,6 @@ const tags = require('./tags.js');
 const plugins = require('../../plugins.json');
 
 
-const tagChoices = tags.getTags();
-
-
 module.exports = [{
   type: 'input',
   name: 'name',
@@ -37,11 +34,13 @@ module.exports = [{
   type: 'input',
   name: 'author',
   message: 'What is the GitHub username for the author of this plugin?',
+  //  Note: can't use String.replaceAll as it is not implemented in Node 10, the min version for this project.
+  filter: (value) => value.replace(/ /g, ''), // eslint-disable-line unicorn/prefer-replace-all
 }, {
   type: 'checkbox',
   name: 'tags',
   message: 'Choose at least one tag that describes your plugin.\nFor descriptions of the tags, please see the list in full:\nhttps://github.com/himynameisdave/postcss-plugins/blob/master/docs/tags.md',
-  choices: tagChoices,
+  choices: tags.getTags(),
   validate: (answer) => answer.length === 0 ? 'You must choose at least one tag.' : true,
 }, {
   type: 'confirm',
