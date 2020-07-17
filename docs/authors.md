@@ -431,7 +431,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[Rycochet](https://github.com/Rycochet)   |    [`postcss-epub`](https://github.com/Rycochet/postcss-epub)   |   29|
 |[sandralundgren](https://github.com/sandralundgren)   |    [`postcss-lolcat-stylesheets`](https://github.com/sandralundgren/postcss-lolcat-stylesheets)   |   15|
 |[SassNinja](https://github.com/SassNinja)   |    [`postcss-combine-media-query`](https://github.com/SassNinja/postcss-combine-media-query)   |   44|
-|[Sector Labs](https://github.com/Sector Labs)   |    [`postcss-inline-class`](https://github.com/SectorLabs/postcss-inline-class)   |   0|
+|[SectorLabs](https://github.com/SectorLabs)   |    [`postcss-inline-class`](https://github.com/SectorLabs/postcss-inline-class)   |   0|
 |[Ser-Gen](https://github.com/Ser-Gen)   |    [`postcss-data-packer`](https://github.com/Ser-Gen/postcss-data-packer)   |   19|
 |[shff](https://github.com/shff)   |    [`postcss-remove-unused-css`](https://github.com/shff/postcss-remove-unused-css)   |   8|
 |[shutterstock](https://github.com/shutterstock)   |    [`postcss-copy-assets`](https://github.com/shutterstock/postcss-copy-assets)   |   17|

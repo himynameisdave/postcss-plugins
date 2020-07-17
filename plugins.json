@@ -5055,7 +5055,7 @@
   {
     "name": "postcss-inline-class",
     "description": "for inlining your CSS classes in other CSS classes.",
-    "author": "Sector Labs",
+    "author": "SectorLabs",
     "url": "https://github.com/SectorLabs/postcss-inline-class",
     "tags": [
       "extensions"
