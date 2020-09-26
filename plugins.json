@@ -5061,5 +5061,17 @@
       "extensions"
     ],
     "stars": 3
+  },
+  {
+    "name": "postcss-deadcss",
+    "description": "that helps to find dead css in a project",
+    "author": "DenyVeyten",
+    "url": "https://github.com/DenyVeyten/postcss-deadcss",
+    "tags": [
+      "analysis",
+      "debug",
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
