@@ -335,6 +335,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[DanielStoica85](https://github.com/DanielStoica85)   |    [`postcss-romanian-stylesheets`](https://github.com/DanielStoica85/postcss-romanian-stylesheets)   |   5|
 |[davidhemphill](https://github.com/davidhemphill)   |    [`postcss-verthorz`](https://github.com/davidhemphill/postcss-verthorz)   |   17|
 |[dehuszar](https://github.com/dehuszar)   |    [`postcss-reference`](https://github.com/dehuszar/postcss-reference)   |   28|
+|[DenyVeyten](https://github.com/DenyVeyten)   |    [`postcss-deadcss`](https://github.com/DenyVeyten/postcss-deadcss)   |   0|
 |[derek-duncan](https://github.com/derek-duncan)   |    [`postcss-responsify`](https://github.com/derek-duncan/postcss-responsify)   |   5|
 |[devgru](https://github.com/devgru)   |    [`postcss-color-hcl`](https://github.com/devgru/postcss-color-hcl)   |   6|
 |[dfernandez79](https://github.com/dfernandez79)   |    [`postcss-ase-colors`](https://github.com/dfernandez79/postcss-ase-colors)   |   9|
