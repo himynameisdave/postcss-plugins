@@ -167,8 +167,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-speech-bubble`](https://github.com/archana-s/postcss-speech-bubble)   |   12|
 |   |    [`postcss-colorfix`](https://github.com/archana-s/postcss-colorfix)   |   5|
 |[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   9|
-|   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-text-transform)   |   2|
-|   |    [`postcss-console`](https://github.com/ezavile/postcss-console)   |   5|
+|   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-plugins/tree/master/packages/text-transform)   |   2|
+|   |    [`postcss-console`](https://github.com/ezavile/postcss-plugins/tree/master/packages/console)   |   5|
 |[komachi](https://github.com/komachi)   |    [`usedcss`](https://github.com/komachi/usedcss)   |   47|
 |   |    [`postcss-clip-path-polyfill`](https://github.com/komachi/postcss-clip-path-polyfill)   |   21|
 |   |    [`postcss-dialog-polyfill`](https://github.com/komachi/postcss-dialog-polyfill)   |   2|

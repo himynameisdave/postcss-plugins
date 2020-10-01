@@ -4066,11 +4066,11 @@
   },
   {
     "name": "postcss-text-transform",
-    "description": "to transform the text.",
+    "description": "plugin to transform text",
     "author": "ezavile",
-    "url": "https://github.com/ezavile/postcss-text-transform",
+    "url": "https://github.com/ezavile/postcss-plugins/tree/master/packages/text-transform",
     "tags": [
-      "fallbacks",
+      "shortcuts",
       "other"
     ],
     "stars": 2
@@ -4090,7 +4090,7 @@
     "name": "postcss-console",
     "description": "plugin to output messages to the terminal",
     "author": "ezavile",
-    "url": "https://github.com/ezavile/postcss-console",
+    "url": "https://github.com/ezavile/postcss-plugins/tree/master/packages/console",
     "tags": [
       "analysis",
       "debug",
