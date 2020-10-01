@@ -1,3 +1,7 @@
+## v1.15.1
+- Adds [`postcss-deadcss`](https://github.com/DenyVeyten/postcss-deadcss)
+- Fix some URLs (https://github.com/himynameisdave/postcss-plugins/pull/304)
+
 ## v1.15.0
 - Replace spaces in incoming author names via a `filter`.
 - Adds [`postcss-inline-class`](https://github.com/SectorLabs/postcss-inline-class)
