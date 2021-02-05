@@ -5073,5 +5073,15 @@
       "optimizations"
     ],
     "stars": 24
+  },
+  {
+    "name": "postcss-prefixwrap",
+    "description": "which prepends a selector to CSS styles to constrain their effect on parent elements in a page.",
+    "author": "dbtedman",
+    "url": "https://github.com/dbtedman/postcss-prefixwrap",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
