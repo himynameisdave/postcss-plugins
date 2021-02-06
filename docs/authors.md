@@ -334,6 +334,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[dan-gamble](https://github.com/dan-gamble)   |    [`postcss-font-awesome`](https://github.com/dan-gamble/postcss-font-awesome)   |   33|
 |[DanielStoica85](https://github.com/DanielStoica85)   |    [`postcss-romanian-stylesheets`](https://github.com/DanielStoica85/postcss-romanian-stylesheets)   |   5|
 |[davidhemphill](https://github.com/davidhemphill)   |    [`postcss-verthorz`](https://github.com/davidhemphill/postcss-verthorz)   |   17|
+|[dbtedman](https://github.com/dbtedman)   |    [`postcss-prefixwrap`](https://github.com/dbtedman/postcss-prefixwrap)   |   0|
 |[dehuszar](https://github.com/dehuszar)   |    [`postcss-reference`](https://github.com/dehuszar/postcss-reference)   |   28|
 |[DenyVeyten](https://github.com/DenyVeyten)   |    [`postcss-deadcss`](https://github.com/DenyVeyten/postcss-deadcss)   |   24|
 |[derek-duncan](https://github.com/derek-duncan)   |    [`postcss-responsify`](https://github.com/derek-duncan/postcss-responsify)   |   5|
