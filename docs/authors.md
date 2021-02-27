@@ -130,6 +130,10 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-responsive-images`](https://github.com/azat-io/postcss-responsive-images)   |   9|
 |   |    [`postcss-tatar-stylesheets`](https://github.com/azat-io/postcss-tatar-stylesheets)   |   38|
 |   |    [`postcss-roman-numerals`](https://github.com/azat-io/postcss-roman-numerals)   |   3|
+|[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   10|
+|   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-plugins/tree/master/packages/text-transform)   |   0|
+|   |    [`postcss-console`](https://github.com/ezavile/postcss-plugins/tree/master/packages/console)   |   0|
+|   |    [`postcss-token-utility`](https://github.com/ezavile/postcss-plugins/tree/master/packages/token-utility)   |   0|
 |[GitScrum](https://github.com/GitScrum)   |    [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)   |   1|
 |   |    [`postcss-at-rules-variables`](https://github.com/GitScrum/postcss-at-rules-variables)   |   47|
 |   |    [`postcss-attribute-selector-prefix`](https://github.com/GitScrum/postcss-attribute-selector-prefix)   |   2|
@@ -166,9 +170,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[archana-s](https://github.com/archana-s)   |    [`postcss-flexbox`](https://github.com/archana-s/postcss-flexbox)   |   81|
 |   |    [`postcss-speech-bubble`](https://github.com/archana-s/postcss-speech-bubble)   |   12|
 |   |    [`postcss-colorfix`](https://github.com/archana-s/postcss-colorfix)   |   5|
-|[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   10|
-|   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-plugins/tree/master/packages/text-transform)   |   0|
-|   |    [`postcss-console`](https://github.com/ezavile/postcss-plugins/tree/master/packages/console)   |   0|
 |[komachi](https://github.com/komachi)   |    [`usedcss`](https://github.com/komachi/usedcss)   |   47|
 |   |    [`postcss-clip-path-polyfill`](https://github.com/komachi/postcss-clip-path-polyfill)   |   22|
 |   |    [`postcss-dialog-polyfill`](https://github.com/komachi/postcss-dialog-polyfill)   |   3|

@@ -5083,5 +5083,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-token-utility",
+    "description": "A PostCSS plugin to generate design tokens utilities.",
+    "author": "ezavile",
+    "url": "https://github.com/ezavile/postcss-plugins/tree/master/packages/token-utility",
+    "tags": [
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
