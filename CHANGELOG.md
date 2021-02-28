@@ -1,3 +1,6 @@
+## v1.15.3
+- Adds [`postcss-token-utility`](https://github.com/ezavile/postcss-plugins/tree/master/packages/token-utility)
+
 ## v1.15.2
 - Adds [`postcss-prefixwrap`](https://github.com/dbtedman/postcss-prefixwrap)
 
