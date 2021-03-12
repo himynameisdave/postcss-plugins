@@ -5091,6 +5091,19 @@
     "url": "https://github.com/ezavile/postcss-plugins/tree/master/packages/token-utility",
     "tags": [
       "other",
+      "shortcuts",
+      "color"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-button-builder",
+    "description": "A PostCSS plugin to generate custom button styles from given colors.",
+    "author": "ezavile",
+    "url": "https://github.com/ezavile/postcss-plugins/tree/master/packages/button-builder",
+    "tags": [
+      "color",
+      "other",
       "shortcuts"
     ],
     "stars": 0
