@@ -118,11 +118,11 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-negative-padding`](https://github.com/limitlessloop/postcss-negative-padding)   |   4|
 |   |    [`postcss-proportional-spacing`](https://github.com/limitlessloop/postcss-proportional-spacing)   |   1|
 |   |    [`postcss-exact-width`](https://github.com/limitlessloop/postcss-exact-width)   |   1|
-|[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   10|
-|   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-plugins/tree/master/packages/text-transform)   |   0|
-|   |    [`postcss-console`](https://github.com/ezavile/postcss-plugins/tree/master/packages/console)   |   0|
-|   |    [`postcss-token-utility`](https://github.com/ezavile/postcss-plugins/tree/master/packages/token-utility)   |   0|
-|   |    [`postcss-button-builder`](https://github.com/ezavile/postcss-plugins/tree/master/packages/button-builder)   |   0|
+|[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-plugins/tree/master/packages/typescript-css)   |   9|
+|   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-plugins/tree/master/packages/text-transform)   |   9|
+|   |    [`postcss-console`](https://github.com/ezavile/postcss-plugins/tree/master/packages/console)   |   9|
+|   |    [`postcss-token-utility`](https://github.com/ezavile/postcss-plugins/tree/master/packages/token-utility)   |   9|
+|   |    [`postcss-button-builder`](https://github.com/ezavile/postcss-plugins/tree/master/packages/button-builder)   |   9|
 |[admdh](https://github.com/admdh)   |    [`postcss-simple-grid`](https://github.com/admdh/postcss-simple-grid)   |   18|
 |   |    [`postcss-high-contrast`](https://github.com/admdh/postcss-high-contrast)   |   108|
 |   |    [`postcss-increase-text-sizes`](https://github.com/admdh/postcss-increase-text-sizes)   |   16|
