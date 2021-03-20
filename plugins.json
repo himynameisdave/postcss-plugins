@@ -5107,5 +5107,16 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-d-ts",
+    "description": "generates `.d.ts` declaration for TypeScript `import` from used CSS classes and ids",
+    "author": "askirmas",
+    "url": "https://github.com/askirmas/postcss-d-ts",
+    "tags": [
+      "debug",
+      "other"
+    ],
+    "stars": 0
   }
 ]

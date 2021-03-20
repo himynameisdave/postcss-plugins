@@ -296,6 +296,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[andylbrummer](https://github.com/andylbrummer)   |    [`postcss-subtle`](https://github.com/standardbeagle/postcss-subtle)   |   1|
 |[AoDev](https://github.com/AoDev)   |    [`css-byebye`](https://github.com/AoDev/css-byebye)   |   53|
 |[ariona](https://github.com/ariona)   |    [`postcss-indonesian-stylesheets`](https://github.com/ariona/postcss-indonesian-stylesheets)   |   8|
+|[askirmas](https://github.com/askirmas)   |    [`postcss-d-ts`](https://github.com/askirmas/postcss-d-ts)   |   0|
 |[ausi](https://github.com/ausi)   |    [`cq-prolyfill`](https://github.com/ausi/cq-prolyfill)   |   539|
 |[avanes](https://github.com/avanes)   |    [`postcss-color-alpha`](https://github.com/avanes/postcss-color-alpha)   |   18|
 |[awayken](https://github.com/awayken)   |    [`postcss-placehold`](https://github.com/awayken/postcss-placehold)   |   4|
