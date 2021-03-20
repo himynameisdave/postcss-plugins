@@ -1,3 +1,7 @@
+## v1.15.4
+- Adds [`postcss-button-builder`](https://github.com/ezavile/postcss-plugins/tree/master/packages/button-builder)
+- Adds [`postcss-d-ts`](https://github.com/askirmas/postcss-d-ts)
+
 ## v1.15.3
 - Adds [`postcss-token-utility`](https://github.com/ezavile/postcss-plugins/tree/master/packages/token-utility)
 
