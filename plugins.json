@@ -5118,5 +5118,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-easy-z",
+    "description": "to organize z-indices",
+    "author": "nekitk",
+    "url": "https://github.com/CSSSR/postcss-easy-z",
+    "tags": [
+      "extensions",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
