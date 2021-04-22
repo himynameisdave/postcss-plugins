@@ -5118,5 +5118,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-prefix-keyframe",
+    "description": "for prefixing keyframes and animation names",
+    "author": "VitaliyR",
+    "url": "https://github.com/VitaliyR/postcss-prefix-keyframe",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
