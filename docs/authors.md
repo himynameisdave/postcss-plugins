@@ -414,6 +414,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[MohammadYounes](https://github.com/MohammadYounes)   |    [`rtlcss`](https://github.com/MohammadYounes/rtlcss)   |   1348|
 |[mystrdat](https://github.com/mystrdat)   |    [`postcss-inrule`](https://github.com/salsita/postcss-inrule)   |   8|
 |[naaspati](https://github.com/naaspati)   |    [`jsmath`](https://github.com/naaspati/postcss-jsmath)   |   4|
+|[nekitk](https://github.com/nekitk)   |    [`postcss-easy-z`](https://github.com/CSSSR/postcss-easy-z)   |   0|
 |[nicksheffield](https://github.com/nicksheffield)   |    [`postcss-color-hexa`](https://github.com/nicksheffield/postcss-color-hexa)   |   7|
 |[notacouch](https://github.com/notacouch)   |    [`postcss-mqwidth-to-class`](https://github.com/notacouch/postcss-mqwidth-to-class)   |   6|
 |[nucliweb](https://github.com/nucliweb)   |    [`postcss-magic-animations`](https://github.com/nucliweb/postcss-magic-animations)   |   42|

@@ -5119,13 +5119,23 @@
     ],
     "stars": 0
   },
-  {
     "name": "postcss-multiple-tailwind",
     "description": "to process multiple tailwindcss configs easily.",
     "author": "robbevp",
     "url": "https://github.com/robbevp/postcss-multiple-tailwind",
     "tags": [
       "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-easy-z",
+    "description": "to organize z-indices",
+    "author": "nekitk",
+    "url": "https://github.com/CSSSR/postcss-easy-z",
+    "tags": [
+      "extensions",
+      "shortcuts"
     ],
     "stars": 0
   }
