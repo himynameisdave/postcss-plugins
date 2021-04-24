@@ -416,6 +416,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[MohammadYounes](https://github.com/MohammadYounes)   |    [`rtlcss`](https://github.com/MohammadYounes/rtlcss)   |   1348|
 |[mystrdat](https://github.com/mystrdat)   |    [`postcss-inrule`](https://github.com/salsita/postcss-inrule)   |   8|
 |[naaspati](https://github.com/naaspati)   |    [`jsmath`](https://github.com/naaspati/postcss-jsmath)   |   4|
+|[nekitk](https://github.com/nekitk)   |    [`postcss-easy-z`](https://github.com/CSSSR/postcss-easy-z)   |   0|
 |[nicksheffield](https://github.com/nicksheffield)   |    [`postcss-color-hexa`](https://github.com/nicksheffield/postcss-color-hexa)   |   7|
 |[notacouch](https://github.com/notacouch)   |    [`postcss-mqwidth-to-class`](https://github.com/notacouch/postcss-mqwidth-to-class)   |   6|
 |[nucliweb](https://github.com/nucliweb)   |    [`postcss-magic-animations`](https://github.com/nucliweb/postcss-magic-animations)   |   42|
@@ -430,6 +431,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0|
 |[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   2|
 |[richbachman](https://github.com/richbachman)   |    [`postcss-fontsize`](https://github.com/richbachman/postcss-fontsize)   |   3|
+|[robbevp](https://github.com/robbevp)   |    [`postcss-multiple-tailwind`](https://github.com/robbevp/postcss-multiple-tailwind)   |   0|
 |[robwierzbowski](https://github.com/robwierzbowski)   |    [`pixrem`](https://github.com/robwierzbowski/node-pixrem)   |   200|
 |[rominmx](https://github.com/rominmx)   |    [`postcss-compact-mq`](https://github.com/rominmx/postcss-compact-mq)   |   10|
 |[ronnyamarante](https://github.com/ronnyamarante)   |    [`postcss-selector-prefixer`](https://github.com/ronnyamarante/postcss-selector-prefixer)   |   4|
