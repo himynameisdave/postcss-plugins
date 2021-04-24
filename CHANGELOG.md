@@ -1,3 +1,8 @@
+### v1.15.5
+- Adds [`postcss-multiple-tailwind`](https://github.com/robbevp/postcss-multiple-tailwind)
+- Adds [`postcss-easy-z`](https://github.com/CSSSR/postcss-easy-z)
+- Adds [`postcss-prefix-keyframe`](https://github.com/VitaliyR/postcss-prefix-keyframe)
+
 ## v1.15.4
 - Adds [`postcss-button-builder`](https://github.com/ezavile/postcss-plugins/tree/master/packages/button-builder)
 - Adds [`postcss-d-ts`](https://github.com/askirmas/postcss-d-ts)
