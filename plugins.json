@@ -5118,5 +5118,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-multiple-tailwind",
+    "description": "to process multiple tailwindcss configs easily.",
+    "author": "robbevp",
+    "url": "https://github.com/robbevp/postcss-multiple-tailwind",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
