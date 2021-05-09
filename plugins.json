@@ -5149,5 +5149,19 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-include-media",
+    "description": "Create @media declarations in a clean, dynamic shorthand. Based on SASS mixin include-media format.",
+    "author": "jackmcpickle",
+    "url": "https://github.com/jackmcpickle/postcss-include-media",
+    "tags": [
+      "extensions",
+      "media-queries",
+      "optimizations",
+      "sass",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
