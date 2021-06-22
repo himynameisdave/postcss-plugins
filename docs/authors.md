@@ -348,6 +348,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[DimitrisNL](https://github.com/DimitrisNL)   |    [`postcss-autocorrect`](https://github.com/DimitrisNL/postcss-autocorrect)   |   12|
 |[DongShelton](https://github.com/DongShelton)   |    [`postcss-file`](https://github.com/DongShelton/postcss-file)   |   2|
 |[dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   77|
+|[duoWB](https://github.com/duoWB)   |    [`postcss-delete-duplicate-css`](https://github.com/duoWB/postcss-delete-duplicate-css)   |   0|
 |[dyaa](https://github.com/dyaa)   |    [`PostCSS Egyptian Stylesheets`](https://github.com/dyaa/postcss-egyptian-stylesheets)   |   17|
 |[EdMSL](https://github.com/EdMSL)   |    [`postcss-color-converter`](https://github.com/EdMSL/postcss-color-converter)   |   4|
 |[emero](https://github.com/emero)   |    [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)   |   49|
@@ -453,6 +454,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[smitt04](https://github.com/smitt04)   |    [`postcss-prefix-url`](https://github.com/smitt04/postcss-prefix-url)   |   5|
 |[soul-wish](https://github.com/soul-wish)   |    [`important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)   |   7|
 |[stylelint](https://github.com/stylelint)   |    [`stylelint`](https://github.com/stylelint/stylelint)   |   8714|
+|[supermonkeyz](https://github.com/supermonkeyz)   |    [`postcss-aspect-ratio-property`](https://github.com/supermonkeyz/postcss-aspect-ratio-property)   |   0|
 |[SuperOl3g](https://github.com/SuperOl3g)   |    [`postcss-image-set-polyfill`](https://github.com/SuperOl3g/postcss-image-set-polyfill)   |   45|
 |[sylvainbaronnet](https://github.com/sylvainbaronnet)   |    [`postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)   |   5|
 |[sylvainpolletvillard](https://github.com/sylvainpolletvillard)   |    [`grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)   |   1274|

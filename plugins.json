@@ -5163,5 +5163,27 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-aspect-ratio-property",
+    "description": "Transforms  future feature aspect-ratio property available now",
+    "author": "supermonkeyz",
+    "url": "https://github.com/supermonkeyz/postcss-aspect-ratio-property",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-delete-duplicate-css",
+    "description": "plugin for delete duplicate css in the file.",
+    "author": "duoWB",
+    "url": "https://github.com/duoWB/postcss-delete-duplicate-css",
+    "tags": [
+      "fun",
+      "optimizations",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
