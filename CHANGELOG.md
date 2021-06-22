@@ -1,3 +1,6 @@
+### v1.15.6
+- Adds [`postcss-include-media`](https://github.com/jackmcpickle/postcss-include-media)
+
 ### v1.15.5
 - Adds [`postcss-multiple-tailwind`](https://github.com/robbevp/postcss-multiple-tailwind)
 - Adds [`postcss-easy-z`](https://github.com/CSSSR/postcss-easy-z)
