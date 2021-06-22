@@ -454,6 +454,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[smitt04](https://github.com/smitt04)   |    [`postcss-prefix-url`](https://github.com/smitt04/postcss-prefix-url)   |   5|
 |[soul-wish](https://github.com/soul-wish)   |    [`important-shorthand`](https://github.com/soul-wish/postcss-important-shorthand)   |   7|
 |[stylelint](https://github.com/stylelint)   |    [`stylelint`](https://github.com/stylelint/stylelint)   |   8669|
+|[supermonkeyz](https://github.com/supermonkeyz)   |    [`postcss-aspect-ratio-property`](https://github.com/supermonkeyz/postcss-aspect-ratio-property)   |   0|
 |[SuperOl3g](https://github.com/SuperOl3g)   |    [`postcss-image-set-polyfill`](https://github.com/SuperOl3g/postcss-image-set-polyfill)   |   45|
 |[sylvainbaronnet](https://github.com/sylvainbaronnet)   |    [`postcss-position-alt`](https://github.com/sylvainbaronnet/postcss-position-alt)   |   5|
 |[sylvainpolletvillard](https://github.com/sylvainpolletvillard)   |    [`grid-kiss`](https://github.com/sylvainpolletvillard/postcss-grid-kiss)   |   1273|
