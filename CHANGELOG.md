@@ -1,3 +1,8 @@
+### v1.15.7
+- Adds [`postcss-aspect-ratio-property`](https://github.com/supermonkeyz/postcss-aspect-ratio-property)
+- Adds [`postcss-delete-duplicate-css`](https://github.com/duoWB/postcss-delete-duplicate-css)
+- Adds [`postcss-variable-compress`](https://github.com/navanshu/postcss-variable-compress)
+
 ### v1.15.6
 - Adds [`postcss-include-media`](https://github.com/jackmcpickle/postcss-include-media)
 
