@@ -5163,5 +5163,15 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-aspect-ratio-property",
+    "description": "Transforms  future feature aspect-ratio property available now",
+    "author": "supermonkeyz",
+    "url": "https://github.com/supermonkeyz/postcss-aspect-ratio-property",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
   }
 ]
