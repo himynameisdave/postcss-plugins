@@ -1,0 +1,147 @@
+html{
+    font-family: 'Open Sans', sans-serif;
+}
+body{
+    text-align: center;
+}
+h1{
+    font-size: 60px;
+}
+h2{
+    font-size: 2.5em;
+    text-align: center;
+    font-size: 40px;
+}
+h3{
+    font-size: 2em;
+}
+h4{
+    font-size: 1.5em;
+}
+h5{
+    font-size: 1em;
+}
+img{
+    max-width: 100%;
+}
+.logo{
+    padding: 30px;
+    display: inline-block;
+}
+nav {
+    display: block;
+    width: 100%;
+    position: sticky;
+    top: 5px;
+    background-color: white;
+    z-index: 9999;
+    overflow: hidden;
+}
+nav div.logo{
+    float: left;
+}
+nav ul{
+    float:right;
+}
+nav {
+    overflow: visible;
+}
+nav ul>li{
+    float: left;
+    list-style-type: none;
+    padding-left: 30px;
+    text-transform: uppercase;
+    font-weight: bold;
+    padding-top: 20px;
+}
+nav ul>li:hover{
+    color: orange;
+}
+
+.logo span{
+    font-size: 30px;
+    font-weight: 900;
+    color: #220d3a;
+    vertical-align: middle;
+    text-transform: uppercase;
+    margin-left: 3px;
+    vertical-align: top;
+
+}
+header{
+    position: relative;
+}
+header h1 {
+    position: absolute;
+    color: whitesmoke;
+    top: 50px;
+    text-align:center;
+    display: block;
+    width: 100%;
+    font-size: 50px;
+    z-index: 999;
+}
+header p{
+    position: absolute;
+    color: hsl(44, 83%, 69%);
+    top: 150px;
+    text-align:center;
+    display: block;
+    padding: 15px 150px;
+}
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+
+}
+*{
+    box-sizing: border-box;
+}
+.flex-container img{
+    width: 33.33%;
+    padding: 10px;
+ }
+    
+.grid-container1, .grid-container2{
+        display: grid;
+        grid-template-columns: 1fr 1fr 1fr;
+        column-gap: 15px;
+
+    }
+.teacher{
+        background-color:hsl(36, 13%, 85%);
+        max-width: ;
+    
+    }
+.money{
+        background-color: rgb(236, 197, 20);
+        color: whitesmoke;
+
+    }
+.flex-container >.teacher{
+        text-align:center;
+        max-width: 300px;
+    }
+marquee{
+    max-width: 500px;
+}
+@media (max-width: 800px) {
+h2 {color: orange;}  
+nav ul>li{
+    float: none;
+}
+} 
+@media (max-width:1200px) {
+    h1{
+        font-size: 5vw;
+    }
+}
+@media (max-width:1000px) {
+    header p{
+        display: none;
+    }
+}
+.carouselId{
+    display: inline-block;
+    font-size: 1rem;
+}
