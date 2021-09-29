@@ -1,3 +1,7 @@
+### v1.15.8
+- Adds [`postcss-vwh`](https://github.com/gVguy/postcss-vwh)
+- Dependabot fix ([#323](https://github.com/himynameisdave/postcss-plugins/pull/323))
+
 ### v1.15.7
 - Adds [`postcss-aspect-ratio-property`](https://github.com/supermonkeyz/postcss-aspect-ratio-property)
 - Adds [`postcss-delete-duplicate-css`](https://github.com/duoWB/postcss-delete-duplicate-css)
