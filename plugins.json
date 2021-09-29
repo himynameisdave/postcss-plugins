@@ -5195,5 +5195,19 @@
       "optimizations"
     ],
     "stars": 10
+  },
+  {
+    "name": "postcss-vwh",
+    "description": "adds support for vwh unit",
+    "author": "gVguy",
+    "url": "https://github.com/gVguy/postcss-vwh",
+    "tags": [
+      "extensions",
+      "fonts",
+      "media-queries",
+      "optimizations",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
