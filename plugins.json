@@ -5209,5 +5209,19 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "at-rule-packer",
+    "description": "Merge media queries (@media), @supports, and other duplicate At-rules together under a single block.",
+    "url": "https://github.com/soluml/at-rule-packer",
+    "tags": [
+      "at-rule",
+      "at-rules",
+      "media query",
+      "media-queries",
+      "optimizations"
+    ],
+    "author": "soluml",
+    "stars": 1
   }
 ]
