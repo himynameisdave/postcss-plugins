@@ -5211,17 +5211,24 @@
     "stars": 0
   },
   {
+    "name": "postcss-plugin-border-1px",
+    "description": "plugin to resolve 1px border in mobile app",
+    "author": "JoeWrights",
+    "url": "https://github.com/JoeWrights/postcss-plugin-border-1px",
+    "tags": [
+      "other"
+    ],
+    "stars": 6
+  },
+  {
     "name": "at-rule-packer",
     "url": "https://github.com/soluml/at-rule-packer",
     "description": "Merge media queries (@media), @supports, and other duplicate At-rules together under a single block.",
+    "author": "soluml", 
     "tags": [
-      "at-rule",
-      "at-rules",
-      "media query",
       "media-queries",
       "optimizations"
     ],
-    "author": "soluml",
-    "stars": 6
+    "stars": 0
   }
 ]
