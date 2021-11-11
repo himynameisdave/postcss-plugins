@@ -348,6 +348,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[DimitrisNL](https://github.com/DimitrisNL)   |    [`postcss-autocorrect`](https://github.com/DimitrisNL/postcss-autocorrect)   |   12|
 |[DongShelton](https://github.com/DongShelton)   |    [`postcss-file`](https://github.com/DongShelton/postcss-file)   |   2|
 |[dp-lewis](https://github.com/dp-lewis)   |    [`postcss-australian-stylesheets`](https://github.com/dp-lewis/postcss-australian-stylesheets)   |   79|
+|[Dreamseer](https://github.com/Dreamseer)   |    [`postcss-opacity-percentage`](https://github.com/Dreamseer/postcss-opacity-percentage)   |   0|
 |[duoWB](https://github.com/duoWB)   |    [`postcss-delete-duplicate-css`](https://github.com/duoWB/postcss-delete-duplicate-css)   |   0|
 |[dyaa](https://github.com/dyaa)   |    [`PostCSS Egyptian Stylesheets`](https://github.com/dyaa/postcss-egyptian-stylesheets)   |   17|
 |[EdMSL](https://github.com/EdMSL)   |    [`postcss-color-converter`](https://github.com/EdMSL/postcss-color-converter)   |   4|

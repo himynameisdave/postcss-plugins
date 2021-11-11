@@ -5241,5 +5241,16 @@
       "other"
     ], 
     "stars": 0
+  },
+  {
+    "name": "postcss-opacity-percentage",
+    "description": "that transforms percentage-based opacity values to more compatible floating-point values.",
+    "author": "Dreamseer",
+    "url": "https://github.com/Dreamseer/postcss-opacity-percentage",
+    "tags": [
+      "fallbacks",
+      "future"
+    ],
+    "stars": 0
   }
 ]
