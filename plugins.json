@@ -5230,5 +5230,16 @@
       "optimizations"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-set-specificity",
+    "description": "that makes the cascade more intuitive by setting selector specificities.",
+    "author": "wlib",
+    "url": "https://github.com/wlib/postcss-set-specificity",
+    "tags": [
+      "extensions",
+      "other"
+    ], 
+    "stars": 0
   }
 ]
