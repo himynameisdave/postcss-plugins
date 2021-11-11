@@ -5209,5 +5209,15 @@
       "shortcuts"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-plugin-border-1px",
+    "description": "plugin to resolve 1px border in mobile app",
+    "author": "JoeWrights",
+    "url": "https://github.com/JoeWrights/postcss-plugin-border-1px",
+    "tags": [
+      "other"
+    ],
+    "stars": 6
   }
 ]
