@@ -1,3 +1,9 @@
+### v1.15.9
+- Adds [`postcss-plugin-border-1px`](https://github.com/JoeWrights/postcss-plugin-border-1px)
+- Adds [`postcss-at-rule-packer`](https://github.com/soluml/at-rule-packer)
+- Adds [`postcss-set-specificity`](https://github.com/wlib/postcss-set-specificity)
+- Adds [`postcss-opacity-percentage`](https://github.com/Dreamseer/postcss-opacity-percentage)
+
 ### v1.15.8
 - Adds [`postcss-vwh`](https://github.com/gVguy/postcss-vwh)
 - Dependabot fix ([#323](https://github.com/himynameisdave/postcss-plugins/pull/323))
