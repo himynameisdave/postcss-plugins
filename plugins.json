@@ -5252,5 +5252,18 @@
       "future"
     ],
     "stars": 11
+  },
+  {
+    "name": "postcss-peeling",
+    "description": "skin changing plug-in for color replacement combined with CSS variables",
+    "author": "juln",
+    "url": "https://github.com/z-juln/postcss-peeling",
+    "tags": [
+      "color",
+      "extensions",
+      "fun",
+      "other"
+    ],
+    "stars": 0
   }
 ]

@@ -388,6 +388,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[jonathanong](https://github.com/jonathanong)   |    [`postcss-prefix-selector`](https://github.com/jonathanong/postcss-prefix-selector)   |   98|
 |[jpgorman](https://github.com/jpgorman)   |    [`postcss-invert-keyframes`](https://github.com/jpgorman/postcss-invert-keyframes)   |   3|
 |[juanfran](https://github.com/juanfran)   |    [`postcss-trolling`](https://github.com/juanfran/postcss-trolling)   |   141|
+|[juln](https://github.com/juln)   |    [`postcss-peeling`](https://github.com/z-juln/postcss-peeling)   |   0|
 |[justim](https://github.com/justim)   |    [`postcss-svg-fallback`](https://github.com/justim/postcss-svg-fallback)   |   40|
 |[keukenrolletje](https://github.com/keukenrolletje)   |    [`postcss-colorstring`](https://github.com/keukenrolletje/postcss-colorstring)   |   2|
 |[kezzbracey](https://github.com/kezzbracey)   |    [`postcss-bem`](https://github.com/kezzbracey/postcss-bem)   |   89|
