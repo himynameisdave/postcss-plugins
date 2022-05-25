@@ -5265,5 +5265,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "@lehoczky/postcss-fluid",
+    "description": "that makes it easier to work with fluid css values.",
+    "author": "Lehoczky",
+    "url": "https://github.com/Lehoczky/postcss-fluid",
+    "tags": [
+      "extensions",
+      "fonts"
+    ],
+    "stars": 0
   }
 ]
