@@ -407,6 +407,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[liquidlight](https://github.com/liquidlight)   |    [`postcss-pseudo-content-insert`](https://github.com/liquidlight/postcss-pseudo-content-insert)   |   15|
 |[longdog](https://github.com/longdog)   |    [`postcss-color-pantone`](https://github.com/longdog/postcss-color-pantone)   |   15|
 |[lordgiotto](https://github.com/lordgiotto)   |    [`postcss-oldschool-grid`](https://github.com/lordgiotto/postcss-oldschool-grid)   |   3|
+|[luckymore](https://github.com/luckymore)   |    [`postcss-transform-css-var`](https://github.com/luckymore/postcss-transform-css-var.git)   |   0|
 |[luisrudge](https://github.com/luisrudge)   |    [`postcss-flexbugs-fixes`](https://github.com/luisrudge/postcss-flexbugs-fixes)   |   741|
 |[lukelarsen](https://github.com/lukelarsen)   |    [`postcss-hidden`](https://github.com/lukelarsen/postcss-hidden)   |   12|
 |[lutien](https://github.com/lutien)   |    [`postcss-extract-value`](https://github.com/lutien/postcss-extract-value)   |   45|

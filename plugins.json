@@ -5265,5 +5265,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-transform-css-var",
+    "description": "that transforms `css var` to `less var`.",
+    "author": "luckymore",
+    "url": "https://github.com/luckymore/postcss-transform-css-var.git",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
   }
 ]
