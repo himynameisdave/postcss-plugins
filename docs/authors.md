@@ -297,6 +297,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[andrasna](https://github.com/andrasna)   |    [`postcss-baseline-grid-overlay`](https://github.com/andrasna/postcss-baseline-grid-overlay)   |   5|
 |[andylbrummer](https://github.com/andylbrummer)   |    [`postcss-subtle`](https://github.com/standardbeagle/postcss-subtle)   |   1|
 |[AoDev](https://github.com/AoDev)   |    [`css-byebye`](https://github.com/AoDev/css-byebye)   |   56|
+|[ardalanamini](https://github.com/ardalanamini)   |    [`minicss`](https://github.com/minicss/postcss)   |   0|
 |[ariona](https://github.com/ariona)   |    [`postcss-indonesian-stylesheets`](https://github.com/ariona/postcss-indonesian-stylesheets)   |   8|
 |[askirmas](https://github.com/askirmas)   |    [`postcss-d-ts`](https://github.com/askirmas/postcss-d-ts)   |   22|
 |[ausi](https://github.com/ausi)   |    [`cq-prolyfill`](https://github.com/ausi/cq-prolyfill)   |   553|
