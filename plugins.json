@@ -5265,5 +5265,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "minicss",
+    "description": "that minifies your CSS by renaming classes, variables, etc.",
+    "author": "ardalanamini",
+    "url": "https://github.com/minicss/postcss",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
