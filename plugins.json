@@ -5265,5 +5265,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-hocus-pocus",
+    "description": "Provides shorthand to combine :hover and :focus using :hocus, and add :active using :pocus! Forked from postcss-hocus.",
+    "author": "cadomac",
+    "url": "https://github.com/cadomac/postcss-hocus-pocus",
+    "tags": [
+      "fun",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
