@@ -5265,5 +5265,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-px-to-clamp",
+    "description": "that converts px to clamp(clamp(min, val, max) or min(val, max) or max(val, min) or vw)",
+    "author": "wangguangyou",
+    "url": "https://github.com/wangguangyou/postcss-px-to-clamp",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
