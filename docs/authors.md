@@ -436,6 +436,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[polemius](https://github.com/polemius)   |    [`postcss-clamp`](https://github.com/polemius/postcss-clamp)   |   25|
 |[Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   4|
 |[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0|
+|[redonkulus](https://github.com/redonkulus)   |    [`postcss-atomizer`](https://github.com/acss-io/atomizer/tree/main/packages/postcss-atomizer)   |   0|
 |[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   2|
 |[richbachman](https://github.com/richbachman)   |    [`postcss-fontsize`](https://github.com/richbachman/postcss-fontsize)   |   3|
 |[robbevp](https://github.com/robbevp)   |    [`postcss-multiple-tailwind`](https://github.com/robbevp/postcss-multiple-tailwind)   |   5|

@@ -5265,5 +5265,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-atomizer",
+    "description": "A plugin to parse Atomizer classes from content",
+    "author": "redonkulus",
+    "url": "https://github.com/acss-io/atomizer/tree/main/packages/postcss-atomizer",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
