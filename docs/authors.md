@@ -294,6 +294,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[alex499](https://github.com/alex499)   |    [`postcss-image-set`](https://github.com/alex499/postcss-image-set)   |   20|
 |[alexandr-solovyov](https://github.com/alexandr-solovyov)   |    [`postcss-responsive-properties`](https://github.com/alexandr-solovyov/postcss-responsive-properties)   |   12|
 |[anandthakker](https://github.com/anandthakker)   |    [`doiuse`](https://github.com/anandthakker/doiuse)   |   1007|
+|[anc95](https://github.com/anc95)   |    [`postcss-flex-value`](https://github.com/anc95/postcss-flex-value)   |   0|
 |[andrasna](https://github.com/andrasna)   |    [`postcss-baseline-grid-overlay`](https://github.com/andrasna/postcss-baseline-grid-overlay)   |   5|
 |[andylbrummer](https://github.com/andylbrummer)   |    [`postcss-subtle`](https://github.com/standardbeagle/postcss-subtle)   |   1|
 |[AoDev](https://github.com/AoDev)   |    [`css-byebye`](https://github.com/AoDev/css-byebye)   |   56|
@@ -401,6 +402,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[landn172](https://github.com/landn172)   |    [`postcss-rpxtorem`](https://github.com/landn172/postcss-rpxtorem)   |   8|
 |[larsenwork](https://github.com/larsenwork)   |    [`postcss-easing-gradients`](https://github.com/larsenwork/postcss-easing-gradients)   |   756|
 |[laureanoarcanio](https://github.com/laureanoarcanio)   |    [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)   |   16|
+|[Lehoczky](https://github.com/Lehoczky)   |    [`@lehoczky/postcss-fluid`](https://github.com/Lehoczky/postcss-fluid)   |   0|
 |[leodido](https://github.com/leodido)   |    [`postcss-clean`](https://github.com/leodido/postcss-clean)   |   41|
 |[LestaD](https://github.com/LestaD)   |    [`postcss-define-units`](https://github.com/LestaD/postcss-define-units)   |   6|
 |[letsjaam](https://github.com/letsjaam)   |    [`postcss-letter-tracking`](https://github.com/letsjaam/postcss-letter-tracking)   |   2|

@@ -5267,6 +5267,27 @@
     "stars": 0
   },
   {
+    "name": "postcss-flex-value",
+    "description": "A postcss plugin to transform flex value such as \"start\" to \"flex-start\"",
+    "author": "anc95",
+    "url": "https://github.com/anc95/postcss-flex-value",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "@lehoczky/postcss-fluid",
+    "description": "that makes it easier to work with fluid css values.",
+    "author": "Lehoczky",
+    "url": "https://github.com/Lehoczky/postcss-fluid",
+    "tags": [
+      "extensions",
+      "fonts"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-transform-css-var",
     "description": "that transforms `css var` to `less var`.",
     "author": "luckymore",
