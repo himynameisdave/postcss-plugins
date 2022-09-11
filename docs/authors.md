@@ -294,6 +294,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[alex499](https://github.com/alex499)   |    [`postcss-image-set`](https://github.com/alex499/postcss-image-set)   |   20|
 |[alexandr-solovyov](https://github.com/alexandr-solovyov)   |    [`postcss-responsive-properties`](https://github.com/alexandr-solovyov/postcss-responsive-properties)   |   12|
 |[anandthakker](https://github.com/anandthakker)   |    [`doiuse`](https://github.com/anandthakker/doiuse)   |   1007|
+|[anc95](https://github.com/anc95)   |    [`postcss-flex-value`](https://github.com/anc95/postcss-flex-value)   |   0|
 |[andrasna](https://github.com/andrasna)   |    [`postcss-baseline-grid-overlay`](https://github.com/andrasna/postcss-baseline-grid-overlay)   |   5|
 |[andylbrummer](https://github.com/andylbrummer)   |    [`postcss-subtle`](https://github.com/standardbeagle/postcss-subtle)   |   1|
 |[AoDev](https://github.com/AoDev)   |    [`css-byebye`](https://github.com/AoDev/css-byebye)   |   56|
@@ -315,6 +316,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[bmds](https://github.com/bmds)   |    [`postcss-logical-props`](https://github.com/bmds/postcss-logical-props)   |   7|
 |[borodean](https://github.com/borodean)   |    [`postcss-assets`](https://github.com/borodean/postcss-assets)   |   541|
 |[btholt](https://github.com/btholt)   |    [`postcss-colorblind`](https://github.com/btholt/postcss-colorblind)   |   333|
+|[cadomac](https://github.com/cadomac)   |    [`postcss-hocus-pocus`](https://github.com/cadomac/postcss-hocus-pocus)   |   0|
 |[casey6](https://github.com/casey6)   |    [`postcss-redundant-color-vars`](https://github.com/caseyjacobson/postcss-redundant-color-vars)   |   13|
 |[cbas](https://github.com/cbas)   |    [`postcss-imperial`](https://github.com/cbas/postcss-imperial)   |   31|
 |[cbracco](https://github.com/cbracco)   |    [`postcss-remove-root`](https://github.com/cbracco/postcss-remove-root)   |   9|
@@ -401,12 +403,14 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[landn172](https://github.com/landn172)   |    [`postcss-rpxtorem`](https://github.com/landn172/postcss-rpxtorem)   |   8|
 |[larsenwork](https://github.com/larsenwork)   |    [`postcss-easing-gradients`](https://github.com/larsenwork/postcss-easing-gradients)   |   756|
 |[laureanoarcanio](https://github.com/laureanoarcanio)   |    [`postcss-shades-of-gray`](https://github.com/laureanoarcanio/postcss-shades-of-gray)   |   16|
+|[Lehoczky](https://github.com/Lehoczky)   |    [`@lehoczky/postcss-fluid`](https://github.com/Lehoczky/postcss-fluid)   |   0|
 |[leodido](https://github.com/leodido)   |    [`postcss-clean`](https://github.com/leodido/postcss-clean)   |   41|
 |[LestaD](https://github.com/LestaD)   |    [`postcss-define-units`](https://github.com/LestaD/postcss-define-units)   |   6|
 |[letsjaam](https://github.com/letsjaam)   |    [`postcss-letter-tracking`](https://github.com/letsjaam/postcss-letter-tracking)   |   2|
 |[liquidlight](https://github.com/liquidlight)   |    [`postcss-pseudo-content-insert`](https://github.com/liquidlight/postcss-pseudo-content-insert)   |   15|
 |[longdog](https://github.com/longdog)   |    [`postcss-color-pantone`](https://github.com/longdog/postcss-color-pantone)   |   15|
 |[lordgiotto](https://github.com/lordgiotto)   |    [`postcss-oldschool-grid`](https://github.com/lordgiotto/postcss-oldschool-grid)   |   3|
+|[luckymore](https://github.com/luckymore)   |    [`postcss-transform-css-var`](https://github.com/luckymore/postcss-transform-css-var.git)   |   0|
 |[luisrudge](https://github.com/luisrudge)   |    [`postcss-flexbugs-fixes`](https://github.com/luisrudge/postcss-flexbugs-fixes)   |   741|
 |[lukelarsen](https://github.com/lukelarsen)   |    [`postcss-hidden`](https://github.com/lukelarsen/postcss-hidden)   |   12|
 |[lutien](https://github.com/lutien)   |    [`postcss-extract-value`](https://github.com/lutien/postcss-extract-value)   |   45|
