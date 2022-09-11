@@ -5267,6 +5267,58 @@
     "stars": 0
   },
   {
+    "name": "postcss-transform-css-var",
+    "description": "that transforms `css var` to `less var`.",
+    "author": "luckymore",
+    "url": "https://github.com/luckymore/postcss-transform-css-var",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "@lehoczky/postcss-fluid",
+    "description": "that makes it easier to work with fluid css values.",
+    "author": "Lehoczky",
+    "url": "https://github.com/Lehoczky/postcss-fluid",
+    "tags": [
+      "extensions",
+      "fonts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-flex-value",
+    "description": "A postcss plugin to transform flex value such as \"start\" to \"flex-start\"",
+    "author": "anc95",
+    "url": "https://github.com/anc95/postcss-flex-value",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-hocus-pocus",
+    "description": "Provides shorthand to combine :hover and :focus using :hocus, and add :active using :pocus! Forked from postcss-hocus.",
+    "author": "cadomac",
+    "url": "https://github.com/cadomac/postcss-hocus-pocus",
+    "tags": [
+      "fun",
+      "shortcuts"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-px-to-clamp",
+    "description": "that converts px to clamp(clamp(min, val, max) or min(val, max) or max(val, min) or vw)",
+    "author": "wangguangyou",
+    "url": "https://github.com/wangguangyou/postcss-px-to-clamp",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
+  },
+  {
     "name": "postcss-atomizer",
     "description": "A plugin to parse Atomizer classes from content",
     "author": "redonkulus",
