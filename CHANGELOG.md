@@ -1,3 +1,11 @@
+### v1.15.10
+- Adds [`postcss-flex-value`](https://github.com/anc95/postcss-flex-value)
+- Adds [`@lehoczky/postcss-fluid`](https://github.com/Lehoczky/postcss-fluid)
+- Adds [`postcss-transform-css-var`](https://github.com/luckymore/postcss-transform-css-var)
+- Adds [`postcss-hocus-pocus`](https://github.com/cadomac/postcss-hocus-pocus)
+- Adds [`postcss-px-to-clamp`](https://github.com/wangguangyou/postcss-px-to-clamp)
+- Adds [`postcss-atomizer`](https://github.com/acss-io/atomizer/tree/main/packages/postcss-atomizer)
+
 ### v1.15.9
 - Adds [`postcss-plugin-border-1px`](https://github.com/JoeWrights/postcss-plugin-border-1px)
 - Adds [`postcss-at-rule-packer`](https://github.com/soluml/at-rule-packer)
