@@ -118,6 +118,11 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-negative-padding`](https://github.com/limitlessloop/postcss-negative-padding)   |   4|
 |   |    [`postcss-proportional-spacing`](https://github.com/limitlessloop/postcss-proportional-spacing)   |   1|
 |   |    [`postcss-exact-width`](https://github.com/limitlessloop/postcss-exact-width)   |   1|
+|[azat-io](https://github.com/azat-io)   |    [`postcss-instagram`](https://github.com/azat-io/postcss-instagram)   |   118|
+|   |    [`postcss-responsive-images`](https://github.com/azat-io/postcss-responsive-images)   |   0|
+|   |    [`postcss-tatar-stylesheets`](https://github.com/azat-io/postcss-tatar-stylesheets)   |   40|
+|   |    [`postcss-roman-numerals`](https://github.com/azat-io/postcss-roman-numerals)   |   3|
+|   |    [`postcss-responsive`](https://github.com/azat-io/postcss-responsive)   |   0|
 |[ezavile](https://github.com/ezavile)   |    [`postcss-typescript-css`](https://github.com/ezavile/postcss-typescript-css)   |   10|
 |   |    [`postcss-text-transform`](https://github.com/ezavile/postcss-plugins/tree/master/packages/text-transform)   |   0|
 |   |    [`postcss-console`](https://github.com/ezavile/postcss-plugins/tree/master/packages/console)   |   0|
@@ -131,10 +136,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-functions`](https://github.com/andyjansson/postcss-functions)   |   205|
 |   |    [`postcss-sassy-mixins`](https://github.com/andyjansson/postcss-sassy-mixins)   |   36|
 |   |    [`postcss-grid`](https://github.com/andyjansson/postcss-grid)   |   71|
-|[azat-io](https://github.com/azat-io)   |    [`postcss-instagram`](https://github.com/azat-io/postcss-instagram)   |   118|
-|   |    [`postcss-responsive-images`](https://github.com/azat-io/postcss-responsive-images)   |   0|
-|   |    [`postcss-tatar-stylesheets`](https://github.com/azat-io/postcss-tatar-stylesheets)   |   40|
-|   |    [`postcss-roman-numerals`](https://github.com/azat-io/postcss-roman-numerals)   |   3|
 |[GitScrum](https://github.com/GitScrum)   |    [`postcss-for-variables`](https://github.com/GitScrum/postcss-for-variables)   |   1|
 |   |    [`postcss-at-rules-variables`](https://github.com/GitScrum/postcss-at-rules-variables)   |   59|
 |   |    [`postcss-attribute-selector-prefix`](https://github.com/GitScrum/postcss-attribute-selector-prefix)   |   3|
