@@ -5327,5 +5327,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-responsive",
+    "description": "that improves developer experience of responsive design",
+    "author": "azat-io",
+    "url": "https://github.com/azat-io/postcss-responsive",
+    "tags": [
+      "fonts",
+      "media-queries"
+    ],
+    "stars": 0
   }
 ]
