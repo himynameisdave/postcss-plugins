@@ -5330,7 +5330,7 @@
   },
   {
     "name": "postcss-pxrem-function",
-    "description": "that transforms the pxRem() function into rem values.",
+    "description": "A plugin that transforms the pxRem() function into rem values.",
     "author": "AlexanderMar21",
     "url": "https://github.com/AlexanderMar21/postcss-pxrem-function",
     "tags": [
