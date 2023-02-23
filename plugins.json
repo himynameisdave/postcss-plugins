@@ -5327,5 +5327,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-ukrainian-stylesheets",
+    "description": "for writing Ukrainian Style Sheets",
+    "author": "portikM",
+    "url": "https://github.com/portikM/postcss-ukrainian-stylesheets",
+    "tags": [
+      "fun"
+    ],
+    "stars": 0
   }
 ]
