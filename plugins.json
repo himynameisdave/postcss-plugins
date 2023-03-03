@@ -5327,5 +5327,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "PostCSS pseudo shorthand",
+    "description": "postcss-pseudo-shorthand",
+    "author": "jhthorsen",
+    "url": "https://github.com/jhthorsen/postcss-pseudo-shorthand",
+    "tags": [
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]

@@ -383,6 +383,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[JasonShin](https://github.com/JasonShin)   |    [`postcss-korean-stylesheets`](https://github.com/JasonShin/postcss-korean-stylesheets)   |   4|
 |[jdsteinbach](https://github.com/jdsteinbach)   |    [`postcss-light-text`](https://github.com/jdsteinbach/postcss-light-text)   |   5|
 |[jelmerdemaat](https://github.com/jelmerdemaat)   |    [`postcss-base64`](https://github.com/jelmerdemaat/postcss-base64)   |   15|
+|[jhthorsen](https://github.com/jhthorsen)   |    [`PostCSS pseudo shorthand`](https://github.com/jhthorsen/postcss-pseudo-shorthand)   |   0|
 |[JLHwung](https://github.com/JLHwung)   |    [`postcss-font-family-system-ui`](https://github.com/JLHwung/postcss-font-family-system-ui)   |   91|
 |[jo-asakura](https://github.com/jo-asakura)   |    [`postcss-neat`](https://github.com/jo-asakura/postcss-neat)   |   89|
 |[JoeCianflone](https://github.com/JoeCianflone)   |    [`postcss-insert`](https://github.com/JoeCianflone/postcss-insert)   |   9|
