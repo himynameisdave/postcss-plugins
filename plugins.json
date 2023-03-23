@@ -5327,5 +5327,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-theme-customization",
+    "description": "A simple way to add the dark mode to your project",
+    "author": "qiuzhengqiang",
+    "url": "https://github.com/qiuzhengqiang/postcss-theme-customization",
+    "tags": [
+      "color"
+    ],
+    "stars": 0
   }
 ]
