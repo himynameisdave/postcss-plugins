@@ -439,6 +439,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[pazams](https://github.com/pazams)   |    [`postcss-scopify`](https://github.com/pazams/postcss-scopify)   |   41|
 |[polemius](https://github.com/polemius)   |    [`postcss-clamp`](https://github.com/polemius/postcss-clamp)   |   28|
 |[Pustur](https://github.com/Pustur)   |    [`postcss-italian-stylesheets`](https://github.com/Pustur/postcss-italian-stylesheets)   |   5|
+|[qiuzhengqiang](https://github.com/qiuzhengqiang)   |    [`postcss-theme-customization`](https://github.com/qiuzhengqiang/postcss-theme-customization)   |   0|
 |[redaxmedia](https://github.com/redaxmedia)   |    [`postcss-harmonize`](https://github.com/redaxmedia/postcss-harmonize)   |   0|
 |[redonkulus](https://github.com/redonkulus)   |    [`postcss-atomizer`](https://github.com/acss-io/atomizer/tree/main/packages/postcss-atomizer)   |   0|
 |[rezoh](https://github.com/rezoh)   |    [`postcss-at-debug`](https://github.com/rezoh/postcss-at-debug)   |   3|
