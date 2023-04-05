@@ -5327,5 +5327,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-fontify",
+    "description": "Plugin for generating font-face declarations from font files in a directory.",
+    "author": "alexsedeke",
+    "url": "https://github.com/studioalex/postcss-fontify",
+    "tags": [
+      "fonts"
+    ],
+    "stars": 0
   }
 ]
