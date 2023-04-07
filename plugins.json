@@ -5327,5 +5327,27 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-color-scheme",
+    "description": "scope rules according to prefers-color-scheme",
+    "author": "vnphanquang",
+    "url": "https://github.com/vnphanquang/postcss-color-scheme",
+    "tags": [
+      "color",
+      "media-queries"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-space-between",
+    "description": "add horizontal or vertical spacing between direct children",
+    "author": "vnphanquang",
+    "url": "https://github.com/vnphanquang/postcss-space-between",
+    "tags": [
+      "other",
+      "shortcuts"
+    ],
+    "stars": 0
   }
 ]
