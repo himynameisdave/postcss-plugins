@@ -5327,5 +5327,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-fontpie",
+    "description": "that optimizes font layout shifts using fontpie.",
+    "author": "TomerAberbach",
+    "url": "https://github.com/TomerAberbach/postcss-fontpie",
+    "tags": [
+      "fonts",
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
