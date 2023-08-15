@@ -415,6 +415,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[lukelarsen](https://github.com/lukelarsen)   |    [`postcss-hidden`](https://github.com/lukelarsen/postcss-hidden)   |   12|
 |[lutien](https://github.com/lutien)   |    [`postcss-extract-value`](https://github.com/lutien/postcss-extract-value)   |   45|
 |[macropodhq](https://github.com/macropodhq)   |    [`postcss-constants`](https://github.com/macropodhq/postcss-constants)   |   73|
+|[makkus183](https://github.com/makkus183)   |    [`postcss-plugin-remove-important`](https://github.com/makkus183/postcss-plugin-remove-important)   |   0|
 |[makotot](https://github.com/makotot)   |    [`postcss-line-height-px-to-unitless`](https://github.com/makotot/postcss-line-height-px-to-unitless)   |   5|
 |[maraisr](https://github.com/maraisr)   |    [`postcss-grouper`](https://github.com/maraisr/postcss-grouper)   |   0|
 |[maykinmedia](https://github.com/maykinmedia)   |    [`postcss-selector-lint`](https://github.com/maykinmedia/postcss-selector-lint)   |   3|
