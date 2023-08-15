@@ -5327,5 +5327,16 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-plugin-remove-important",
+    "description": "that removes all !important CSS qualifiers",
+    "author": "makkus183",
+    "url": "https://github.com/makkus183/postcss-plugin-remove-important",
+    "tags": [
+      "optimizations",
+      "other"
+    ],
+    "stars": 0
   }
 ]
