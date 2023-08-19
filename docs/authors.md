@@ -220,6 +220,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-regexp-detect`](https://github.com/devex-web-frontend/postcss-regexp-detect)   |   6|
 |[dimitrinicolas](https://github.com/dimitrinicolas)   |    [`postcss-inline-media`](https://github.com/dimitrinicolas/postcss-inline-media)   |   47|
 |   |    [`postcss-import-ext-glob`](https://github.com/dimitrinicolas/postcss-import-ext-glob)   |   21|
+|[elchininet](https://github.com/elchininet)   |    [`postcss-rtlcss`](https://github.com/elchininet/postcss-rtlcss)   |   0|
+|   |    [`postcss-comments`](https://github.com/elchininet/postcss-comments)   |   0|
 |[garthdb](https://github.com/garthdb)   |    [`postcss-topdoc`](https://github.com/GarthDB/postcss-topdoc)   |   1|
 |   |    [`postcss-inherit`](https://github.com/GarthDB/postcss-inherit)   |   15|
 |[glebmachine](https://github.com/glebmachine)   |    [`postcss-cachebuster`](https://github.com/glebmachine/postcss-cachebuster)   |   22|
@@ -354,7 +356,6 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[duoWB](https://github.com/duoWB)   |    [`postcss-delete-duplicate-css`](https://github.com/duoWB/postcss-delete-duplicate-css)   |   1|
 |[dyaa](https://github.com/dyaa)   |    [`PostCSS Egyptian Stylesheets`](https://github.com/dyaa/postcss-egyptian-stylesheets)   |   17|
 |[EdMSL](https://github.com/EdMSL)   |    [`postcss-color-converter`](https://github.com/EdMSL/postcss-color-converter)   |   4|
-|[elchininet](https://github.com/elchininet)   |    [`postcss-rtlcss`](https://github.com/elchininet/postcss-rtlcss)   |   0|
 |[emero](https://github.com/emero)   |    [`postcss-polish-stylesheets`](https://github.com/emero/postcss-polish-stylesheets)   |   51|
 |[epeli](https://github.com/epeli)   |    [`postcss-ts-classnames`](https://github.com/epeli/postcss-ts-classnames)   |   49|
 |[eriklharper](https://github.com/eriklharper)   |    [`postcss-nested-import`](https://github.com/eriklharper/postcss-nested-import)   |   15|

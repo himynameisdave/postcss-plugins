@@ -5337,5 +5337,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-comments",
+    "description": "Postcss plugin to prepend or append comments to CSS rules",
+    "author": "elchininet",
+    "url": "https://github.com/elchininet/postcss-comments",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]
