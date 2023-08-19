@@ -5327,5 +5327,25 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-rtlcss",
+    "description": "to create left-to-right (ltr) and right-to-left (rtl) rules in a single CSS file",
+    "author": "elchininet",
+    "url": "https://github.com/elchininet/postcss-rtlcss",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
+  },
+  {
+    "name": "postcss-comments",
+    "description": "Postcss plugin to prepend or append comments to CSS rules",
+    "author": "elchininet",
+    "url": "https://github.com/elchininet/postcss-comments",
+    "tags": [
+      "other"
+    ],
+    "stars": 0
   }
 ]

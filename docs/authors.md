@@ -220,6 +220,8 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |   |    [`postcss-regexp-detect`](https://github.com/devex-web-frontend/postcss-regexp-detect)   |   6|
 |[dimitrinicolas](https://github.com/dimitrinicolas)   |    [`postcss-inline-media`](https://github.com/dimitrinicolas/postcss-inline-media)   |   47|
 |   |    [`postcss-import-ext-glob`](https://github.com/dimitrinicolas/postcss-import-ext-glob)   |   21|
+|[elchininet](https://github.com/elchininet)   |    [`postcss-rtlcss`](https://github.com/elchininet/postcss-rtlcss)   |   0|
+|   |    [`postcss-comments`](https://github.com/elchininet/postcss-comments)   |   0|
 |[garthdb](https://github.com/garthdb)   |    [`postcss-topdoc`](https://github.com/GarthDB/postcss-topdoc)   |   1|
 |   |    [`postcss-inherit`](https://github.com/GarthDB/postcss-inherit)   |   15|
 |[glebmachine](https://github.com/glebmachine)   |    [`postcss-cachebuster`](https://github.com/glebmachine/postcss-cachebuster)   |   22|
