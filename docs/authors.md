@@ -373,6 +373,7 @@ Below is a list of all the wonderful people who make PostCSS plugins.
 |[HashanP](https://github.com/HashanP)   |    [`postcss-spiffing`](https://github.com/HashanP/postcss-spiffing)   |   224|
 |[HoBi](https://github.com/HoBi)   |    [`postcss-czech-stylesheets`](https://github.com/HoBi/postcss-czech-stylesheets)   |   47|
 |[hudochenkov](https://github.com/hudochenkov)   |    [`postcss-sorting`](https://github.com/hudochenkov/postcss-sorting)   |   478|
+|[hwantage](https://github.com/hwantage)   |    [`postcss-delete-duplicate-selector`](https://github.com/hwantage/postcss-delete-duplicate-selector)   |   0|
 |[iahu](https://github.com/iahu)   |    [`postcss-font-normalize`](https://github.com/iahu/postcss-font-normalize)   |   6|
 |[iamstarkov](https://github.com/iamstarkov)   |    [`postcss-color-mix`](https://github.com/iamstarkov/postcss-color-mix)   |   16|
 |[itaoyuta](https://github.com/itaoyuta)   |    [`postcss-selector-replace`](https://github.com/itaoyuta/postcss-selector-replace)   |   6|
