@@ -5327,5 +5327,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "postcss-delete-duplicate-selector",
+    "description": "PostCSS plugin delete duplicate css selector in the file",
+    "author": "hwantage",
+    "url": "https://github.com/hwantage/postcss-delete-duplicate-selector",
+    "tags": [
+      "optimizations"
+    ],
+    "stars": 0
   }
 ]
