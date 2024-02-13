@@ -5327,5 +5327,15 @@
       "other"
     ],
     "stars": 0
+  },
+  {
+    "name": "PostCSS Overflow Fallbacks",
+    "description": "Provides fallbacks for overflow: clip and overflow: overlay",
+    "author": "carlosjeurissen",
+    "url": "https://github.com/carlosjeurissen/postcss-overflow-fallbacks",
+    "tags": [
+      "fallbacks"
+    ],
+    "stars": 0
   }
 ]
